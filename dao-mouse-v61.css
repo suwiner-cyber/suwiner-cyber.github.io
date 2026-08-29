@@ -1,0 +1,31 @@
+/* v6.1 mouse-aware Taoist reaction layer */
+.daoist-stage{--fear-x:0px;--fear-y:0px;--fear-r:0deg;--gaze-x:0px;--gaze-y:0px;--fear:0}
+.daoist-stage>svg{transform-box:fill-box;transform-origin:50% 78%;transition:transform .22s cubic-bezier(.2,.72,.25,1),filter .22s ease;will-change:transform}
+.daoist-stage.dao-mouse-alert>svg{transform:translate3d(var(--fear-x),var(--fear-y),0) rotate(var(--fear-r)) scale(calc(1 - var(--fear)*.018));filter:drop-shadow(0 38px 32px rgba(0,0,0,.48))}
+.daoist-stage.dao-mouse-alert .dao-head{animation:daoMouseHead .58s ease-in-out infinite alternate!important;transform-origin:170px 190px}
+.daoist-stage.dao-mouse-alert .dao-sleeve-left{animation:daoGuardLeft .7s cubic-bezier(.25,.75,.3,1) infinite alternate!important;transform-origin:105px 355px}
+.daoist-stage.dao-mouse-alert .dao-sleeve-right{animation:daoGuardRight .68s cubic-bezier(.25,.75,.3,1) infinite alternate!important;transform-origin:228px 355px}
+.daoist-stage.dao-mouse-alert .dao-robe{animation:daoFearRobe 1.05s ease-in-out infinite alternate!important;transform-origin:170px 470px}
+.daoist-stage.dao-mouse-alert .daoist-glow{opacity:.52;transform:translateX(-50%) scale(.93);transition:.2s ease}
+.daoist-stage.dao-mouse-alert .dao-caption{opacity:.45;transition:.2s ease}
+.daoist-stage.dao-mouse-alert .dao-eye{rx:4.8px;ry:3.3px;transition:rx .16s ease,ry .16s ease}
+.daoist-stage.dao-startled>svg{animation:daoStartle .58s cubic-bezier(.18,.82,.26,1) 1!important}
+.daoist-stage.dao-startled .dao-head{animation:daoStartleHead .58s cubic-bezier(.18,.82,.26,1) 1!important}
+.daoist-stage.dao-startled .dao-sleeve-left{animation:daoStartleArmL .58s cubic-bezier(.18,.82,.26,1) 1!important}
+.daoist-stage.dao-startled .dao-sleeve-right{animation:daoStartleArmR .58s cubic-bezier(.18,.82,.26,1) 1!important}
+.daoist-stage.dao-retreat>svg{transition:transform .62s cubic-bezier(.16,.75,.22,1),filter .45s ease}
+.daoist-scare-bubble{position:absolute;z-index:30;left:50%;top:92px;width:max-content;max-width:200px;padding:8px 11px;border:1px solid rgba(231,190,116,.2);border-radius:12px 12px 12px 4px;background:rgba(14,10,8,.9);backdrop-filter:blur(8px);color:#d5bea0;font-size:10px;line-height:1.55;letter-spacing:.06em;opacity:0;transform:translate(28px,8px) scale(.96);pointer-events:none;transition:.22s ease;box-shadow:0 14px 38px rgba(0,0,0,.28)}
+.daoist-scare-bubble.show{opacity:1;transform:translate(31px,0) scale(1)}
+.daoist-scare-bubble:after{content:"";position:absolute;left:12px;bottom:-6px;width:10px;height:10px;background:rgba(14,10,8,.9);border-left:1px solid rgba(231,190,116,.18);border-bottom:1px solid rgba(231,190,116,.18);transform:rotate(-45deg)}
+.daoist-slot.mouse-near:before{box-shadow:inset 0 0 70px rgba(177,71,47,.025),0 30px 80px rgba(0,0,0,.12)}
+@keyframes daoMouseHead{from{transform:translate(calc(var(--gaze-x)*.25),calc(var(--gaze-y)*.18)) rotate(calc(var(--fear-r)*-.28))}to{transform:translate(calc(var(--gaze-x)*.32),calc(var(--gaze-y)*.22)) rotate(calc(var(--fear-r)*-.38))}}
+@keyframes daoGuardLeft{from{transform:rotate(-1deg)}to{transform:rotate(6deg) translate(4px,-5px)}}
+@keyframes daoGuardRight{from{transform:rotate(1deg)}to{transform:rotate(-8deg) translate(-4px,-9px)}}
+@keyframes daoFearRobe{from{transform:skewX(-.35deg)}to{transform:skewX(.55deg)}}
+@keyframes daoStartle{0%{transform:translate3d(var(--fear-x),var(--fear-y),0) rotate(var(--fear-r)) scale(1)}20%{transform:translate3d(calc(var(--fear-x)*1.8),calc(var(--fear-y) - 8px),0) rotate(calc(var(--fear-r)*1.7)) scale(.965,1.02)}45%{transform:translate3d(calc(var(--fear-x)*1.35),calc(var(--fear-y) + 2px),0) rotate(calc(var(--fear-r)*1.25)) scale(1.012,.986)}72%{transform:translate3d(calc(var(--fear-x)*1.12),var(--fear-y),0) rotate(calc(var(--fear-r)*1.08)) scale(.992,1.005)}100%{transform:translate3d(var(--fear-x),var(--fear-y),0) rotate(var(--fear-r)) scale(1)}}
+@keyframes daoStartleHead{0%{transform:rotate(0)}20%{transform:translateY(-8px) rotate(calc(var(--fear-r)*-.9))}50%{transform:translateY(-2px) rotate(calc(var(--fear-r)*-.45))}100%{transform:rotate(calc(var(--fear-r)*-.28))}}
+@keyframes daoStartleArmL{0%{transform:rotate(0)}24%{transform:rotate(13deg) translate(7px,-13px)}55%{transform:rotate(8deg) translate(4px,-8px)}100%{transform:rotate(3deg)}}
+@keyframes daoStartleArmR{0%{transform:rotate(0)}24%{transform:rotate(-16deg) translate(-8px,-18px)}55%{transform:rotate(-10deg) translate(-5px,-10px)}100%{transform:rotate(-4deg)}}
+@media(max-width:940px){.daoist-scare-bubble{top:78px;max-width:160px;font-size:9px;transform:translate(15px,8px) scale(.96)}.daoist-scare-bubble.show{transform:translate(18px,0) scale(1)}}
+@media(hover:none),(pointer:coarse){.daoist-stage>svg{transition:transform .28s ease}.daoist-scare-bubble{display:none}}
+@media(prefers-reduced-motion:reduce){.daoist-stage>svg,.daoist-stage .dao-head,.daoist-stage .dao-sleeve-left,.daoist-stage .dao-sleeve-right,.daoist-stage .dao-robe{animation:none!important;transition:none!important;transform:none!important}.daoist-scare-bubble{display:none}}
