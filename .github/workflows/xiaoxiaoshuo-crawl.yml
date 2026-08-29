@@ -1,10 +1,13 @@
-name: 小小说中文书库 v6 · 12小时更新
+name: 小小说中文书库 v7 · 8源正文同步
 on:
   workflow_dispatch:
   push:
     paths:
       - 'xiaoxiaoshuo/config/sources.json'
+      - 'xiaoxiaoshuo/tools/crawl_v4.py'
       - 'xiaoxiaoshuo/tools/crawl_six_full.py'
+      - 'xiaoxiaoshuo/tools/normalize_library_ids.py'
+      - 'xiaoxiaoshuo/tools/mirror_v5.py'
       - 'xiaoxiaoshuo/tools/mirror_authorized_extra.py'
       - 'xiaoxiaoshuo/all-catalog.html'
       - 'xiaoxiaoshuo/reader.html'
@@ -16,11 +19,11 @@ permissions:
   contents: write
 
 concurrency:
-  group: xiaoxiaoshuo-v6-main
+  group: xiaoxiaoshuo-v7-main
   cancel-in-progress: true
 
 jobs:
-  crawl-six-full:
+  crawl-all:
     runs-on: ubuntu-latest
     timeout-minutes: 330
     steps:
@@ -32,7 +35,7 @@ jobs:
           python-version: '3.12'
       - run: python -m pip install --disable-pip-version-check beautifulsoup4==4.12.3
 
-      - name: Crawl, mirror and publish in resumable batches
+      - name: Crawl and publish all authorized text sources in batches
         shell: bash
         run: |
           set -e
@@ -40,14 +43,20 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           start=$(date +%s)
           round=1
-          while true; do
-            echo "===== six-site batch $round ====="
-            python xiaoxiaoshuo/tools/crawl_six_full.py --pages-per-source 80
-            python xiaoxiaoshuo/tools/mirror_authorized_extra.py
 
-            git add xiaoxiaoshuo/data/v5
+          # Keep the original two sources advancing too.
+          python xiaoxiaoshuo/tools/crawl_v4.py || true
+
+          while true; do
+            echo "===== eight-source batch $round ====="
+            python xiaoxiaoshuo/tools/crawl_six_full.py --pages-per-source 60
+            python xiaoxiaoshuo/tools/normalize_library_ids.py
+            python xiaoxiaoshuo/tools/mirror_v5.py || true
+            python xiaoxiaoshuo/tools/mirror_authorized_extra.py || true
+
+            git add xiaoxiaoshuo/data/v4 xiaoxiaoshuo/data/v5
             if ! git diff --cached --quiet; then
-              git commit -m "Update six-site crawl batch $round"
+              git commit -m "Update eight-source readable catalog batch $round"
               pushed=no
               for attempt in 1 2 3 4 5; do
                 git fetch origin main
@@ -59,22 +68,15 @@ jobs:
                 sleep $((attempt * 3))
               done
               if [ "$pushed" != "yes" ]; then
-                echo "Unable to publish crawl batch"
+                echo "Unable to publish batch"
                 exit 1
               fi
             fi
 
-            all_done=$(python -c "import json; from pathlib import Path; d=json.loads(Path('xiaoxiaoshuo/data/v5/six_full_status.json').read_text(encoding='utf-8')); print('yes' if d.get('all_done') else 'no')")
-            python -c "import json; from pathlib import Path; d=json.loads(Path('xiaoxiaoshuo/data/v5/six_full_status.json').read_text(encoding='utf-8')); print(json.dumps(d,ensure_ascii=False,indent=2))"
-            if [ "$all_done" = "yes" ]; then
-              echo "All discoverable public pages for the six authorized sources are exhausted."
-              break
-            fi
-
+            all_done=$(python -c "import json; from pathlib import Path; p=Path('xiaoxiaoshuo/data/v5/six_full_status.json'); d=json.loads(p.read_text(encoding='utf-8')) if p.exists() else {}; print('yes' if d.get('all_done') else 'no')")
             now=$(date +%s)
             elapsed=$((now-start))
-            if [ "$elapsed" -ge 15000 ]; then
-              echo "Time budget reached. Current cursor is already published; next 12-hour run resumes here."
+            if [ "$all_done" = "yes" ] || [ "$elapsed" -ge 15000 ]; then
               break
             fi
             round=$((round+1))
