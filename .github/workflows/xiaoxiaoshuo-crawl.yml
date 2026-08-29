@@ -1,4 +1,4 @@
-name: 小小说中文书库 v7 · 8源正文同步
+name: 小小说中文书库 v8 · 纯文本模式
 on:
   workflow_dispatch:
   push:
@@ -9,6 +9,7 @@ on:
       - 'xiaoxiaoshuo/tools/normalize_library_ids.py'
       - 'xiaoxiaoshuo/tools/mirror_v5.py'
       - 'xiaoxiaoshuo/tools/mirror_authorized_extra.py'
+      - 'xiaoxiaoshuo/tools/purge_audio.py'
       - 'xiaoxiaoshuo/all-catalog.html'
       - 'xiaoxiaoshuo/reader.html'
       - '.github/workflows/xiaoxiaoshuo-crawl.yml'
@@ -19,7 +20,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: xiaoxiaoshuo-v7-main
+  group: xiaoxiaoshuo-v8-text-only
   cancel-in-progress: true
 
 jobs:
@@ -35,7 +36,10 @@ jobs:
           python-version: '3.12'
       - run: python -m pip install --disable-pip-version-check beautifulsoup4==4.12.3
 
-      - name: Crawl and publish all authorized text sources in batches
+      - name: Purge existing audio books and resources
+        run: python xiaoxiaoshuo/tools/purge_audio.py
+
+      - name: Crawl and publish text-only authorized sources in batches
         shell: bash
         run: |
           set -e
@@ -44,19 +48,21 @@ jobs:
           start=$(date +%s)
           round=1
 
-          # Keep the original two sources advancing too.
+          # Original text source: ixdzs8 only. itingshu has been removed from sources.json.
           python xiaoxiaoshuo/tools/crawl_v4.py || true
+          python xiaoxiaoshuo/tools/purge_audio.py
 
           while true; do
-            echo "===== eight-source batch $round ====="
+            echo "===== text-only batch $round ====="
             python xiaoxiaoshuo/tools/crawl_six_full.py --pages-per-source 60
             python xiaoxiaoshuo/tools/normalize_library_ids.py
             python xiaoxiaoshuo/tools/mirror_v5.py || true
             python xiaoxiaoshuo/tools/mirror_authorized_extra.py || true
+            python xiaoxiaoshuo/tools/purge_audio.py
 
             git add xiaoxiaoshuo/data/v4 xiaoxiaoshuo/data/v5
             if ! git diff --cached --quiet; then
-              git commit -m "Update eight-source readable catalog batch $round"
+              git commit -m "Update text-only Chinese novel catalog batch $round"
               pushed=no
               for attempt in 1 2 3 4 5; do
                 git fetch origin main
