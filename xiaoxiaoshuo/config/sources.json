@@ -4,24 +4,29 @@
       "name": "爱下电子书",
       "url": "https://ixdzs8.com/",
       "authorized": true,
-      "delay_seconds": 1.0,
-      "max_pages": 80,
+      "delay_seconds": 0.8,
+      "catalog_pages_per_run": 80,
+      "max_pages": 120,
       "max_books": 5000,
       "max_toc_pages": 100,
       "max_chapters": 10000,
-      "note": "用户已确认拥有采集及再分发授权，已启用。"
+      "full_site_mode": true,
+      "note": "用户已确认拥有采集及再分发授权。全站索引采用断点续跑；可公开访问的文本内容按批次镜像，安全验证/受限内容不绕过。"
     },
     {
       "name": "爱听书 / 听书网",
       "url": "https://www.itingshu.net/",
       "authorized": true,
-      "delay_seconds": 1.0,
-      "max_pages": 80,
+      "delay_seconds": 0.8,
+      "catalog_pages_per_run": 100,
+      "max_pages": 120,
       "max_books": 5000,
       "max_toc_pages": 100,
       "max_chapters": 10000,
-      "note": "用户已确认拥有采集及再分发授权，已启用；仍遵守 robots.txt 与站点公开访问限制。"
+      "full_site_mode": true,
+      "metadata_only": true,
+      "note": "用户已确认拥有采集及再分发授权。全站索引采用断点续跑；仅采集公开书目/节目目录元数据，403 或受限音频不绕过。"
     }
   ],
-  "notes": "Only enable authorized=true for websites/content you own, have permission to crawl/redistribute, or that are explicitly licensed."
+  "notes": "Full-site crawling is resumable and rate-limited. Restricted, authenticated, CAPTCHA-protected, paywalled, or otherwise inaccessible content is not bypassed."
 }
