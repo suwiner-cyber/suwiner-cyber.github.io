@@ -10,9 +10,9 @@ from bs4 import BeautifulSoup
 
 ROOT=Path(__file__).resolve().parents[1]
 V5=ROOT/'data'/'v5'; CFG=ROOT/'config'/'sources.json'; OUT=V5/'chapters'; TOC=V5/'toc'; STATE=V5/'universal_mirror_state.json'; ERR=V5/'universal_mirror_errors.json'
-HEAD={'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/139 Safari/537.36','Accept':'text/html,application/xhtml+xml','Accept-Language':'zh-CN,zh;q=0.9','X-XiaoXiaoShuo-Crawler':'authorized-text-mirror/3.0'}
+HEAD={'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/139 Safari/537.36','Accept':'text/html,application/xhtml+xml','Accept-Language':'zh-CN,zh;q=0.9','X-XiaoXiaoShuo-Crawler':'authorized-text-mirror/4.0'}
 CHAPTER_WORD=re.compile(r'^(?:第\s*[0-9一二三四五六七八九十百千万两〇零]+\s*[章节回卷部集]|楔子|序章|前言|后记|尾声|番外|正文)',re.I)
-TOC_WORDS=('目录','章节目录','全部章节','所有章节','查看目录','正文目录','最新章节','章节列表')
+TOC_WORDS=('目录','章节目录','全部章节','所有章节','查看目录','正文目录','最新章节','章节列表','完整目录')
 NEXT_WORDS=('下一页','下页','后一页','更多章节','下一章列表')
 AUDIO_WORDS=('有声','听书','音频','audiobook','audio')
 PROFILES={
@@ -23,6 +23,12 @@ PROFILES={
  'xs8.cn':{'chapter':[r'/(?:chapter|read)/[^?#]+']},
  '1qxs.com':{'chapter':[r'/xs_\d+/\d+/\d+\.html$',r'/xs_\d+/\d+\.html$',r'/chapter/[^?#]+']},
  'zwxiaoshuo.com':{'chapter':[r'/(?:chapter|read)-?\d+.*\.html$',r'/\d+/\d+\.html$']},
+ 'ilwxs.com':{'chapter':[r'^/book/\d+/\d+\.html$',r'^/read/\d+/\d+\.html$'],'book_prefix':r'^/book/(\d+)/'},
+ 'ipaoshubaxs.net':{'chapter':[r'^/book/\d+/\d+\.html$',r'^/\d+/\d+/\d+\.html$',r'^/chapter/\d+\.html$']},
+ 'aaaks.com':{'chapter':[r'^/(?:chapter|read)/\d+/?$',r'^/\d+/\d+\.html$']},
+ '69shuba.com':{'chapter':[r'^/book/\d+/\d+\.html$',r'^/txt/\d+/\d+\.html$'],'book_prefix':r'^/(?:book|txt)/(\d+)/'},
+ 'piaotia.com':{'chapter':[r'^/html/\d+/\d+/\d+\.html$',r'^/book/\d+/\d+\.html$']},
+ 'hetushu.com':{'chapter':[r'^/book/\d+/\d+\.html$'],'book_prefix':r'^/book/(\d+)/'},
 }
 
 def now():return datetime.now(timezone.utc).isoformat(timespec='seconds')
@@ -74,7 +80,7 @@ def same_book_scope(book_url,target,profile):
  rule=profile.get('book_prefix')
  if not rule:return True
  a=re.search(rule,urlparse(book_url).path,re.I);b=re.search(rule,urlparse(target).path,re.I)
- return bool(a and b and a.group(1)==b.group(1))
+ return True if not a else bool(b and a.group(1)==b.group(1))
 def collect_from_page(soup,page_url,book_url,profile,chapters,dirq,seen_dirs):
  for a in soup.find_all('a',href=True):
   target=canon(urljoin(page_url,a.get('href','')));title=clean(a.get_text(' ',strip=True))
@@ -83,15 +89,15 @@ def collect_from_page(soup,page_url,book_url,profile,chapters,dirq,seen_dirs):
    if target not in chapters:chapters[target]=title or f'第{len(chapters)+1}章'
    continue
   low=(title+' '+target).lower()
-  if any(w in title for w in TOC_WORDS) or any(x in low for x in ('catalog','chapterlist','chapters','directory','list')) or title in NEXT_WORDS:
+  if any(w in title for w in TOC_WORDS) or any(x in low for x in ('catalog','chapterlist','chapters','directory','list','allchapter')) or title in NEXT_WORDS:
    if target not in seen_dirs and target not in dirq:dirq.append(target)
 def discover_full_toc(book):
  bid=book.get('id');cached=load(TOC/f'{bid}.json',{}) if bid else {};cached_rows=cached.get('chapters',[])
  u=book.get('source_url','');profile=PROFILES.get(host(u))
  if not u or not profile:return cached_rows
- chapters={x.get('url'):clean(x.get('title')) or f"第{x.get('n',len(chapters)+1)}章" for x in cached_rows if x.get('url')}
+ chapters={x.get('url'):clean(x.get('title')) or f"第{x.get('n',1)}章" for x in cached_rows if x.get('url')}
  dirq=deque([u]);seen_dirs=set();pages=0
- while dirq and pages<20:
+ while dirq and pages<30:
   page=dirq.popleft()
   if page in seen_dirs:continue
   seen_dirs.add(page);pages+=1
@@ -101,9 +107,8 @@ def discover_full_toc(book):
   time.sleep(.25)
  out=[{'n':i+1,'title':title or f'第{i+1}章','url':url} for i,(url,title) in enumerate(chapters.items())]
  def numkey(x):
-  p=urlparse(x['url']).path
-  nums=[int(n) for n in re.findall(r'\d+',p)]
-  return nums[-1] if nums else x['n']
+  nums=[int(n) for n in re.findall(r'\d+',urlparse(x['url']).path)]
+  return tuple(nums[-3:]) if nums else (x['n'],)
  out.sort(key=numkey)
  for i,x in enumerate(out):x['n']=i+1
  if bid:save(TOC/f'{bid}.json',{'book_id':bid,'title':book.get('title',''),'chapters':out,'updated_at':now(),'directory_pages_scanned':pages})
@@ -114,7 +119,7 @@ def extract(u):
  title='';h=s.find('h1') or s.find('h2')
  if h:title=clean(h.get_text(' ',strip=True))
  best=''
- for sel in ('#content','#chaptercontent','.chapter-content','.read-content','.article-content','.novel-content','.content','.text','.txtnav','.read_txt','.yd_text2','article'):
+ for sel in ('#content','#chaptercontent','#chapter-content','.chapter-content','.read-content','.article-content','.novel-content','.content','.text','.txtnav','.read_txt','.yd_text2','.contentbox','.readcontent','article'):
   n=s.select_one(sel)
   if not n:continue
   t='\n'.join(clean(x) for x in n.stripped_strings if clean(x))
@@ -123,7 +128,7 @@ def extract(u):
   candidates=[]
   for n in s.find_all(['div','article','section']):
    t='\n'.join(clean(x) for x in n.stripped_strings if clean(x))
-   if 150<=len(t)<=80000:candidates.append(t)
+   if 150<=len(t)<=100000:candidates.append(t)
   if candidates:best=max(candidates,key=len)
  blockers=('请登录','登录后阅读','VIP章节','付费阅读','验证码','安全验证','APP用户特权','扫码畅读专属内容')
  if any(x in best[:1500] for x in blockers):return title,''
@@ -131,7 +136,7 @@ def extract(u):
 def main():
  OUT.mkdir(parents=True,exist_ok=True);TOC.mkdir(parents=True,exist_ok=True);st=load(STATE,{'books':{}});errs=load(ERR,{'errors':[]}).get('errors',[]);hosts=allowed_hosts();processed=0;added_total=0
  for b in rows():
-  if processed>=24:break
+  if processed>=30:break
   if host(b.get('source_url')) not in hosts or is_audio_book(b):continue
   bid=b.get('id')
   if not bid:continue
@@ -141,7 +146,7 @@ def main():
    errs.append({'time':now(),'book':b.get('title'),'url':b.get('source_url'),'stage':'toc','error':str(e)[:400]});continue
   if not toc:
    bs['error']='no chapter directory found';continue
-  path=OUT/f'{bid}.json';doc=load(path,{'book_id':bid,'title':b.get('title',''),'chapters':[],'complete':False});have={x.get('url') for x in doc.get('chapters',[]) if x.get('url')};start=max(0,int(bs.get('cursor',0)));budget=80;added=0
+  path=OUT/f'{bid}.json';doc=load(path,{'book_id':bid,'title':b.get('title',''),'chapters':[],'complete':False});have={x.get('url') for x in doc.get('chapters',[]) if x.get('url')};start=max(0,int(bs.get('cursor',0)));budget=80
   ordered=toc[start:]+toc[:start]
   for item in ordered:
    if budget<=0:break
@@ -150,9 +155,8 @@ def main():
    try:
     t,c=extract(url)
     if not c:continue
-    doc['chapters'].append({'n':item.get('n'),'title':t or item.get('title'),'url':url,'content':c});have.add(url);added+=1;added_total+=1;budget-=1;time.sleep(.35)
-   except Exception as e:
-    errs.append({'time':now(),'book':b.get('title'),'url':url,'stage':'chapter','error':str(e)[:400]})
+    doc['chapters'].append({'n':item.get('n'),'title':t or item.get('title'),'url':url,'content':c});have.add(url);added_total+=1;budget-=1;time.sleep(.35)
+   except Exception as e:errs.append({'time':now(),'book':b.get('title'),'url':url,'stage':'chapter','error':str(e)[:400]})
   doc['chapters'].sort(key=lambda x:int(x.get('n') or 0));doc['updated_at']=now();doc['toc_count']=len(toc);doc['complete']=len(have)>=len(toc) and len(toc)>0
   bs['cursor']=len(have)%max(1,len(toc));bs['complete']=doc['complete'];bs['toc_count']=len(toc);bs['synced_count']=len(have);save(path,doc);processed+=1
  save(STATE,st);save(ERR,{'generated_at':now(),'errors':errs[-1500:]});print(json.dumps({'processed_books':processed,'chapters_added':added_total},ensure_ascii=False))
