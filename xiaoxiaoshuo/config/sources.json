@@ -10,20 +10,8 @@
       "catalog_pages_per_run": 60,
       "full_site_mode": true,
       "language": "zh",
-      "note": "用户已确认拥有采集及再分发授权。允许索引公开书目及可公开访问的文本正文；安全验证、登录、付费或受限内容不绕过。"
-    },
-    {
-      "name": "爱听书 / 听书网",
-      "url": "https://www.itingshu.net/",
-      "authorized": true,
-      "catalog_allowed": true,
-      "fulltext_allowed": false,
-      "metadata_only": true,
-      "delay_seconds": 0.8,
-      "catalog_pages_per_run": 80,
-      "full_site_mode": true,
-      "language": "zh",
-      "note": "用户已确认拥有采集及再分发授权。仅索引公开有声书目录元数据；403 或受限音频不绕过。"
+      "media_policy": "text-only",
+      "note": "仅抓取中文文本小说、目录与正文；禁止音频书和音频资源。"
     },
     {
       "name": "塔读文学",
@@ -35,7 +23,8 @@
       "catalog_pages_per_run": 60,
       "full_site_mode": true,
       "language": "zh",
-      "note": "用户已确认拥有全文采集及再分发授权。抓取可公开访问的中文书目、目录与正文；登录、VIP、验证码或其他受限内容不绕过。"
+      "media_policy": "text-only",
+      "note": "仅抓取中文文本小说、目录与正文；禁止音频书和音频资源。"
     },
     {
       "name": "努努书坊",
@@ -47,7 +36,8 @@
       "catalog_pages_per_run": 60,
       "full_site_mode": true,
       "language": "zh",
-      "note": "用户已确认拥有全文采集及再分发授权。抓取可公开访问的中文书目、目录与正文；受限页面不绕过。"
+      "media_policy": "text-only",
+      "note": "仅抓取中文文本小说、目录与正文；禁止音频书和音频资源。"
     },
     {
       "name": "九九藏书网",
@@ -59,7 +49,8 @@
       "catalog_pages_per_run": 60,
       "full_site_mode": true,
       "language": "zh",
-      "note": "用户已确认拥有全文采集及再分发授权。抓取可公开访问的中文书目、目录与正文；登录、验证码或其他受限内容不绕过。"
+      "media_policy": "text-only",
+      "note": "仅抓取中文文本小说、目录与正文；禁止音频书和音频资源。"
     },
     {
       "name": "言情小说吧",
@@ -71,7 +62,8 @@
       "catalog_pages_per_run": 60,
       "full_site_mode": true,
       "language": "zh",
-      "note": "用户已确认拥有全文采集及再分发授权。仅保存页面公开可读取的中文章节正文；VIP、登录、付费或受限章节不绕过。"
+      "media_policy": "text-only",
+      "note": "仅抓取中文文本小说、目录与正文；禁止音频书和音频资源。"
     },
     {
       "name": "一七小说",
@@ -83,7 +75,8 @@
       "catalog_pages_per_run": 60,
       "full_site_mode": true,
       "language": "zh",
-      "note": "用户已确认拥有全文采集及再分发授权。抓取可公开访问的中文书目、目录与正文；403、登录、验证码或其他受限内容不绕过。"
+      "media_policy": "text-only",
+      "note": "仅抓取中文文本小说、目录与正文；禁止音频书和音频资源。"
     },
     {
       "name": "滋味小说网",
@@ -95,8 +88,9 @@
       "catalog_pages_per_run": 60,
       "full_site_mode": true,
       "language": "zh",
-      "note": "用户已确认拥有全文采集及再分发授权。抓取可公开访问的中文书目、目录与正文；受限页面不绕过。"
+      "media_policy": "text-only",
+      "note": "仅抓取中文文本小说、目录与正文；禁止音频书和音频资源。"
     }
   ],
-  "notes": "Chinese-only catalog. Global deduplication is performed by normalized title+author with source URL as a fallback key. Full-text mirroring is enabled only for explicitly authorized or open-license sources. Each source keeps a resumable cursor and is marked done only after its discoverable catalog is exhausted. Restricted/authenticated/CAPTCHA/paywalled content is not bypassed."
+  "notes": "Chinese text novels only. Audio books, audio metadata and audio files are prohibited globally and purged before publication. Global deduplication remains enabled. Restricted/authenticated/CAPTCHA/paywalled content is not bypassed."
 }
