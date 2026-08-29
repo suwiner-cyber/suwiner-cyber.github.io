@@ -1,4 +1,4 @@
-name: 小小说中文书库 v8 · 纯文本模式
+name: 小小说中文书库 v9 · 完整目录正文同步
 on:
   workflow_dispatch:
   push:
@@ -9,6 +9,7 @@ on:
       - 'xiaoxiaoshuo/tools/normalize_library_ids.py'
       - 'xiaoxiaoshuo/tools/mirror_v5.py'
       - 'xiaoxiaoshuo/tools/mirror_authorized_extra.py'
+      - 'xiaoxiaoshuo/tools/mirror_text_universal.py'
       - 'xiaoxiaoshuo/tools/purge_audio.py'
       - 'xiaoxiaoshuo/all-catalog.html'
       - 'xiaoxiaoshuo/reader.html'
@@ -20,7 +21,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: xiaoxiaoshuo-v8-text-only
+  group: xiaoxiaoshuo-v9-full-toc
   cancel-in-progress: true
 
 jobs:
@@ -39,7 +40,7 @@ jobs:
       - name: Purge existing audio books and resources
         run: python xiaoxiaoshuo/tools/purge_audio.py
 
-      - name: Crawl and publish text-only authorized sources in batches
+      - name: Crawl full directories and mirror text in batches
         shell: bash
         run: |
           set -e
@@ -48,21 +49,20 @@ jobs:
           start=$(date +%s)
           round=1
 
-          # Original text source: ixdzs8 only. itingshu has been removed from sources.json.
           python xiaoxiaoshuo/tools/crawl_v4.py || true
           python xiaoxiaoshuo/tools/purge_audio.py
 
           while true; do
-            echo "===== text-only batch $round ====="
+            echo "===== full-toc text batch $round ====="
             python xiaoxiaoshuo/tools/crawl_six_full.py --pages-per-source 60
             python xiaoxiaoshuo/tools/normalize_library_ids.py
             python xiaoxiaoshuo/tools/mirror_v5.py || true
-            python xiaoxiaoshuo/tools/mirror_authorized_extra.py || true
+            python xiaoxiaoshuo/tools/mirror_text_universal.py || true
             python xiaoxiaoshuo/tools/purge_audio.py
 
             git add xiaoxiaoshuo/data/v4 xiaoxiaoshuo/data/v5
             if ! git diff --cached --quiet; then
-              git commit -m "Update text-only Chinese novel catalog batch $round"
+              git commit -m "Update full TOC and readable text batch $round"
               pushed=no
               for attempt in 1 2 3 4 5; do
                 git fetch origin main
