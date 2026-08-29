@@ -5,28 +5,28 @@
       "url": "https://ixdzs8.com/",
       "authorized": true,
       "delay_seconds": 0.8,
-      "catalog_pages_per_run": 80,
+      "catalog_pages_per_run": 6,
       "max_pages": 120,
       "max_books": 5000,
       "max_toc_pages": 100,
       "max_chapters": 10000,
       "full_site_mode": true,
-      "note": "用户已确认拥有采集及再分发授权。全站索引采用断点续跑；可公开访问的文本内容按批次镜像，安全验证/受限内容不绕过。"
+      "note": "用户已确认拥有采集及再分发授权。当前采用快速首批入库策略；首批成功后继续断点续跑扩大书库。安全验证/受限内容不绕过。"
     },
     {
       "name": "爱听书 / 听书网",
       "url": "https://www.itingshu.net/",
       "authorized": true,
       "delay_seconds": 0.8,
-      "catalog_pages_per_run": 100,
+      "catalog_pages_per_run": 6,
       "max_pages": 120,
       "max_books": 5000,
       "max_toc_pages": 100,
       "max_chapters": 10000,
       "full_site_mode": true,
       "metadata_only": true,
-      "note": "用户已确认拥有采集及再分发授权。全站索引采用断点续跑；仅采集公开书目/节目目录元数据，403 或受限音频不绕过。"
+      "note": "用户已确认拥有采集及再分发授权。当前采用快速首批入库策略；首批成功后继续断点续跑扩大书库。403 或受限音频不绕过。"
     }
   ],
-  "notes": "Full-site crawling is resumable and rate-limited. Restricted, authenticated, CAPTCHA-protected, paywalled, or otherwise inaccessible content is not bypassed."
+  "notes": "Bootstrap mode: publish a small first batch quickly, then continue resumable site-wide indexing. Restricted, authenticated, CAPTCHA-protected, paywalled, or otherwise inaccessible content is not bypassed."
 }
