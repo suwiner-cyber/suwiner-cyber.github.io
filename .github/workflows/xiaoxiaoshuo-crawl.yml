@@ -7,7 +7,9 @@ on:
       - 'xiaoxiaoshuo/config/public_sources.json'
       - 'xiaoxiaoshuo/tools/crawl_v4.py'
       - 'xiaoxiaoshuo/tools/crawl_v5.py'
+      - 'xiaoxiaoshuo/tools/crawl_authorized_extra.py'
       - 'xiaoxiaoshuo/tools/mirror_v5.py'
+      - 'xiaoxiaoshuo/tools/mirror_authorized_extra.py'
       - 'xiaoxiaoshuo/all-catalog.html'
       - 'xiaoxiaoshuo/reader.html'
       - '.github/workflows/xiaoxiaoshuo-crawl.yml'
@@ -34,11 +36,17 @@ jobs:
           python-version: '3.12'
       - run: python -m pip install --disable-pip-version-check beautifulsoup4==4.12.3
 
-      - name: Build Chinese-only deduplicated multi-source catalog v5
+      - name: Build Chinese-only deduplicated core catalog v5
         run: python xiaoxiaoshuo/tools/crawl_v5.py
 
-      - name: Mirror public chapters from explicitly authorized text sources
+      - name: Crawl six explicitly authorized Chinese sources
+        run: python xiaoxiaoshuo/tools/crawl_authorized_extra.py
+
+      - name: Mirror chapters from core authorized text sources
         run: python xiaoxiaoshuo/tools/mirror_v5.py
+
+      - name: Mirror chapters from six explicitly authorized sources
+        run: python xiaoxiaoshuo/tools/mirror_authorized_extra.py
 
       - name: Publish catalog and reader data
         run: |
