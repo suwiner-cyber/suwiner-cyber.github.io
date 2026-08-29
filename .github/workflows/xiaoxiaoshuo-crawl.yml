@@ -4,9 +4,8 @@ on:
   push:
     paths:
       - 'xiaoxiaoshuo/config/sources.json'
-      - 'xiaoxiaoshuo/config/public_sources.json'
-      - 'xiaoxiaoshuo/tools/crawl_v3.py'
-      - 'xiaoxiaoshuo/tools/crawl_public.py'
+      - 'xiaoxiaoshuo/tools/crawl_v4.py'
+      - 'xiaoxiaoshuo/all-catalog.html'
       - '.github/workflows/xiaoxiaoshuo-crawl.yml'
   schedule:
     - cron: '17 */12 * * *'
@@ -15,13 +14,13 @@ permissions:
   contents: write
 
 concurrency:
-  group: xiaoxiaoshuo-crawler-main
+  group: xiaoxiaoshuo-v4-main
   cancel-in-progress: true
 
 jobs:
   crawl:
     runs-on: ubuntu-latest
-    timeout-minutes: 330
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
         with:
@@ -33,23 +32,21 @@ jobs:
 
       - run: python -m pip install --disable-pip-version-check beautifulsoup4==4.12.3
 
-      - name: Run authorized site-specific crawler v3
-        run: python xiaoxiaoshuo/tools/crawl_v3.py
+      - name: Run catalog-first crawler v4
+        run: python xiaoxiaoshuo/tools/crawl_v4.py
 
-      - name: Commit authorized catalog immediately
+      - name: Publish v4 catalog data
         run: |
           set -e
           git config user.name "xiaoxiaoshuo-library-bot"
           git config user.email "actions@users.noreply.github.com"
-          # crawl_v3 also renders an HTML snapshot locally; keep the newer dynamic UI from main.
-          git restore xiaoxiaoshuo/all-catalog.html || true
-          git add xiaoxiaoshuo/data
+          git add xiaoxiaoshuo/data/v4
           if git diff --cached --quiet; then
-            echo "No authorized catalog changes"
+            echo "No v4 catalog changes"
             exit 0
           fi
-          git commit -m "Update XiaoXiaoShuo authorized catalog"
-          for attempt in 1 2 3; do
+          git commit -m "Update XiaoXiaoShuo v4 catalog data"
+          for attempt in 1 2 3 4; do
             git fetch origin main
             if git rebase origin/main && git push origin HEAD:main; then
               exit 0
@@ -57,31 +54,4 @@ jobs:
             git rebase --abort || true
             sleep $((attempt * 3))
           done
-          echo "Failed to publish authorized catalog after retries"
-          exit 1
-
-      - name: Add public-domain and open-license fiction sources
-        run: python xiaoxiaoshuo/tools/crawl_public.py
-
-      - name: Commit public catalog additions
-        run: |
-          set -e
-          git config user.name "xiaoxiaoshuo-library-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git restore xiaoxiaoshuo/all-catalog.html || true
-          git add xiaoxiaoshuo/data
-          if git diff --cached --quiet; then
-            echo "No public catalog changes"
-            exit 0
-          fi
-          git commit -m "Update XiaoXiaoShuo public catalog"
-          for attempt in 1 2 3; do
-            git fetch origin main
-            if git rebase origin/main && git push origin HEAD:main; then
-              exit 0
-            fi
-            git rebase --abort || true
-            sleep $((attempt * 3))
-          done
-          echo "Failed to publish public catalog after retries"
           exit 1
