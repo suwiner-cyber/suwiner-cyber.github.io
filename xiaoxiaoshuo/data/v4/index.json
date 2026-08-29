@@ -1,0 +1,40 @@
+{
+  "version": 4,
+  "generated_at": "2026-08-29T14:05:52+00:00",
+  "total": 176,
+  "shard_size": 200,
+  "shards": [
+    {
+      "file": "books/00001.json",
+      "count": 176
+    }
+  ],
+  "source_counts": {
+    "爱下电子书": 117,
+    "爱听书": 59
+  },
+  "sources": [
+    {
+      "name": "爱下电子书",
+      "pages": "6/6",
+      "discovered": 120,
+      "added": 117,
+      "cursor": {
+        "category_index": 0,
+        "page": 7,
+        "updated_at": "2026-08-29T14:05:43+00:00"
+      }
+    },
+    {
+      "name": "爱听书 / 听书网",
+      "pages": "6/6",
+      "discovered": 60,
+      "added": 59,
+      "cursor": {
+        "page": 7,
+        "total_pages": 3394,
+        "updated_at": "2026-08-29T14:05:51+00:00"
+      }
+    }
+  ]
+}
