@@ -1,13 +1,15 @@
-name: 小小说中央书库 · 定时更新
+name: 小小说中央书库 · 12小时更新
 on:
   workflow_dispatch:
   push:
     paths:
       - 'xiaoxiaoshuo/config/sources.json'
+      - 'xiaoxiaoshuo/config/public_sources.json'
       - 'xiaoxiaoshuo/tools/crawl_v3.py'
+      - 'xiaoxiaoshuo/tools/crawl_public.py'
       - '.github/workflows/xiaoxiaoshuo-crawl.yml'
   schedule:
-    - cron: '17 */6 * * *'
+    - cron: '17 */12 * * *'
 permissions:
   contents: write
 jobs:
@@ -20,8 +22,10 @@ jobs:
         with:
           python-version: '3.12'
       - run: python -m pip install --disable-pip-version-check beautifulsoup4==4.12.3
-      - name: Run robust site-specific crawler v3
+      - name: Run authorized site-specific crawler v3
         run: python xiaoxiaoshuo/tools/crawl_v3.py
+      - name: Add public-domain and open-license fiction sources
+        run: python xiaoxiaoshuo/tools/crawl_public.py
       - name: Commit crawler output
         run: |
           git config user.name "xiaoxiaoshuo-library-bot"
