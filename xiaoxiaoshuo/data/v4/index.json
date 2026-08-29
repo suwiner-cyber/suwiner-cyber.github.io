@@ -1,39 +1,79 @@
 {
   "version": 4,
-  "generated_at": "2026-08-29T14:05:52+00:00",
-  "total": 176,
+  "generated_at": "2026-08-29T14:35:55+00:00",
+  "total": 2110,
   "shard_size": 200,
   "shards": [
     {
       "file": "books/00001.json",
-      "count": 176
+      "count": 200
+    },
+    {
+      "file": "books/00002.json",
+      "count": 200
+    },
+    {
+      "file": "books/00003.json",
+      "count": 200
+    },
+    {
+      "file": "books/00004.json",
+      "count": 200
+    },
+    {
+      "file": "books/00005.json",
+      "count": 200
+    },
+    {
+      "file": "books/00006.json",
+      "count": 200
+    },
+    {
+      "file": "books/00007.json",
+      "count": 200
+    },
+    {
+      "file": "books/00008.json",
+      "count": 200
+    },
+    {
+      "file": "books/00009.json",
+      "count": 200
+    },
+    {
+      "file": "books/00010.json",
+      "count": 200
+    },
+    {
+      "file": "books/00011.json",
+      "count": 110
     }
   ],
   "source_counts": {
-    "爱下电子书": 117,
-    "爱听书": 59
+    "爱下电子书": 1290,
+    "爱听书": 820
   },
   "sources": [
     {
       "name": "爱下电子书",
-      "pages": "6/6",
-      "discovered": 120,
-      "added": 117,
+      "pages": "60/60",
+      "discovered": 1200,
+      "added": 1173,
       "cursor": {
         "category_index": 0,
-        "page": 7,
-        "updated_at": "2026-08-29T14:05:43+00:00"
+        "page": 67,
+        "updated_at": "2026-08-29T14:33:59+00:00"
       }
     },
     {
       "name": "爱听书 / 听书网",
-      "pages": "6/6",
-      "discovered": 60,
-      "added": 59,
+      "pages": "80/80",
+      "discovered": 800,
+      "added": 761,
       "cursor": {
-        "page": 7,
-        "total_pages": 3394,
-        "updated_at": "2026-08-29T14:05:51+00:00"
+        "page": 87,
+        "total_pages": 3395,
+        "updated_at": "2026-08-29T14:35:55+00:00"
       }
     }
   ]
