@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T22:55:16+00:00",
+  "generated_at": "2026-08-29T23:12:17+00:00",
   "errors": [
     {
       "time": "2026-08-29T22:45:09+00:00",
@@ -12,6 +12,30 @@
       "source": "九九藏书网",
       "url": "https://www.99csw.com/book/index.php",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-08-29T23:05:37+00:00",
+      "source": "言情小说吧",
+      "url": "https://www.xs8.cn/book/16376378805497104",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-08-29T23:06:01+00:00",
+      "source": "言情小说吧",
+      "url": "https://www.xs8.cn/book/18181204801100204",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-08-29T23:06:07+00:00",
+      "source": "言情小说吧",
+      "url": "https://www.xs8.cn/book/26516628909890004",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-08-29T23:07:49+00:00",
+      "source": "言情小说吧",
+      "url": "https://www.xs8.cn/book/22148996000646402",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }
