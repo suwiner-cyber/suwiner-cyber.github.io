@@ -1,14 +1,10 @@
-name: 小小说中文书库 v5 · 12小时更新
+name: 小小说中文书库 v6 · 12小时更新
 on:
   workflow_dispatch:
   push:
     paths:
       - 'xiaoxiaoshuo/config/sources.json'
-      - 'xiaoxiaoshuo/config/public_sources.json'
-      - 'xiaoxiaoshuo/tools/crawl_v4.py'
-      - 'xiaoxiaoshuo/tools/crawl_v5.py'
-      - 'xiaoxiaoshuo/tools/crawl_authorized_extra.py'
-      - 'xiaoxiaoshuo/tools/mirror_v5.py'
+      - 'xiaoxiaoshuo/tools/crawl_six_full.py'
       - 'xiaoxiaoshuo/tools/mirror_authorized_extra.py'
       - 'xiaoxiaoshuo/all-catalog.html'
       - 'xiaoxiaoshuo/reader.html'
@@ -20,13 +16,13 @@ permissions:
   contents: write
 
 concurrency:
-  group: xiaoxiaoshuo-v5-main
+  group: xiaoxiaoshuo-v6-main
   cancel-in-progress: true
 
 jobs:
-  crawl:
+  crawl-six-full:
     runs-on: ubuntu-latest
-    timeout-minutes: 300
+    timeout-minutes: 330
     steps:
       - uses: actions/checkout@v4
         with:
@@ -36,29 +32,58 @@ jobs:
           python-version: '3.12'
       - run: python -m pip install --disable-pip-version-check beautifulsoup4==4.12.3
 
-      - name: Build Chinese-only deduplicated core catalog v5
-        run: python xiaoxiaoshuo/tools/crawl_v5.py
+      - name: Exhaustively crawl six authorized Chinese novel sites
+        shell: bash
+        run: |
+          set -e
+          start=$(date +%s)
+          round=1
+          while true; do
+            echo "===== six-site crawl round $round ====="
+            python xiaoxiaoshuo/tools/crawl_six_full.py --pages-per-source 200
+            python - <<'PY'
+import json
+from pathlib import Path
+p=Path('xiaoxiaoshuo/data/v5/six_full_status.json')
+d=json.loads(p.read_text(encoding='utf-8'))
+print(json.dumps(d,ensure_ascii=False,indent=2))
+PY
+            all_done=$(python - <<'PY'
+import json
+from pathlib import Path
+p=Path('xiaoxiaoshuo/data/v5/six_full_status.json')
+d=json.loads(p.read_text(encoding='utf-8'))
+print('yes' if d.get('all_done') else 'no')
+PY
+)
+            if [ "$all_done" = "yes" ]; then
+              echo "All discoverable pages for the six authorized sources are exhausted."
+              break
+            fi
+            now=$(date +%s)
+            elapsed=$((now-start))
+            if [ "$elapsed" -ge 15600 ]; then
+              echo "Approaching workflow time budget; saving cursor for next 12-hour run."
+              break
+            fi
+            round=$((round+1))
+          done
 
-      - name: Crawl six explicitly authorized Chinese sources
-        run: python xiaoxiaoshuo/tools/crawl_authorized_extra.py
-
-      - name: Mirror chapters from core authorized text sources
-        run: python xiaoxiaoshuo/tools/mirror_v5.py
-
-      - name: Mirror chapters from six explicitly authorized sources
+      - name: Mirror authorized chapter text from discovered books
         run: python xiaoxiaoshuo/tools/mirror_authorized_extra.py
 
-      - name: Publish catalog and reader data
+      - name: Publish crawl progress, catalog, TOC and reader data
+        shell: bash
         run: |
           set -e
           git config user.name "xiaoxiaoshuo-library-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add xiaoxiaoshuo/data/v4 xiaoxiaoshuo/data/v5
+          git add xiaoxiaoshuo/data/v5
           if git diff --cached --quiet; then
-            echo "No new catalog or chapter data; discovered sources may already be exhausted."
+            echo "No new six-site data."
             exit 0
           fi
-          git commit -m "Update XiaoXiaoShuo Chinese catalog and reader data"
+          git commit -m "Update exhaustive six-site Chinese novel crawl"
           for attempt in 1 2 3 4 5; do
             git fetch origin main
             if git rebase origin/main && git push origin HEAD:main; then
