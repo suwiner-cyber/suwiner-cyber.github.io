@@ -1,29 +1,29 @@
 {
   "version": 4,
-  "generated_at": "2026-08-29T14:35:55+00:00",
-  "total": 2110,
+  "generated_at": "2026-08-29T14:54:23+00:00",
+  "total": 4097,
   "bootstrap": false,
   "sources": [
     {
       "name": "爱下电子书",
       "pages": "60/60",
       "discovered": 1200,
-      "added": 1173,
+      "added": 1200,
       "cursor": {
         "category_index": 0,
-        "page": 67,
-        "updated_at": "2026-08-29T14:33:59+00:00"
+        "page": 127,
+        "updated_at": "2026-08-29T14:52:20+00:00"
       }
     },
     {
       "name": "爱听书 / 听书网",
       "pages": "80/80",
       "discovered": 800,
-      "added": 761,
+      "added": 787,
       "cursor": {
-        "page": 87,
+        "page": 167,
         "total_pages": 3395,
-        "updated_at": "2026-08-29T14:35:55+00:00"
+        "updated_at": "2026-08-29T14:54:22+00:00"
       }
     }
   ],
