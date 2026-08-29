@@ -1,0 +1,98 @@
+/* v5.1 - keep the Taoist master fully visible instead of hiding it behind the oracle card */
+@media (min-width:1200px){
+  .v5 .hero{
+    max-width:1560px;
+    grid-template-columns:minmax(390px,1fr) 300px minmax(460px,540px);
+    column-gap:clamp(26px,3vw,54px);
+    padding-left:clamp(28px,3.2vw,52px);
+    padding-right:clamp(28px,3.2vw,52px);
+    align-items:center;
+  }
+  .v5 .hero>div:first-child{grid-column:1;min-width:0;z-index:5}
+  .v5 .daoist-stage{
+    position:relative;
+    grid-column:2;
+    grid-row:1;
+    right:auto;
+    left:auto;
+    bottom:auto;
+    width:300px;
+    height:620px;
+    margin:34px auto 0;
+    align-self:end;
+    justify-self:center;
+    z-index:7;
+    overflow:visible;
+  }
+  .v5 .oracle-card{grid-column:3;grid-row:1;z-index:8;min-width:0}
+  .v5 .daoist-stage svg{overflow:visible}
+}
+
+@media (min-width:941px) and (max-width:1199px){
+  .v5 .hero{
+    max-width:1120px;
+    grid-template-columns:270px minmax(0,1fr);
+    grid-template-rows:auto auto;
+    gap:34px 38px;
+    padding-left:30px;
+    padding-right:30px;
+    align-items:end;
+  }
+  .v5 .hero>div:first-child{grid-column:1/-1;grid-row:1;z-index:5}
+  .v5 .daoist-stage{
+    position:relative;
+    grid-column:1;
+    grid-row:2;
+    right:auto;
+    left:auto;
+    bottom:auto;
+    width:270px;
+    height:545px;
+    margin:0 auto;
+    align-self:end;
+    justify-self:center;
+    z-index:7;
+    overflow:visible;
+  }
+  .v5 .oracle-card{grid-column:2;grid-row:2;z-index:8;min-width:0}
+}
+
+@media (max-width:940px){
+  .v5 .hero{
+    display:grid;
+    grid-template-columns:minmax(0,1fr);
+    grid-template-rows:auto auto auto;
+    gap:30px;
+    overflow:visible;
+  }
+  .v5 .hero>div:first-child{grid-column:1;grid-row:1;z-index:5}
+  .v5 .daoist-stage{
+    position:relative;
+    grid-column:1;
+    grid-row:2;
+    right:auto;
+    left:auto;
+    bottom:auto;
+    width:min(300px,82vw);
+    height:min(590px,158vw);
+    margin:0 auto -34px;
+    align-self:end;
+    justify-self:center;
+    z-index:7;
+    opacity:1;
+    overflow:visible;
+  }
+  .v5 .oracle-card{grid-column:1;grid-row:3;z-index:8;width:100%;min-width:0}
+  .v5 .dao-caption{bottom:16px}
+}
+
+@media (max-width:520px){
+  .v5 .hero{gap:22px;padding-top:38px}
+  .v5 .daoist-stage{
+    width:min(252px,78vw);
+    height:min(500px,155vw);
+    margin-bottom:-22px;
+  }
+  .v5 .dao-incense{left:12px;bottom:67px;transform:scale(.84);transform-origin:bottom left}
+  .v5 .dao-caption{font-size:9px;letter-spacing:.25em}
+}
