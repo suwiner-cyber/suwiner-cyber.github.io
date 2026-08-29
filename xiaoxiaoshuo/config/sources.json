@@ -1,4 +1,27 @@
 {
-  "sources": [],
-  "notes": "Only add websites/content you own, have permission to crawl/redistribute, or that are explicitly licensed. Set authorized=true for each source."
+  "sources": [
+    {
+      "name": "爱下电子书",
+      "url": "https://ixdzs8.com/",
+      "authorized": false,
+      "delay_seconds": 1.0,
+      "max_pages": 80,
+      "max_books": 5000,
+      "max_toc_pages": 100,
+      "max_chapters": 10000,
+      "note": "已添加；需确认拥有采集及再分发授权后再启用正文抓取。"
+    },
+    {
+      "name": "爱听书 / 听书网",
+      "url": "https://www.itingshu.net/",
+      "authorized": false,
+      "delay_seconds": 1.0,
+      "max_pages": 80,
+      "max_books": 5000,
+      "max_toc_pages": 100,
+      "max_chapters": 10000,
+      "note": "已添加；站点提供蜘蛛协议页面，需确认允许采集及再分发后再启用。"
+    }
+  ],
+  "notes": "Only enable authorized=true for websites/content you own, have permission to crawl/redistribute, or that are explicitly licensed."
 }
