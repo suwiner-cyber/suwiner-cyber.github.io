@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>小小说 · 中央书库</title>
+<style>
+:root{color-scheme:light;--bg:#f5f3ec;--card:#fffdf8;--ink:#1b2823;--muted:#68736e;--green:#176b55;--line:#e5e0d5}
+*{box-sizing:border-box}body{margin:0;font-family:ui-sans-serif,system-ui,-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;background:linear-gradient(180deg,#eef5f0,#f7f3ea 36%,#f5f3ec);color:var(--ink)}
+.wrap{max-width:1060px;margin:auto;padding:56px 22px 90px}.hero{padding:34px;border:1px solid var(--line);border-radius:28px;background:rgba(255,253,248,.9);box-shadow:0 18px 55px rgba(28,52,43,.08)}
+.badge{display:inline-block;padding:7px 11px;border-radius:999px;background:#e5f3ed;color:var(--green);font-weight:700;font-size:13px}h1{font-size:clamp(34px,6vw,64px);line-height:1.02;margin:20px 0 14px;letter-spacing:-.04em}.sub{font-size:17px;line-height:1.8;color:var(--muted);max-width:760px}.actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:24px}.btn{display:inline-block;padding:13px 18px;border-radius:14px;text-decoration:none;font-weight:750;background:var(--green);color:white}.btn.ghost{background:#fff;color:var(--green);border:1px solid #cbdcd4}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:18px}.card{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:22px}.num{font-size:34px;font-weight:850}.label{color:var(--muted);margin-top:6px}.section{margin-top:28px}.section h2{font-size:21px}.source{display:flex;justify-content:space-between;gap:20px;padding:16px 0;border-bottom:1px solid var(--line)}code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;background:#f0eee8;padding:2px 6px;border-radius:6px;word-break:break-all}.small{font-size:13px;color:var(--muted)}@media(max-width:720px){.grid{grid-template-columns:1fr}.hero{padding:25px}.source{display:block}}
+</style>
+</head>
+<body><div class="wrap">
+<section class="hero"><span class="badge">CENTRAL LIBRARY · ONLINE</span><h1>小小说中央书库</h1><div class="sub">已经部署到你的 GitHub Pages 空间。书库由 GitHub Actions 定时抓取你明确授权的公开小说站，并生成小小说可读取的静态书源。不会绕过登录、验证码、付费墙或反爬限制。</div><div class="actions"><a class="btn" href="booksource.json">下载小小说书源 JSON</a><a class="btn ghost" href="search.html">查看当前书库</a></div></section>
+<div class="grid"><div class="card"><div class="num" id="books">0</div><div class="label">小说</div></div><div class="card"><div class="num" id="chapters">0</div><div class="label">章节</div></div><div class="card"><div class="num" id="content">0</div><div class="label">已缓存正文</div></div></div>
+<section class="card section"><h2>运行状态</h2><div id="message">正在读取状态…</div><div class="small" id="time"></div><div id="sources"></div></section>
+<section class="card section"><h2>使用方式</h2><p>1. 在仓库的 <code>xiaoxiaoshuo/config/sources.json</code> 中加入你有权采集/再分发的小说站并设置 <code>authorized: true</code>。</p><p>2. Actions 会自动运行；也可以手动运行 <code>小小说中央书库 · 定时更新</code>。</p><p>3. 将上面的 <b>booksource.json</b> 导入小小说 APP。此 GitHub Pages 版本是静态托管，不能提供真正的服务端 Token 保密鉴权。</p></section>
+</div><script>
+fetch('data/status.json?ts='+Date.now()).then(r=>r.json()).then(d=>{books.textContent=d.books||0;chapters.textContent=d.chapters||0;content.textContent=d.chapters_with_content||0;message.textContent=d.message||'运行正常';time.textContent=d.generated_at?'最近更新：'+d.generated_at:'';sources.innerHTML=(d.sources||[]).map(s=>`<div class="source"><div><b>${esc(s.name||'未命名')}</b><div class="small">${esc(s.url||'')}</div></div><div>${esc(s.status||'')}</div></div>`).join('')||'<p class="small">尚未配置授权小说站。</p>'}).catch(()=>{message.textContent='状态文件暂不可用'});function esc(v){return String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+</script></body></html>
