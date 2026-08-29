@@ -1,6 +1,9 @@
 name: 小小说中央书库 · 定时更新
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - 'xiaoxiaoshuo/config/sources.json'
   schedule:
     - cron: '17 */6 * * *'
 permissions:
