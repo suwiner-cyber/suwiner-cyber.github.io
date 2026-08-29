@@ -1,12 +1,12 @@
 {
   "sources": [
     {
-      "name": "Project Gutenberg / Gutendex",
+      "name": "Project Gutenberg / Gutendex · 中文",
       "type": "gutendex",
       "url": "https://gutendex.com/books/",
       "enabled": true,
       "public_domain_or_open_license": true,
-      "languages": ["zh", "en"],
+      "languages": ["zh"],
       "pages_per_run": 8
     },
     {
@@ -16,8 +16,9 @@
       "enabled": true,
       "public_domain_or_open_license": true,
       "category": "Category:小说",
+      "languages": ["zh"],
       "pages_per_run": 8
     }
   ],
-  "policy": "Only automatically ingest public-domain or explicitly open-license catalogs. Commercial or ambiguous third-party novel sites require explicit authorization before full-text crawling."
+  "policy": "Chinese-only. Only automatically ingest public-domain or explicitly open-license full text. Non-Chinese entries are discarded during post-processing."
 }
