@@ -1,0 +1,53 @@
+(()=>{
+  if(window.__XQ_THREE_V7)return;window.__XQ_THREE_V7=true;
+  const reduce=window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const waitSlot=(n=0)=>{const slot=document.querySelector('.daoist-slot');if(slot)return boot(slot);if(n<100)setTimeout(()=>waitSlot(n+1),100)};
+  async function boot(slot){
+    const stage=document.createElement('div');stage.className='three-v7-stage';stage.innerHTML='<div class="three-v7-loading">正在加载真实 3D 道长与仙鹤…</div><div class="three-v7-badge"><b>WEBGL 3D</b> · GLB 骨骼动画</div><div class="three-v7-fallback">3D 模型加载失败，已自动保留原人物兜底。</div>';slot.appendChild(stage);
+    try{
+      const THREE=await import('https://cdn.jsdelivr.net/npm/three@0.179.1/build/three.module.js');
+      const {GLTFLoader}=await import('https://cdn.jsdelivr.net/npm/three@0.179.1/examples/jsm/loaders/GLTFLoader.js');
+      const renderer=new THREE.WebGLRenderer({antialias:true,alpha:true,powerPreference:'high-performance'});renderer.setPixelRatio(Math.min(devicePixelRatio||1,1.8));renderer.outputColorSpace=THREE.SRGBColorSpace;renderer.toneMapping=THREE.ACESFilmicToneMapping;renderer.toneMappingExposure=1.08;renderer.shadowMap.enabled=true;renderer.shadowMap.type=THREE.PCFSoftShadowMap;stage.prepend(renderer.domElement);
+      const scene=new THREE.Scene();
+      const camera=new THREE.PerspectiveCamera(28,1,.1,100);camera.position.set(0,1.72,5.45);camera.lookAt(0,1.62,0);
+      scene.add(new THREE.HemisphereLight(0xf1d5a1,0x12181a,1.65));
+      const key=new THREE.DirectionalLight(0xffd7a0,3.2);key.position.set(-2.2,4.6,3.7);key.castShadow=true;key.shadow.mapSize.set(1024,1024);scene.add(key);
+      const rim=new THREE.DirectionalLight(0x7998a6,1.65);rim.position.set(3.2,2.5,-2.4);scene.add(rim);
+      const warm=new THREE.PointLight(0xc46b31,18,5,2);warm.position.set(-1.6,.9,2.1);scene.add(warm);
+      const ground=new THREE.Mesh(new THREE.CircleGeometry(1.28,64),new THREE.MeshStandardMaterial({color:0x17110d,roughness:.96,metalness:0,transparent:true,opacity:.82}));ground.rotation.x=-Math.PI/2;ground.position.y=.025;ground.receiveShadow=true;scene.add(ground);
+      const loader=new GLTFLoader();loader.setCrossOrigin('anonymous');
+      const load=url=>new Promise((resolve,reject)=>loader.load(url,resolve,undefined,reject));
+      const [humanGLTF,birdGLTF]=await Promise.all([
+        load('https://threejs.org/examples/models/gltf/Soldier.glb'),
+        load('https://threejs.org/examples/models/gltf/Flamingo.glb')
+      ]);
+      const humanRoot=new THREE.Group();humanRoot.position.set(-.05,0,0);scene.add(humanRoot);
+      const human=humanGLTF.scene;human.scale.setScalar(1.08);human.position.y=0;human.rotation.y=.06;humanRoot.add(human);
+      const darkMat=new THREE.MeshStandardMaterial({color:0x26363a,roughness:.75,metalness:.04});const skinMat=new THREE.MeshStandardMaterial({color:0xb47d5f,roughness:.78});
+      human.traverse(o=>{if(o.isMesh){o.castShadow=true;o.receiveShadow=true;if(/head|face|skin|hand/i.test(o.name))o.material=skinMat.clone();else{o.material=o.material.clone();o.material.color.lerp(new THREE.Color(0x233237),.72);o.material.roughness=.76;o.material.metalness=.02}}});
+      const robe=new THREE.Mesh(new THREE.CylinderGeometry(.45,.64,1.55,48,1,true),new THREE.MeshPhysicalMaterial({color:0x21343a,roughness:.82,metalness:.03,clearcoat:.08,side:THREE.DoubleSide}));robe.position.set(0,.83,.03);robe.castShadow=true;humanRoot.add(robe);
+      const robeFront=new THREE.Mesh(new THREE.ConeGeometry(.54,1.15,48,1,true),new THREE.MeshPhysicalMaterial({color:0x304950,roughness:.72,metalness:.02,side:THREE.DoubleSide,transparent:true,opacity:.88}));robeFront.position.set(0,.58,.22);robeFront.rotation.x=-.08;humanRoot.add(robeFront);
+      const sash=new THREE.Mesh(new THREE.TorusGeometry(.43,.045,10,64),new THREE.MeshStandardMaterial({color:0x9c7448,roughness:.62,metalness:.15}));sash.rotation.x=Math.PI/2;sash.position.y=1.18;humanRoot.add(sash);
+      const crown=new THREE.Group();const bun=new THREE.Mesh(new THREE.SphereGeometry(.14,28,20),new THREE.MeshStandardMaterial({color:0x111313,roughness:.9}));bun.scale.y=1.22;bun.position.set(0,2.86,-.015);crown.add(bun);const pin=new THREE.Mesh(new THREE.CylinderGeometry(.018,.018,.42,16),new THREE.MeshStandardMaterial({color:0xb58a54,roughness:.55,metalness:.35}));pin.rotation.z=Math.PI/2;pin.position.set(0,2.86,.01);crown.add(pin);humanRoot.add(crown);
+      const beardMat=new THREE.MeshStandardMaterial({color:0x242423,roughness:1});const beard=new THREE.Mesh(new THREE.ConeGeometry(.105,.55,24),beardMat);beard.position.set(0,2.18,.23);beard.rotation.x=.12;humanRoot.add(beard);
+      const sleeveMat=new THREE.MeshStandardMaterial({color:0x2a3f45,roughness:.84});const extraSleeveL=new THREE.Mesh(new THREE.ConeGeometry(.22,.62,24),sleeveMat);extraSleeveL.position.set(-.49,1.48,.04);extraSleeveL.rotation.z=-.58;humanRoot.add(extraSleeveL);const extraSleeveR=extraSleeveL.clone();extraSleeveR.position.x=.49;extraSleeveR.rotation.z=.58;humanRoot.add(extraSleeveR);
+      const mixer=new THREE.AnimationMixer(human);if(humanGLTF.animations.length){const clip=humanGLTF.animations.find(a=>/idle/i.test(a.name))||humanGLTF.animations[0];mixer.clipAction(clip).play()}
+      let rightArm=null,headBone=null;human.traverse(o=>{if(!rightArm&&/right.*arm|arm.*r/i.test(o.name))rightArm=o;if(!headBone&&/head/i.test(o.name)&&o.isBone)headBone=o});
+      const craneRoot=new THREE.Group();craneRoot.visible=false;scene.add(craneRoot);const bird=birdGLTF.scene;bird.scale.setScalar(.0088);bird.rotation.y=-Math.PI/2;bird.position.set(0,0,0);craneRoot.add(bird);bird.traverse(o=>{if(o.isMesh){o.castShadow=true;o.material=o.material.clone();o.material.color.set(0xf1efe7);o.material.roughness=.7;}});
+      const redCrown=new THREE.Mesh(new THREE.SphereGeometry(.055,20,14),new THREE.MeshStandardMaterial({color:0xa62f27,roughness:.65}));redCrown.position.set(.13,.29,.02);craneRoot.add(redCrown);
+      const blackWingL=new THREE.Mesh(new THREE.PlaneGeometry(.34,.18),new THREE.MeshStandardMaterial({color:0x1d2322,side:THREE.DoubleSide,roughness:.9}));blackWingL.position.set(-.11,.06,.08);blackWingL.rotation.set(-.2,.2,-.32);craneRoot.add(blackWingL);const blackWingR=blackWingL.clone();blackWingR.position.z=-.08;blackWingR.rotation.z=.32;craneRoot.add(blackWingR);
+      const birdMixer=new THREE.AnimationMixer(bird);if(birdGLTF.animations.length)birdMixer.clipAction(birdGLTF.animations[0]).play();
+      let mouseX=0,mouseY=0,targetX=0,targetZ=0,lastX=0,lastY=0,lastT=performance.now(),fear=0,startled=0,petting=0,cranePhase='wait',phaseT=0;
+      const clamp=(v,a,b)=>Math.max(a,Math.min(b,v));
+      const showSpeech=(text)=>{const b=document.querySelector('.dao-v62-bubble')||document.querySelector('.dao-float-bubble');if(b){b.textContent=text;b.classList.add('show');setTimeout(()=>b.classList.remove('show'),1200)}};
+      const onMove=e=>{if(e.pointerType&&e.pointerType!=='mouse')return;const r=slot.getBoundingClientRect();if(!r.width)return;const nx=(e.clientX-r.left)/r.width*2-1,ny=(e.clientY-r.top)/r.height*2-1;mouseX=nx;mouseY=ny;const dist=Math.hypot(nx*.8,ny*.75);fear=clamp(1-dist,0,1);targetX=clamp(-nx*.54*fear,-.48,.48);targetZ=clamp(ny*.14*fear,-.12,.12);const t=performance.now(),speed=Math.hypot(e.clientX-lastX,e.clientY-lastY)/Math.max(8,t-lastT);lastX=e.clientX;lastY=e.clientY;lastT=t;if(speed>.8&&fear>.38){startled=1;showSpeech('呀！道友慢些……')}};window.addEventListener('pointermove',onMove,{passive:true});
+      const startCrane=()=>{if(cranePhase!=='wait')return;cranePhase='in';phaseT=0;craneRoot.visible=true;craneRoot.position.set(3.6,3.35,-.35);craneRoot.scale.setScalar(1);showSpeech('白鹤归来。')};setTimeout(startCrane,2500);
+      const clock=new THREE.Clock();let tTotal=0;
+      function craneStep(dt){phaseT+=dt;if(cranePhase==='wait')return;if(cranePhase==='in'){const u=clamp(phaseT/4.1,0,1),e=1-Math.pow(1-u,3);craneRoot.position.set(3.6*(1-e)+.62*e,3.35*(1-e)+.48*e,-.35*(1-e)+.22*e);craneRoot.rotation.z=Math.sin(u*Math.PI*4)*.08;if(u>=1){cranePhase='rest';phaseT=0;showSpeech('来，歇一歇。')}}else if(cranePhase==='rest'){craneRoot.position.y=.48+Math.sin(tTotal*2.4)*.012;if(phaseT>1.3){cranePhase='pet';phaseT=0;petting=1;showSpeech('乖。')}}else if(cranePhase==='pet'){craneRoot.position.x=.58+Math.sin(phaseT*3.2)*.018;redCrown.scale.setScalar(1+Math.sin(phaseT*6)*.04);if(phaseT>2.8){cranePhase='out';phaseT=0;petting=0;showSpeech('去吧，山高云阔。')}}else if(cranePhase==='out'){const u=clamp(phaseT/3.5,0,1),e=u*u;craneRoot.position.set(.62*(1-e)-3.9*e,.48*(1-e)+3.15*e,.22*(1-e)-.5*e);craneRoot.rotation.z=-u*.18;if(u>=1){craneRoot.visible=false;cranePhase='wait';phaseT=0;setTimeout(startCrane,17000+Math.random()*8000)}}}
+      function resize(){const r=stage.getBoundingClientRect();const w=Math.max(1,r.width),h=Math.max(1,r.height);renderer.setSize(w,h,false);camera.aspect=w/h;camera.updateProjectionMatrix()}new ResizeObserver(resize).observe(stage);resize();
+      document.body.classList.add('three-ready');
+      function animate(){const dt=Math.min(clock.getDelta(),.05);tTotal+=dt;mixer.update(dt*.65);birdMixer.update(dt*1.2);craneStep(dt);humanRoot.position.x+=(targetX-humanRoot.position.x)*.08;humanRoot.position.z+=(targetZ-humanRoot.position.z)*.06;humanRoot.rotation.z+=((-mouseX*fear*.075)-humanRoot.rotation.z)*.08;humanRoot.rotation.y+=((mouseX*fear*.14+.04)-humanRoot.rotation.y)*.08;if(startled>0){startled=Math.max(0,startled-dt*2.1);humanRoot.position.y=Math.sin(startled*Math.PI*5)*.055*startled;humanRoot.scale.set(1-startled*.018,1+startled*.026,1-startled*.018)}else{humanRoot.position.y=Math.sin(tTotal*1.2)*.008;humanRoot.scale.lerp(new THREE.Vector3(1,1,1),.08)}if(headBone){headBone.rotation.y+=(clamp(mouseX*.26,-.22,.22)-headBone.rotation.y)*.05;headBone.rotation.x+=(clamp(-mouseY*.09,-.08,.08)-headBone.rotation.x)*.05}if(rightArm){const target=petting?-.78:-.08;rightArm.rotation.z+=(target-rightArm.rotation.z)*.055;rightArm.rotation.x+=((petting?-.38:0)-rightArm.rotation.x)*.055}robe.rotation.z=Math.sin(tTotal*.8)*.008;extraSleeveL.rotation.x=Math.sin(tTotal*1.1)*.02;extraSleeveR.rotation.x=-Math.sin(tTotal*1.05)*.02;renderer.render(scene,camera);requestAnimationFrame(animate)}if(!reduce)animate();else renderer.render(scene,camera);
+    }catch(err){console.error('Xuanqian 3D load failed',err);stage.classList.add('failed');stage.querySelector('.three-v7-loading').textContent='3D 模型加载失败';}
+  }
+  waitSlot();
+})();
