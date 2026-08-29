@@ -4,7 +4,7 @@ from pathlib import Path
 from urllib.parse import urlparse,urldefrag
 
 ROOT=Path(__file__).resolve().parents[1]; V5=ROOT/'data'/'v5'; BOOKS=V5/'books'; INDEX=V5/'index.json'; CH=V5/'chapters'; TOC=V5/'toc'; SHARD=200
-SIX={'tadu.com','kanunu8.com','99csw.com','xs8.cn','1qxs.com','zwxiaoshuo.com'}
+STABLE_HOSTS={'tadu.com','kanunu8.com','99csw.com','xs8.cn','1qxs.com','zwxiaoshuo.com','ilwxs.com','ipaoshubaxs.net','aaaks.com','69shuba.com','piaotia.com','hetushu.com'}
 
 def load(p,d):
  try:return json.loads(p.read_text(encoding='utf-8'))
@@ -22,9 +22,7 @@ def target_id(b):
  u=b.get('source_url','');h=host(u);p=urlparse(u).path
  if h=='ixdzs8.com':
   m=re.search(r'/read/(\d+)',p);return 'ix-'+m.group(1) if m else (b.get('id') or stable(u))
- if h=='itingshu.net':
-  m=re.search(r'/youshengxiaoshuo/(\d+)',p);return 'it-'+m.group(1) if m else (b.get('id') or stable(u))
- if h in SIX:return stable(u)
+ if h in STABLE_HOSTS:return stable(u)
  return b.get('id') or stable(u)
 def merge_docs(a,b):
  out=dict(a); seen={x.get('url') for x in out.get('chapters',[]) if x.get('url')}; arr=list(out.get('chapters',[]))
@@ -56,6 +54,6 @@ def main():
   n=f'{i//SHARD+1:05d}.json';keep.add(n);chunk=rows[i:i+SHARD];save(BOOKS/n,{'books':chunk});sh.append({'file':'books/'+n,'count':len(chunk)})
  for p in BOOKS.glob('*.json'):
   if p.name not in keep:p.unlink()
- idx.update({'shards':sh,'total':len(rows),'shard_size':SHARD,'id_scheme':'stable-v2'});save(INDEX,idx)
+ idx.update({'shards':sh,'total':len(rows),'shard_size':SHARD,'id_scheme':'stable-v3'});save(INDEX,idx)
  print(json.dumps({'books':len(rows),'ids_changed':len(mapping),'files_migrated':moved},ensure_ascii=False))
 if __name__=='__main__':main()
