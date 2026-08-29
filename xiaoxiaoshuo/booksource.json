@@ -1,0 +1,14 @@
+{
+  "bookSourceUrl": "https://suwiner-cyber.github.io/xiaoxiaoshuo",
+  "bookSourceName": "小小说中央书库·Pages",
+  "bookSourceGroup": "小小说·中央书库",
+  "bookSourceType": 0,
+  "enabled": true,
+  "searchUrl": "https://suwiner-cyber.github.io/xiaoxiaoshuo/catalog.html?key={{key}}&page={{page}}",
+  "exploreUrl": "https://suwiner-cyber.github.io/xiaoxiaoshuo/catalog.html?page={{page}}",
+  "ruleSearch": {"bookList":".book-card","name":".book-name@text","author":".book-author@text","intro":".book-intro@text","kind":".book-kind@text","coverUrl":"img@src","bookUrl":"a.book-link@href","lastChapter":".book-last@text"},
+  "ruleExplore": {"bookList":".book-card","name":".book-name@text","author":".book-author@text","intro":".book-intro@text","kind":".book-kind@text","coverUrl":"img@src","bookUrl":"a.book-link@href","lastChapter":".book-last@text"},
+  "ruleBookInfo": {"name":"h1@text","author":".author@text","intro":".intro@text","kind":".kind@text","coverUrl":".cover@src","tocUrl":".toc-link@href","lastChapter":".latest@text"},
+  "ruleToc": {"chapterList":"#chapters a.chapter-link","chapterName":"@text","chapterUrl":"@href"},
+  "ruleContent": {"content":"#content@html"}
+}
