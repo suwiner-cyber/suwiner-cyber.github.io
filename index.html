@@ -1,27 +1,115 @@
 <!doctype html>
 <html lang="zh-CN">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>我的网站</title>
-  <meta name="description" content="个人网站" />
-  <style>
-    :root{font-family:Inter,"PingFang SC","Microsoft YaHei",system-ui,sans-serif;color:#152038;background:#f6f8fc}
-    *{box-sizing:border-box}body{margin:0;min-height:100vh;display:grid;place-items:center;padding:24px;background:radial-gradient(circle at 20% 10%,#e9f1ff 0,transparent 32%),radial-gradient(circle at 90% 20%,#efe9ff 0,transparent 28%),#f7f9fd}
-    .card{width:min(860px,100%);padding:64px 48px;border:1px solid rgba(20,32,56,.08);border-radius:32px;background:rgba(255,255,255,.82);box-shadow:0 24px 70px rgba(33,52,86,.12);backdrop-filter:blur(16px)}
-    .badge{display:inline-block;padding:8px 14px;border-radius:999px;background:#eef4ff;color:#315dce;font-weight:700;font-size:14px;letter-spacing:.04em}
-    h1{font-size:clamp(40px,8vw,76px);line-height:1.04;margin:24px 0 18px;letter-spacing:-.04em}p{font-size:18px;line-height:1.9;color:#5b667d;max-width:620px;margin:0}
-    .line{width:72px;height:6px;border-radius:999px;background:linear-gradient(90deg,#4f7cff,#8d63ff);margin-top:34px}
-    footer{margin-top:48px;font-size:13px;color:#8c96a8}
-  </style>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#0d0b0a" />
+<title>玄签阁 · 东方灵签</title>
+<meta name="description" content="玄签阁 · 一方静心问签之地。抽签、签诗、解签与今日运势，内容仅供文化娱乐参考。" />
+<style>
+:root{--ink:#0d0b0a;--ink2:#17120f;--paper:#f2e8d7;--paper2:#e5d2b5;--gold:#caa15c;--gold2:#f1d49a;--red:#9c2d25;--red2:#c84a3f;--muted:#a99b88;--line:rgba(229,198,143,.18)}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;min-height:100vh;color:#f7eddd;background:var(--ink);font-family:"Noto Serif SC","Songti SC","STSong","SimSun",serif;overflow-x:hidden}
+button,input,select{font:inherit}.noise{position:fixed;inset:0;pointer-events:none;opacity:.035;z-index:20;background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.72'/%3E%3C/svg%3E")}
+.bg{position:fixed;inset:0;z-index:-3;background:radial-gradient(circle at 50% -10%,rgba(157,64,48,.24),transparent 31%),radial-gradient(circle at 8% 45%,rgba(178,127,63,.09),transparent 25%),linear-gradient(180deg,#100d0b 0%,#080706 100%)}
+.bg:before,.bg:after{content:"";position:absolute;border:1px solid rgba(220,186,123,.09);border-radius:50%;width:520px;height:520px}.bg:before{left:-260px;top:18vh}.bg:after{right:-310px;top:48vh;width:650px;height:650px}
+.ornament{position:fixed;inset:20px;border:1px solid rgba(226,190,127,.07);pointer-events:none;z-index:-1}.ornament:before,.ornament:after{content:"✦";position:absolute;color:rgba(229,196,136,.32);font-size:13px}.ornament:before{left:12px;top:8px}.ornament:after{right:12px;bottom:8px}
+header{height:74px;display:flex;align-items:center;justify-content:space-between;padding:0 clamp(20px,6vw,88px);border-bottom:1px solid rgba(218,182,119,.1);background:rgba(12,10,8,.62);backdrop-filter:blur(18px);position:sticky;top:0;z-index:10}
+.brand{display:flex;align-items:center;gap:13px}.seal{width:38px;height:38px;border:1px solid rgba(237,203,142,.5);display:grid;place-items:center;color:var(--gold2);font-size:19px;transform:rotate(45deg)}.seal span{transform:rotate(-45deg)}.brand strong{font-size:20px;letter-spacing:.24em;font-weight:600}.brand small{display:block;color:#8f8272;font:11px/1.4 system-ui,sans-serif;letter-spacing:.16em;margin-top:2px}
+nav{display:flex;gap:24px;align-items:center}nav a,nav button{color:#a89a88;text-decoration:none;border:0;background:none;cursor:pointer;font-size:13px;letter-spacing:.12em;padding:8px 0}nav a:hover,nav button:hover{color:var(--gold2)}
+.hero{min-height:calc(100vh - 74px);display:grid;grid-template-columns:minmax(0,1fr) minmax(420px,560px);gap:clamp(36px,8vw,110px);align-items:center;max-width:1320px;margin:auto;padding:62px clamp(24px,6vw,88px) 78px}
+.kicker{display:flex;align-items:center;gap:14px;color:var(--gold);font-size:12px;letter-spacing:.42em}.kicker:before{content:"";width:38px;height:1px;background:linear-gradient(90deg,transparent,var(--gold))}.hero h1{font-size:clamp(58px,8vw,104px);line-height:.98;font-weight:500;letter-spacing:.08em;margin:24px 0 28px;text-wrap:balance;background:linear-gradient(180deg,#fff4de 0%,#d4b277 72%,#a07c46 100%);-webkit-background-clip:text;color:transparent}.hero h1 span{display:block;margin-left:.82em}.lead{max-width:560px;color:#a99c8d;font-size:16px;line-height:2.05;letter-spacing:.08em}.tiny{margin-top:22px;color:#6f655b;font:12px/1.8 system-ui,sans-serif}.daily{display:flex;gap:28px;margin-top:46px;padding-top:26px;border-top:1px solid var(--line);max-width:520px}.daily div{flex:1}.daily b{display:block;color:#e7cfaa;font-size:26px;font-weight:400}.daily span{color:#71665c;font-size:12px;letter-spacing:.12em}
+.panel{position:relative;border:1px solid rgba(218,178,106,.24);border-radius:28px;padding:34px;background:linear-gradient(145deg,rgba(33,25,19,.88),rgba(15,12,10,.93));box-shadow:0 34px 100px rgba(0,0,0,.36),inset 0 1px 0 rgba(255,242,214,.04)}.panel:before{content:"";position:absolute;inset:8px;border:1px solid rgba(230,194,127,.07);border-radius:22px;pointer-events:none}.panel-title{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:24px}.panel-title h2{margin:0;font-size:24px;font-weight:500;letter-spacing:.14em}.panel-title p{margin:6px 0 0;color:#756b60;font-size:12px}.moon{width:48px;height:48px;border-radius:50%;border:1px solid rgba(214,176,108,.24);display:grid;place-items:center;color:var(--gold2);box-shadow:inset -11px -8px 0 rgba(204,158,81,.08);font-size:20px}
+.form-row{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:14px}.field label{display:block;color:#8e8174;font-size:12px;margin:0 0 8px 3px;letter-spacing:.1em}.field select,.field input{width:100%;height:46px;border:1px solid rgba(218,179,111,.17);border-radius:12px;background:#100d0b;color:#dfccb0;padding:0 14px;outline:none}.field select:focus,.field input:focus{border-color:rgba(229,189,116,.48);box-shadow:0 0 0 3px rgba(206,160,84,.07)}
+.oracle-stage{height:290px;display:grid;place-items:center;position:relative;margin:8px 0 2px}.halo{position:absolute;width:220px;height:220px;border-radius:50%;background:radial-gradient(circle,rgba(179,117,52,.1),rgba(144,78,36,.035) 45%,transparent 70%);filter:blur(1px);animation:pulse 3.6s ease-in-out infinite}.bowl{position:relative;width:132px;height:128px;transform-origin:50% 88%;filter:drop-shadow(0 22px 18px rgba(0,0,0,.42))}.bowl.shake{animation:shake .13s linear infinite}.sticks{position:absolute;inset:0}.stick{position:absolute;left:50%;bottom:46px;width:8px;height:128px;border-radius:5px 5px 2px 2px;background:linear-gradient(90deg,#70431f,#c28b48 42%,#e3b667 61%,#845125);transform-origin:50% 100%;border-top:4px solid #922b25}.stick:nth-child(1){transform:translateX(-50%) rotate(-16deg)}.stick:nth-child(2){transform:translateX(-50%) rotate(-9deg);height:137px}.stick:nth-child(3){transform:translateX(-50%) rotate(-3deg);height:144px}.stick:nth-child(4){transform:translateX(-50%) rotate(4deg);height:139px}.stick:nth-child(5){transform:translateX(-50%) rotate(11deg);height:132px}.stick:nth-child(6){transform:translateX(-50%) rotate(17deg);height:122px}.cup{position:absolute;left:0;bottom:0;width:132px;height:94px;border-radius:18px 18px 46px 46px;background:linear-gradient(90deg,#52251d,#a14432 42%,#7e2e25 70%,#381a16);border:1px solid rgba(232,173,113,.25);box-shadow:inset 8px 0 18px rgba(0,0,0,.26),inset -8px 0 18px rgba(0,0,0,.2)}.cup:before{content:"签";position:absolute;inset:21px 42px 31px;display:grid;place-items:center;border:1px solid rgba(240,196,131,.55);color:#e5bf81;font-size:25px;line-height:1}.cup:after{content:"";position:absolute;left:13px;right:13px;top:8px;height:8px;border:1px solid rgba(246,202,133,.23);border-radius:50%}
+.draw-btn{width:100%;height:56px;border:1px solid #b9814b;border-radius:14px;background:linear-gradient(180deg,#b74334,#8f2e27);color:#fff1dd;font-size:16px;letter-spacing:.22em;cursor:pointer;box-shadow:0 12px 30px rgba(123,37,28,.24),inset 0 1px 0 rgba(255,255,255,.17);transition:.24s}.draw-btn:hover{transform:translateY(-2px);filter:brightness(1.08)}.draw-btn:disabled{opacity:.6;cursor:wait;transform:none}.hint{text-align:center;color:#625950;font-size:11px;margin:12px 0 0;letter-spacing:.08em}
+.result{max-width:1160px;margin:0 auto;padding:0 clamp(24px,6vw,88px) 100px;display:none}.result.show{display:block;animation:rise .72s cubic-bezier(.2,.78,.25,1)}.result-head{text-align:center;margin:12px 0 34px}.result-head span{color:#806f5c;font-size:12px;letter-spacing:.34em}.result-head h2{font-size:34px;font-weight:400;letter-spacing:.22em;margin:13px 0 0;color:#e8d1ab}.paper{position:relative;background:linear-gradient(93deg,#e2ceb0 0,#f7ecda 9%,#efe0c7 48%,#f7ecdb 90%,#ddc3a0 100%);color:#30251b;border-radius:4px;padding:clamp(30px,6vw,66px);box-shadow:0 26px 70px rgba(0,0,0,.35);overflow:hidden}.paper:before{content:"";position:absolute;inset:0;opacity:.09;background-image:radial-gradient(#4d3725 .55px,transparent .55px);background-size:7px 7px}.paper-grid{position:relative;display:grid;grid-template-columns:180px 1fr;gap:clamp(30px,5vw,68px)}.lot-no{border-right:1px solid rgba(92,58,33,.2);padding-right:26px;text-align:center}.lot-no .num{font-size:74px;color:#9b372d;line-height:1}.lot-no .rank{margin-top:14px;color:#6e4a2e;letter-spacing:.22em;font-size:15px}.red-seal{width:74px;height:74px;margin:36px auto 0;border:3px double #a34235;color:#a34235;display:grid;place-items:center;font-weight:bold;font-size:22px;transform:rotate(-7deg);opacity:.86}.lot-main .title{display:flex;align-items:center;gap:14px;color:#7a4d2a;font-size:14px;letter-spacing:.2em}.lot-main h3{font-size:30px;font-weight:500;letter-spacing:.16em;margin:12px 0 18px;color:#332417}.poem{font-size:clamp(21px,3vw,28px);line-height:1.9;letter-spacing:.16em;color:#3d2b1c;margin:8px 0 28px}.explain{padding-top:22px;border-top:1px solid rgba(75,48,27,.18);font-size:15px;line-height:2;color:#66513e}.tags{display:flex;flex-wrap:wrap;gap:9px;margin-top:23px}.tag{padding:7px 12px;border:1px solid rgba(105,67,36,.2);font-size:12px;color:#6c4b31;background:rgba(255,255,255,.15)}
+.fortune-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin-top:18px}.fortune-item{background:rgba(20,15,12,.72);border:1px solid rgba(219,177,106,.12);border-radius:14px;padding:16px}.fortune-item b{font-size:12px;color:#8d7d6b;font-weight:400}.bar{height:4px;background:#292019;border-radius:99px;margin:12px 0 8px;overflow:hidden}.bar i{display:block;height:100%;background:linear-gradient(90deg,#8f352b,#d3a55d);border-radius:99px}.fortune-item span{color:#d6bd96;font-size:13px}.result-actions{display:flex;justify-content:center;gap:12px;margin-top:24px}.ghost{height:44px;padding:0 22px;border:1px solid rgba(212,174,111,.25);border-radius:999px;background:transparent;color:#a99a86;cursor:pointer}.ghost:hover{border-color:#b99259;color:#e6cda4}
+.footer{padding:34px 24px 46px;text-align:center;border-top:1px solid rgba(220,182,115,.08);color:#5f564d;font:12px/1.9 system-ui,sans-serif}.footer b{color:#887868;font-weight:500}
+.toast{position:fixed;left:50%;bottom:30px;transform:translate(-50%,20px);padding:11px 18px;border:1px solid rgba(218,179,111,.2);border-radius:999px;background:rgba(20,15,12,.93);color:#d9c19e;font-size:12px;opacity:0;pointer-events:none;transition:.3s;z-index:30}.toast.show{opacity:1;transform:translate(-50%,0)}
+@keyframes shake{0%{transform:rotate(-3deg) translateX(-2px)}50%{transform:rotate(3deg) translateX(2px)}100%{transform:rotate(-3deg) translateX(-2px)}}@keyframes pulse{50%{transform:scale(1.12);opacity:.6}}@keyframes rise{from{opacity:0;transform:translateY(22px)}to{opacity:1;transform:none}}
+@media(max-width:900px){header{height:66px;padding:0 20px}.brand small,nav a{display:none}.hero{grid-template-columns:1fr;padding:46px 20px 56px;gap:42px}.hero h1{font-size:64px}.hero h1 span{margin-left:.45em}.lead{font-size:15px}.panel{padding:24px 20px}.result{padding:0 20px 72px}.paper-grid{grid-template-columns:1fr}.lot-no{border-right:0;border-bottom:1px solid rgba(92,58,33,.17);padding:0 0 24px;display:grid;grid-template-columns:auto auto 1fr;align-items:center;gap:14px;text-align:left}.lot-no .num{font-size:54px}.lot-no .rank{margin:0}.red-seal{width:58px;height:58px;margin:0 0 0 auto;font-size:18px}.fortune-grid{grid-template-columns:repeat(2,1fr)}.fortune-item:last-child{grid-column:span 2}}
+@media(max-width:520px){.hero h1{font-size:53px}.form-row{grid-template-columns:1fr}.oracle-stage{height:260px}.daily{gap:14px}.daily b{font-size:22px}.paper{padding:28px 22px}.poem{font-size:20px;letter-spacing:.1em}.fortune-grid{gap:8px}.result-actions{flex-wrap:wrap}}
+</style>
 </head>
 <body>
-  <main class="card">
-    <span class="badge">SITE ONLINE</span>
-    <h1>网站已准备就绪</h1>
-    <p>这是你的免费网站主页。域名、HTTPS 和静态托管部署完成后，你可以继续在这里放作品集、项目介绍、软件下载页、博客或企业官网。</p>
-    <div class="line"></div>
-    <footer>Powered by GitHub Pages</footer>
-  </main>
+<div class="bg"></div><div class="noise"></div><div class="ornament"></div>
+<header>
+  <div class="brand"><div class="seal"><span>玄</span></div><div><strong>玄签阁</strong><small>ORIENTAL ORACLE</small></div></div>
+  <nav><a href="#draw">问签</a><a href="#result">解签</a><button id="aboutBtn">关于</button></nav>
+</header>
+<main>
+<section class="hero" id="draw">
+  <div>
+    <div class="kicker">一念澄明 · 一签问心</div>
+    <h1>静心<span>求一签</span></h1>
+    <p class="lead">心有所问，签有所应。于此片刻放下纷扰，默念所求之事，轻摇签筒。所得签文不替你决定人生，却可借古意照见当下。</p>
+    <p class="tiny">传统文化娱乐体验 · 不作为投资、医疗、法律、婚恋等现实决策依据</p>
+    <div class="daily"><div><b id="dateCn">—</b><span>今日</span></div><div><b id="luckyHour">—</b><span>宜静心时</span></div><div><b id="luckyWord">—</b><span>今日一字</span></div></div>
+  </div>
+  <div class="panel">
+    <div class="panel-title"><div><h2>诚心问签</h2><p>先定所问，再摇签筒</p></div><div class="moon">◒</div></div>
+    <div class="form-row">
+      <div class="field"><label>所问之事</label><select id="topic"><option value="事业">事业 · 前程</option><option value="财运">财运 · 机缘</option><option value="情缘">情缘 · 人际</option><option value="学业">学业 · 成长</option><option value="身心">身心 · 状态</option><option value="出行">出行 · 计划</option></select></div>
+      <div class="field"><label>心中所念（可不填）</label><input id="wish" maxlength="24" placeholder="默念即可，亦可写下" /></div>
+    </div>
+    <div class="oracle-stage"><div class="halo"></div><div class="bowl" id="bowl"><div class="sticks"><i class="stick"></i><i class="stick"></i><i class="stick"></i><i class="stick"></i><i class="stick"></i><i class="stick"></i></div><div class="cup"></div></div></div>
+    <button class="draw-btn" id="drawBtn">静 心 · 摇 签</button><p class="hint">一事一问，心诚则静。今日可反复体验。</p>
+  </div>
+</section>
+<section class="result" id="result">
+  <div class="result-head"><span>ORACLE REVEALED</span><h2>签 文 已 现</h2></div>
+  <article class="paper">
+    <div class="paper-grid">
+      <aside class="lot-no"><div class="num" id="lotNum">01</div><div class="rank" id="lotRank">上吉</div><div class="red-seal">玄签</div></aside>
+      <div class="lot-main"><div class="title"><span id="lotTopic">事业</span><span>·</span><span id="lotName">云开见月</span></div><h3 id="lotTitle">云开月自明</h3><div class="poem" id="lotPoem">云开雾散见青天，<br>一叶轻舟过远川。<br>莫向途中频问路，<br>花明正待有缘人。</div><div class="explain" id="lotExplain">眼前之事已从混沌渐趋明朗。与其频繁改变方向，不如把眼下能做的事稳稳做好。机缘往往在你不再焦灼追问时出现。</div><div class="tags" id="lotTags"></div></div>
+    </div>
+  </article>
+  <div class="fortune-grid" id="fortuneGrid"></div>
+  <div class="result-actions"><button class="ghost" id="againBtn">再求一签</button><button class="ghost" id="copyBtn">复制签文</button></div>
+</section>
+</main>
+<footer class="footer"><b>玄签阁</b> · 东方签文化互动体验<br>签文由本站整理创作，仅供文化娱乐与自我反思，不应替代专业意见或现实判断。</footer>
+<div class="toast" id="toast">已复制签文</div>
+<script>
+const lots=[
+{r:'上上',n:'云开见月',t:'云开月自明',p:['云开雾散见青天','一叶轻舟过远川','莫向途中频问路','花明正待有缘人'],e:'局面正从混沌走向清晰。守住已经验证有效的方向，比频繁换路更重要。你期待的转机并非遥远，只需少一些焦灼，多一些持续。',tags:['守正','渐明','贵人','宜坚持'],score:[92,86,88,84,90]},
+{r:'上吉',n:'春水生波',t:'一池春水起新澜',p:['春水初生绕小桥','东风一夜过林梢','若逢旧径添新意','自有轻舟趁晚潮'],e:'新的变化已经开始，只是力度尚小。旧方法若稍作调整，反而能生出新机会。此签宜顺势微调，不宜推翻重来。',tags:['新机','调整','顺势','宜行动'],score:[86,84,82,88,87]},
+{r:'中吉',n:'竹影清风',t:'静里自有清风来',p:['竹影摇窗月半弯','清风不语过前山','心头若少三分急','自见行舟过九湾'],e:'此时最大的阻力可能不是外界，而是心中过急。把节奏放稳，先处理最确定的一件事，很多复杂会自行松开。',tags:['静心','稳进','忌急','渐顺'],score:[78,72,80,90,84]},
+{r:'上吉',n:'鸿雁传书',t:'远信终有回音时',p:['鸿雁横空过暮云','长亭有信入柴门','久候不须疑旧约','迟来消息亦逢春'],e:'等待之事有回音之象，但节奏未必如你所愿。适合主动做一次清晰而克制的沟通，之后留出空间。',tags:['消息','沟通','有回音','勿催'],score:[82,78,89,80,84]},
+{r:'小吉',n:'石上清泉',t:'慢处方知水自清',p:['石上清泉细细流','不争江海也无愁','若将寸步皆行稳','终到青山最高楼'],e:'此签不主突进，主积累。眼下看似进展缓慢，但每一步都在增加确定性。长期之事尤其有利。',tags:['积累','慢成','稳健','忌冒进'],score:[76,75,73,88,91]},
+{r:'中吉',n:'灯火可亲',t:'归处灯明人自安',p:['夜深灯火照寒窗','归鸟低飞入旧梁','莫向人间求万满','三分知足九分香'],e:'你所求之事未必需要“全部圆满”才算好。把注意力放回真实拥有的人与资源，答案会更踏实。',tags:['知足','家和','安稳','宜整理'],score:[74,70,88,92,79]},
+{r:'上上',n:'鲲鹏乘风',t:'长风正送万里舟',p:['一翼初张上碧霄','长风万里正相邀','从来远志非闲梦','今日扬帆莫待潮'],e:'这是行动力很强的一签。若你已经准备较久，现在更适合把计划推向公开、提交、发布或真正开始，而不是继续打磨到“完美”。',tags:['突破','发布','远行','宜果断'],score:[95,90,80,82,88]},
+{r:'平',n:'雾锁山门',t:'山在云深路未明',p:['远山隐隐入重云','行客停鞭问旧门','不是前途无去处','只缘此刻未逢辰'],e:'现在信息不足，贸然下结论容易误判。此签宜等待更多事实出现，并准备两套方案，不宜把全部筹码压在单一路径。',tags:['观望','求证','留后路','忌冲动'],score:[61,58,62,74,70]},
+{r:'中吉',n:'梅香破雪',t:'寒尽梅香第一枝',p:['雪压疏枝未肯低','暗香先到小桥西','寒深恰是春将近','且把初心照旧题'],e:'目前的压力并不等于方向错误。若这件事本身值得，短期困难更像是临界点。继续保留核心目标，同时减少无效消耗。',tags:['熬过','初心','转暖','守成'],score:[84,76,79,81,89]},
+{r:'上吉',n:'双燕归梁',t:'两心相照意自长',p:['双燕归梁绕旧庭','春风入户柳青青','若将真意分明说','胜却千言未定情'],e:'人际与情感相关之事，宜真诚表达而非反复揣测。关系的改善来自清楚、温和、可被回应的沟通。',tags:['情缘','坦诚','和合','宜沟通'],score:[79,74,94,86,78]},
+{r:'小吉',n:'守株新芽',t:'旧土也能发新枝',p:['旧土经霜又一春','枯枝不久见芽新','休嫌眼下无颜色','好景常从细处生'],e:'旧项目、旧关系或旧技能仍有重新生长的空间。不要只因为过去效果一般就彻底否定，先做一次小规模重启。',tags:['重启','旧缘','小步','渐好'],score:[75,71,80,82,86]},
+{r:'中吉',n:'渡口微灯',t:'夜渡逢灯路可寻',p:['江阔天低夜色深','孤舟忽见一灯明','但凭寸火分前路','不必今宵问远程'],e:'你不需要一次看清全部未来，只需找到下一个可靠落点。适合拆解目标、缩短周期，以小结果累积信心。',tags:['指引','拆解','小目标','稳进'],score:[80,73,76,84,88]},
+{r:'上上',n:'凤凰来仪',t:'百尺梧桐引凤来',p:['梧桐高处起清音','有凤来仪入上林','十载栽培非偶遇','今朝相见正同心'],e:'长期积累开始吸引更匹配的机会。此签尤其利于合作、展示能力、被看见。准备好作品与清晰表达，会放大好运。',tags:['合作','被看见','贵人','成果'],score:[94,87,90,85,91]},
+{r:'平',n:'潮退见沙',t:'潮退方知石与沙',p:['潮来万顷似无涯','潮退滩头见石沙','若问此行真与幻','且看退后剩何花'],e:'当前适合做减法。等热度、情绪或外部噪声退去，再判断哪些是真价值。对金钱和重大承诺尤其要看长期事实。',tags:['减法','看本质','审慎','忌追高'],score:[66,54,68,82,75]},
+{r:'上吉',n:'桃李成蹊',t:'花开无语自成蹊',p:['桃李无言径自开','清香不逐俗尘来','但将真本藏枝叶','自有知音踏月来'],e:'不必过度证明自己。持续输出真正有价值的东西，会自然带来认可。此签利于作品、口碑、考试与长期经营。',tags:['口碑','作品','成长','自然成'],score:[88,82,85,84,95]},
+{r:'中吉',n:'松间明月',t:'松间明月照归程',p:['松静风轻月满山','行人缓步过重关','前程未必皆平坦','心定何妨路几弯'],e:'外部环境仍可能有波折，但你的判断力正在变稳定。先确认最重要的原则，再对细节保持弹性，能少走弯路。',tags:['定心','原则','弹性','稳中有进'],score:[83,77,79,91,86]},
+{r:'小吉',n:'溪桥问路',t:'问路不如先过桥',p:['溪桥横处水声长','过客临流问四方','一步踏开千种虑','原来前路在桥旁'],e:'想得太久会让简单问题变复杂。若风险可控，不妨先做一个低成本实验。行动本身会提供比猜测更准确的信息。',tags:['试一试','低成本','行动','破犹豫'],score:[81,76,74,83,88]},
+{r:'上吉',n:'金鳞跃浪',t:'一跃龙门水自宽',p:['金鳞久蓄碧潭中','忽借春雷跃九重','莫怪今朝风浪急','高门常在险波东'],e:'机会伴随压力同时到来。若目标明确，短时强度增加并非坏事，但要避免用透支换结果。大胆与节制需要同时存在。',tags:['机会','升级','迎挑战','勿透支'],score:[92,89,78,75,86]},
+{r:'平',n:'枯荷听雨',t:'一池秋雨听枯荷',p:['雨打枯荷夜未央','旧声滴滴入回廊','若将昨日时时想','怎见晨光到短墙'],e:'过去经验可以参考，但不宜反复沉浸。此签提醒你把“已经发生”与“接下来要做”分开，清理拖延已久的小事会有帮助。',tags:['放下','清理','向前','忌反刍'],score:[64,65,66,79,72]},
+{r:'中吉',n:'桂子飘香',t:'暗香不语入高楼',p:['桂子无声落晚秋','暗香一缕上高楼','好事从来多细密','不须锣鼓满街头'],e:'好变化正在安静发生，可能来自细节、私下认可或渐进增长。不要因“还不轰动”就否定它。',tags:['暗喜','小成','细节','静候'],score:[84,80,83,87,85]},
+{r:'上上',n:'日照金山',t:'朝阳一照万峰明',p:['夜尽东方第一红','千峰次第出云中','若将旧愿重新整','正可乘光上远峰'],e:'适合重新启动重要目标，也适合做清晰的优先级排序。今天若能决定“最值得做的一件事”，后续会明显顺畅。',tags:['开局','清晰','上升','宜定目标'],score:[96,91,86,88,94]},
+{r:'小吉',n:'舟系柳岸',t:'暂系轻舟也无妨',p:['柳岸风柔水不惊','轻舟暂系听莺鸣','歇时不是行程止','蓄得新力再长征'],e:'休息不是退步。若你近期持续疲惫，先恢复节奏反而能提升后续效率。此签宜修整、复盘、补能量。',tags:['休整','复盘','养力','勿硬撑'],score:[70,72,81,95,78]},
+{r:'中吉',n:'青鸟衔枝',t:'青鸟衔来一枝春',p:['青鸟穿云过远林','衔来新绿到窗阴','相逢未必皆偶遇','一句温言抵万金'],e:'人与人的善意是近期的重要变量。主动感谢、求助或建立连接，都可能带来意外的正反馈。',tags:['人缘','善意','连接','贵人'],score:[82,78,91,89,81]},
+{r:'上吉',n:'星河入梦',t:'星河万里照初心',p:['星河低转夜无尘','万里微光各有真','莫羡他人天际路','守君一颗最初心'],e:'比较会让你偏离自己的节奏。此签主“归心”：以自己的目标和边界衡量进展，反而更容易获得稳定成果。',tags:['初心','自洽','专注','忌比较'],score:[87,80,84,90,92]}
+];
+const topicNotes={事业:'事业所问宜看长期积累与可验证的行动，不宜只凭一时情绪判断。',财运:'财运所问宜重风险与现金流，签意仅作提醒，不构成投资建议。',情缘:'情缘所问重在真实沟通与双方意愿，不以签文替代现实相处。',学业:'学业所问宜把目标拆小，以持续练习代替临时焦虑。',身心:'身心所问宜先照顾作息与状态；若有持续不适，应寻求专业帮助。',出行:'出行所问宜以实际天气、交通与安全信息为准，签意仅作文化娱乐。'};
+const labels=['事业','财运','情缘','身心','成长'];
+const dateCn=document.getElementById('dateCn'),luckyHour=document.getElementById('luckyHour'),luckyWord=document.getElementById('luckyWord');
+const now=new Date();dateCn.textContent=`${now.getMonth()+1}月${now.getDate()}日`;const daySeed=now.getFullYear()*10000+(now.getMonth()+1)*100+now.getDate();
+const hours=['卯时','辰时','巳时','午时','申时','酉时','戌时'];luckyHour.textContent=hours[daySeed%hours.length];const words=['静','明','和','定','善','进','舍','诚','守','新'];luckyWord.textContent=words[daySeed%words.length];
+let current=null;
+function pick(){if(window.crypto&&crypto.getRandomValues){const a=new Uint32Array(1);crypto.getRandomValues(a);return a[0]%lots.length}return Math.floor(Math.random()*lots.length)}
+function render(lot,index){const topic=document.getElementById('topic').value;const wish=document.getElementById('wish').value.trim();current={...lot,index,topic,wish};document.getElementById('lotNum').textContent=String(index+1).padStart(2,'0');document.getElementById('lotRank').textContent=lot.r;document.getElementById('lotTopic').textContent=topic;document.getElementById('lotName').textContent=lot.n;document.getElementById('lotTitle').textContent=lot.t;document.getElementById('lotPoem').innerHTML=lot.p.join('<br>');document.getElementById('lotExplain').textContent=lot.e+' '+topicNotes[topic]+(wish?` 你所念“${wish}”，宜先从一件最可执行的小事开始。`:'');document.getElementById('lotTags').innerHTML=lot.tags.map(x=>`<span class="tag">${x}</span>`).join('');document.getElementById('fortuneGrid').innerHTML=labels.map((x,i)=>`<div class="fortune-item"><b>${x}</b><div class="bar"><i style="width:${lot.score[i]}%"></i></div><span>${lot.score[i]} / 100</span></div>`).join('');const r=document.getElementById('result');r.classList.add('show');setTimeout(()=>r.scrollIntoView({behavior:'smooth',block:'start'}),120);localStorage.setItem('xuanqian-last',JSON.stringify({d:new Date().toDateString(),i:index,topic}));}
+function draw(){const btn=document.getElementById('drawBtn'),bowl=document.getElementById('bowl');btn.disabled=true;btn.textContent='签 筒 · 摇 动 中';bowl.classList.add('shake');setTimeout(()=>{bowl.classList.remove('shake');const i=pick();render(lots[i],i);btn.disabled=false;btn.textContent='静 心 · 再 摇 一 签'},1500)}
+document.getElementById('drawBtn').addEventListener('click',draw);document.getElementById('againBtn').addEventListener('click',()=>{document.getElementById('draw').scrollIntoView({behavior:'smooth'});setTimeout(draw,600)});
+function toast(msg){const t=document.getElementById('toast');t.textContent=msg;t.classList.add('show');setTimeout(()=>t.classList.remove('show'),1800)}
+document.getElementById('copyBtn').addEventListener('click',async()=>{if(!current)return;const text=`玄签阁 · 第${String(current.index+1).padStart(2,'0')}签 · ${current.r}\n${current.t}\n${current.p.join('\n')}\n\n解曰：${current.e}\n（仅供文化娱乐参考）`;try{await navigator.clipboard.writeText(text);toast('签文已复制')}catch(e){toast('请长按页面复制签文')}});
+document.getElementById('aboutBtn').addEventListener('click',()=>toast('玄签阁 · 东方签文化互动体验'));
+</script>
 </body>
 </html>
