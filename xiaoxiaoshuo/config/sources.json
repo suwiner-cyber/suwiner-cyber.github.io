@@ -1,96 +1,18 @@
 {
   "sources": [
-    {
-      "name": "爱下电子书",
-      "url": "https://ixdzs8.com/",
-      "authorized": true,
-      "catalog_allowed": true,
-      "fulltext_allowed": true,
-      "delay_seconds": 0.8,
-      "catalog_pages_per_run": 60,
-      "full_site_mode": true,
-      "language": "zh",
-      "media_policy": "text-only",
-      "note": "仅抓取中文文本小说、目录与正文；禁止音频书和音频资源。"
-    },
-    {
-      "name": "塔读文学",
-      "url": "https://www.tadu.com/",
-      "authorized": true,
-      "catalog_allowed": true,
-      "fulltext_allowed": true,
-      "delay_seconds": 1.0,
-      "catalog_pages_per_run": 60,
-      "full_site_mode": true,
-      "language": "zh",
-      "media_policy": "text-only",
-      "note": "仅抓取中文文本小说、目录与正文；禁止音频书和音频资源。"
-    },
-    {
-      "name": "努努书坊",
-      "url": "https://www.kanunu8.com/",
-      "authorized": true,
-      "catalog_allowed": true,
-      "fulltext_allowed": true,
-      "delay_seconds": 1.0,
-      "catalog_pages_per_run": 60,
-      "full_site_mode": true,
-      "language": "zh",
-      "media_policy": "text-only",
-      "note": "仅抓取中文文本小说、目录与正文；禁止音频书和音频资源。"
-    },
-    {
-      "name": "九九藏书网",
-      "url": "https://www.99csw.com/",
-      "authorized": true,
-      "catalog_allowed": true,
-      "fulltext_allowed": true,
-      "delay_seconds": 1.0,
-      "catalog_pages_per_run": 60,
-      "full_site_mode": true,
-      "language": "zh",
-      "media_policy": "text-only",
-      "note": "仅抓取中文文本小说、目录与正文；禁止音频书和音频资源。"
-    },
-    {
-      "name": "言情小说吧",
-      "url": "https://www.xs8.cn/",
-      "authorized": true,
-      "catalog_allowed": true,
-      "fulltext_allowed": true,
-      "delay_seconds": 1.0,
-      "catalog_pages_per_run": 60,
-      "full_site_mode": true,
-      "language": "zh",
-      "media_policy": "text-only",
-      "note": "仅抓取中文文本小说、目录与正文；禁止音频书和音频资源。"
-    },
-    {
-      "name": "一七小说",
-      "url": "https://www.1qxs.com/",
-      "authorized": true,
-      "catalog_allowed": true,
-      "fulltext_allowed": true,
-      "delay_seconds": 1.0,
-      "catalog_pages_per_run": 60,
-      "full_site_mode": true,
-      "language": "zh",
-      "media_policy": "text-only",
-      "note": "仅抓取中文文本小说、目录与正文；禁止音频书和音频资源。"
-    },
-    {
-      "name": "滋味小说网",
-      "url": "https://www.zwxiaoshuo.com/",
-      "authorized": true,
-      "catalog_allowed": true,
-      "fulltext_allowed": true,
-      "delay_seconds": 1.0,
-      "catalog_pages_per_run": 60,
-      "full_site_mode": true,
-      "language": "zh",
-      "media_policy": "text-only",
-      "note": "仅抓取中文文本小说、目录与正文；禁止音频书和音频资源。"
-    }
+    {"name":"爱下电子书","url":"https://ixdzs8.com/","authorized":true,"catalog_allowed":true,"fulltext_allowed":true,"delay_seconds":0.8,"catalog_pages_per_run":60,"full_site_mode":true,"language":"zh","media_policy":"text-only","note":"仅抓取中文文本小说、目录与正文；禁止音频书和音频资源。"},
+    {"name":"塔读文学","url":"https://www.tadu.com/","authorized":true,"catalog_allowed":true,"fulltext_allowed":true,"delay_seconds":1.0,"catalog_pages_per_run":60,"full_site_mode":true,"language":"zh","media_policy":"text-only","note":"仅抓取中文文本小说、目录与正文；禁止音频书和音频资源。"},
+    {"name":"努努书坊","url":"https://www.kanunu8.com/","authorized":true,"catalog_allowed":true,"fulltext_allowed":true,"delay_seconds":1.0,"catalog_pages_per_run":60,"full_site_mode":true,"language":"zh","media_policy":"text-only","note":"仅抓取中文文本小说、目录与正文；禁止音频书和音频资源。"},
+    {"name":"九九藏书网","url":"https://www.99csw.com/","authorized":true,"catalog_allowed":true,"fulltext_allowed":true,"delay_seconds":1.0,"catalog_pages_per_run":60,"full_site_mode":true,"language":"zh","media_policy":"text-only","note":"仅抓取中文文本小说、目录与正文；禁止音频书和音频资源。"},
+    {"name":"言情小说吧","url":"https://www.xs8.cn/","authorized":true,"catalog_allowed":true,"fulltext_allowed":true,"delay_seconds":1.0,"catalog_pages_per_run":60,"full_site_mode":true,"language":"zh","media_policy":"text-only","note":"仅抓取中文文本小说、目录与正文；禁止音频书和音频资源。"},
+    {"name":"一七小说","url":"https://www.1qxs.com/","authorized":true,"catalog_allowed":true,"fulltext_allowed":true,"delay_seconds":1.0,"catalog_pages_per_run":60,"full_site_mode":true,"language":"zh","media_policy":"text-only","note":"仅抓取中文文本小说、目录与正文；禁止音频书和音频资源。"},
+    {"name":"滋味小说网","url":"https://www.zwxiaoshuo.com/","authorized":true,"catalog_allowed":true,"fulltext_allowed":true,"delay_seconds":1.0,"catalog_pages_per_run":60,"full_site_mode":true,"language":"zh","media_policy":"text-only","note":"仅抓取中文文本小说、目录与正文；禁止音频书和音频资源。"},
+    {"name":"乐文小说","url":"https://www.ilwxs.com/","authorized":true,"catalog_allowed":true,"fulltext_allowed":true,"delay_seconds":0.8,"catalog_pages_per_run":80,"full_site_mode":true,"language":"zh","media_policy":"text-only","note":"用户已确认拥有全文抓取和再分发授权；仅抓取中文文本小说、完整目录与公开正文；禁止音频资源。"},
+    {"name":"泡书吧小说网","url":"https://www.ipaoshubaxs.net/","authorized":true,"catalog_allowed":true,"fulltext_allowed":true,"delay_seconds":0.8,"catalog_pages_per_run":80,"full_site_mode":true,"language":"zh","media_policy":"text-only","note":"用户已确认拥有全文抓取和再分发授权；仅抓取中文文本小说、完整目录与公开正文；禁止音频资源。"},
+    {"name":"AAAKS小说","url":"https://www.aaaks.com/","authorized":true,"catalog_allowed":true,"fulltext_allowed":true,"delay_seconds":1.0,"catalog_pages_per_run":80,"full_site_mode":true,"language":"zh","media_policy":"text-only","note":"用户已确认拥有全文抓取和再分发授权；仅抓取中文文本小说、完整目录与公开正文；禁止音频资源。"},
+    {"name":"69书吧","url":"https://www.69shuba.com/","authorized":true,"catalog_allowed":true,"fulltext_allowed":true,"delay_seconds":0.8,"catalog_pages_per_run":80,"full_site_mode":true,"language":"zh","media_policy":"text-only","note":"用户已确认拥有全文抓取和再分发授权；仅抓取中文文本小说、完整目录与公开正文；禁止音频资源。"},
+    {"name":"飘天文学","url":"https://www.piaotia.com/","authorized":true,"catalog_allowed":true,"fulltext_allowed":true,"delay_seconds":0.8,"catalog_pages_per_run":80,"full_site_mode":true,"language":"zh","media_policy":"text-only","note":"用户已确认拥有全文抓取和再分发授权；仅抓取中文文本小说、完整目录与公开正文；禁止音频资源。"},
+    {"name":"和图书","url":"https://www.hetushu.com/","authorized":true,"catalog_allowed":true,"fulltext_allowed":true,"delay_seconds":0.8,"catalog_pages_per_run":80,"full_site_mode":true,"language":"zh","media_policy":"text-only","note":"用户已确认拥有全文抓取和再分发授权；仅抓取中文文本小说、完整目录与公开正文；禁止音频资源。"}
   ],
-  "notes": "Chinese text novels only. Audio books, audio metadata and audio files are prohibited globally and purged before publication. Global deduplication remains enabled. Restricted/authenticated/CAPTCHA/paywalled content is not bypassed."
+  "notes":"13 authorized Chinese text-novel sources. Audio books, audio metadata and audio files are prohibited globally and purged before publication. Global deduplication remains enabled. Restricted/authenticated/CAPTCHA/paywalled content is not bypassed."
 }
