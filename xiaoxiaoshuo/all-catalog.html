@@ -1,1 +1,72 @@
-<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>小小说 · 全站索引库</title><style>body{font-family:system-ui,"PingFang SC";max-width:1100px;margin:auto;padding:28px;background:#f5f3ec;color:#1b2823}.top,.book-card{background:#fff;border:1px solid #e5e0d5;border-radius:18px;padding:18px;margin:12px 0}.book-card{display:grid;grid-template-columns:90px 1fr;gap:18px}img{width:90px;height:120px;object-fit:cover;border-radius:10px;background:#eee}p{color:#68736e;line-height:1.6}a{color:#176b55}.muted{color:#89938e}</style></head><body><section class="top"><h1>小小说 · 全站索引库</h1><p id="status">正在读取书库数据…</p><p class="muted">此页面会永久存在，即使爬虫暂时没有抓到数据也不会再 404。</p></section><main id="books"></main><script>const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));fetch('data/full_catalog.json?ts='+Date.now()).then(r=>r.ok?r.json():Promise.reject()).then(d=>{const a=d.books||[];status.textContent='当前已索引 '+a.length+' 本';books.innerHTML=a.length?a.map(b=>`<article class="book-card"><img src="${esc(b.cover)}" loading="lazy"><div><h3>${esc(b.title)}</h3><p>${esc(b.author)} · ${esc(b.kind)} · ${esc(b.status)} · ${Number(b.chapter_count||0)}章/集</p><p>${esc(b.intro||'')}</p><a href="${esc(b.source_url)}" rel="nofollow">源站详情</a></div></article>`).join(''):'<section class="top"><p>书库暂时为空。请查看抓取状态和错误日志。</p></section>'}).catch(()=>{status.textContent='书库数据尚未生成';books.innerHTML='<section class="top"><p>爬虫首次成功运行后，这里会自动显示书籍。</p></section>'})</script></body></html>
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>小小说 · 全站索引库</title>
+<style>
+:root{--bg:#f5f3ec;--card:#fff;--ink:#1b2823;--muted:#68736e;--line:#e5e0d5;--green:#176b55}
+*{box-sizing:border-box}body{font-family:system-ui,-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;max-width:1100px;margin:auto;padding:28px;background:var(--bg);color:var(--ink)}
+.top,.book-card,.notice{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:18px;margin:12px 0}.head{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap}.book-card{display:grid;grid-template-columns:90px 1fr;gap:18px}img{width:90px;height:120px;object-fit:cover;border-radius:10px;background:#eee}p{color:var(--muted);line-height:1.6}a{color:var(--green)}.muted{color:#89938e}.count{font-size:28px;font-weight:800;color:var(--green)}button{border:0;border-radius:12px;padding:10px 14px;background:var(--green);color:white;font-weight:700;cursor:pointer}.error{color:#a33}.ok{color:var(--green)}@media(max-width:600px){body{padding:14px}.book-card{grid-template-columns:65px 1fr}img{width:65px;height:90px}}
+</style>
+</head>
+<body>
+<section class="top">
+  <div class="head"><div><h1>小小说 · 全站索引库</h1><div class="count" id="bookCount">0 本</div></div><button id="reloadBtn" type="button">刷新数据</button></div>
+  <p id="loadStatus">准备读取书库数据…</p>
+  <p class="muted" id="updateTime">尚无更新时间</p>
+</section>
+<main id="bookList"><section class="notice"><p>书库页面已就绪，正在连接数据文件。</p></section></main>
+<script>
+(()=>{
+  'use strict';
+  const statusEl=document.getElementById('loadStatus');
+  const countEl=document.getElementById('bookCount');
+  const timeEl=document.getElementById('updateTime');
+  const listEl=document.getElementById('bookList');
+  const reloadBtn=document.getElementById('reloadBtn');
+  const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+  function showEmpty(msg){
+    countEl.textContent='0 本';
+    listEl.innerHTML=`<section class="notice"><p>${esc(msg)}</p><p class="muted">爬虫成功提交第一批数据后，这里会自动出现小说。</p></section>`;
+  }
+
+  function render(data){
+    const rows=Array.isArray(data?.books)?data.books:[];
+    countEl.textContent=rows.length+' 本';
+    statusEl.className='ok';
+    statusEl.textContent=rows.length?`读取成功：当前已索引 ${rows.length} 本小说。`:'读取成功，但当前数据文件还是空库。';
+    timeEl.textContent=data?.generated_at?'数据更新时间：'+data.generated_at:'数据文件尚未记录抓取时间';
+    if(!rows.length){showEmpty('数据文件可以正常读取，目前只是还没有小说记录。');return;}
+    listEl.innerHTML=rows.map(b=>`<article class="book-card"><img src="${esc(b.cover||'')}" loading="lazy" onerror="this.style.visibility='hidden'"><div><h3>${esc(b.title||'未命名')}</h3><p>${esc(b.author||'未知作者')} · ${esc(b.kind||'未分类')} · ${esc(b.status||'')} · ${Number(b.chapter_count||0)}章/集</p><p>${esc(b.intro||'')}</p>${b.source_url?`<a href="${esc(b.source_url)}" target="_blank" rel="nofollow noopener">源站详情</a>`:''}</div></article>`).join('');
+  }
+
+  async function loadCatalog(){
+    reloadBtn.disabled=true;
+    statusEl.className='';
+    statusEl.textContent='正在读取书库数据…';
+    const ctl=new AbortController();
+    const timer=setTimeout(()=>ctl.abort(),8000);
+    try{
+      const res=await fetch('./data/full_catalog.json?v='+Date.now(),{cache:'no-store',signal:ctl.signal});
+      if(!res.ok)throw new Error('HTTP '+res.status);
+      const data=await res.json();
+      render(data);
+    }catch(e){
+      statusEl.className='error';
+      statusEl.textContent=e?.name==='AbortError'?'读取超时：数据服务器 8 秒内没有响应。':'读取失败：'+(e?.message||'未知错误');
+      timeEl.textContent='页面本身运行正常，问题位于数据文件读取或部署同步。';
+      showEmpty('暂时无法读取书库数据，请稍后刷新。');
+    }finally{
+      clearTimeout(timer);reloadBtn.disabled=false;
+    }
+  }
+
+  reloadBtn.addEventListener('click',loadCatalog);
+  loadCatalog();
+  setInterval(loadCatalog,60000);
+})();
+</script>
+</body>
+</html>
