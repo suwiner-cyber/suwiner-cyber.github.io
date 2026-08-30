@@ -1,0 +1,15 @@
+{
+  "keep": 3,
+  "versions": [
+    {
+      "versionName": "7.0.1",
+      "versionCode": 7001,
+      "file": "xiaoxiaoshuo-v7.0.1.apk",
+      "url": "https://suwiner-cyber.github.io/xiaoxiaoshuo/releases/xiaoxiaoshuo-v7.0.1.apk",
+      "sha256": "966572d7c157f6fa175756fc2af88c7ad33728a6255804f5ab03daa149c81cf1",
+      "bytes": 12,
+      "changelog": "修复华为手机启动时 HomeRecommendPanel VerifyError；保留首页小说推荐、中央书库分类、我的书架、账号云同步、阅读背景/护眼/背景音乐和应用内升级功能。",
+      "mandatory": false
+    }
+  ]
+}
