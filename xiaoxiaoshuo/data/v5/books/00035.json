@@ -1,6 +1,181 @@
 {
   "books": [
     {
+      "id": "ext-8ad734c09b20d87a2e45",
+      "title": "[英]汤姆-贝克: 黑暗之地4：时间诅咒",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6889/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8ad734c09b20d87a2e45",
+        "ext-5827841301836740840"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6889/index.html"
+      ]
+    },
+    {
+      "id": "ext-b4f60cc6057f1fe01693",
+      "title": "[英]汤姆-贝克: 黑暗之地3：暗夜陷阱",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6888/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b4f60cc6057f1fe01693",
+        "ext-4193978460403945554"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6888/index.html"
+      ]
+    },
+    {
+      "id": "ext-13dccd78174a95e22ab1",
+      "title": "[英]汤姆-贝克: 黑暗之地2：生命之血",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6887/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-13dccd78174a95e22ab1",
+        "ext-6793170806146678182"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6887/index.html"
+      ]
+    },
+    {
+      "id": "ext-9d525e9b97b2777481f1",
+      "title": "[英]汤姆-贝克: 黑暗之地1：神秘失踪",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6886/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9d525e9b97b2777481f1",
+        "ext-8241745872739615936"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6886/index.html"
+      ]
+    },
+    {
+      "id": "ext-f7fb143c62db5f87867a",
+      "title": "默里·莱因斯特尔: 疯狂的地球",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6454/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f7fb143c62db5f87867a",
+        "ext-7118925891727088127"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6454/index.html"
+      ]
+    },
+    {
+      "id": "ext-3836965830596ac0f700",
+      "title": "黄易: 龙神",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/sf/201103/2398.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3836965830596ac0f700",
+        "ext-1205919970765117066"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/sf/201103/2398.html"
+      ]
+    },
+    {
+      "id": "ext-a10b176c871c684a6f03",
+      "title": "黄易: 湖祭",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/sf/201103/2397.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a10b176c871c684a6f03",
+        "ext-5784703077342828713"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/sf/201103/2397.html"
+      ]
+    },
+    {
       "id": "ext-9ad5d9e9d3483b62841d",
       "title": "黄易: 月魔(凌渡宇系列)",
       "author": "",
@@ -4823,181 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book3/6854/index.html"
-      ]
-    },
-    {
-      "id": "ext-32fdcabc754ae29fa153",
-      "title": "理查德·A·纳克: 永恒之井",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201102/1504.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-32fdcabc754ae29fa153",
-        "ext-8321582336253164733"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201102/1504.html"
-      ]
-    },
-    {
-      "id": "ext-49aada3c3e9e438e5810",
-      "title": "理查德·A·纳克: 恶魔之魂",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201102/1505.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-49aada3c3e9e438e5810",
-        "ext-6675129320527945234"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201102/1505.html"
-      ]
-    },
-    {
-      "id": "ext-dfbb51ab66ec98208dbc",
-      "title": "理查德·A·纳克: 怒风",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6891/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-dfbb51ab66ec98208dbc",
-        "ext-5357193385459527896"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6891/index.html"
-      ]
-    },
-    {
-      "id": "ext-977e85e1a573717384c3",
-      "title": "理查德·A·纳克: 巨龙时代",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201102/1507.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-977e85e1a573717384c3",
-        "ext-8421252222234041161"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201102/1507.html"
-      ]
-    },
-    {
-      "id": "ext-67d938f3b9847e55d9b2",
-      "title": "理查德·A·纳克: 巨龙之夜",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201102/1514.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-67d938f3b9847e55d9b2",
-        "ext-2410365054394476460"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201102/1514.html"
-      ]
-    },
-    {
-      "id": "ext-1bb6ac60bd0390f577dc",
-      "title": "理查德·A·纳克: 天崩地裂",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201102/1506.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1bb6ac60bd0390f577dc",
-        "ext-6298618844622326237"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201102/1506.html"
-      ]
-    },
-    {
-      "id": "ext-e363f508a562d46cef50",
-      "title": "玛格丽特·魏丝 崔西·西克曼: 龙枪编年史",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6755/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e363f508a562d46cef50",
-        "ext-8971649075252064854"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6755/index.html"
       ]
     }
   ]
