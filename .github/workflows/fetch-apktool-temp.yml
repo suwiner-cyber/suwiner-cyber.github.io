@@ -23,3 +23,18 @@ jobs:
           name: apktool-3.0.3
           path: apktool_3.0.3.jar
           retention-days: 1
+      - name: Collect Android signing tools
+        shell: bash
+        run: |
+          set -euo pipefail
+          latest="$(ls -1d "$ANDROID_HOME"/build-tools/* | sort -V | tail -n 1)"
+          mkdir -p android-signing-tools/lib
+          cp "$latest/apksigner" android-signing-tools/
+          cp "$latest/zipalign" android-signing-tools/
+          cp "$latest/lib/apksigner.jar" android-signing-tools/lib/
+          chmod +x android-signing-tools/apksigner android-signing-tools/zipalign
+      - uses: actions/upload-artifact@v4
+        with:
+          name: android-signing-tools
+          path: android-signing-tools
+          retention-days: 1
