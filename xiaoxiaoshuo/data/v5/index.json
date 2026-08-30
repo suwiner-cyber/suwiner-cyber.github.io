@@ -1,6 +1,6 @@
 {
   "version": 14,
-  "generated_at": "2026-08-30T03:01:51+00:00",
+  "generated_at": "2026-08-30T03:01:56+00:00",
   "total": 11787,
   "shard_size": 200,
   "shards": [
@@ -308,9 +308,9 @@
     {
       "name": "九九藏书网",
       "host": "99csw.com",
-      "pages_this_run": 2,
+      "pages_this_run": 0,
       "successful_pages": 0,
-      "failed_pages": 2,
+      "failed_pages": 0,
       "books_found": 0,
       "books_added": 0,
       "toc_written": 0,
@@ -318,7 +318,7 @@
       "remaining_queue": 0,
       "seen_pages": 2,
       "done": false,
-      "blocked": true,
+      "blocked": false,
       "needs_adapter": true
     },
     {
@@ -469,7 +469,7 @@
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "aaaks.com",
+  "last_published_source": "99csw.com",
   "id_scheme": "stable-v4-aliases",
   "metadata_sanitized": true,
   "text_only": true

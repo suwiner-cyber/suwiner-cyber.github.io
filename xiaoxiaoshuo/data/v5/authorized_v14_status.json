@@ -1,7 +1,7 @@
 {
   "version": 14,
   "adapter_version": "14.2",
-  "generated_at": "2026-08-30T03:01:51+00:00",
+  "generated_at": "2026-08-30T03:01:56+00:00",
   "total_books": 11787,
   "source_counts": {
     "AAAKS小说": 110,
@@ -41,7 +41,7 @@
     "滋味小说网",
     "69书吧"
   ],
-  "last_published_source": "aaaks.com",
+  "last_published_source": "99csw.com",
   "sources": [
     {
       "name": "爱下电子书",
@@ -96,9 +96,9 @@
     {
       "name": "九九藏书网",
       "host": "99csw.com",
-      "pages_this_run": 2,
+      "pages_this_run": 0,
       "successful_pages": 0,
-      "failed_pages": 2,
+      "failed_pages": 0,
       "books_found": 0,
       "books_added": 0,
       "toc_written": 0,
@@ -106,7 +106,7 @@
       "remaining_queue": 0,
       "seen_pages": 2,
       "done": false,
-      "blocked": true,
+      "blocked": false,
       "needs_adapter": true
     },
     {
