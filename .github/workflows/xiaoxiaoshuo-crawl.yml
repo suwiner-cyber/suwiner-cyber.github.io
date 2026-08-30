@@ -43,6 +43,21 @@ jobs:
           git config user.name "xiaoxiaoshuo-library-bot"
           git config user.email "actions@users.noreply.github.com"
 
+          # Immediately remove legacy chapters already corrupted by a wrong charset.
+          python xiaoxiaoshuo/tools/mirror_text_repair.py --purge-only
+          git add xiaoxiaoshuo/data/v5
+          if ! git diff --cached --quiet; then
+            git commit -m "v15 quarantine garbled cached chapters"
+            for attempt in 1 2 3 4 5; do
+              git fetch origin main
+              if git rebase origin/main && git push origin HEAD:main; then
+                break
+              fi
+              git rebase --abort || true
+              sleep $((attempt * 3))
+            done
+          fi
+
           publish() {
             source="$1"
             echo "===== v15 source: $source ====="
@@ -82,7 +97,7 @@ jobs:
           publish "xs8.cn"
           publish "zwxiaoshuo.com"
 
-          # Repair corrupted legacy body cache first, then continue full-text mirroring
+          # Re-fetch missing/corrupt text with strict charset detection.
           python xiaoxiaoshuo/tools/mirror_text_repair.py || true
           python xiaoxiaoshuo/tools/repair_covers.py || true
           python xiaoxiaoshuo/tools/sanitize_library_metadata.py
