@@ -1,6 +1,6 @@
 {
   "version": 14,
-  "generated_at": "2026-08-30T00:58:26+00:00",
+  "generated_at": "2026-08-30T00:59:50+00:00",
   "total": 11291,
   "shard_size": 200,
   "shards": [
@@ -419,18 +419,18 @@
     {
       "name": "69书吧",
       "host": "69shuba.com",
-      "pages_this_run": 2,
+      "pages_this_run": 3,
       "successful_pages": 0,
-      "failed_pages": 2,
+      "failed_pages": 3,
       "books_found": 0,
       "books_added": 0,
       "toc_written": 0,
       "books_seen_total": 0,
       "remaining_queue": 0,
-      "seen_pages": 2,
+      "seen_pages": 3,
       "done": false,
       "blocked": true,
-      "needs_adapter": false
+      "needs_adapter": true
     },
     {
       "name": "飘天文学",
@@ -467,7 +467,7 @@
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "piaotia.com",
+  "last_published_source": "69shuba.com",
   "id_scheme": "stable-v4-aliases",
   "text_only": true
 }

@@ -1,6 +1,7 @@
 {
   "version": 14,
-  "generated_at": "2026-08-30T00:58:26+00:00",
+  "adapter_version": "14.2",
+  "generated_at": "2026-08-30T00:59:50+00:00",
   "total_books": 11291,
   "source_counts": {
     "飘天文学": 80,
@@ -32,7 +33,20 @@
     "飘天文学",
     "和图书"
   ],
-  "last_published_source": "piaotia.com",
+  "zero_book_sources": [
+    "爱下电子书",
+    "塔读文学",
+    "努努书坊",
+    "九九藏书网",
+    "言情小说吧",
+    "滋味小说网",
+    "乐文小说",
+    "泡书吧小说网",
+    "AAAKS小说",
+    "69书吧",
+    "和图书"
+  ],
+  "last_published_source": "69shuba.com",
   "sources": [
     {
       "name": "爱下电子书",
@@ -206,18 +220,18 @@
     {
       "name": "69书吧",
       "host": "69shuba.com",
-      "pages_this_run": 2,
+      "pages_this_run": 3,
       "successful_pages": 0,
-      "failed_pages": 2,
+      "failed_pages": 3,
       "books_found": 0,
       "books_added": 0,
       "toc_written": 0,
       "books_seen_total": 0,
       "remaining_queue": 0,
-      "seen_pages": 2,
+      "seen_pages": 3,
       "done": false,
       "blocked": true,
-      "needs_adapter": false
+      "needs_adapter": true
     },
     {
       "name": "飘天文学",

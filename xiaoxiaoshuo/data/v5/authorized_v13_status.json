@@ -1,6 +1,6 @@
 {
   "version": 13,
-  "generated_at": "2026-08-30T00:58:26+00:00",
+  "generated_at": "2026-08-30T00:59:50+00:00",
   "total_books": 11291,
   "source_counts": {
     "飘天文学": 80,
@@ -18,23 +18,23 @@
   "all_done": false,
   "continue_needed": true,
   "unresolved_sources": [
-    "飘天文学"
+    "69书吧"
   ],
   "sources": [
     {
-      "name": "飘天文学",
-      "host": "piaotia.com",
-      "pages_this_run": 80,
-      "successful_pages": 80,
-      "failed_pages": 0,
-      "books_found": 80,
-      "books_added": 79,
-      "toc_written": 80,
-      "books_seen_total": 80,
-      "remaining_queue": 1155,
-      "seen_pages": 80,
+      "name": "69书吧",
+      "host": "69shuba.com",
+      "pages_this_run": 3,
+      "successful_pages": 0,
+      "failed_pages": 3,
+      "books_found": 0,
+      "books_added": 0,
+      "toc_written": 0,
+      "books_seen_total": 0,
+      "remaining_queue": 0,
+      "seen_pages": 3,
       "done": false,
-      "blocked": false,
+      "blocked": true,
       "needs_adapter": false
     }
   ]

@@ -4,17 +4,21 @@
     "69shuba.com": {
       "queue": [
         "https://www.69shuba.com/",
+        "https://www.69shuba.com/novels/full",
         "https://www.69shuba.com/book/"
       ],
       "seen": [
         "https://www.69shuba.com/",
-        "https://www.69shuba.com/book/"
+        "https://www.69shuba.com/book/",
+        "https://www.69shuba.com/novels/full"
       ],
       "books_seen": 0,
       "done": false,
       "blocked": true,
       "needs_adapter": false,
-      "updated_at": "2026-08-30T00:55:03+00:00"
+      "adapter_version": "14.2",
+      "reset_reason": "adapter_changed",
+      "updated_at": "2026-08-30T00:59:50+00:00"
     },
     "1qxs.com": {
       "queue": [

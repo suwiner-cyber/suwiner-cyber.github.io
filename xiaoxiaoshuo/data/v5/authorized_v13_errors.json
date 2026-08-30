@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T00:58:26+00:00",
+  "generated_at": "2026-08-30T00:59:50+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -9,6 +9,24 @@
     },
     {
       "time": "2026-08-30T00:55:03+00:00",
+      "source": "69书吧",
+      "url": "https://www.69shuba.com/book/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-08-30T00:59:50+00:00",
+      "source": "69书吧",
+      "url": "https://www.69shuba.com/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-08-30T00:59:50+00:00",
+      "source": "69书吧",
+      "url": "https://www.69shuba.com/novels/full",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-08-30T00:59:50+00:00",
       "source": "69书吧",
       "url": "https://www.69shuba.com/book/",
       "error": "HTTP Error 403: Forbidden"
