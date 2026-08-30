@@ -1,6 +1,431 @@
 {
   "books": [
     {
+      "id": "ext-84c47f8cf0326aef58b6",
+      "title": "皎皎: 记忆之城",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10642/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-84c47f8cf0326aef58b6",
+        "ext-5744965599186544181"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10642/index.html"
+      ]
+    },
+    {
+      "id": "ext-c74f9ed4686ea5225e57",
+      "title": "画上眉儿: 杜蕾斯公关小姐",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/dushi/201107/3245.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c74f9ed4686ea5225e57",
+        "ext-1692076697100741943"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/dushi/201107/3245.html"
+      ]
+    },
+    {
+      "id": "ext-0bb2acc8ca2a12b066ce",
+      "title": "玖月晞: 白色橄榄树",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/11110/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-0bb2acc8ca2a12b066ce",
+        "ext-3727988513090660249"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/11110/index.html"
+      ]
+    },
+    {
+      "id": "ext-b44d051d66c97f4cebed",
+      "title": "玖月晞: 一座城，在等你",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/11109/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b44d051d66c97f4cebed",
+        "ext-7504329777990073176"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/11109/index.html"
+      ]
+    },
+    {
+      "id": "ext-d5788e3d0ee9d22f8596",
+      "title": "王海鸰: 热屋顶上的猫",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/8846/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d5788e3d0ee9d22f8596",
+        "ext-2358556289307379170"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/8846/index.html"
+      ]
+    },
+    {
+      "id": "ext-3b215ee312f14fe3298d",
+      "title": "王海鸰: 新结婚时代",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/8847/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3b215ee312f14fe3298d",
+        "ext-2206110427505929501"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/8847/index.html"
+      ]
+    },
+    {
+      "id": "ext-b5bd68b6996c92aeed41",
+      "title": "王海鸰: 新恋爱时代",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/8850/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b5bd68b6996c92aeed41",
+        "ext-2569935692600756030"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/8850/index.html"
+      ]
+    },
+    {
+      "id": "ext-6d2354a07108bf0caa60",
+      "title": "王海鸰: 成长",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/8851/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-6d2354a07108bf0caa60",
+        "ext-3395440271367749412"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/8851/index.html"
+      ]
+    },
+    {
+      "id": "ext-04111757f7ca5b74c024",
+      "title": "王海鸰: 中国式离婚",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/8848/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-04111757f7ca5b74c024",
+        "ext-5505224867012931356"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/8848/index.html"
+      ]
+    },
+    {
+      "id": "ext-36bba3506ea7cae9839a",
+      "title": "王海鸰: 不嫁则已",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/8849/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-36bba3506ea7cae9839a",
+        "ext-6327411354951093973"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/8849/index.html"
+      ]
+    },
+    {
+      "id": "ext-d14f90cb22614aa2d8a2",
+      "title": "玉朵朵(吴景霞): 雪蛮女",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/dushi/201102/1441.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d14f90cb22614aa2d8a2",
+        "ext-3268495765396832876"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/dushi/201102/1441.html"
+      ]
+    },
+    {
+      "id": "ext-dfd420aa991bb2dffb5e",
+      "title": "玉朵朵(吴景霞): 毕婚",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/dushi/201102/1439.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-dfd420aa991bb2dffb5e",
+        "ext-2815050410482658842"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/dushi/201102/1439.html"
+      ]
+    },
+    {
+      "id": "ext-2b39f68f0569cad7f776",
+      "title": "玉朵朵(吴景霞): 半婚(彼岸花开)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/dushi/201102/1438.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2b39f68f0569cad7f776",
+        "ext-6052591478551119787"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/dushi/201102/1438.html"
+      ]
+    },
+    {
+      "id": "ext-a427d5a7af0520a9c96c",
+      "title": "玉朵朵(吴景霞): 五年之痒(婚姻之痒)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/dushi/201102/1440.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a427d5a7af0520a9c96c",
+        "ext-8137777736526542220"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/dushi/201102/1440.html"
+      ]
+    },
+    {
+      "id": "ext-fdbb260f6ef0a74c2718",
+      "title": "每天都要快乐啊: 老板，我动了你的老婆",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/dushi/201106/3096.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-fdbb260f6ef0a74c2718",
+        "ext-7264345993930802728"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/dushi/201106/3096.html"
+      ]
+    },
+    {
+      "id": "ext-91496896dc16f9450fc2",
+      "title": "欧阳静茹: 深圳情人",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/dushi/201106/3107.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-91496896dc16f9450fc2",
+        "ext-2504738435802438954"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/dushi/201106/3107.html"
+      ]
+    },
+    {
+      "id": "ext-6e870fde1641f6366e94",
+      "title": "桐华: 最美的时光(被时光掩埋的秘密)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/yuanchuang/201102/1425.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-6e870fde1641f6366e94",
+        "ext-62131368009886801"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/yuanchuang/201102/1425.html"
+      ]
+    },
+    {
       "id": "ext-4488c8c8aaf494515a29",
       "title": "桐华: 最美的时光",
       "author": "",
@@ -4573,431 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book4/9183/index.html"
-      ]
-    },
-    {
-      "id": "ext-02767e2c39ef44362166",
-      "title": "李惠静: 我的B型血男友",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9286/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-02767e2c39ef44362166",
-        "ext-5647317091177306478"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9286/index.html"
-      ]
-    },
-    {
-      "id": "ext-0cdd319e0ceee243be86",
-      "title": "李庆熙: 对不起，我爱你",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9269/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-0cdd319e0ceee243be86",
-        "ext-4536124038224622407"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9269/index.html"
-      ]
-    },
-    {
-      "id": "ext-4c040207be6f086237d4",
-      "title": "李姬明: 明朗少女成功记",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9305/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-4c040207be6f086237d4",
-        "ext-6443234969740540776"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9305/index.html"
-      ]
-    },
-    {
-      "id": "ext-3efeae8c537a9cfbaa24",
-      "title": "李善美: 长腿叔叔",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9267/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-3efeae8c537a9cfbaa24",
-        "ext-4020071310527456325"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9267/index.html"
-      ]
-    },
-    {
-      "id": "ext-361c275229020590725b",
-      "title": "李光莲: 我的爱俘获了英国王子",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9307/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-361c275229020590725b",
-        "ext-6044761908454979112"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9307/index.html"
-      ]
-    },
-    {
-      "id": "ext-477df4e362676120ab3f",
-      "title": "李佳泾: 别碰我的男朋友",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9301/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-477df4e362676120ab3f",
-        "ext-6347320061649281875"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9301/index.html"
-      ]
-    },
-    {
-      "id": "ext-b006fc257437fc9f5ca8",
-      "title": "朴镒址: 向日葵，求你爱我",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9314/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b006fc257437fc9f5ca8",
-        "ext-1054440181170231886"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9314/index.html"
-      ]
-    },
-    {
-      "id": "ext-1732ae1c31b9f46f7e06",
-      "title": "朴赞旭: 亲切的金子",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9268/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1732ae1c31b9f46f7e06",
-        "ext-154376260872008581"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9268/index.html"
-      ]
-    },
-    {
-      "id": "ext-dfc5da124206a5b2561a",
-      "title": "朴素熙: 宫·野蛮王妃",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9266/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-dfc5da124206a5b2561a",
-        "ext-1342840955168897103"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9266/index.html"
-      ]
-    },
-    {
-      "id": "ext-99580856da844fc4ad7b",
-      "title": "易拉罐(黄珍): 喂，有种ONE_ON_ONE(下)",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9204/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-99580856da844fc4ad7b",
-        "ext-9116439689130976715"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9204/index.html"
-      ]
-    },
-    {
-      "id": "ext-2edd40a9339785b6a00c",
-      "title": "易拉罐(黄珍): 别动我的初恋",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9203/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-2edd40a9339785b6a00c",
-        "ext-7821868955296569000"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9203/index.html"
-      ]
-    },
-    {
-      "id": "ext-ebdcd6b910ae88e655d8",
-      "title": "易拉罐(黄珍): 9分帅，10分拽",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9202/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ebdcd6b910ae88e655d8",
-        "ext-7904076736861414754"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9202/index.html"
-      ]
-    },
-    {
-      "id": "ext-c6dece05f794e50f22a7",
-      "title": "明晓溪: 第一夜的蔷薇3：今夏",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/10933/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c6dece05f794e50f22a7",
-        "ext-1137878544162508606"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/10933/index.html"
-      ]
-    },
-    {
-      "id": "ext-6bea921c20c8327e5914",
-      "title": "明晓溪: 第一夜的蔷薇2：逆光",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/10934/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-6bea921c20c8327e5914",
-        "ext-1748338765276490627"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/10934/index.html"
-      ]
-    },
-    {
-      "id": "ext-374cd6a8b28957cc7640",
-      "title": "明晓溪: 第一夜的蔷薇1：野蔓",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/10935/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-374cd6a8b28957cc7640",
-        "ext-7858964994438232461"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/10935/index.html"
-      ]
-    },
-    {
-      "id": "ext-4fef56dcdc2f1197f7fa",
-      "title": "徐尤美: 浪漫满屋",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9312/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-4fef56dcdc2f1197f7fa",
-        "ext-8971263443184488591"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9312/index.html"
-      ]
-    },
-    {
-      "id": "ext-1b12042fcf9933edc130",
-      "title": "崔情夏: 尚高问题男生VS道高野蛮公主",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9271/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1b12042fcf9933edc130",
-        "ext-2652889859538992153"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9271/index.html"
       ]
     }
   ]
