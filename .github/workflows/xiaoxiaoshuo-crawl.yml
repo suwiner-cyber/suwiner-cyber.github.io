@@ -1,4 +1,4 @@
-name: 小小说中文书库 v14 · 13书源增量即时发布
+name: 小小说中文书库 v15 · 13书源持续同步
 on:
   workflow_dispatch:
   push:
@@ -7,12 +7,10 @@ on:
       - 'xiaoxiaoshuo/tools/crawl_authorized_v13.py'
       - 'xiaoxiaoshuo/tools/crawl_authorized_v14.py'
       - 'xiaoxiaoshuo/tools/normalize_library_ids.py'
+      - 'xiaoxiaoshuo/tools/sanitize_library_metadata.py'
       - 'xiaoxiaoshuo/tools/mirror_text_universal.py'
       - 'xiaoxiaoshuo/tools/repair_covers.py'
       - 'xiaoxiaoshuo/tools/purge_audio.py'
-      - 'xiaoxiaoshuo/reader.html'
-      - 'xiaoxiaoshuo/all-catalog.html'
-      - 'xiaoxiaoshuo/admin/index.html'
       - '.github/workflows/xiaoxiaoshuo-crawl.yml'
   schedule:
     - cron: '17 */6 * * *'
@@ -21,8 +19,8 @@ permissions:
   contents: write
 
 concurrency:
-  group: xiaoxiaoshuo-v14-incremental
-  cancel-in-progress: true
+  group: xiaoxiaoshuo-v15-library-sync
+  cancel-in-progress: false
 
 jobs:
   crawl-all:
@@ -46,16 +44,17 @@ jobs:
 
           publish() {
             source="$1"
-            echo "===== v14 source: $source ====="
+            echo "===== v15 source: $source ====="
             python xiaoxiaoshuo/tools/crawl_authorized_v14.py --source "$source" --pages-per-source 80
             python xiaoxiaoshuo/tools/normalize_library_ids.py
+            python xiaoxiaoshuo/tools/sanitize_library_metadata.py
             python xiaoxiaoshuo/tools/purge_audio.py
             git add xiaoxiaoshuo/data/v5
             if git diff --cached --quiet; then
               echo "No changes for $source"
               return 0
             fi
-            git commit -m "v14 publish source $source"
+            git commit -m "v15 publish source $source"
             for attempt in 1 2 3 4 5; do
               git fetch origin main
               if git rebase origin/main && git push origin HEAD:main; then
@@ -68,7 +67,6 @@ jobs:
             exit 1
           }
 
-          # New/previously missing sources first so the public index changes quickly.
           publish "69shuba.com"
           publish "1qxs.com"
           publish "piaotia.com"
@@ -83,13 +81,13 @@ jobs:
           publish "xs8.cn"
           publish "zwxiaoshuo.com"
 
-          # Background enrichment after all 13 searchable indexes have been published.
           python xiaoxiaoshuo/tools/mirror_text_universal.py || true
           python xiaoxiaoshuo/tools/repair_covers.py || true
+          python xiaoxiaoshuo/tools/sanitize_library_metadata.py
           python xiaoxiaoshuo/tools/purge_audio.py
           git add xiaoxiaoshuo/data/v5
           if ! git diff --cached --quiet; then
-            git commit -m "v14 enrich full text and covers"
+            git commit -m "v15 enrich full text covers and metadata"
             for attempt in 1 2 3 4 5; do
               git fetch origin main
               if git rebase origin/main && git push origin HEAD:main; then
