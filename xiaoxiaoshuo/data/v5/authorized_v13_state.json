@@ -11760,6 +11760,23 @@
       "adapter_version": "14.2",
       "reset_reason": "adapter_changed",
       "updated_at": "2026-08-30T01:13:38+00:00"
+    },
+    "99csw.com": {
+      "queue": [
+        "https://www.99csw.com/book/",
+        "https://www.99csw.com/book/index.php"
+      ],
+      "seen": [
+        "https://www.99csw.com/book/",
+        "https://www.99csw.com/book/index.php"
+      ],
+      "books_seen": 0,
+      "done": false,
+      "blocked": true,
+      "needs_adapter": false,
+      "adapter_version": "14.2",
+      "reset_reason": "adapter_changed",
+      "updated_at": "2026-08-30T01:13:43+00:00"
     }
   }
 }
