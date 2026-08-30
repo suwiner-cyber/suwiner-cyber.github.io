@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T01:01:50+00:00",
+  "generated_at": "2026-08-30T01:03:24+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -29,6 +29,12 @@
       "time": "2026-08-30T00:59:50+00:00",
       "source": "69书吧",
       "url": "https://www.69shuba.com/book/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-08-30T01:01:54+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/bookinfo/",
       "error": "HTTP Error 403: Forbidden"
     }
   ]

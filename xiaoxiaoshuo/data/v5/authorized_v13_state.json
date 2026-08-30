@@ -1221,6 +1221,8 @@
     },
     "piaotia.com": {
       "queue": [
+        "https://www.piaotia.com/bookinfo/15/15292.html",
+        "https://www.piaotia.com/html/15/15292/",
         "https://www.piaotia.com/bookinfo/11/11970.html",
         "https://www.piaotia.com/html/11/11970/",
         "https://www.piaotia.com/html/15/15687/",
@@ -2366,19 +2368,11 @@
         "https://www.piaotia.com/modules/article/reviewshow.php?rid=898592",
         "https://www.piaotia.com/modules/article/reviewshow.php?rid=898591",
         "https://www.piaotia.com/modules/article/addbookcase.php?bid=14807",
-        "https://www.piaotia.com/modules/article/uservote.php?id=14807",
-        "https://www.piaotia.com/html/15/15292/index.html",
-        "https://www.piaotia.com/modules/article/reviews.php?aid=15292&type=good",
-        "https://www.piaotia.com/modules/article/reviews.php?aid=15292&type=all",
-        "https://www.piaotia.com/modules/article/reviewshow.php?rid=948008",
-        "https://www.piaotia.com/modules/article/reviewshow.php?rid=948007",
-        "https://www.piaotia.com/modules/article/reviewshow.php?rid=916726",
-        "https://www.piaotia.com/modules/article/reviewshow.php?rid=916255",
-        "https://www.piaotia.com/modules/article/addbookcase.php?bid=15292",
-        "https://www.piaotia.com/modules/article/uservote.php?id=15292"
+        "https://www.piaotia.com/modules/article/uservote.php?id=14807"
       ],
       "seen": [
         "https://www.piaotia.com/",
+        "https://www.piaotia.com/bookinfo/",
         "https://www.piaotia.com/bookinfo/0/146.html",
         "https://www.piaotia.com/bookinfo/0/174.html",
         "https://www.piaotia.com/bookinfo/0/251.html",
@@ -2407,7 +2401,6 @@
         "https://www.piaotia.com/bookinfo/14/14807.html",
         "https://www.piaotia.com/bookinfo/15/15052.html",
         "https://www.piaotia.com/bookinfo/15/15278.html",
-        "https://www.piaotia.com/bookinfo/15/15292.html",
         "https://www.piaotia.com/bookinfo/15/15296.html",
         "https://www.piaotia.com/bookinfo/15/15303.html",
         "https://www.piaotia.com/bookinfo/15/15305.html",
@@ -2448,22 +2441,24 @@
         "https://www.piaotia.com/bookinfo/7/7799.html",
         "https://www.piaotia.com/bookinfo/7/7811.html",
         "https://www.piaotia.com/bookinfo/8/8578.html",
+        "https://www.piaotia.com/html/",
         "https://www.piaotia.com/html/13/13866/",
         "https://www.piaotia.com/html/14/14411/",
         "https://www.piaotia.com/html/14/14594/",
         "https://www.piaotia.com/html/14/14807/",
-        "https://www.piaotia.com/html/15/15292/",
         "https://www.piaotia.com/html/15/15439/",
         "https://www.piaotia.com/html/15/15454/",
         "https://www.piaotia.com/html/15/15679/",
         "https://www.piaotia.com/html/15/15701/",
         "https://www.piaotia.com/html/8/8578/"
       ],
-      "books_seen": 80,
+      "books_seen": 78,
       "done": false,
       "blocked": false,
       "needs_adapter": false,
-      "updated_at": "2026-08-30T00:58:26+00:00"
+      "adapter_version": "14.2",
+      "reset_reason": "adapter_changed",
+      "updated_at": "2026-08-30T01:03:23+00:00"
     }
   }
 }
