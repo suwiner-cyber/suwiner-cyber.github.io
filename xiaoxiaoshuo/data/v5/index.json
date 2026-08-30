@@ -1,6 +1,6 @@
 {
   "version": 14,
-  "generated_at": "2026-08-30T00:59:50+00:00",
+  "generated_at": "2026-08-30T01:01:50+00:00",
   "total": 11291,
   "shard_size": 200,
   "shards": [
@@ -234,8 +234,8 @@
     }
   ],
   "source_counts": {
-    "飘天文学": 80,
     "一七小说": 543,
+    "飘天文学": 80,
     "和图书": 63,
     "AAAKS小说": 46,
     "泡书吧小说网": 59,
@@ -339,10 +339,10 @@
       "successful_pages": 80,
       "failed_pages": 0,
       "books_found": 63,
-      "books_added": 31,
+      "books_added": 1,
       "toc_written": 60,
       "books_seen_total": 63,
-      "remaining_queue": 1096,
+      "remaining_queue": 1106,
       "seen_pages": 80,
       "done": false,
       "blocked": false,
@@ -467,7 +467,7 @@
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "69shuba.com",
+  "last_published_source": "1qxs.com",
   "id_scheme": "stable-v4-aliases",
   "text_only": true
 }
