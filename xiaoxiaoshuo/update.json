@@ -1,11 +1,11 @@
 {
   "channel": "stable",
   "packageName": "com.xiaoxiaoshuo.reader",
-  "versionCode": 7011,
-  "versionName": "7.1.1",
-  "apkUrl": "https://api.gitcode.com/api/v5/repos/suwiner/xiaoxiaoshuo-releases/releases/v7.1.1/attach_files/%E5%B0%8F%E5%B0%8F%E8%AF%B4-v7.1.1-%E5%8D%87%E7%BA%A7%E5%BE%AA%E7%8E%AF%E4%BF%AE%E5%A4%8D-%E8%AE%B0%E4%BD%8F%E7%99%BB%E5%BD%95-%E6%99%BA%E8%83%BD%E6%8E%92%E7%89%88-%E6%AD%A3%E5%BC%8F%E7%89%88.apk/download",
-  "apkSha256": "8354bcc177142c1f47b7c9bf3b8685465386bf62670f9a08747fab17e645c6e1",
-  "changelog": "小小说 v7.1.1：修复已经安装当前版本仍反复提示更新的问题；登录页新增记住用户名和密码；注册密码要求字母与数字组合；首页推荐书名强制去空格、左对齐、无有效书名不推荐；发现页简介清理异常空格并左对齐换行；目录尚未获取时点击阅读弹出温馨提醒并继续获取章节；阅读页按标点和段落智能重新排版，提升行距和段间距。",
+  "versionCode": 7012,
+  "versionName": "7.1.2",
+  "apkUrl": "https://api.gitcode.com/api/v5/repos/suwiner/xiaoxiaoshuo-releases/releases/v7.1.2/attach_files/%E5%B0%8F%E5%B0%8F%E8%AF%B4-v7.1.2-%E9%98%85%E8%AF%BB%E9%97%B4%E8%B7%9D%E4%BC%98%E5%8C%96-%E6%8D%A2%E6%BA%90%E5%8F%AF%E9%80%80%E5%87%BA-%E6%96%B0LOGO-%E6%AD%A3%E5%BC%8F%E7%89%88.apk/download",
+  "apkSha256": "313201dc1e02c1788539e73b6711fa6fea77b31cdf0128d184995641c39c861a",
+  "changelog": "小小说 v7.1.2：收紧阅读页正文行距与段落间距，避免大块空白；智能换源支持返回键、点击弹窗外和取消按钮退出，取消后后台结果不再强制弹出；启动标与桌面LOGO更换为新版蓝色书本图标，并优化华为/HarmonyOS自适应图标安全区与白边问题。",
   "mandatory": false,
   "signerSha256": "17e6d4431671c0574450846596c177ab1f3278f7295375199f75cb1ce7726b3f",
   "retentionLimit": 3
