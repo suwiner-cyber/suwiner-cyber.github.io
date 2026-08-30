@@ -1,6 +1,956 @@
 {
   "books": [
     {
+      "id": "ext-d8c4f772b3fbef476a9d",
+      "title": "尼尔·盖曼: 乌有乡",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/11135/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d8c4f772b3fbef476a9d",
+        "ext-924196241390249153"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/11135/index.html"
+      ]
+    },
+    {
+      "id": "ext-bd24eef0fe120207d87b",
+      "title": "尼·奥斯特洛夫斯基: 钢铁是怎样炼成的",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10281/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-bd24eef0fe120207d87b",
+        "ext-3034105677499748828"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10281/index.html"
+      ]
+    },
+    {
+      "id": "ext-78e9b1ccbe66b5e9b9ad",
+      "title": "安德烈·保尔·吉约姆·纪德: 忒修斯",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10133/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-78e9b1ccbe66b5e9b9ad",
+        "ext-1250885538328104517"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10133/index.html"
+      ]
+    },
+    {
+      "id": "ext-5eac2d72b2ef87c2e097",
+      "title": "安德烈·保尔·吉约姆·纪德: 帕吕德",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10134/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-5eac2d72b2ef87c2e097",
+        "ext-2621100400062769403"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10134/index.html"
+      ]
+    },
+    {
+      "id": "ext-1223a7e0dbc86b6cb712",
+      "title": "奥格·曼狄诺: 羊皮卷",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10140/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1223a7e0dbc86b6cb712",
+        "ext-7393358037485280816"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10140/index.html"
+      ]
+    },
+    {
+      "id": "ext-9f724d9d1930053f8a92",
+      "title": "奥格·曼狄诺: 世界上最伟大的推销员",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10139/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9f724d9d1930053f8a92",
+        "ext-4784523826412556235"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10139/index.html"
+      ]
+    },
+    {
+      "id": "ext-0810d73d962bf00e8ceb",
+      "title": "奥斯卡·王尔德: 莎乐美",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10142/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-0810d73d962bf00e8ceb",
+        "ext-4921173841143699281"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10142/index.html"
+      ]
+    },
+    {
+      "id": "ext-b698990c25f55fed32dc",
+      "title": "奥斯卡·王尔德: 石榴之屋",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10143/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b698990c25f55fed32dc",
+        "ext-8378182230336513284"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10143/index.html"
+      ]
+    },
+    {
+      "id": "ext-2ac1c11d671f044bff0a",
+      "title": "奥斯卡·王尔德: 王尔德童话选",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10141/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2ac1c11d671f044bff0a",
+        "ext-7670636250866090525"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10141/index.html"
+      ]
+    },
+    {
+      "id": "ext-2f6d513adcdd02294ab9",
+      "title": "大仲马: 蒙梭罗夫人",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10203/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2f6d513adcdd02294ab9",
+        "ext-7841130558099633768"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10203/index.html"
+      ]
+    },
+    {
+      "id": "ext-a2cb98d5d10de6b385a4",
+      "title": "大仲马: 基督山伯爵",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10204/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a2cb98d5d10de6b385a4",
+        "ext-7114535728498374924"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10204/index.html"
+      ]
+    },
+    {
+      "id": "ext-3bdc42412f67870c0864",
+      "title": "大仲马: 三个火枪手(三剑客)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10202/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3bdc42412f67870c0864",
+        "ext-6615393865851785762"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10202/index.html"
+      ]
+    },
+    {
+      "id": "ext-1e635011e99e3b25b60f",
+      "title": "塞万提斯: 唐吉诃德",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10320/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1e635011e99e3b25b60f",
+        "ext-6574790334908253068"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10320/index.html"
+      ]
+    },
+    {
+      "id": "ext-d22aef97e0fb244ea36e",
+      "title": "哈珀·李: 杀死一只知更鸟",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/10883/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d22aef97e0fb244ea36e",
+        "ext-5487288265007865066"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/10883/index.html"
+      ]
+    },
+    {
+      "id": "ext-0788fefe4c80212ffa8d",
+      "title": "哈珀·李: 守望之心",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/10884/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-0788fefe4c80212ffa8d",
+        "ext-8123978140625209911"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/10884/index.html"
+      ]
+    },
+    {
+      "id": "ext-51d19633ffe0e32d98b4",
+      "title": "史迪格·拉森: 直捣蜂窝的女孩",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10622/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-51d19633ffe0e32d98b4",
+        "ext-7121464201407542778"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10622/index.html"
+      ]
+    },
+    {
+      "id": "ext-3053a4b44471103da72f",
+      "title": "卡勒德·胡赛尼: 群山回唱",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10605/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3053a4b44471103da72f",
+        "ext-441141620726892490"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10605/index.html"
+      ]
+    },
+    {
+      "id": "ext-cef4c2bf3116d2a0d148",
+      "title": "列夫·托尔斯泰: 战争与和平",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10330/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-cef4c2bf3116d2a0d148",
+        "ext-6045417308090814340"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10330/index.html"
+      ]
+    },
+    {
+      "id": "ext-92b01b2a627cbf967eab",
+      "title": "列夫·托尔斯泰: 幼年",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10331/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-92b01b2a627cbf967eab",
+        "ext-4727950919489560005"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10331/index.html"
+      ]
+    },
+    {
+      "id": "ext-ff6f8efa0413955c2387",
+      "title": "列夫·托尔斯泰: 安娜·卡列宁娜",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10329/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ff6f8efa0413955c2387",
+        "ext-2866841565964831363"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10329/index.html"
+      ]
+    },
+    {
+      "id": "ext-1c2247a3ea0f34651ffe",
+      "title": "列夫·托尔斯泰: 复活",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10332/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1c2247a3ea0f34651ffe",
+        "ext-2477211528502434022"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10332/index.html"
+      ]
+    },
+    {
+      "id": "ext-408392e2f4e8e2076c30",
+      "title": "保罗·福塞尔: 格调",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10159/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-408392e2f4e8e2076c30",
+        "ext-8659663547312395914"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10159/index.html"
+      ]
+    },
+    {
+      "id": "ext-a36520ca5d85a7acf8bb",
+      "title": "保罗·福塞尔: 恶俗",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10160/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a36520ca5d85a7acf8bb",
+        "ext-1914613034040174543"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10160/index.html"
+      ]
+    },
+    {
+      "id": "ext-f0e278a23cec237feeeb",
+      "title": "伏契克: 绞刑架下的报告",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10224/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f0e278a23cec237feeeb",
+        "ext-6512465605839334610"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10224/index.html"
+      ]
+    },
+    {
+      "id": "ext-3452117a60741e323701",
+      "title": "伊凡·谢尔盖耶维奇·屠格涅夫: 父与子",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10335/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3452117a60741e323701",
+        "ext-7167676018933121913"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10335/index.html"
+      ]
+    },
+    {
+      "id": "ext-d36bbfd0c6a7dd921f85",
+      "title": "亚瑟·菲利普: 埃及考古学家",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10312/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d36bbfd0c6a7dd921f85",
+        "ext-3297570957271699983"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10312/index.html"
+      ]
+    },
+    {
+      "id": "ext-4bce3bd80618705d3afa",
+      "title": "井上靖: 敦煌",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/10255/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4bce3bd80618705d3afa",
+        "ext-7658714604147377873"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10255/index.html"
+      ]
+    },
+    {
+      "id": "ext-5562cb445480ee33d8b3",
+      "title": "井上靖: 冰壁",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/10256/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-5562cb445480ee33d8b3",
+        "ext-3952479180221161688"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10256/index.html"
+      ]
+    },
+    {
+      "id": "ext-4e37387344a9845ae5b7",
+      "title": "乔治·桑: 魔沼",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10316/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4e37387344a9845ae5b7",
+        "ext-4306536850303306512"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10316/index.html"
+      ]
+    },
+    {
+      "id": "ext-f862cdba43f810f62907",
+      "title": "乔治·桑: 莫普拉",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10315/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f862cdba43f810f62907",
+        "ext-5114059768981817724"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10315/index.html"
+      ]
+    },
+    {
+      "id": "ext-22619c3430d4241aac5e",
+      "title": "乔万尼·薄伽丘: 十日谈",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10317/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-22619c3430d4241aac5e",
+        "ext-535529967021717319"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10317/index.html"
+      ]
+    },
+    {
+      "id": "ext-57b56bbf33ece90d72f5",
+      "title": "丽萨·温格特: 守护故事的人",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/11035/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-57b56bbf33ece90d72f5",
+        "ext-6968069422350155088"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/11035/index.html"
+      ]
+    },
+    {
+      "id": "ext-6685e33878b47d1d6ef0",
+      "title": "丹尼尔·笛福: 鲁滨孙飘流记",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10201/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-6685e33878b47d1d6ef0",
+        "ext-7026687315809460008"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10201/index.html"
+      ]
+    },
+    {
+      "id": "ext-bdbb1f8210c45fc3d309",
+      "title": "丹·布朗: 地狱",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10674/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-bdbb1f8210c45fc3d309",
+        "ext-610916057286103391"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10674/index.html"
+      ]
+    },
+    {
+      "id": "ext-829ddffb8b9164fad78f",
+      "title": "J．R．沃勒: 漫漫长夜",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10252/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-829ddffb8b9164fad78f",
+        "ext-6336771432194571793"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10252/index.html"
+      ]
+    },
+    {
+      "id": "ext-a5fc16351d9c2cff6397",
+      "title": "J·R·沃德: 吸血鬼王·恋人苏醒",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10704/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a5fc16351d9c2cff6397",
+        "ext-6129643875629998054"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10704/index.html"
+      ]
+    },
+    {
+      "id": "ext-e18ef718982ff154a6f0",
+      "title": "J·K·罗琳: 偶发空缺",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10387/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e18ef718982ff154a6f0",
+        "ext-4427305971554411582"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10387/index.html"
+      ]
+    },
+    {
+      "id": "ext-a7cc1436211ba80381bb",
+      "title": "龙志毅: 政界",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/10443/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:24+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a7cc1436211ba80381bb",
+        "ext-245129275524889444"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10443/index.html"
+      ]
+    },
+    {
       "id": "ext-0606885b8f62b0a4477e",
       "title": "黄文苍: 市委一号",
       "author": "",
@@ -4063,983 +5013,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book4/10517/index.html"
-      ]
-    },
-    {
-      "id": "ext-2f4741ad58891e482aa8",
-      "title": "刘醒龙: 痛失",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book4/10494/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-2f4741ad58891e482aa8",
-        "ext-8817795242259734822"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10494/index.html"
-      ]
-    },
-    {
-      "id": "ext-9f531596368dac38bb53",
-      "title": "刘千生: 外逃贪官",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10153/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-9f531596368dac38bb53",
-        "ext-69531032141506578"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10153/index.html"
-      ]
-    },
-    {
-      "id": "ext-a75e24f459944284d483",
-      "title": "刘千生: 双规奇局",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10154/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a75e24f459944284d483",
-        "ext-2601229894214524781"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10154/index.html"
-      ]
-    },
-    {
-      "id": "ext-23438836d83b862efe0c",
-      "title": "刘千生: 亿万富姐",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10152/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-23438836d83b862efe0c",
-        "ext-6087604735705240917"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10152/index.html"
-      ]
-    },
-    {
-      "id": "ext-1ce2d10c972eabc2cec9",
-      "title": "刘儒: 官托",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book4/10465/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1ce2d10c972eabc2cec9",
-        "ext-2618198652019162922"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10465/index.html"
-      ]
-    },
-    {
-      "id": "ext-13e81db3c9507350cc9c",
-      "title": "刘儒: 官场女人",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10466/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-13e81db3c9507350cc9c",
-        "ext-505217967257677438"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10466/index.html"
-      ]
-    },
-    {
-      "id": "ext-382f7ea2ff0639094b88",
-      "title": "刘仪伟: 爱情呼叫转移",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10508/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-382f7ea2ff0639094b88",
-        "ext-6935399919818653024"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10508/index.html"
-      ]
-    },
-    {
-      "id": "ext-9e186ea99ef9ee8d6687",
-      "title": "凡一平: 顺口溜",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10426/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-9e186ea99ef9ee8d6687",
-        "ext-4304528147524240600"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10426/index.html"
-      ]
-    },
-    {
-      "id": "ext-f149d51b6b6a1425ef1d",
-      "title": "凌非: 天囚",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book4/10471/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f149d51b6b6a1425ef1d",
-        "ext-2969889803273065734"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10471/index.html"
-      ]
-    },
-    {
-      "id": "ext-109915476c3a9aeecaaf",
-      "title": "冯骥: 火蓝刀锋：海军蛙人侦察兵传奇",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10646/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-109915476c3a9aeecaaf",
-        "ext-846303578476088179"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10646/index.html"
-      ]
-    },
-    {
-      "id": "ext-387da11e279454f77b26",
-      "title": "冯唐: 天下卵",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book4/9609/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-387da11e279454f77b26",
-        "ext-3252844745999668447"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9609/index.html"
-      ]
-    },
-    {
-      "id": "ext-26c3a8b717d3795eb1a7",
-      "title": "冯唐: 三十六大",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9610/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-26c3a8b717d3795eb1a7",
-        "ext-6398215038977943883"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9610/index.html"
-      ]
-    },
-    {
-      "id": "ext-3481f10e2df8081898d7",
-      "title": "六六: 浮世绘",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book4/10212/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-3481f10e2df8081898d7",
-        "ext-7716516778755509250"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10212/index.html"
-      ]
-    },
-    {
-      "id": "ext-e901310dee217adb6583",
-      "title": "六六: 宝贝",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book4/10507/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e901310dee217adb6583",
-        "ext-4213007613403181711"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10507/index.html"
-      ]
-    },
-    {
-      "id": "ext-9c3554243a565244fb8a",
-      "title": "六六: 妄谈与疯话",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10213/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-9c3554243a565244fb8a",
-        "ext-37020298077984356"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10213/index.html"
-      ]
-    },
-    {
-      "id": "ext-27e24c0648d470661d94",
-      "title": "六六: 女不强大天不容",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/10981/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-27e24c0648d470661d94",
-        "ext-2675102906144416276"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/10981/index.html"
-      ]
-    },
-    {
-      "id": "ext-257281b197bd83d08a66",
-      "title": "六六: 偶得日记:孕妈妈开心辞典",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10211/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-257281b197bd83d08a66",
-        "ext-5090384795330416168"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10211/index.html"
-      ]
-    },
-    {
-      "id": "ext-95d598deba6c219c3e9d",
-      "title": "傅国涌: 金庸传",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/10897/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-95d598deba6c219c3e9d",
-        "ext-3064700315557636674"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/10897/index.html"
-      ]
-    },
-    {
-      "id": "ext-4ff60206c2a28a6dba0f",
-      "title": "傅佩荣: 国学的天空",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10530/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-4ff60206c2a28a6dba0f",
-        "ext-8085255101308570988"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10530/index.html"
-      ]
-    },
-    {
-      "id": "ext-297a973ee4c6af8a6806",
-      "title": "余秋雨: 中国文脉",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10534/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-297a973ee4c6af8a6806",
-        "ext-5563026731746773663"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10534/index.html"
-      ]
-    },
-    {
-      "id": "ext-96eb6b6347c7f7d13486",
-      "title": "余华: 第七天",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book4/10500/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-96eb6b6347c7f7d13486",
-        "ext-2198566105599647993"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10500/index.html"
-      ]
-    },
-    {
-      "id": "ext-fe809c813afdfeb7924f",
-      "title": "伍稻洋: 市委书记的两规日子",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10459/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-fe809c813afdfeb7924f",
-        "ext-3748242382687108706"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10459/index.html"
-      ]
-    },
-    {
-      "id": "ext-a18d9415eedf55def180",
-      "title": "乔萨: 地产鳄人",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10470/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a18d9415eedf55def180",
-        "ext-5653134692158631495"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10470/index.html"
-      ]
-    },
-    {
-      "id": "ext-5366fde8cc34c5fdecbb",
-      "title": "严歌苓: 金陵十三钗·2011版",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9335/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-5366fde8cc34c5fdecbb",
-        "ext-6042655755013646933"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9335/index.html"
-      ]
-    },
-    {
-      "id": "ext-bbbde37b24ecb5e62ec5",
-      "title": "严歌苓: 芳华",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book2/10868/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-bbbde37b24ecb5e62ec5",
-        "ext-5233117388041009990"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/10868/index.html"
-      ]
-    },
-    {
-      "id": "ext-b8c4c5d7f8f26fcc0d80",
-      "title": "严歌苓: 老师好美",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/10869/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b8c4c5d7f8f26fcc0d80",
-        "ext-5858317132067236924"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/10869/index.html"
-      ]
-    },
-    {
-      "id": "ext-d696a1130c52b8589e88",
-      "title": "严歌苓: 毕业歌",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/10870/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d696a1130c52b8589e88",
-        "ext-3952828949595630210"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/10870/index.html"
-      ]
-    },
-    {
-      "id": "ext-2494da191e4d770aceb2",
-      "title": "严歌苓: 床畔",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book2/10872/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-2494da191e4d770aceb2",
-        "ext-3024731534107758969"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/10872/index.html"
-      ]
-    },
-    {
-      "id": "ext-e2206ccd2614c6f2da3f",
-      "title": "严歌苓: 娘要嫁人",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10553/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e2206ccd2614c6f2da3f",
-        "ext-8943214024111270899"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10553/index.html"
-      ]
-    },
-    {
-      "id": "ext-42feb63a1bc40836efc0",
-      "title": "严歌苓: 妈阁是座城",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/10871/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-42feb63a1bc40836efc0",
-        "ext-3424392089955164765"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/10871/index.html"
-      ]
-    },
-    {
-      "id": "ext-71059f8e1e176fb78614",
-      "title": "下一页",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/files/chinese/29-2.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/files/chinese/29-2.html",
-        "https://www.kanunu8.com/files/world/8-2.html",
-        "https://www.kanunu8.com/files/youth/21-2.html",
-        "https://www.kanunu8.com/files/dushi/2-2.html",
-        "https://www.kanunu8.com/files/little/6-2.html",
-        "https://www.kanunu8.com/files/yqxs/2.html",
-        "https://www.kanunu8.com/files/sf/11-2.html",
-        "https://www.kanunu8.com/files/terrorist/20-2.html",
-        "https://www.kanunu8.com/files/writer/18-2.html"
-      ],
-      "read_ids": [
-        "ext-71059f8e1e176fb78614",
-        "ext-4478589211797632540",
-        "ext-a5f1379b1944e4779b92",
-        "ext-4f8e90545c94491e472b",
-        "ext-649d29f6ad80c999284d",
-        "ext-3f6406a2fddee14b2aa2",
-        "ext-364b6e267546f0a127fe",
-        "ext-109422e9139846674c43",
-        "ext-56570ca242108e641e6f",
-        "ext-a2c8a9d6442ba385fd22"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/chinese/29-2.html",
-        "https://www.kanunu8.com/files/world/8-2.html",
-        "https://www.kanunu8.com/files/youth/21-2.html",
-        "https://www.kanunu8.com/files/dushi/2-2.html",
-        "https://www.kanunu8.com/files/little/6-2.html",
-        "https://www.kanunu8.com/files/yqxs/2.html",
-        "https://www.kanunu8.com/files/sf/11-2.html",
-        "https://www.kanunu8.com/files/terrorist/20-2.html",
-        "https://www.kanunu8.com/files/writer/18-2.html"
-      ]
-    },
-    {
-      "id": "ext-42462fb40e4f62f2dc15",
-      "title": "丁峰: 扯不断的女人缘",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10432/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-42462fb40e4f62f2dc15",
-        "ext-3090180192557868367"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10432/index.html"
-      ]
-    },
-    {
-      "id": "ext-75c5436dbe338463dee7",
-      "title": "丁力: 倾斜的天平",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10474/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-75c5436dbe338463dee7",
-        "ext-2720621552869037869"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10474/index.html"
-      ]
-    },
-    {
-      "id": "ext-89cbdf450a754cbfa0f1",
-      "title": "一度苍穹: 诡魅湘西·赶尸日记2：辰州尸王会",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10550/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-89cbdf450a754cbfa0f1",
-        "ext-7790126548632090203"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10550/index.html"
-      ]
-    },
-    {
-      "id": "ext-361ed0902636aa9eb77b",
-      "title": "莲静竹衣: 大明风华(大明皇妃孙若微传)",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/11081/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:23+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-361ed0902636aa9eb77b",
-        "ext-1856443060790122000"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/11081/index.html"
-      ]
-    },
-    {
-      "id": "ext-3fa09e2ee1baa904cc6a",
-      "title": "江南: 九州缥缈录",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/11082/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:23+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-3fa09e2ee1baa904cc6a",
-        "ext-5342735745451517544"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/11082/index.html"
-      ]
-    },
-    {
-      "id": "ext-ade084c76724ab43681f",
-      "title": "敦敬明: 小时代全集在线阅读(1,2,3,4)",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10436/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:23+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ade084c76724ab43681f",
-        "ext-1700186879426947887"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10436/index.html"
-      ]
-    },
-    {
-      "id": "ext-52ef219b69c31883dfe2",
-      "title": "魔兽世界小说",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201102/1502.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:22+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-52ef219b69c31883dfe2",
-        "ext-2555501358686005931"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201102/1502.html"
       ]
     }
   ]
