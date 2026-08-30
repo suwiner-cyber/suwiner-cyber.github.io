@@ -1,0 +1,46 @@
+name: Publish Xiaoxiaoshuo v7.0.5
+
+on:
+  push:
+    paths:
+      - 'xiaoxiaoshuo/release-staging/v7.0.5/**'
+      - '.github/workflows/xiaoxiaoshuo-publish-v705.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Rebuild signed APK from staged chunks
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p xiaoxiaoshuo/releases
+          cat xiaoxiaoshuo/release-staging/v7.0.5/part* > /tmp/v705.b64
+          base64 -d /tmp/v705.b64 > xiaoxiaoshuo/releases/xiaoxiaoshuo-v7.0.5.apk
+          echo 'dab3a36e07287617956daddde1468e36aef84054959111769b1ea3b74bf22c63  xiaoxiaoshuo/releases/xiaoxiaoshuo-v7.0.5.apk' | sha256sum -c -
+          cat > xiaoxiaoshuo/releases/xiaoxiaoshuo-v7.0.5.json <<'JSON'
+          {
+            "changelog": "温暖升级提醒；后台下载更新，下载期间继续阅读；下载完成后再确认安装；首页分类推荐快照继续保留。",
+            "mandatory": false
+          }
+          JSON
+      - name: Commit APK release
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'xiaoxiaoshuo-release-bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add xiaoxiaoshuo/releases/xiaoxiaoshuo-v7.0.5.apk xiaoxiaoshuo/releases/xiaoxiaoshuo-v7.0.5.json
+          if git diff --cached --quiet; then
+            echo 'Release already published.'
+            exit 0
+          fi
+          git commit -m 'Publish Xiaoxiaoshuo v7.0.5 APK'
+          git push
