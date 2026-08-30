@@ -1,5 +1,5 @@
 from __future__ import annotations
-import re,time
+import re,time,sys
 from urllib.error import HTTPError,URLError
 from urllib.request import Request,urlopen
 import mirror_text_universal as core
@@ -118,7 +118,8 @@ def main():
     core.fetch=fetch
     affected,removed=purge_corrupt_cache()
     print({'encoding_repair_books':affected,'garbled_chapters_removed':removed})
-    core.main()
+    if '--purge-only' not in sys.argv:
+        core.main()
 
 if __name__=='__main__':
     main()
