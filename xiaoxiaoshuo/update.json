@@ -1,10 +1,11 @@
 {
   "channel": "stable",
   "packageName": "com.xiaoxiaoshuo.reader",
-  "versionCode": 7000,
-  "versionName": "7.0.0",
+  "versionCode": 7005,
+  "versionName": "7.0.5",
   "apkUrl": "",
-  "changelog": "小小说 v7.0.0 长期正式版。v7.0.1 启动修复包已完成，服务器二进制上传完成前不向客户端下发无效下载地址。",
+  "apkSha256": "dab3a36e07287617956daddde1468e36aef84054959111769b1ea3b74bf22c63",
+  "changelog": "这次把升级体验重新做得更温和：发现新版本时主动提醒；升级包在后台下载，下载期间可以继续阅读；下载完成后再询问是否安装。首页继续使用分类推荐快照，阅读设置、账号同步、中央书库和我的书架保持不变。",
   "mandatory": false,
   "signerSha256": "17e6d4431671c0574450846596c177ab1f3278f7295375199f75cb1ce7726b3f",
   "retentionLimit": 3
