@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T06:40:06+00:00",
+  "generated_at": "2026-08-30T06:41:45+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -546,6 +546,18 @@
       "source": "一七小说",
       "url": "https://www.1qxs.com/xs_1/92709.html",
       "error": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "time": "2026-08-30T06:40:40+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/newmessage.php?tosys=1&title=我要推荐&content=我要推荐的小说如下:",
+      "error": "'ascii' codec can't encode characters in position 34-37: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-08-30T06:41:06+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=447554",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }
