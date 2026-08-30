@@ -1,6 +1,6 @@
 {
   "version": 13,
-  "generated_at": "2026-08-30T01:16:03+00:00",
+  "generated_at": "2026-08-30T02:49:01+00:00",
   "total_books": 11473,
   "source_counts": {
     "爱下电子书": 2555,
@@ -18,21 +18,21 @@
   "all_done": false,
   "continue_needed": true,
   "unresolved_sources": [
-    "爱下电子书"
+    "69书吧"
   ],
   "sources": [
     {
-      "name": "爱下电子书",
-      "host": "ixdzs8.com",
-      "pages_this_run": 80,
-      "successful_pages": 80,
+      "name": "69书吧",
+      "host": "69shuba.com",
+      "pages_this_run": 0,
+      "successful_pages": 0,
       "failed_pages": 0,
-      "books_found": 71,
-      "books_added": 70,
-      "toc_written": 71,
-      "books_seen_total": 71,
-      "remaining_queue": 594,
-      "seen_pages": 80,
+      "books_found": 0,
+      "books_added": 0,
+      "toc_written": 0,
+      "books_seen_total": 0,
+      "remaining_queue": 0,
+      "seen_pages": 3,
       "done": false,
       "blocked": false,
       "needs_adapter": false

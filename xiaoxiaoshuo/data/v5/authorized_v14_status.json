@@ -1,7 +1,7 @@
 {
   "version": 14,
   "adapter_version": "14.2",
-  "generated_at": "2026-08-30T01:16:03+00:00",
+  "generated_at": "2026-08-30T02:49:01+00:00",
   "total_books": 11473,
   "source_counts": {
     "爱下电子书": 2555,
@@ -41,7 +41,7 @@
     "滋味小说网",
     "69书吧"
   ],
-  "last_published_source": "ixdzs8.com",
+  "last_published_source": "69shuba.com",
   "sources": [
     {
       "name": "爱下电子书",
@@ -210,9 +210,9 @@
     {
       "name": "69书吧",
       "host": "69shuba.com",
-      "pages_this_run": 3,
+      "pages_this_run": 0,
       "successful_pages": 0,
-      "failed_pages": 3,
+      "failed_pages": 0,
       "books_found": 0,
       "books_added": 0,
       "toc_written": 0,
@@ -220,7 +220,7 @@
       "remaining_queue": 0,
       "seen_pages": 3,
       "done": false,
-      "blocked": true,
+      "blocked": false,
       "needs_adapter": true
     },
     {

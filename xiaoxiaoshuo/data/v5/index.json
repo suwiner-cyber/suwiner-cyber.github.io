@@ -1,6 +1,6 @@
 {
   "version": 14,
-  "generated_at": "2026-08-30T01:16:03+00:00",
+  "generated_at": "2026-08-30T02:49:01+00:00",
   "total": 11473,
   "shard_size": 200,
   "shards": [
@@ -418,9 +418,9 @@
     {
       "name": "69书吧",
       "host": "69shuba.com",
-      "pages_this_run": 3,
+      "pages_this_run": 0,
       "successful_pages": 0,
-      "failed_pages": 3,
+      "failed_pages": 0,
       "books_found": 0,
       "books_added": 0,
       "toc_written": 0,
@@ -428,7 +428,7 @@
       "remaining_queue": 0,
       "seen_pages": 3,
       "done": false,
-      "blocked": true,
+      "blocked": false,
       "needs_adapter": true
     },
     {
@@ -465,7 +465,7 @@
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "ixdzs8.com",
+  "last_published_source": "69shuba.com",
   "id_scheme": "stable-v4-aliases",
   "text_only": true
 }
