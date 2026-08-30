@@ -1,4 +1,4 @@
-name: 小小说中文书库 v10 · 全量复扫
+name: 小小说中文书库 v11 · 全本目录正文同步
 on:
   workflow_dispatch:
   push:
@@ -10,9 +10,6 @@ on:
       - 'xiaoxiaoshuo/tools/normalize_library_ids.py'
       - 'xiaoxiaoshuo/tools/mirror_text_universal.py'
       - 'xiaoxiaoshuo/tools/purge_audio.py'
-      - 'xiaoxiaoshuo/data/v4/state.json'
-      - 'xiaoxiaoshuo/data/v5/six_full_state.json'
-      - 'xiaoxiaoshuo/all-catalog.html'
       - 'xiaoxiaoshuo/reader.html'
       - '.github/workflows/xiaoxiaoshuo-crawl.yml'
   schedule:
@@ -22,7 +19,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: xiaoxiaoshuo-v10-full-recheck
+  group: xiaoxiaoshuo-v11-fullbook
   cancel-in-progress: true
 
 jobs:
@@ -38,7 +35,7 @@ jobs:
           python-version: '3.12'
       - run: python -m pip install --disable-pip-version-check beautifulsoup4==4.12.3
 
-      - name: Full recrawl and readable-text repair
+      - name: Full catalog, full TOC and full-text synchronization
         shell: bash
         run: |
           set -e
@@ -47,12 +44,11 @@ jobs:
           start=$(date +%s)
           round=1
 
-          # Original authorized text source, reset to page 1 before this run.
           python xiaoxiaoshuo/tools/crawl_v4.py || true
           python xiaoxiaoshuo/tools/purge_audio.py
 
           while true; do
-            echo "===== corrected full recrawl batch $round ====="
+            echo "===== full-book batch $round ====="
             python xiaoxiaoshuo/tools/crawl_full_recheck.py --pages-per-source 80
             python xiaoxiaoshuo/tools/normalize_library_ids.py
             python xiaoxiaoshuo/tools/mirror_text_universal.py || true
@@ -60,7 +56,7 @@ jobs:
 
             git add xiaoxiaoshuo/data/v4 xiaoxiaoshuo/data/v5
             if ! git diff --cached --quiet; then
-              git commit -m "Full recrawl text catalog batch $round"
+              git commit -m "Full-book catalog and text batch $round"
               pushed=no
               for attempt in 1 2 3 4 5; do
                 git fetch origin main
@@ -72,15 +68,29 @@ jobs:
                 sleep $((attempt * 3))
               done
               if [ "$pushed" != "yes" ]; then
-                echo "Unable to publish full-recrawl batch"
+                echo "Unable to publish full-book batch"
                 exit 1
               fi
             fi
 
-            all_done=$(python -c "import json; from pathlib import Path; p=Path('xiaoxiaoshuo/data/v5/six_full_status.json'); d=json.loads(p.read_text(encoding='utf-8')) if p.exists() else {}; print('yes' if d.get('all_done') else 'no')")
+            index_done=$(python -c "import json; from pathlib import Path; p=Path('xiaoxiaoshuo/data/v5/six_full_status.json'); d=json.loads(p.read_text(encoding='utf-8')) if p.exists() else {}; print('yes' if d.get('all_done') else 'no')")
+            text_done=$(python -c "import json; from pathlib import Path; p=Path('xiaoxiaoshuo/data/v5/universal_mirror_status.json'); d=json.loads(p.read_text(encoding='utf-8')) if p.exists() else {}; print('yes' if d.get('all_fulltext_done') else 'no')")
+            python - <<'PY'
+import json
+from pathlib import Path
+for name in ('six_full_status.json','universal_mirror_status.json'):
+    p=Path('xiaoxiaoshuo/data/v5')/name
+    if p.exists():
+        print(name, json.dumps(json.loads(p.read_text(encoding='utf-8')), ensure_ascii=False))
+PY
             now=$(date +%s)
             elapsed=$((now-start))
-            if [ "$all_done" = "yes" ] || [ "$elapsed" -ge 15000 ]; then
+            if [ "$index_done" = "yes" ] && [ "$text_done" = "yes" ]; then
+              echo "All discoverable catalogs and all mirrored public text are complete."
+              break
+            fi
+            if [ "$elapsed" -ge 15000 ]; then
+              echo "Time budget reached; progress has been published and the next scheduled run resumes."
               break
             fi
             round=$((round+1))
