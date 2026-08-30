@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-366dc355b7e5752fd254",
-      "title": "一个梦",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481793.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:50+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-366dc355b7e5752fd254",
-        "ext-8679860420258283553"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qianyaobaimei/481793.html"
-      ]
-    },
-    {
       "id": "ext-2b02e8c3e16a04b4dec8",
       "title": "一个人",
       "author": "",
@@ -5784,6 +5759,37 @@
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/462953.html",
         "https://www.kanunu8.com/book7/dby67/470049.html"
+      ]
+    },
+    {
+      "id": "ext-9ec6079d6a9452a8a5e1",
+      "title": "第一百零一章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/462947.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462947.html",
+        "https://www.kanunu8.com/book7/dby67/470043.html"
+      ],
+      "read_ids": [
+        "ext-9ec6079d6a9452a8a5e1",
+        "ext-5739121683124328711",
+        "ext-567cfe5dd53683be63f3"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462947.html",
+        "https://www.kanunu8.com/book7/dby67/470043.html"
       ]
     }
   ]

@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-1d0bca3a97b26f99b603",
-      "title": "又林的短篇集 又林",
-      "author": "一念茫然",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2025/12/24/11/41/0182abaa96b04a28b4eab2e466135434_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/953899",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1d0bca3a97b26f99b603",
-        "ext-7297345667666365569"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/953899"
-      ]
-    },
-    {
       "id": "ext-8bca590e7d748735b646",
       "title": "00后生活 幻界王",
       "author": "一念茫然",
@@ -5064,6 +5039,31 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/1050245"
+      ]
+    },
+    {
+      "id": "ext-aa07eda5fefbe1878dac",
+      "title": "9 我的体内有只鬼2斩鬼 一柄墨刀",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.tadu.com/book/1043476",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:55:51+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-aa07eda5fefbe1878dac",
+        "ext-3512803105151501099"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/1043476"
       ]
     }
   ]

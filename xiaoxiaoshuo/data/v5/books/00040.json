@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-477df4e362676120ab3f",
-      "title": "李佳泾: 别碰我的男朋友",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9301/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-477df4e362676120ab3f",
-        "ext-6347320061649281875"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9301/index.html"
-      ]
-    },
-    {
       "id": "ext-b006fc257437fc9f5ca8",
       "title": "朴镒址: 向日葵，求你爱我",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book2/11021/index.html"
+      ]
+    },
+    {
+      "id": "ext-4248496cfad51b2dc293",
+      "title": "海伦·凯勒: 假如给我三天光明：海伦·凯勒自传",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10396/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4248496cfad51b2dc293",
+        "ext-4117899282843998767"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10396/index.html"
       ]
     }
   ]

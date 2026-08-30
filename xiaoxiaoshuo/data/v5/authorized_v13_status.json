@@ -1,0 +1,41 @@
+{
+  "version": 13,
+  "generated_at": "2026-08-30T00:55:03+00:00",
+  "total_books": 11182,
+  "source_counts": {
+    "和图书": 63,
+    "飘天文学": 1,
+    "AAAKS小说": 46,
+    "泡书吧小说网": 59,
+    "乐文小说": 75,
+    "滋味小说网": 323,
+    "一七小说": 513,
+    "言情小说吧": 526,
+    "努努书坊": 6632,
+    "塔读文学": 458,
+    "爱下电子书": 2486
+  },
+  "all_done": false,
+  "continue_needed": true,
+  "unresolved_sources": [
+    "69书吧"
+  ],
+  "sources": [
+    {
+      "name": "69书吧",
+      "host": "69shuba.com",
+      "pages_this_run": 2,
+      "successful_pages": 0,
+      "failed_pages": 2,
+      "books_found": 0,
+      "books_added": 0,
+      "toc_written": 0,
+      "books_seen_total": 0,
+      "remaining_queue": 0,
+      "seen_pages": 2,
+      "done": false,
+      "blocked": true,
+      "needs_adapter": false
+    }
+  ]
+}

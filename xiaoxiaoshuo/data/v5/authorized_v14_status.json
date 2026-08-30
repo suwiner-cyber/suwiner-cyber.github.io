@@ -1,234 +1,7 @@
 {
   "version": 14,
   "generated_at": "2026-08-30T00:55:03+00:00",
-  "total": 11182,
-  "shard_size": 200,
-  "shards": [
-    {
-      "file": "books/00001.json",
-      "count": 200
-    },
-    {
-      "file": "books/00002.json",
-      "count": 200
-    },
-    {
-      "file": "books/00003.json",
-      "count": 200
-    },
-    {
-      "file": "books/00004.json",
-      "count": 200
-    },
-    {
-      "file": "books/00005.json",
-      "count": 200
-    },
-    {
-      "file": "books/00006.json",
-      "count": 200
-    },
-    {
-      "file": "books/00007.json",
-      "count": 200
-    },
-    {
-      "file": "books/00008.json",
-      "count": 200
-    },
-    {
-      "file": "books/00009.json",
-      "count": 200
-    },
-    {
-      "file": "books/00010.json",
-      "count": 200
-    },
-    {
-      "file": "books/00011.json",
-      "count": 200
-    },
-    {
-      "file": "books/00012.json",
-      "count": 200
-    },
-    {
-      "file": "books/00013.json",
-      "count": 200
-    },
-    {
-      "file": "books/00014.json",
-      "count": 200
-    },
-    {
-      "file": "books/00015.json",
-      "count": 200
-    },
-    {
-      "file": "books/00016.json",
-      "count": 200
-    },
-    {
-      "file": "books/00017.json",
-      "count": 200
-    },
-    {
-      "file": "books/00018.json",
-      "count": 200
-    },
-    {
-      "file": "books/00019.json",
-      "count": 200
-    },
-    {
-      "file": "books/00020.json",
-      "count": 200
-    },
-    {
-      "file": "books/00021.json",
-      "count": 200
-    },
-    {
-      "file": "books/00022.json",
-      "count": 200
-    },
-    {
-      "file": "books/00023.json",
-      "count": 200
-    },
-    {
-      "file": "books/00024.json",
-      "count": 200
-    },
-    {
-      "file": "books/00025.json",
-      "count": 200
-    },
-    {
-      "file": "books/00026.json",
-      "count": 200
-    },
-    {
-      "file": "books/00027.json",
-      "count": 200
-    },
-    {
-      "file": "books/00028.json",
-      "count": 200
-    },
-    {
-      "file": "books/00029.json",
-      "count": 200
-    },
-    {
-      "file": "books/00030.json",
-      "count": 200
-    },
-    {
-      "file": "books/00031.json",
-      "count": 200
-    },
-    {
-      "file": "books/00032.json",
-      "count": 200
-    },
-    {
-      "file": "books/00033.json",
-      "count": 200
-    },
-    {
-      "file": "books/00034.json",
-      "count": 200
-    },
-    {
-      "file": "books/00035.json",
-      "count": 200
-    },
-    {
-      "file": "books/00036.json",
-      "count": 200
-    },
-    {
-      "file": "books/00037.json",
-      "count": 200
-    },
-    {
-      "file": "books/00038.json",
-      "count": 200
-    },
-    {
-      "file": "books/00039.json",
-      "count": 200
-    },
-    {
-      "file": "books/00040.json",
-      "count": 200
-    },
-    {
-      "file": "books/00041.json",
-      "count": 200
-    },
-    {
-      "file": "books/00042.json",
-      "count": 200
-    },
-    {
-      "file": "books/00043.json",
-      "count": 200
-    },
-    {
-      "file": "books/00044.json",
-      "count": 200
-    },
-    {
-      "file": "books/00045.json",
-      "count": 200
-    },
-    {
-      "file": "books/00046.json",
-      "count": 200
-    },
-    {
-      "file": "books/00047.json",
-      "count": 200
-    },
-    {
-      "file": "books/00048.json",
-      "count": 200
-    },
-    {
-      "file": "books/00049.json",
-      "count": 200
-    },
-    {
-      "file": "books/00050.json",
-      "count": 200
-    },
-    {
-      "file": "books/00051.json",
-      "count": 200
-    },
-    {
-      "file": "books/00052.json",
-      "count": 200
-    },
-    {
-      "file": "books/00053.json",
-      "count": 200
-    },
-    {
-      "file": "books/00054.json",
-      "count": 200
-    },
-    {
-      "file": "books/00055.json",
-      "count": 200
-    },
-    {
-      "file": "books/00056.json",
-      "count": 182
-    }
-  ],
+  "total_books": 11182,
   "source_counts": {
     "和图书": 63,
     "飘天文学": 1,
@@ -242,7 +15,25 @@
     "塔读文学": 458,
     "爱下电子书": 2486
   },
-  "source_status": [
+  "all_done": false,
+  "continue_needed": true,
+  "unresolved_sources": [
+    "爱下电子书",
+    "塔读文学",
+    "努努书坊",
+    "九九藏书网",
+    "言情小说吧",
+    "一七小说",
+    "滋味小说网",
+    "乐文小说",
+    "泡书吧小说网",
+    "AAAKS小说",
+    "69书吧",
+    "飘天文学",
+    "和图书"
+  ],
+  "last_published_source": "69shuba.com",
+  "sources": [
     {
       "name": "爱下电子书",
       "host": "ixdzs8.com",
@@ -463,9 +254,5 @@
       "needs_adapter": false,
       "pending": true
     }
-  ],
-  "status_file": "authorized_v14_status.json",
-  "last_published_source": "69shuba.com",
-  "id_scheme": "stable-v4-aliases",
-  "text_only": true
+  ]
 }

@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-c81f617b6abaa74b0102",
-      "title": "第106章 云里",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/gnbk26/204370.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 106,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:38+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c81f617b6abaa74b0102",
-        "ext-188411033817213605"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/gnbk26/204370.html"
-      ]
-    },
-    {
       "id": "ext-1149f4d3f231438bd850",
       "title": "第105章 裂痕",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book3/6505/index.html"
+      ]
+    },
+    {
+      "id": "ext-37b82f8bf38333dcb6f9",
+      "title": "阿西莫夫: 钢穴",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6011/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-37b82f8bf38333dcb6f9",
+        "ext-2818232301066454235"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6011/index.html"
       ]
     }
   ]
