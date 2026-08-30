@@ -1,11 +1,11 @@
 {
   "channel": "stable",
   "packageName": "com.xiaoxiaoshuo.reader",
-  "versionCode": 7006,
-  "versionName": "7.0.6",
-  "apkUrl": "https://api.gitcode.com/api/v5/repos/suwiner/xiaoxiaoshuo-releases/releases/v7.0.6/attach_files/%E5%B0%8F%E5%B0%8F%E8%AF%B4-v7.0.6-%E9%A6%96%E9%A1%B5%E6%A6%9C%E5%8D%95%E5%88%86%E7%B1%BB-%E5%A4%96%E9%83%A8%E6%99%BA%E8%83%BD%E4%B9%A6%E6%BA%90-%E5%8E%9F%E7%94%9F%E9%98%85%E8%AF%BB%E5%99%A8-%E6%AD%A3%E5%BC%8F%E7%89%88.apk/download",
-  "apkSha256": "004a88a406ca3dda5ef393c35efebe8be42bbda5e47b0d70cd5e7910f6a6dda5",
-  "changelog": "小小说 v7.0.6：重做首页推荐榜、完本榜、巅峰榜、新书榜与小说分类；推荐内容与正文来源解耦；阅读时自动匹配健康外部书源，正文抽取后由小小说原生阅读器重新排版，不再嵌套第三方阅读网页；更换新版启动图标并优化书源健康检测。",
+  "versionCode": 7007,
+  "versionName": "7.0.7",
+  "apkUrl": "https://api.gitcode.com/api/v5/repos/suwiner/xiaoxiaoshuo-releases/releases/v7.0.7/attach_files/%E5%B0%8F%E5%B0%8F%E8%AF%B4-v7.0.7-%E9%A6%96%E9%A1%B5UI%E4%BC%98%E5%8C%96-%E6%90%9C%E7%B4%A2%E5%AE%8C%E6%95%B4%E7%BB%93%E6%9E%9C-%E6%AD%A3%E5%BC%8F%E7%89%88.apk/download",
+  "apkSha256": "7d493ec2308a50d20c3a8caa65e376bc5afa9e4c8557f32cb685f4fb1371a070",
+  "changelog": "小小说 v7.0.7：修复多书源搜索结果最终被错误截断到90本的问题，改为完整结果保留并分批加载；首页继续保留一页安静，优化推荐榜、完本榜、巅峰榜、新书榜与小说分类布局；推荐阅读仍由健康外部书源匹配并使用小小说原生阅读器排版。",
   "mandatory": false,
   "signerSha256": "17e6d4431671c0574450846596c177ab1f3278f7295375199f75cb1ce7726b3f",
   "retentionLimit": 3
