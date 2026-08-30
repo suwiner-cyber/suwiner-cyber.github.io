@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T17:53:35+00:00",
+  "generated_at": "2026-08-30T17:55:18+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -624,6 +624,12 @@
       "source": "言情小说吧",
       "url": "https://www.xs8.cn/help?id=11004",
       "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-08-30T17:54:45+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/千山茶客.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
     }
   ]
 }
