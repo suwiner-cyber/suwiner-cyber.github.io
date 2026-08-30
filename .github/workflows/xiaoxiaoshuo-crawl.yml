@@ -75,14 +75,8 @@ jobs:
 
             index_done=$(python -c "import json; from pathlib import Path; p=Path('xiaoxiaoshuo/data/v5/six_full_status.json'); d=json.loads(p.read_text(encoding='utf-8')) if p.exists() else {}; print('yes' if d.get('all_done') else 'no')")
             text_done=$(python -c "import json; from pathlib import Path; p=Path('xiaoxiaoshuo/data/v5/universal_mirror_status.json'); d=json.loads(p.read_text(encoding='utf-8')) if p.exists() else {}; print('yes' if d.get('all_fulltext_done') else 'no')")
-            python - <<'PY'
-import json
-from pathlib import Path
-for name in ('six_full_status.json','universal_mirror_status.json'):
-    p=Path('xiaoxiaoshuo/data/v5')/name
-    if p.exists():
-        print(name, json.dumps(json.loads(p.read_text(encoding='utf-8')), ensure_ascii=False))
-PY
+            python -c "import json; from pathlib import Path; [print(n, json.dumps(json.loads((Path('xiaoxiaoshuo/data/v5')/n).read_text(encoding='utf-8')), ensure_ascii=False)) for n in ('six_full_status.json','universal_mirror_status.json') if (Path('xiaoxiaoshuo/data/v5')/n).exists()]"
+
             now=$(date +%s)
             elapsed=$((now-start))
             if [ "$index_done" = "yes" ] && [ "$text_done" = "yes" ]; then
