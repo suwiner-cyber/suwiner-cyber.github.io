@@ -1,11 +1,11 @@
 {
   "channel": "stable",
   "packageName": "com.xiaoxiaoshuo.reader",
-  "versionCode": 7005,
-  "versionName": "7.0.5",
-  "apkUrl": "",
-  "apkSha256": "dab3a36e07287617956daddde1468e36aef84054959111769b1ea3b74bf22c63",
-  "changelog": "这次把升级体验重新做得更温和：发现新版本时主动提醒；升级包在后台下载，下载期间可以继续阅读；下载完成后再询问是否安装。首页继续使用分类推荐快照，阅读设置、账号同步、中央书库和我的书架保持不变。",
+  "versionCode": 7006,
+  "versionName": "7.0.6",
+  "apkUrl": "https://api.gitcode.com/api/v5/repos/suwiner/xiaoxiaoshuo-releases/releases/v7.0.6/attach_files/%E5%B0%8F%E5%B0%8F%E8%AF%B4-v7.0.6-%E9%A6%96%E9%A1%B5%E6%A6%9C%E5%8D%95%E5%88%86%E7%B1%BB-%E5%A4%96%E9%83%A8%E6%99%BA%E8%83%BD%E4%B9%A6%E6%BA%90-%E5%8E%9F%E7%94%9F%E9%98%85%E8%AF%BB%E5%99%A8-%E6%AD%A3%E5%BC%8F%E7%89%88.apk/download",
+  "apkSha256": "004a88a406ca3dda5ef393c35efebe8be42bbda5e47b0d70cd5e7910f6a6dda5",
+  "changelog": "小小说 v7.0.6：重做首页推荐榜、完本榜、巅峰榜、新书榜与小说分类；推荐内容与正文来源解耦；阅读时自动匹配健康外部书源，正文抽取后由小小说原生阅读器重新排版，不再嵌套第三方阅读网页；更换新版启动图标并优化书源健康检测。",
   "mandatory": false,
   "signerSha256": "17e6d4431671c0574450846596c177ab1f3278f7295375199f75cb1ce7726b3f",
   "retentionLimit": 3
