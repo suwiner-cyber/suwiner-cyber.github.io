@@ -3,6 +3,10 @@ on:
   push:
     paths:
       - '.github/workflows/get-apktool.yml'
+  pull_request:
+    paths:
+      - '.github/workflows/get-apktool.yml'
+      - 'xiaoxiaoshuo/.build-trigger'
   workflow_dispatch:
 permissions:
   contents: read
