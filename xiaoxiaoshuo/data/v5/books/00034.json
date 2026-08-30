@@ -1,55 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-c309bbd66eae76fe8185",
-      "title": "第36章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171792.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171792.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/37968.html",
-        "https://www.kanunu8.com/book7/lmm04/464085.html",
-        "https://www.kanunu8.com/book7/75chyriji/463308.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481591.html",
-        "https://www.kanunu8.com/book7/hxshn92/485149.html",
-        "https://www.kanunu8.com/book5/yiouchun/80318.html",
-        "https://www.kanunu8.com/book7/jinxiefang/449777.html"
-      ],
-      "read_ids": [
-        "ext-c309bbd66eae76fe8185",
-        "ext-3698664942821660023",
-        "ext-d9a42fe374abd13c7c1e",
-        "ext-4804c15adec0548e7799",
-        "ext-e348e1ccb1dcc02da676",
-        "ext-d49c4dcf4cf699248c36",
-        "ext-625106b6814055c7ae46",
-        "ext-5e528bbf681ed945112f",
-        "ext-0c18ac4c3a917969ce5d"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171792.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/37968.html",
-        "https://www.kanunu8.com/book7/lmm04/464085.html",
-        "https://www.kanunu8.com/book7/75chyriji/463308.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481591.html",
-        "https://www.kanunu8.com/book7/hxshn92/485149.html",
-        "https://www.kanunu8.com/book5/yiouchun/80318.html",
-        "https://www.kanunu8.com/book7/jinxiefang/449777.html"
-      ]
-    },
-    {
       "id": "ext-252ed4e3bc97f0ec1946",
       "title": "第35章",
       "author": "",
@@ -6327,6 +6278,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65046.html"
+      ]
+    },
+    {
+      "id": "ext-6bde55ebb0815502f79a",
+      "title": "第89章 后街",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65127.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 89,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-6bde55ebb0815502f79a",
+        "ext-671348035129987316"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65127.html"
       ]
     }
   ]

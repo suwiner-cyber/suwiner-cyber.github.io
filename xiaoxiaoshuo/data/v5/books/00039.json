@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-fa176e88eee527b94f81",
-      "title": "罗伯特·乔丹: 时光之轮",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6795/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-fa176e88eee527b94f81",
-        "ext-3484376233281000246"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6795/index.html"
-      ]
-    },
-    {
       "id": "ext-691057c4c78712e54f80",
       "title": "紫色残阳: 魔兽争霸小说：赎罪",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book2/10875/index.html"
+      ]
+    },
+    {
+      "id": "ext-72ef475f936418959e91",
+      "title": "桐华: 半暖时光",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/10754/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:32+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-72ef475f936418959e91",
+        "ext-514459995517947418"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/10754/index.html"
       ]
     }
   ]

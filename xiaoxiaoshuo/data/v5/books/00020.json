@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-17543e8b1a20e4119cf3",
-      "title": "第15章 靠近",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/tianjieyese/451970.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:10+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-17543e8b1a20e4119cf3",
-        "ext-7378410659756800676"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/tianjieyese/451970.html"
-      ]
-    },
-    {
       "id": "ext-1db3109568bb8c93400a",
       "title": "第14章 靠近",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450238.html"
+      ]
+    },
+    {
+      "id": "ext-57451c6ea5a2d7ee810d",
+      "title": "第八章 毒物",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450060.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-57451c6ea5a2d7ee810d",
+        "ext-966072318206931535"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450060.html"
       ]
     }
   ]

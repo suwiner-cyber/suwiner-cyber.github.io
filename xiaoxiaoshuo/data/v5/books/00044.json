@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-571ba0edd5636cbcc58f",
-      "title": "江善美: 19，22岁",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9297/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-571ba0edd5636cbcc58f",
-        "ext-350715339438395665"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9297/index.html"
-      ]
-    },
-    {
       "id": "ext-28a2366379297341690a",
       "title": "江南: 龙族3·黑月之潮(中)",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book4/10311/index.html"
+      ]
+    },
+    {
+      "id": "ext-f782e6f0cb581f73c3b5",
+      "title": "约翰·拉贝: 拉贝日记",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10310/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f782e6f0cb581f73c3b5",
+        "ext-1000572269071146515"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10310/index.html"
       ]
     }
   ]

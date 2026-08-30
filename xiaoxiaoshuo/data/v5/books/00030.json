@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-a1118d79752825ad1c7f",
-      "title": "参考文献",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481903.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:50+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a1118d79752825ad1c7f",
-        "ext-5859015217553317607"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qianyaobaimei/481903.html"
-      ]
-    },
-    {
       "id": "ext-40ee72a8e044a8ae9f6a",
       "title": "北极星疗养院",
       "author": "",
@@ -5628,6 +5603,37 @@
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/462878.html",
         "https://www.kanunu8.com/book7/dby67/469974.html"
+      ]
+    },
+    {
+      "id": "ext-c363622a78e983acb148",
+      "title": "第三十九章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/462885.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462885.html",
+        "https://www.kanunu8.com/book7/dby67/469981.html"
+      ],
+      "read_ids": [
+        "ext-c363622a78e983acb148",
+        "ext-5592256751711179728",
+        "ext-46457eb34ab317557a64"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462885.html",
+        "https://www.kanunu8.com/book7/dby67/469981.html"
       ]
     }
   ]

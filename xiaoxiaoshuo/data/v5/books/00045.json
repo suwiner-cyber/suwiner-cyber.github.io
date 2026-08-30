@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-f782e6f0cb581f73c3b5",
-      "title": "约翰·拉贝: 拉贝日记",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10310/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:25+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f782e6f0cb581f73c3b5",
-        "ext-1000572269071146515"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10310/index.html"
-      ]
-    },
-    {
       "id": "ext-e6fd87595a26903394a7",
       "title": "约瑟夫·海勒: 第二十二条军规",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book4/10485/index.html"
+      ]
+    },
+    {
+      "id": "ext-9cc1d46962ac5f67bf15",
+      "title": "田东照: 骗官",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/10452/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:24+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9cc1d46962ac5f67bf15",
+        "ext-6839468791026309605"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10452/index.html"
       ]
     }
   ]

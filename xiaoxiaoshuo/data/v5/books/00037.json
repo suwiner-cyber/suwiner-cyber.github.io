@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-e1096fa003fdc000c16d",
-      "title": "第128章 热忱",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/gnbk26/204393.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 128,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:38+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e1096fa003fdc000c16d",
-        "ext-5643781644840909796"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/gnbk26/204393.html"
-      ]
-    },
-    {
       "id": "ext-7ae4edfda00c17750c7d",
       "title": "第127章 光照",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book3/7352/index.html"
+      ]
+    },
+    {
+      "id": "ext-f3d73607d4db482d6e81",
+      "title": "九把刀: 楼下的房客",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/7351/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f3d73607d4db482d6e81",
+        "ext-6050861192303683218"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/7351/index.html"
       ]
     }
   ]

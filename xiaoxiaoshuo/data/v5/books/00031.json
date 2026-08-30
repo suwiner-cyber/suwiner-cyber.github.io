@@ -1,37 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-c363622a78e983acb148",
-      "title": "第三十九章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/462885.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462885.html",
-        "https://www.kanunu8.com/book7/dby67/469981.html"
-      ],
-      "read_ids": [
-        "ext-c363622a78e983acb148",
-        "ext-5592256751711179728",
-        "ext-46457eb34ab317557a64"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462885.html",
-        "https://www.kanunu8.com/book7/dby67/469981.html"
-      ]
-    },
-    {
       "id": "ext-02da956903bd43f0a108",
       "title": "第三十三章",
       "author": "",
@@ -5598,6 +5567,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/463169.html"
+      ]
+    },
+    {
+      "id": "ext-cfa42be4ec3545b6234a",
+      "title": "番外七十四",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463213.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-cfa42be4ec3545b6234a",
+        "ext-3517557371998035154"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463213.html"
       ]
     }
   ]

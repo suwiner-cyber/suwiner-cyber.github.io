@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-9cc1d46962ac5f67bf15",
-      "title": "田东照: 骗官",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book4/10452/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-9cc1d46962ac5f67bf15",
-        "ext-6839468791026309605"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10452/index.html"
-      ]
-    },
-    {
       "id": "ext-fd1b3e00dfa8c0fc9abf",
       "title": "田东照: 跑官",
       "author": "",
@@ -5040,6 +5015,31 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/1024616"
+      ]
+    },
+    {
+      "id": "ext-1b6ffec4ab7a8681399d",
+      "title": "7 鬼王独宠之六小姐 邬梓桐",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.tadu.com/book/834018",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:09+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1b6ffec4ab7a8681399d",
+        "ext-6110937037157015509"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/834018"
       ]
     }
   ]

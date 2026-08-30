@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-72ef475f936418959e91",
-      "title": "桐华: 半暖时光",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/10754/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-72ef475f936418959e91",
-        "ext-514459995517947418"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/10754/index.html"
-      ]
-    },
-    {
       "id": "ext-18dc04cdca72ea9c28c9",
       "title": "校长: 燕归来熙",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/yuanchuang/201102/1528.html"
+      ]
+    },
+    {
+      "id": "ext-95ac5854f652ac141739",
+      "title": "孙皓晖: 大秦帝国6:帝国烽烟",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/5947/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:31+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-95ac5854f652ac141739",
+        "ext-6441025299643956103"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/5947/index.html"
       ]
     }
   ]
