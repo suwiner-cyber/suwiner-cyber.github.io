@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-cac4a0320d3c31924df7",
+      "title": "第三十五章 马头",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450265.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-cac4a0320d3c31924df7",
+        "ext-2593426221686591091"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450265.html"
+      ]
+    },
+    {
       "id": "ext-55b7e803a7f2c554056f",
       "title": "第三十五章 质问",
       "author": "",
@@ -5006,31 +5031,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/ttcbuzhu/48145.html"
-      ]
-    },
-    {
-      "id": "ext-4f583477367b2eb7638b",
-      "title": "第14章 偷偷",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/ttcbuzhu/48144.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:06+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-4f583477367b2eb7638b",
-        "ext-714703693763798366"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/ttcbuzhu/48144.html"
       ]
     }
   ]

@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-c3f158b66cb60e854de0",
+      "title": "玖月晞: 因为风就在那里",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/11111/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:32+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c3f158b66cb60e854de0",
+        "ext-1197355351453143559"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/11111/index.html"
+      ]
+    },
+    {
       "id": "ext-bcdcd0a29b868dbeab47",
       "title": "玖月晞: 你比北京美丽(你比星光美丽)",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/yuanchuang/201102/1422.html"
-      ]
-    },
-    {
-      "id": "ext-7d8e95349e454f6575e8",
-      "title": "桐华: 曾许诺(天籁传奇·桃花策)试阅本",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/yuanchuang/201102/1426.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:31+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7d8e95349e454f6575e8",
-        "ext-8046459188958999916"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/yuanchuang/201102/1426.html"
       ]
     }
   ]

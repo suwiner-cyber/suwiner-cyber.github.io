@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-0550c54f3c23ada922ba",
+      "title": "何夕: 爱别离",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book3/6567/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-0550c54f3c23ada922ba",
+        "ext-8353266952448716255"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6567/index.html"
+      ]
+    },
+    {
       "id": "ext-11127381f9ceaeb8e392",
       "title": "何夕: 异域",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book2/11120/index.html"
-      ]
-    },
-    {
-      "id": "ext-c3f158b66cb60e854de0",
-      "title": "玖月晞: 因为风就在那里",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/11111/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c3f158b66cb60e854de0",
-        "ext-1197355351453143559"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/11111/index.html"
       ]
     }
   ]

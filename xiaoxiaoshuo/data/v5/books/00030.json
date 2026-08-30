@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-d9fd1f2668df06500716",
+      "title": "梦醒时分",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481844.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:50+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d9fd1f2668df06500716",
+        "ext-2107308849028230806"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qianyaobaimei/481844.html"
+      ]
+    },
+    {
       "id": "ext-05cf369de9f99a7959eb",
       "title": "梦的虫洞",
       "author": "",
@@ -5387,31 +5412,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/463063.html"
-      ]
-    },
-    {
-      "id": "ext-452136e830471018ee44",
-      "title": "第二百一十一章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/463057.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-452136e830471018ee44",
-        "ext-5843451348860069825"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/463057.html"
       ]
     }
   ]

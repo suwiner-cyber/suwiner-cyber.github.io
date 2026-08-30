@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-4d43e5c307fc86a19c43",
+      "title": "赵迪: 基金经理",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/dushi/201107/3240.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4d43e5c307fc86a19c43",
+        "ext-5091938177948702341"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/dushi/201107/3240.html"
+      ]
+    },
+    {
       "id": "ext-29c51f98c8ba0cec8137",
       "title": "赵宇: 偷窥日记",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book2/10946/index.html"
-      ]
-    },
-    {
-      "id": "ext-273caeb66902f026df44",
-      "title": "裴银喜: 是我的，你别碰！",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9272/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-273caeb66902f026df44",
-        "ext-1199722505169074667"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9272/index.html"
       ]
     }
   ]

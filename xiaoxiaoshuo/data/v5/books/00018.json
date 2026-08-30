@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-6590a9b27b61937be4e6",
+      "title": "第54章 自在意(下)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/jianchuqiao/445564.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 54,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:15+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-6590a9b27b61937be4e6",
+        "ext-4731396235899791548"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/jianchuqiao/445564.html"
+      ]
+    },
+    {
       "id": "ext-ee4a52a21de980b7224d",
       "title": "第53章 自在意(中)",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/shjshdyshchli/450585.html"
-      ]
-    },
-    {
-      "id": "ext-8f556637791a0bedbe09",
-      "title": "第29章 最喜欢的学生",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/shjshdyshchli/450612.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 29,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:13+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-8f556637791a0bedbe09",
-        "ext-1669291472885841620"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/shjshdyshchli/450612.html"
       ]
     }
   ]

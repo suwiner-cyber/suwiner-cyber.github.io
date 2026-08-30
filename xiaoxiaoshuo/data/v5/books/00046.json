@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-6e7eeb1c9ef3c6dd65ea",
+      "title": "谈歌: 征服",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/10446/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:24+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-6e7eeb1c9ef3c6dd65ea",
+        "ext-2715198634990667884"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10446/index.html"
+      ]
+    },
+    {
       "id": "ext-fc517120575644968f01",
       "title": "许春樵: 放下武器",
       "author": "",
@@ -5015,31 +5040,6 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/732268"
-      ]
-    },
-    {
-      "id": "ext-936d017d4410dbda7ef1",
-      "title": "咸鱼闯七零成了极品懒婆娘 臻乔",
-      "author": "小胖丫丫",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2022/12/19/11/16/551bc014a38a47d691855c54c43a4853.jpg",
-      "source_url": "https://www.tadu.com/book/1027955",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:18+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-936d017d4410dbda7ef1",
-        "ext-3291566090411189134"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/1027955"
       ]
     }
   ]

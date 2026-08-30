@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-853ba214920da10789c8",
+      "title": "第118章 民国旧影2",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/dby81/459526.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 118,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:57+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-853ba214920da10789c8",
+        "ext-4808908828222625009"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/dby81/459526.html"
+      ]
+    },
+    {
       "id": "ext-ba587a9a270d39479db2",
       "title": "第117章 民国旧影1",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/dby79/458393.html"
-      ]
-    },
-    {
-      "id": "ext-218b10d10a336563de6f",
-      "title": "第211章 被抱错的大小姐",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dby79/458392.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 211,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:56+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-218b10d10a336563de6f",
-        "ext-314859689018643140"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dby79/458392.html"
       ]
     }
   ]

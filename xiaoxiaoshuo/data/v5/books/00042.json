@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-ecbe701d312a8bcaedda",
+      "title": "乐小米: 如果百褶裙偷偷哭泣",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2008/06-16-733.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ecbe701d312a8bcaedda",
+        "ext-4390649267216411797"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2008/06-16-733.html"
+      ]
+    },
+    {
       "id": "ext-b0be826b55281b7ecf94",
       "title": "乐小米(纪伟娜): 静望，是一生的美丽",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book4/10237/index.html"
-      ]
-    },
-    {
-      "id": "ext-4d43e5c307fc86a19c43",
-      "title": "赵迪: 基金经理",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/dushi/201107/3240.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-4d43e5c307fc86a19c43",
-        "ext-5091938177948702341"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/dushi/201107/3240.html"
       ]
     }
   ]

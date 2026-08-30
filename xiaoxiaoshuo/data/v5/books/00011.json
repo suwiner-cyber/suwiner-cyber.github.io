@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-b58b896efff328eeab69",
+      "title": "燕辞归",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.1qxs.com/xs_1/72981.html",
+      "source_host": "www.1qxs.com",
+      "source_name": "一七小说",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T15:02:37+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b58b896efff328eeab69",
+        "ext-3515704690165605040"
+      ],
+      "read_sources": [
+        "https://www.1qxs.com/xs_1/72981.html"
+      ]
+    },
+    {
       "id": "ext-e084e4add896f30daf68",
       "title": "棠锦",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.1qxs.com/xs_1/98420.html"
-      ]
-    },
-    {
-      "id": "ext-ac01946bfeaf05881011",
-      "title": "斩杀线下，美剧大爆炸",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.1qxs.com/xs_1/98594.html",
-      "source_host": "www.1qxs.com",
-      "source_name": "一七小说",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T15:02:10+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ac01946bfeaf05881011",
-        "ext-785689636004232601"
-      ],
-      "read_sources": [
-        "https://www.1qxs.com/xs_1/98594.html"
       ]
     }
   ]
