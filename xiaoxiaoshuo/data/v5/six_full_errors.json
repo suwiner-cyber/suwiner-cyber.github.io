@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T23:12:17+00:00",
+  "generated_at": "2026-08-30T00:25:24+00:00",
   "errors": [
     {
       "time": "2026-08-29T22:45:09+00:00",
@@ -36,6 +36,42 @@
       "source": "言情小说吧",
       "url": "https://www.xs8.cn/book/22148996000646402",
       "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-08-30T00:11:27+00:00",
+      "source": "九九藏书网",
+      "url": "https://www.99csw.com/book/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-08-30T00:11:27+00:00",
+      "source": "九九藏书网",
+      "url": "https://www.99csw.com/book/index.php",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-08-30T00:18:09+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/book/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-08-30T00:19:21+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/all.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-08-30T00:24:05+00:00",
+      "source": "69书吧",
+      "url": "https://www.69shuba.com/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-08-30T00:24:05+00:00",
+      "source": "69书吧",
+      "url": "https://www.69shuba.com/book/",
+      "error": "HTTP Error 403: Forbidden"
     }
   ]
 }

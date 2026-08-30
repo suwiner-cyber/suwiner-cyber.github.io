@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "generated_at": "2026-08-29T23:12:17+00:00",
-  "total": 12478,
+  "generated_at": "2026-08-30T00:25:24+00:00",
+  "total": 11183,
   "shard_size": 200,
   "shards": [
     {
@@ -226,44 +226,20 @@
     },
     {
       "file": "books/00056.json",
-      "count": 200
-    },
-    {
-      "file": "books/00057.json",
-      "count": 200
-    },
-    {
-      "file": "books/00058.json",
-      "count": 200
-    },
-    {
-      "file": "books/00059.json",
-      "count": 200
-    },
-    {
-      "file": "books/00060.json",
-      "count": 200
-    },
-    {
-      "file": "books/00061.json",
-      "count": 200
-    },
-    {
-      "file": "books/00062.json",
-      "count": 200
-    },
-    {
-      "file": "books/00063.json",
-      "count": 78
+      "count": 183
     }
   ],
   "source_counts": {
+    "和图书": 63,
+    "飘天文学": 1,
+    "AAAKS小说": 46,
+    "泡书吧小说网": 59,
+    "乐文小说": 75,
     "滋味小说网": 323,
+    "一七小说": 513,
     "言情小说吧": 526,
     "努努书坊": 6633,
-    "塔读文学": 457,
-    "一七小说": 491,
-    "爱听书": 1562,
+    "塔读文学": 458,
     "爱下电子书": 2486
   },
   "six_source_status": [
@@ -273,11 +249,11 @@
       "pages_this_run": 80,
       "successful_pages": 80,
       "failed_pages": 0,
-      "books_found": 65,
-      "books_added": 12,
-      "toc_written": 65,
-      "remaining_queue": 1297,
-      "seen_pages": 160,
+      "books_found": 20,
+      "books_added": 1,
+      "toc_written": 20,
+      "remaining_queue": 1321,
+      "seen_pages": 80,
       "done": false,
       "blocked": false
     },
@@ -287,25 +263,25 @@
       "pages_this_run": 80,
       "successful_pages": 80,
       "failed_pages": 0,
-      "books_found": 69,
-      "books_added": 60,
-      "toc_written": 69,
-      "remaining_queue": 1972,
-      "seen_pages": 160,
+      "books_found": 71,
+      "books_added": 0,
+      "toc_written": 53,
+      "remaining_queue": 1331,
+      "seen_pages": 80,
       "done": false,
       "blocked": false
     },
     {
       "name": "九九藏书网",
       "host": "www.99csw.com",
-      "pages_this_run": 0,
+      "pages_this_run": 2,
       "successful_pages": 0,
-      "failed_pages": 0,
+      "failed_pages": 2,
       "books_found": 0,
       "books_added": 0,
       "toc_written": 0,
       "remaining_queue": 0,
-      "seen_pages": 1,
+      "seen_pages": 2,
       "done": true,
       "blocked": false
     },
@@ -313,13 +289,13 @@
       "name": "言情小说吧",
       "host": "www.xs8.cn",
       "pages_this_run": 80,
-      "successful_pages": 76,
-      "failed_pages": 4,
-      "books_found": 72,
+      "successful_pages": 80,
+      "failed_pages": 0,
+      "books_found": 56,
       "books_added": 0,
-      "toc_written": 72,
-      "remaining_queue": 934,
-      "seen_pages": 160,
+      "toc_written": 56,
+      "remaining_queue": 1014,
+      "seen_pages": 80,
       "done": false,
       "blocked": false
     },
@@ -329,11 +305,11 @@
       "pages_this_run": 80,
       "successful_pages": 80,
       "failed_pages": 0,
-      "books_found": 0,
-      "books_added": 0,
-      "toc_written": 0,
-      "remaining_queue": 669,
-      "seen_pages": 160,
+      "books_found": 39,
+      "books_added": 24,
+      "toc_written": 39,
+      "remaining_queue": 787,
+      "seen_pages": 80,
       "done": false,
       "blocked": false
     },
@@ -343,13 +319,99 @@
       "pages_this_run": 80,
       "successful_pages": 80,
       "failed_pages": 0,
-      "books_found": 71,
+      "books_found": 13,
       "books_added": 0,
       "toc_written": 0,
-      "remaining_queue": 9382,
-      "seen_pages": 160,
+      "remaining_queue": 8897,
+      "seen_pages": 80,
+      "done": false,
+      "blocked": false
+    },
+    {
+      "name": "乐文小说",
+      "host": "www.ilwxs.com",
+      "pages_this_run": 80,
+      "successful_pages": 79,
+      "failed_pages": 1,
+      "books_found": 75,
+      "books_added": 75,
+      "toc_written": 75,
+      "remaining_queue": 270,
+      "seen_pages": 80,
+      "done": false,
+      "blocked": false
+    },
+    {
+      "name": "泡书吧小说网",
+      "host": "www.ipaoshubaxs.net",
+      "pages_this_run": 80,
+      "successful_pages": 79,
+      "failed_pages": 1,
+      "books_found": 72,
+      "books_added": 72,
+      "toc_written": 71,
+      "remaining_queue": 397,
+      "seen_pages": 80,
+      "done": false,
+      "blocked": false
+    },
+    {
+      "name": "AAAKS小说",
+      "host": "www.aaaks.com",
+      "pages_this_run": 80,
+      "successful_pages": 80,
+      "failed_pages": 0,
+      "books_found": 46,
+      "books_added": 46,
+      "toc_written": 46,
+      "remaining_queue": 1960,
+      "seen_pages": 80,
+      "done": false,
+      "blocked": false
+    },
+    {
+      "name": "69书吧",
+      "host": "www.69shuba.com",
+      "pages_this_run": 2,
+      "successful_pages": 0,
+      "failed_pages": 2,
+      "books_found": 0,
+      "books_added": 0,
+      "toc_written": 0,
+      "remaining_queue": 0,
+      "seen_pages": 2,
+      "done": true,
+      "blocked": false
+    },
+    {
+      "name": "飘天文学",
+      "host": "www.piaotia.com",
+      "pages_this_run": 2,
+      "successful_pages": 2,
+      "failed_pages": 0,
+      "books_found": 1,
+      "books_added": 1,
+      "toc_written": 1,
+      "remaining_queue": 0,
+      "seen_pages": 2,
+      "done": true,
+      "blocked": false
+    },
+    {
+      "name": "和图书",
+      "host": "www.hetushu.com",
+      "pages_this_run": 80,
+      "successful_pages": 80,
+      "failed_pages": 0,
+      "books_found": 63,
+      "books_added": 63,
+      "toc_written": 63,
+      "remaining_queue": 197,
+      "seen_pages": 80,
       "done": false,
       "blocked": false
     }
-  ]
+  ],
+  "id_scheme": "stable-v4-aliases",
+  "text_only": true
 }

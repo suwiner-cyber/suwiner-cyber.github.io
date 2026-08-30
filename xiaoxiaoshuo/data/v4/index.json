@@ -1,7 +1,7 @@
 {
   "version": 4,
-  "generated_at": "2026-08-29T14:54:23+00:00",
-  "total": 4097,
+  "generated_at": "2026-08-30T00:06:28+00:00",
+  "total": 2513,
   "shard_size": 200,
   "shards": [
     {
@@ -54,67 +54,24 @@
     },
     {
       "file": "books/00013.json",
-      "count": 200
-    },
-    {
-      "file": "books/00014.json",
-      "count": 200
-    },
-    {
-      "file": "books/00015.json",
-      "count": 200
-    },
-    {
-      "file": "books/00016.json",
-      "count": 200
-    },
-    {
-      "file": "books/00017.json",
-      "count": 200
-    },
-    {
-      "file": "books/00018.json",
-      "count": 200
-    },
-    {
-      "file": "books/00019.json",
-      "count": 200
-    },
-    {
-      "file": "books/00020.json",
-      "count": 200
-    },
-    {
-      "file": "books/00021.json",
-      "count": 97
+      "count": 113
     }
   ],
   "source_counts": {
-    "爱下电子书": 2490,
-    "爱听书": 1607
+    "爱下电子书": 2513
   },
   "sources": [
     {
       "name": "爱下电子书",
       "pages": "60/60",
       "discovered": 1200,
-      "added": 1200,
+      "added": 23,
       "cursor": {
         "category_index": 0,
-        "page": 127,
-        "updated_at": "2026-08-29T14:52:20+00:00"
-      }
-    },
-    {
-      "name": "爱听书 / 听书网",
-      "pages": "80/80",
-      "discovered": 800,
-      "added": 787,
-      "cursor": {
-        "page": 167,
-        "total_pages": 3395,
-        "updated_at": "2026-08-29T14:54:22+00:00"
+        "page": 61,
+        "updated_at": "2026-08-30T00:06:27+00:00"
       }
     }
-  ]
+  ],
+  "text_only": true
 }
