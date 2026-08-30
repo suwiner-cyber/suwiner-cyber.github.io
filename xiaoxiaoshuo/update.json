@@ -1,16 +1,11 @@
 {
   "channel": "stable",
   "packageName": "com.xiaoxiaoshuo.reader",
-  "versionCode": 7001,
-  "versionName": "7.0.1",
-  "apkUrl": "https://suwiner-cyber.github.io/xiaoxiaoshuo/releases/xiaoxiaoshuo-v7.0.1.apk",
-  "apkSha256": "966572d7c157f6fa175756fc2af88c7ad33728a6255804f5ab03daa149c81cf1",
-  "apkBytes": 12,
-  "changelog": "修复华为手机启动时 HomeRecommendPanel VerifyError；保留首页小说推荐、中央书库分类、我的书架、账号云同步、阅读背景/护眼/背景音乐和应用内升级功能。",
+  "versionCode": 7000,
+  "versionName": "7.0.0",
+  "apkUrl": "",
+  "changelog": "小小说 v7.0.0 长期正式版。v7.0.1 启动修复包已完成，服务器二进制上传完成前不向客户端下发无效下载地址。",
   "mandatory": false,
   "signerSha256": "17e6d4431671c0574450846596c177ab1f3278f7295375199f75cb1ce7726b3f",
-  "retainedVersions": [
-    "7.0.1"
-  ],
   "retentionLimit": 3
 }
