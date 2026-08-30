@@ -9,6 +9,7 @@ on:
       - 'xiaoxiaoshuo/tools/normalize_library_ids.py'
       - 'xiaoxiaoshuo/tools/sanitize_library_metadata.py'
       - 'xiaoxiaoshuo/tools/mirror_text_universal.py'
+      - 'xiaoxiaoshuo/tools/mirror_text_repair.py'
       - 'xiaoxiaoshuo/tools/repair_covers.py'
       - 'xiaoxiaoshuo/tools/purge_audio.py'
       - '.github/workflows/xiaoxiaoshuo-crawl.yml'
@@ -81,13 +82,14 @@ jobs:
           publish "xs8.cn"
           publish "zwxiaoshuo.com"
 
-          python xiaoxiaoshuo/tools/mirror_text_universal.py || true
+          # Repair corrupted legacy body cache first, then continue full-text mirroring
+          python xiaoxiaoshuo/tools/mirror_text_repair.py || true
           python xiaoxiaoshuo/tools/repair_covers.py || true
           python xiaoxiaoshuo/tools/sanitize_library_metadata.py
           python xiaoxiaoshuo/tools/purge_audio.py
           git add xiaoxiaoshuo/data/v5
           if ! git diff --cached --quiet; then
-            git commit -m "v15 enrich full text covers and metadata"
+            git commit -m "v15 repair encoding and enrich full text covers metadata"
             for attempt in 1 2 3 4 5; do
               git fetch origin main
               if git rebase origin/main && git push origin HEAD:main; then
