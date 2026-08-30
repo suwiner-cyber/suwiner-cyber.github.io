@@ -1,7 +1,7 @@
 {
   "version": 14,
-  "generated_at": "2026-08-30T01:13:44+00:00",
-  "total": 11404,
+  "generated_at": "2026-08-30T01:16:03+00:00",
+  "total": 11473,
   "shard_size": 200,
   "shards": [
     {
@@ -234,10 +234,11 @@
     },
     {
       "file": "books/00058.json",
-      "count": 4
+      "count": 73
     }
   ],
   "source_counts": {
+    "爱下电子书": 2555,
     "AAAKS小说": 53,
     "泡书吧小说网": 107,
     "乐文小说": 118,
@@ -247,26 +248,24 @@
     "滋味小说网": 323,
     "言情小说吧": 526,
     "努努书坊": 6632,
-    "塔读文学": 458,
-    "爱下电子书": 2486
+    "塔读文学": 458
   },
   "source_status": [
     {
       "name": "爱下电子书",
       "host": "ixdzs8.com",
-      "pages_this_run": 0,
-      "successful_pages": 0,
+      "pages_this_run": 80,
+      "successful_pages": 80,
       "failed_pages": 0,
-      "books_found": 0,
-      "books_added": 0,
-      "toc_written": 0,
-      "books_seen_total": 0,
-      "remaining_queue": null,
-      "seen_pages": 0,
+      "books_found": 71,
+      "books_added": 70,
+      "toc_written": 71,
+      "books_seen_total": 71,
+      "remaining_queue": 594,
+      "seen_pages": 80,
       "done": false,
       "blocked": false,
-      "needs_adapter": false,
-      "pending": true
+      "needs_adapter": false
     },
     {
       "name": "塔读文学",
@@ -466,7 +465,7 @@
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "99csw.com",
+  "last_published_source": "ixdzs8.com",
   "id_scheme": "stable-v4-aliases",
   "text_only": true
 }
