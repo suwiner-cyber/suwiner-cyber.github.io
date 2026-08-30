@@ -1,6 +1,6 @@
 {
   "version": 14,
-  "generated_at": "2026-08-30T03:12:18+00:00",
+  "generated_at": "2026-08-30T03:13:54+00:00",
   "total": 11796,
   "shard_size": 200,
   "shards": [
@@ -242,6 +242,7 @@
     }
   ],
   "source_counts": {
+    "努努书坊": 6632,
     "塔读文学": 438,
     "爱下电子书": 2576,
     "AAAKS小说": 110,
@@ -251,8 +252,7 @@
     "飘天文学": 157,
     "一七小说": 589,
     "滋味小说网": 323,
-    "言情小说吧": 526,
-    "努努书坊": 6632
+    "言情小说吧": 526
   },
   "source_status": [
     {
@@ -290,19 +290,18 @@
     {
       "name": "努努书坊",
       "host": "kanunu8.com",
-      "pages_this_run": 0,
-      "successful_pages": 0,
+      "pages_this_run": 80,
+      "successful_pages": 80,
       "failed_pages": 0,
-      "books_found": 0,
+      "books_found": 78,
       "books_added": 0,
-      "toc_written": 0,
-      "books_seen_total": 0,
-      "remaining_queue": null,
-      "seen_pages": 0,
+      "toc_written": 61,
+      "books_seen_total": 78,
+      "remaining_queue": 3474,
+      "seen_pages": 80,
       "done": false,
       "blocked": false,
-      "needs_adapter": false,
-      "pending": true
+      "needs_adapter": false
     },
     {
       "name": "九九藏书网",
@@ -468,7 +467,7 @@
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "tadu.com",
+  "last_published_source": "kanunu8.com",
   "id_scheme": "stable-v4-aliases",
   "metadata_sanitized": true,
   "text_only": true
