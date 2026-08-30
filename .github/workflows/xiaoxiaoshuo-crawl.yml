@@ -1,12 +1,10 @@
-name: 小小说中文书库 v12 · 全本正文与真实封面
+name: 小小说中文书库 v13 · 13书源全量同步
 on:
   workflow_dispatch:
   push:
     paths:
       - 'xiaoxiaoshuo/config/sources.json'
-      - 'xiaoxiaoshuo/tools/crawl_v4.py'
-      - 'xiaoxiaoshuo/tools/crawl_six_full.py'
-      - 'xiaoxiaoshuo/tools/crawl_full_recheck.py'
+      - 'xiaoxiaoshuo/tools/crawl_authorized_v13.py'
       - 'xiaoxiaoshuo/tools/normalize_library_ids.py'
       - 'xiaoxiaoshuo/tools/mirror_text_universal.py'
       - 'xiaoxiaoshuo/tools/repair_covers.py'
@@ -22,7 +20,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: xiaoxiaoshuo-fullbook-stable
+  group: xiaoxiaoshuo-v13-all-sources
   cancel-in-progress: true
 
 jobs:
@@ -38,7 +36,7 @@ jobs:
           python-version: '3.12'
       - run: python -m pip install --disable-pip-version-check beautifulsoup4==4.12.3
 
-      - name: Full catalog, full text and real-cover synchronization
+      - name: Crawl all 13 authorized sources and rebuild searchable library
         shell: bash
         run: |
           set -e
@@ -47,12 +45,11 @@ jobs:
           start=$(date +%s)
           round=1
 
-          python xiaoxiaoshuo/tools/crawl_v4.py || true
           python xiaoxiaoshuo/tools/purge_audio.py
 
           while true; do
-            echo "===== full-book batch $round ====="
-            python xiaoxiaoshuo/tools/crawl_full_recheck.py --pages-per-source 80
+            echo "===== v13 authorized-source batch $round ====="
+            python xiaoxiaoshuo/tools/crawl_authorized_v13.py --pages-per-source 120
             python xiaoxiaoshuo/tools/normalize_library_ids.py
             python xiaoxiaoshuo/tools/mirror_text_universal.py || true
             python xiaoxiaoshuo/tools/repair_covers.py || true
@@ -60,7 +57,7 @@ jobs:
 
             git add xiaoxiaoshuo/data/v4 xiaoxiaoshuo/data/v5
             if ! git diff --cached --quiet; then
-              git commit -m "Sync full novels, complete TOC and real covers batch $round"
+              git commit -m "v13 sync all authorized sources batch $round"
               pushed=no
               for attempt in 1 2 3 4 5; do
                 git fetch origin main
@@ -72,18 +69,20 @@ jobs:
                 sleep $((attempt * 3))
               done
               if [ "$pushed" != "yes" ]; then
-                echo "Unable to publish batch"
+                echo "Unable to publish v13 batch"
                 exit 1
               fi
             fi
 
-            index_done=$(python -c "import json; from pathlib import Path; p=Path('xiaoxiaoshuo/data/v5/six_full_status.json'); d=json.loads(p.read_text(encoding='utf-8')) if p.exists() else {}; print('yes' if d.get('all_done') else 'no')")
+            index_done=$(python -c "import json; from pathlib import Path; p=Path('xiaoxiaoshuo/data/v5/authorized_v13_status.json'); d=json.loads(p.read_text(encoding='utf-8')) if p.exists() else {}; print('yes' if d.get('all_done') else 'no')")
             text_done=$(python -c "import json; from pathlib import Path; p=Path('xiaoxiaoshuo/data/v5/universal_mirror_status.json'); d=json.loads(p.read_text(encoding='utf-8')) if p.exists() else {}; print('yes' if d.get('all_fulltext_done') else 'no')")
             cover_done=$(python -c "import json; from pathlib import Path; p=Path('xiaoxiaoshuo/data/v5/cover_repair_state.json'); d=json.loads(p.read_text(encoding='utf-8')) if p.exists() else {}; print('yes' if d.get('cycle_complete') else 'no')")
+            python -c "import json; from pathlib import Path; p=Path('xiaoxiaoshuo/data/v5/authorized_v13_status.json'); print(json.dumps(json.loads(p.read_text(encoding='utf-8')),ensure_ascii=False) if p.exists() else '{}')"
+
             now=$(date +%s)
             elapsed=$((now-start))
             if [ "$index_done" = "yes" ] && [ "$text_done" = "yes" ] && [ "$cover_done" = "yes" ]; then
-              echo "Catalog, readable public text and real-cover pass complete."
+              echo "All discoverable catalogs, readable public text and cover pass complete."
               break
             fi
             if [ "$elapsed" -ge 15000 ]; then
