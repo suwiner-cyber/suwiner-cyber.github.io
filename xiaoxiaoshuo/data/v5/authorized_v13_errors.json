@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T02:52:55+00:00",
+  "generated_at": "2026-08-30T02:54:29+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -48,6 +48,12 @@
       "source": "九九藏书网",
       "url": "https://www.99csw.com/book/index.php",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-08-30T02:54:23+00:00",
+      "source": "和图书",
+      "url": "https://www.hetushu.com/book/index.php?page=2",
+      "error": "HTTP Error 429: Too Many Requests"
     }
   ]
 }
