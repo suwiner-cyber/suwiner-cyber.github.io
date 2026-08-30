@@ -1,6 +1,6 @@
 {
   "version": 14,
-  "generated_at": "2026-08-30T06:18:15+00:00",
+  "generated_at": "2026-08-30T06:40:06+00:00",
   "total": 11797,
   "shard_size": 200,
   "shards": [
@@ -339,14 +339,14 @@
       "name": "一七小说",
       "host": "1qxs.com",
       "pages_this_run": 80,
-      "successful_pages": 80,
-      "failed_pages": 0,
-      "books_found": 68,
-      "books_added": 46,
-      "toc_written": 68,
+      "successful_pages": 0,
+      "failed_pages": 80,
+      "books_found": 0,
+      "books_added": 0,
+      "toc_written": 0,
       "books_seen_total": 131,
-      "remaining_queue": 1518,
-      "seen_pages": 160,
+      "remaining_queue": 1438,
+      "seen_pages": 240,
       "done": false,
       "blocked": false,
       "needs_adapter": false
@@ -465,7 +465,7 @@
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "69shuba.com",
+  "last_published_source": "1qxs.com",
   "id_scheme": "stable-v4-aliases",
   "metadata_sanitized": true,
   "text_only": true

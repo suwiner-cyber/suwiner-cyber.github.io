@@ -1,6 +1,6 @@
 {
   "version": 13,
-  "generated_at": "2026-08-30T06:18:15+00:00",
+  "generated_at": "2026-08-30T06:40:06+00:00",
   "total_books": 11797,
   "source_counts": {
     "滋味小说网": 324,
@@ -18,21 +18,21 @@
   "all_done": false,
   "continue_needed": true,
   "unresolved_sources": [
-    "69书吧"
+    "一七小说"
   ],
   "sources": [
     {
-      "name": "69书吧",
-      "host": "69shuba.com",
-      "pages_this_run": 0,
+      "name": "一七小说",
+      "host": "1qxs.com",
+      "pages_this_run": 80,
       "successful_pages": 0,
-      "failed_pages": 0,
+      "failed_pages": 80,
       "books_found": 0,
       "books_added": 0,
       "toc_written": 0,
-      "books_seen_total": 0,
-      "remaining_queue": 0,
-      "seen_pages": 3,
+      "books_seen_total": 131,
+      "remaining_queue": 1438,
+      "seen_pages": 240,
       "done": false,
       "blocked": false,
       "needs_adapter": false

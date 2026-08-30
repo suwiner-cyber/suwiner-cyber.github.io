@@ -1,7 +1,7 @@
 {
   "version": 14,
   "adapter_version": "14.2",
-  "generated_at": "2026-08-30T06:18:15+00:00",
+  "generated_at": "2026-08-30T06:40:06+00:00",
   "total_books": 11797,
   "source_counts": {
     "滋味小说网": 324,
@@ -37,7 +37,7 @@
     "九九藏书网",
     "69书吧"
   ],
-  "last_published_source": "69shuba.com",
+  "last_published_source": "1qxs.com",
   "sources": [
     {
       "name": "爱下电子书",
@@ -123,14 +123,14 @@
       "name": "一七小说",
       "host": "1qxs.com",
       "pages_this_run": 80,
-      "successful_pages": 80,
-      "failed_pages": 0,
-      "books_found": 68,
-      "books_added": 46,
-      "toc_written": 68,
+      "successful_pages": 0,
+      "failed_pages": 80,
+      "books_found": 0,
+      "books_added": 0,
+      "toc_written": 0,
       "books_seen_total": 131,
-      "remaining_queue": 1518,
-      "seen_pages": 160,
+      "remaining_queue": 1438,
+      "seen_pages": 240,
       "done": false,
       "blocked": false,
       "needs_adapter": false
