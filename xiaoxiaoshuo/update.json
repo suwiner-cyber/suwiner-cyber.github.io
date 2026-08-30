@@ -1,11 +1,11 @@
 {
   "channel": "stable",
   "packageName": "com.xiaoxiaoshuo.reader",
-  "versionCode": 7009,
-  "versionName": "7.0.9",
-  "apkUrl": "https://api.gitcode.com/api/v5/repos/suwiner/xiaoxiaoshuo-releases/releases/v7.0.9/attach_files/%E5%B0%8F%E5%B0%8F%E8%AF%B4-v7.0.9-%E5%8D%8E%E4%B8%BA%E5%9B%BE%E6%A0%87%E5%AE%8C%E6%95%B4%E6%98%BE%E7%A4%BA-%E9%A6%96%E9%A1%B5%E4%B9%A6%E5%90%8D%E7%83%AD%E5%BA%A6%E5%88%86%E7%B1%BB-%E5%AF%BC%E8%88%AA%E9%87%8D%E7%BB%98-%E6%AD%A3%E5%BC%8F%E7%89%88.apk/download",
-  "apkSha256": "8a058aacc14e68fb8302aa5039b53559927be45d4949909a922f56f63bc5e4b3",
-  "changelog": "小小说 v7.0.9：修复华为/HarmonyOS桌面启动图标裁切；优化首页推荐双列排版，长书名最多两行自然换行并显示热度数值与分类标签；底部首页、发现、书架、我的四个导航图标全部重绘；继续保留完整搜索结果、健康外部书源匹配和原生阅读器。",
+  "versionCode": 7010,
+  "versionName": "7.1.0",
+  "apkUrl": "https://api.gitcode.com/api/v5/repos/suwiner/xiaoxiaoshuo-releases/releases/v7.1.0/attach_files/%E5%B0%8F%E5%B0%8F%E8%AF%B4-v7.1.0-%E9%A6%96%E9%A1%B5%E5%BC%B9%E6%80%A7%E4%BF%AE%E5%A4%8D-%E6%8E%92%E7%89%88%E6%B8%85%E6%B4%97-TOP%E9%87%8D%E5%88%B6-%E6%96%87%E8%89%BA%E5%8D%A0%E4%BD%8D%E5%B0%81%E9%9D%A2-%E6%AD%A3%E5%BC%8F%E7%89%88.apk/download",
+  "apkSha256": "2bc91a1eef92c8a767a0744f96be052d585acc99df52cfe443e2729c4a17bbcb",
+  "changelog": "小小说 v7.1.0：修复首页推荐区固定高度导致的大面积空白，改为内容高度自适应并优化到底回弹；加大并强化继续上次阅读；首页长书名左对齐自然换行；发现页简介清理异常空格与HTML残留并强化TOP徽章；作品档案简介清理<br>和转义换行并限制过长内容；无封面时使用清新文艺占位样式。",
   "mandatory": false,
   "signerSha256": "17e6d4431671c0574450846596c177ab1f3278f7295375199f75cb1ce7726b3f",
   "retentionLimit": 3
