@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-aba419abb4318f23a54a",
+      "title": "血色芭蕾 微醺的夏天",
+      "author": "一念茫然",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2025/12/24/11/41/0182abaa96b04a28b4eab2e466135434_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/1050878",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:57+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-aba419abb4318f23a54a",
+        "ext-7683229876970861936"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/1050878"
+      ]
+    },
+    {
       "id": "ext-03bb11e1b444723941e1",
       "title": "白云街三侠传 HSG来日方长",
       "author": "一念茫然",
@@ -4979,37 +5004,6 @@
       ],
       "read_sources": [
         "http://www.tadu.com/book/737074"
-      ]
-    },
-    {
-      "id": "ext-2ec70d6d91c1252e8ae4",
-      "title": "9 我的女友太强了 雨化甜",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "http://www.tadu.com/book/797035",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:55:54+00:00",
-      "catalog_only": false,
-      "sources": [
-        "http://www.tadu.com/book/797035",
-        "https://www.tadu.com/book/797035"
-      ],
-      "read_ids": [
-        "ext-2ec70d6d91c1252e8ae4",
-        "ext-1930262613143052725",
-        "ext-d135ffcedc9c487a2ec9"
-      ],
-      "read_sources": [
-        "http://www.tadu.com/book/797035",
-        "https://www.tadu.com/book/797035"
       ]
     }
   ]

@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-6aaede4b3ad133df2f95",
+      "title": "第85章 悲寂寥，胜春潮",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/xingguanghaian/457356.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 85,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:12+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-6aaede4b3ad133df2f95",
+        "ext-6315752426063064870"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/xingguanghaian/457356.html"
+      ]
+    },
+    {
       "id": "ext-00bf511f537e7d68a32e",
       "title": "第84章 悲寂寥，胜春潮",
       "author": "",
@@ -4982,31 +5007,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/heqinghaiyan/451302.html"
-      ]
-    },
-    {
-      "id": "ext-748499159ba169c1c2a9",
-      "title": "番外 睡午觉",
-      "author": "",
-      "kind": "",
-      "status": "已完结",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/heqinghaiyan/451309.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:09+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-748499159ba169c1c2a9",
-        "ext-5310454317888276460"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/heqinghaiyan/451309.html"
       ]
     }
   ]

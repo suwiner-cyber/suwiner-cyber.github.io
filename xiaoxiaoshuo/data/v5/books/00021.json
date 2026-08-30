@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-bfae54c57e1b2fd2f0bd",
+      "title": "第七章 得偿心愿",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450155.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-bfae54c57e1b2fd2f0bd",
+        "ext-9121469675710995495"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450155.html"
+      ]
+    },
+    {
       "id": "ext-f0999b1174cc0dc8bc83",
       "title": "第七章 宫训",
       "author": "",
@@ -5012,31 +5037,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book4/10669/356291.html"
-      ]
-    },
-    {
-      "id": "ext-9fbea8591662111e9719",
-      "title": "第74章 我们在天上的父",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book4/10669/356290.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 74,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:03+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-9fbea8591662111e9719",
-        "ext-1631756311110950216"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10669/356290.html"
       ]
     }
   ]

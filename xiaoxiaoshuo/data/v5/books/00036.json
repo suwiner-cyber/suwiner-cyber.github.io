@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-8999d887cbce96d5ae3f",
+      "title": "第11章 装傻",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204273.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8999d887cbce96d5ae3f",
+        "ext-8034924078154269184"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204273.html"
+      ]
+    },
+    {
       "id": "ext-534d2b1446baa1c540ec",
       "title": "第119章 想念",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/sf/201103/2398.html"
-      ]
-    },
-    {
-      "id": "ext-a10b176c871c684a6f03",
-      "title": "黄易: 湖祭",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/files/sf/201103/2397.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a10b176c871c684a6f03",
-        "ext-5784703077342828713"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/sf/201103/2397.html"
       ]
     }
   ]

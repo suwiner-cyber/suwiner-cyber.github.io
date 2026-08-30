@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-1ad16b56e0164bb07f9d",
+      "title": "番外七十",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463209.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1ad16b56e0164bb07f9d",
+        "ext-7419394488055670283"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463209.html"
+      ]
+    },
+    {
       "id": "ext-852766e937959f780bb9",
       "title": "番外七",
       "author": "",
@@ -5414,31 +5439,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/phbfshce/473517.html"
-      ]
-    },
-    {
-      "id": "ext-1259a9cf27fb572325c0",
-      "title": "第3章 这房子它漏雨",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/phbfshce/473480.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 3,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:45+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1259a9cf27fb572325c0",
-        "ext-8049817750720258051"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/phbfshce/473480.html"
       ]
     }
   ]

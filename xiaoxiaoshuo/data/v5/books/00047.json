@@ -1,6 +1,37 @@
 {
   "books": [
     {
+      "id": "ext-2ec70d6d91c1252e8ae4",
+      "title": "9 我的女友太强了 雨化甜",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "http://www.tadu.com/book/797035",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:55:54+00:00",
+      "catalog_only": false,
+      "sources": [
+        "http://www.tadu.com/book/797035",
+        "https://www.tadu.com/book/797035"
+      ],
+      "read_ids": [
+        "ext-2ec70d6d91c1252e8ae4",
+        "ext-1930262613143052725",
+        "ext-d135ffcedc9c487a2ec9"
+      ],
+      "read_sources": [
+        "http://www.tadu.com/book/797035",
+        "https://www.tadu.com/book/797035"
+      ]
+    },
+    {
       "id": "ext-572858abfd8ea652ee4a",
       "title": "8 重活1979 年末",
       "author": "",
@@ -4939,30 +4970,6 @@
       ],
       "read_sources": [
         "https://ixdzs8.com/read/638693/"
-      ]
-    },
-    {
-      "id": "ix-632693",
-      "title": "我的熟练度系统专点冷门",
-      "author": "天下第一镖局",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "沈倦穿越异界，绑定奇葩系统——高阶剑术？禁咒魔法？统统锁死！只能练这种骚操作技能！当别人苦练十年一剑，他把“摔跤”摔出神级闪避！当反派放大招毁天灭地，他一口老痰破万法！“无用？”不！这是你们不懂“垃圾”的正确打开方式！从家族小比“粪”斗之王，到王都异常事务局“毒痰客卿”！用废矿炼神符！拿毒菇煲靓汤！垃圾桶里捡出神器！",
-      "cover": "https://img22.ixdzs.com/e4/84/e484d9c1bae628d6631a30692169c7b1.jpg",
-      "source_url": "https://ixdzs8.com/read/632693/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 152,
-      "last_chapter": "第152章",
-      "word_count_wan": 181.0,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:12+00:00",
-      "read_ids": [
-        "ix-632693"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/632693/"
       ]
     }
   ]

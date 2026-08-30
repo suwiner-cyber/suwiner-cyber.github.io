@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-8062a362b2868ea2b78d",
+      "title": "第八十二章 齐大非偶",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450312.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8062a362b2868ea2b78d",
+        "ext-1876813325220013930"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450312.html"
+      ]
+    },
+    {
       "id": "ext-77b167e209368c8c246f",
       "title": "第八十九章 春日宴",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450339.html"
-      ]
-    },
-    {
-      "id": "ext-bfae54c57e1b2fd2f0bd",
-      "title": "第七章 得偿心愿",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450155.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-bfae54c57e1b2fd2f0bd",
-        "ext-9121469675710995495"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450155.html"
       ]
     }
   ]

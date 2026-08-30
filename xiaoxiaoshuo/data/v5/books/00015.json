@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-bf1ae018c91d1c37c4c2",
+      "title": "1、青梧镇",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/jinlin/460468.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:19+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-bf1ae018c91d1c37c4c2",
+        "ext-2019156059057458983"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/jinlin/460468.html"
+      ]
+    },
+    {
       "id": "ext-48106440aa421b3dddbb",
       "title": "19、谁说女子不如男",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/rongcuolv/450786.html"
-      ]
-    },
-    {
-      "id": "ext-7cbe90382ad61f9b1c84",
-      "title": "第29章 分离焦虑",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/rongcuolv/450813.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 29,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:17+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7cbe90382ad61f9b1c84",
-        "ext-8894512480778636330"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/rongcuolv/450813.html"
       ]
     }
   ]

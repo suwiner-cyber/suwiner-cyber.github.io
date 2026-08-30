@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-fec375b30b8d49375822",
+      "title": "吞噬九重天",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.1qxs.com/xs_1/86102.html",
+      "source_host": "www.1qxs.com",
+      "source_name": "一七小说",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T15:03:12+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-fec375b30b8d49375822",
+        "ext-576051294798388830"
+      ],
+      "read_sources": [
+        "https://www.1qxs.com/xs_1/86102.html"
+      ]
+    },
+    {
       "id": "ext-e75ade6ee0220361ad68",
       "title": "晋末：从两脚羊到人皇",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.1qxs.com/xs_1/20000.html"
-      ]
-    },
-    {
-      "id": "ext-aac0311d8cbf1a81ac3f",
-      "title": "掌骄",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.1qxs.com/img/default.png",
-      "source_url": "https://www.1qxs.com/xs_1/70884.html",
-      "source_host": "www.1qxs.com",
-      "source_name": "一七小说",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T15:02:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-aac0311d8cbf1a81ac3f",
-        "ext-5070997617109149933"
-      ],
-      "read_sources": [
-        "https://www.1qxs.com/xs_1/70884.html"
       ]
     }
   ]

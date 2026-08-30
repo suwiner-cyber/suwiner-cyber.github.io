@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-246cadd9d8247815d41b",
+      "title": "熊广平: 后发制人",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10173/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:24+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-246cadd9d8247815d41b",
+        "ext-4274402687442642480"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10173/index.html"
+      ]
+    },
+    {
       "id": "ext-076a91c64412a26c2147",
       "title": "熊广平: 借势(熊广平)",
       "author": "",
@@ -5015,31 +5040,6 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/954422"
-      ]
-    },
-    {
-      "id": "ext-aba419abb4318f23a54a",
-      "title": "血色芭蕾 微醺的夏天",
-      "author": "一念茫然",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2025/12/24/11/41/0182abaa96b04a28b4eab2e466135434_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/1050878",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-aba419abb4318f23a54a",
-        "ext-7683229876970861936"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/1050878"
       ]
     }
   ]

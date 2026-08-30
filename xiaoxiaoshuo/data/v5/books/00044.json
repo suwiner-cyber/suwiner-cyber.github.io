@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-76bbb244f8dd0acc7904",
+      "title": "特雷西·希克曼: 黑暗降临之前",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10334/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-76bbb244f8dd0acc7904",
+        "ext-7512841255380736589"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10334/index.html"
+      ]
+    },
+    {
       "id": "ext-72fcfbea9848364494b8",
       "title": "特里·普拉切特: 碟形世界：魔法的色彩",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book4/10542/index.html"
-      ]
-    },
-    {
-      "id": "ext-246cadd9d8247815d41b",
-      "title": "熊广平: 后发制人",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10173/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-246cadd9d8247815d41b",
-        "ext-4274402687442642480"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10173/index.html"
       ]
     }
   ]

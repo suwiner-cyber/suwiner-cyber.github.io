@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-038768afa939935d116e",
+      "title": "第235章 无方守一(四)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/jianchuqiao/445733.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 235,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:15+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-038768afa939935d116e",
+        "ext-2778915080163517415"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/jianchuqiao/445733.html"
+      ]
+    },
+    {
       "id": "ext-59d09db0a8b9452e5bab",
       "title": "第234章 无方守一(三)",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/xingguanghaian/457357.html"
-      ]
-    },
-    {
-      "id": "ext-6aaede4b3ad133df2f95",
-      "title": "第85章 悲寂寥，胜春潮",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/xingguanghaian/457356.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 85,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:12+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-6aaede4b3ad133df2f95",
-        "ext-6315752426063064870"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/xingguanghaian/457356.html"
       ]
     }
   ]

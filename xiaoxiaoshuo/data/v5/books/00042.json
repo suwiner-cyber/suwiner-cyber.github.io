@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-fed9551334fb642061a8",
+      "title": "缪娟: 未亡人双子篇-美人赠我蒙汗药",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/dushi/201103/1842.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-fed9551334fb642061a8",
+        "ext-468952444612501696"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/dushi/201103/1842.html"
+      ]
+    },
+    {
       "id": "ext-7ec90e991e656c7da351",
       "title": "缪娟: 我的波塞冬",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book4/10409/index.html"
-      ]
-    },
-    {
-      "id": "ext-b679fceb093467bbeb5b",
-      "title": "森见登美彦: 宵山万华镜",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10408/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b679fceb093467bbeb5b",
-        "ext-5533344507662654292"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10408/index.html"
       ]
     }
   ]
