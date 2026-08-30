@@ -1,206 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-eb4ee899d45b4c42b476",
-      "title": "小松左京: 宇宙漂流记",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6464/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-eb4ee899d45b4c42b476",
-        "ext-5730752497562504380"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6464/index.html"
-      ]
-    },
-    {
-      "id": "ext-54007bf1cc9b41dd8980",
-      "title": "季尔·布雷乔夫: 鸡皮侦探",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9776/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-54007bf1cc9b41dd8980",
-        "ext-9103048044726891008"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9776/index.html"
-      ]
-    },
-    {
-      "id": "ext-9a27f8a39936602e12a5",
-      "title": "季尔·布雷乔夫: 飞龙失踪案",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9777/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-9a27f8a39936602e12a5",
-        "ext-9161266447139959152"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9777/index.html"
-      ]
-    },
-    {
-      "id": "ext-39aeca0689c0c3159c4b",
-      "title": "季尔·布雷乔夫: 聪明飞船",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9781/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-39aeca0689c0c3159c4b",
-        "ext-3842291599976190489"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9781/index.html"
-      ]
-    },
-    {
-      "id": "ext-5d51641d3423c0122373",
-      "title": "季尔·布雷乔夫: 时间杀人器",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9778/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-5d51641d3423c0122373",
-        "ext-8864341244221130635"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9778/index.html"
-      ]
-    },
-    {
-      "id": "ext-fc1c80b83cd62458727b",
-      "title": "季尔·布雷乔夫: 卷入火星谋杀案",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9779/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-fc1c80b83cd62458727b",
-        "ext-9044099713653119945"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9779/index.html"
-      ]
-    },
-    {
-      "id": "ext-25cd2bd3964dc01994f7",
-      "title": "季尔·布雷乔夫: 两个地球的角斗",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9780/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-25cd2bd3964dc01994f7",
-        "ext-5649799329958440804"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9780/index.html"
-      ]
-    },
-    {
-      "id": "ext-ae384f1f4d105db9a3f8",
-      "title": "威廉·C·迪茨: 光晕·洪魔",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6461/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ae384f1f4d105db9a3f8",
-        "ext-671052035999202557"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6461/index.html"
-      ]
-    },
-    {
       "id": "ext-01b8e6928ce679a5383c",
       "title": "埃里克·尼伦德: 光晕·致远星的沦陷",
       "author": "",
@@ -4998,6 +4798,206 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book2/10750/index.html"
+      ]
+    },
+    {
+      "id": "ext-d569666f0b9e98fcbdaa",
+      "title": "赵乾乾: 鸢鸢相报",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/10948/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:32+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d569666f0b9e98fcbdaa",
+        "ext-7162674468206609329"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/10948/index.html"
+      ]
+    },
+    {
+      "id": "ext-b3052dcd062b964b72fb",
+      "title": "赵乾乾: 舟而复始",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/10947/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:32+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b3052dcd062b964b72fb",
+        "ext-5804741743078501963"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/10947/index.html"
+      ]
+    },
+    {
+      "id": "ext-0e60d5769b661172c2f6",
+      "title": "蓝色狮: 锦衣之下",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/11087/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:32+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-0e60d5769b661172c2f6",
+        "ext-6267066525422193131"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/11087/index.html"
+      ]
+    },
+    {
+      "id": "ext-8fc6b4a8b82d41044338",
+      "title": "蒋胜男: 芈月传(全集)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/10752/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:32+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8fc6b4a8b82d41044338",
+        "ext-1307045218611576773"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/10752/index.html"
+      ]
+    },
+    {
+      "id": "ext-602b098e259260129267",
+      "title": "莲静竹衣: 六朝纪事之龙凤情殇",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/11079/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:32+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-602b098e259260129267",
+        "ext-8887730336855470613"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/11079/index.html"
+      ]
+    },
+    {
+      "id": "ext-31e09ae1fde975bc0e5b",
+      "title": "莲静竹衣: 六朝纪事之我主沉浮",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/11080/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:32+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-31e09ae1fde975bc0e5b",
+        "ext-3672446224350275506"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/11080/index.html"
+      ]
+    },
+    {
+      "id": "ext-e1c4a0375bfc509ee3ee",
+      "title": "莲静竹衣: 六朝纪事之初入深宫",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/11078/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:32+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e1c4a0375bfc509ee3ee",
+        "ext-4215523875235282182"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/11078/index.html"
+      ]
+    },
+    {
+      "id": "ext-66ea4c2a5e505c59d592",
+      "title": "莫言殇: 白发 (白发皇妃)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/11085/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:32+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-66ea4c2a5e505c59d592",
+        "ext-3411609635340875780"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/11085/index.html"
       ]
     }
   ]
