@@ -8,20 +8,34 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / 'data' / 'v5'
 OUT = ROOT / 'data' / 'recommendations.json'
 RULES = [
- ('玄幻',['玄幻','奇幻','魔法']),('都市',['都市','职场','生活','娱乐']),
- ('仙侠',['仙侠','修仙','修真','洪荒']),('武侠',['武侠','国术','江湖']),
- ('历史',['历史','架空','穿越','古代','争霸']),('科幻',['科幻','末世','星际','未来','机甲']),
- ('悬疑',['悬疑','推理','灵异','惊悚']),('言情',['言情','婚恋','爱情','女频','甜宠']),
- ('游戏',['游戏','网游','电竞']),('轻小说',['轻小说','同人','二次元'])]
+ ('玄幻',['玄幻','奇幻','魔法','异世']),('仙侠',['仙侠','修仙','修真','洪荒']),('武侠',['武侠','国术','江湖']),
+ ('都市',['都市','职场','娱乐圈','现实题材']),('历史',['历史','架空','穿越','古代','争霸']),
+ ('科幻',['科幻','末世','星际','未来','机甲']),('悬疑',['悬疑','推理','灵异','惊悚']),
+ ('言情',['言情','婚恋','爱情','女频','甜宠']),('游戏',['游戏','网游','电竞']),('轻小说',['轻小说','同人','二次元'])]
 BAD = ('default','nocover','no-cover','placeholder','logo','avatar')
+JUNK_TITLES = {'本书作者','章节目录','最新章节','正文','小说简介','作品简介','开始阅读','返回首页'}
 
 def good_cover(u):
     return isinstance(u,str) and u.startswith(('http://','https://')) and not any(x in u.lower() for x in BAD)
 
+def clean_author(raw):
+    s=str(raw or '').strip()
+    if not s: return '未知作者'
+    # Many source pages accidentally append category/word-count/marketing copy after the true author.
+    s=re.split(r'\s+(?:玄幻|奇幻|武侠|仙侠|都市|历史|科幻|悬疑|言情|游戏|轻小说|其他|\d+\s*万字)',s,maxsplit=1)[0].strip()
+    s=re.split(r'(?:创作，|创作,|作品.+?章章动人|为你第一时间|精心编写|最新章节)',s,maxsplit=1)[0].strip()
+    s=re.sub(r'^(作者[:：]\s*)','',s).strip()
+    if not s or len(s)>32: return '未知作者'
+    return s
+
 def category(b):
-    t=' '.join(str(b.get(k) or '') for k in ('kind','title','intro','status')).lower()
-    for name, words in RULES:
-        if any(w.lower() in t for w in words): return name
+    # Trust explicit source category first. Only fall back to title/intro when the source category is missing.
+    kind=str(b.get('kind') or '').lower()
+    for name,words in RULES:
+        if any(w.lower() in kind for w in words): return name
+    fallback=' '.join(str(b.get(k) or '') for k in ('title','intro')).lower()
+    for name,words in RULES:
+        if any(w.lower() in fallback for w in words): return name
     return '其他'
 
 def score(b):
@@ -37,7 +51,7 @@ def score(b):
     return s
 
 def compact(b,cat):
-    return {'id':b.get('id'),'title':str(b.get('title') or '').strip(),'author':str(b.get('author') or '未知作者').strip(),
+    return {'id':b.get('id'),'title':str(b.get('title') or '').strip(),'author':clean_author(b.get('author')),
       'category':cat,'status':str(b.get('status') or '').strip(),'intro':str(b.get('intro') or '').strip()[:180],
       'cover':str(b.get('cover') or '').strip(),'chapter_count':int(b.get('chapter_count') or 0),
       'source_name':str(b.get('source_name') or '').strip(),'source_host':str(b.get('source_host') or '').strip(),
@@ -60,7 +74,8 @@ def main():
         try: payload=json.loads(p.read_text(encoding='utf-8'))
         except Exception: continue
         for b in payload.get('books',[]):
-            if not b.get('id') or not str(b.get('title') or '').strip(): continue
+            title=str(b.get('title') or '').strip()
+            if not b.get('id') or not title or title in JUNK_TITLES or len(title)<2 or len(title)>60: continue
             if not b.get('source_name') and not b.get('source_host'): continue
             if not b.get('detail_complete') or not good_cover(str(b.get('cover') or '')): continue
             if int(b.get('chapter_count') or 0)<8: continue
@@ -73,7 +88,7 @@ def main():
     cats={cat:pick(by.get(cat,[]),24,4) for cat,_ in RULES if by.get(cat)}
     cats['完本']=pick([r for r in books if re.search(r'完结|完本|已完结',r.get('status',''))],24,4)
     cats['全部']=pick(books,30,4)
-    result={'schema':1,'generated_at':datetime.now(timezone.utc).isoformat(timespec='seconds'),'refresh_policy':'12h_snapshot',
+    result={'schema':2,'generated_at':datetime.now(timezone.utc).isoformat(timespec='seconds'),'refresh_policy':'12h_snapshot',
       'source_mode':'external_source_index_snapshot','candidate_count':len(books),'featured':pick(mix,12,2),
       'category_order':['玄幻','都市','仙侠','武侠','历史','科幻','悬疑','言情','游戏','轻小说','完本','全部'],'categories':cats}
     OUT.write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
