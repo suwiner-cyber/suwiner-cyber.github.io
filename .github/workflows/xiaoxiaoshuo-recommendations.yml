@@ -1,0 +1,51 @@
+name: Xiaoxiaoshuo Home Recommendations
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'xiaoxiaoshuo/tools/build_home_recommendations.py'
+      - '.github/workflows/xiaoxiaoshuo-recommendations.yml'
+  schedule:
+    - cron: '23 */12 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: xiaoxiaoshuo-home-recommendations
+  cancel-in-progress: true
+
+jobs:
+  build-snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build recommendation snapshot
+        run: python xiaoxiaoshuo/tools/build_home_recommendations.py
+      - name: Publish snapshot
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'xiaoxiaoshuo-recommendation-bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add xiaoxiaoshuo/data/recommendations.json
+          if git diff --cached --quiet; then
+            echo 'No recommendation changes.'
+            exit 0
+          fi
+          git commit -m 'Refresh Xiaoxiaoshuo home recommendations'
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            if git rebase origin/main && git push origin HEAD:main; then
+              exit 0
+            fi
+            git rebase --abort || true
+            sleep $((attempt * 3))
+          done
+          exit 1
