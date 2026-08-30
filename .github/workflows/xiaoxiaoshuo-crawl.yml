@@ -1,10 +1,11 @@
-name: 小小说中文书库 v13 · 13书源全量同步
+name: 小小说中文书库 v14 · 13书源增量即时发布
 on:
   workflow_dispatch:
   push:
     paths:
       - 'xiaoxiaoshuo/config/sources.json'
       - 'xiaoxiaoshuo/tools/crawl_authorized_v13.py'
+      - 'xiaoxiaoshuo/tools/crawl_authorized_v14.py'
       - 'xiaoxiaoshuo/tools/normalize_library_ids.py'
       - 'xiaoxiaoshuo/tools/mirror_text_universal.py'
       - 'xiaoxiaoshuo/tools/repair_covers.py'
@@ -20,7 +21,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: xiaoxiaoshuo-v13-all-sources
+  group: xiaoxiaoshuo-v14-incremental
   cancel-in-progress: true
 
 jobs:
@@ -36,58 +37,65 @@ jobs:
           python-version: '3.12'
       - run: python -m pip install --disable-pip-version-check beautifulsoup4==4.12.3
 
-      - name: Crawl all 13 authorized sources and rebuild searchable library
+      - name: Crawl each authorized source and publish immediately
         shell: bash
         run: |
           set -e
           git config user.name "xiaoxiaoshuo-library-bot"
           git config user.email "actions@users.noreply.github.com"
-          start=$(date +%s)
-          round=1
 
-          python xiaoxiaoshuo/tools/purge_audio.py
-
-          while true; do
-            echo "===== v13 authorized-source batch $round ====="
-            python xiaoxiaoshuo/tools/crawl_authorized_v13.py --pages-per-source 120
+          publish() {
+            source="$1"
+            echo "===== v14 source: $source ====="
+            python xiaoxiaoshuo/tools/crawl_authorized_v14.py --source "$source" --pages-per-source 80
             python xiaoxiaoshuo/tools/normalize_library_ids.py
-            python xiaoxiaoshuo/tools/mirror_text_universal.py || true
-            python xiaoxiaoshuo/tools/repair_covers.py || true
             python xiaoxiaoshuo/tools/purge_audio.py
-
-            git add xiaoxiaoshuo/data/v4 xiaoxiaoshuo/data/v5
-            if ! git diff --cached --quiet; then
-              git commit -m "v13 sync all authorized sources batch $round"
-              pushed=no
-              for attempt in 1 2 3 4 5; do
-                git fetch origin main
-                if git rebase origin/main && git push origin HEAD:main; then
-                  pushed=yes
-                  break
-                fi
-                git rebase --abort || true
-                sleep $((attempt * 3))
-              done
-              if [ "$pushed" != "yes" ]; then
-                echo "Unable to publish v13 batch"
-                exit 1
+            git add xiaoxiaoshuo/data/v5
+            if git diff --cached --quiet; then
+              echo "No changes for $source"
+              return 0
+            fi
+            git commit -m "v14 publish source $source"
+            for attempt in 1 2 3 4 5; do
+              git fetch origin main
+              if git rebase origin/main && git push origin HEAD:main; then
+                return 0
               fi
-            fi
+              git rebase --abort || true
+              sleep $((attempt * 3))
+            done
+            echo "Unable to publish source $source"
+            exit 1
+          }
 
-            index_done=$(python -c "import json; from pathlib import Path; p=Path('xiaoxiaoshuo/data/v5/authorized_v13_status.json'); d=json.loads(p.read_text(encoding='utf-8')) if p.exists() else {}; print('yes' if d.get('all_done') else 'no')")
-            text_done=$(python -c "import json; from pathlib import Path; p=Path('xiaoxiaoshuo/data/v5/universal_mirror_status.json'); d=json.loads(p.read_text(encoding='utf-8')) if p.exists() else {}; print('yes' if d.get('all_fulltext_done') else 'no')")
-            cover_done=$(python -c "import json; from pathlib import Path; p=Path('xiaoxiaoshuo/data/v5/cover_repair_state.json'); d=json.loads(p.read_text(encoding='utf-8')) if p.exists() else {}; print('yes' if d.get('cycle_complete') else 'no')")
-            python -c "import json; from pathlib import Path; p=Path('xiaoxiaoshuo/data/v5/authorized_v13_status.json'); print(json.dumps(json.loads(p.read_text(encoding='utf-8')),ensure_ascii=False) if p.exists() else '{}')"
+          # New/previously missing sources first so the public index changes quickly.
+          publish "69shuba.com"
+          publish "1qxs.com"
+          publish "piaotia.com"
+          publish "hetushu.com"
+          publish "ilwxs.com"
+          publish "ipaoshubaxs.net"
+          publish "aaaks.com"
+          publish "99csw.com"
+          publish "ixdzs8.com"
+          publish "tadu.com"
+          publish "kanunu8.com"
+          publish "xs8.cn"
+          publish "zwxiaoshuo.com"
 
-            now=$(date +%s)
-            elapsed=$((now-start))
-            if [ "$index_done" = "yes" ] && [ "$text_done" = "yes" ] && [ "$cover_done" = "yes" ]; then
-              echo "All discoverable catalogs, readable public text and cover pass complete."
-              break
-            fi
-            if [ "$elapsed" -ge 15000 ]; then
-              echo "Time budget reached; published progress will resume next run."
-              break
-            fi
-            round=$((round+1))
-          done
+          # Background enrichment after all 13 searchable indexes have been published.
+          python xiaoxiaoshuo/tools/mirror_text_universal.py || true
+          python xiaoxiaoshuo/tools/repair_covers.py || true
+          python xiaoxiaoshuo/tools/purge_audio.py
+          git add xiaoxiaoshuo/data/v5
+          if ! git diff --cached --quiet; then
+            git commit -m "v14 enrich full text and covers"
+            for attempt in 1 2 3 4 5; do
+              git fetch origin main
+              if git rebase origin/main && git push origin HEAD:main; then
+                break
+              fi
+              git rebase --abort || true
+              sleep $((attempt * 3))
+            done
+          fi
