@@ -1,0 +1,111 @@
+name: Xiaoxiaoshuo Release Retention
+
+on:
+  push:
+    paths:
+      - 'xiaoxiaoshuo/releases/*.apk'
+      - 'xiaoxiaoshuo/releases/*.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  retain-latest-three:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Keep latest 3 APK versions and rebuild update metadata
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import hashlib, json, re
+          from pathlib import Path
+
+          root = Path('xiaoxiaoshuo/releases')
+          root.mkdir(parents=True, exist_ok=True)
+          pat = re.compile(r'^xiaoxiaoshuo-v(\d+)\.(\d+)\.(\d+)\.apk$')
+          rows = []
+          for p in root.glob('xiaoxiaoshuo-v*.apk'):
+              m = pat.match(p.name)
+              if not m:
+                  continue
+              version = tuple(map(int, m.groups()))
+              rows.append((version, p))
+          rows.sort(reverse=True)
+
+          # Physical retention: only the newest 3 APKs stay on the server.
+          for version, p in rows[3:]:
+              p.unlink(missing_ok=True)
+              sidecar = p.with_suffix('.json')
+              sidecar.unlink(missing_ok=True)
+
+          kept = rows[:3]
+          versions = []
+          for version, p in kept:
+              if not p.exists():
+                  continue
+              sha = hashlib.sha256(p.read_bytes()).hexdigest()
+              sidecar = p.with_suffix('.json')
+              extra = {}
+              if sidecar.exists():
+                  try:
+                      extra = json.loads(sidecar.read_text(encoding='utf-8'))
+                  except Exception:
+                      extra = {}
+              vname = '.'.join(map(str, version))
+              vcode = version[0] * 1000 + version[1] * 100 + version[2]
+              versions.append({
+                  'versionName': vname,
+                  'versionCode': vcode,
+                  'file': p.name,
+                  'url': f'https://suwiner-cyber.github.io/xiaoxiaoshuo/releases/{p.name}',
+                  'sha256': sha,
+                  'bytes': p.stat().st_size,
+                  'changelog': extra.get('changelog', f'小小说 v{vname}'),
+                  'mandatory': bool(extra.get('mandatory', False)),
+              })
+
+          (root / 'versions.json').write_text(
+              json.dumps({'keep': 3, 'versions': versions}, ensure_ascii=False, indent=2) + '\n',
+              encoding='utf-8'
+          )
+
+          if versions:
+              latest = versions[0]
+              update = {
+                  'channel': 'stable',
+                  'packageName': 'com.xiaoxiaoshuo.reader',
+                  'versionCode': latest['versionCode'],
+                  'versionName': latest['versionName'],
+                  'apkUrl': latest['url'],
+                  'apkSha256': latest['sha256'],
+                  'apkBytes': latest['bytes'],
+                  'changelog': latest['changelog'],
+                  'mandatory': latest['mandatory'],
+                  'signerSha256': '17e6d4431671c0574450846596c177ab1f3278f7295375199f75cb1ce7726b3f',
+                  'retainedVersions': [v['versionName'] for v in versions],
+                  'retentionLimit': 3,
+              }
+              Path('xiaoxiaoshuo/update.json').write_text(
+                  json.dumps(update, ensure_ascii=False, indent=2) + '\n', encoding='utf-8'
+              )
+          PY
+
+      - name: Commit retention changes
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- xiaoxiaoshuo/releases xiaoxiaoshuo/update.json; then
+            echo 'No retention changes.'
+            exit 0
+          fi
+          git config user.name 'xiaoxiaoshuo-release-bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add -A xiaoxiaoshuo/releases xiaoxiaoshuo/update.json
+          git commit -m 'Maintain latest three Xiaoxiaoshuo APK releases'
+          git push
