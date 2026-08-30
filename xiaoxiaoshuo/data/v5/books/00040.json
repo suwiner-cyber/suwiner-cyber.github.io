@@ -1,6 +1,156 @@
 {
   "books": [
     {
+      "id": "ext-8ba383fda5d9c7a9bae3",
+      "title": "阿瑟·C·克拉克: 拉玛真相",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/7740/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8ba383fda5d9c7a9bae3",
+        "ext-1912553513547120015"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/7740/index.html"
+      ]
+    },
+    {
+      "id": "ext-986ffc5e025f885294d3",
+      "title": "阿瑟·C·克拉克: 拉玛2号",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/7742/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-986ffc5e025f885294d3",
+        "ext-7162284659099874691"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/7742/index.html"
+      ]
+    },
+    {
+      "id": "ext-346fb2702200ce00f72f",
+      "title": "阿尔弗雷德·贝斯特: 被毁灭的人",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6419/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-346fb2702200ce00f72f",
+        "ext-5645462744105257208"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6419/index.html"
+      ]
+    },
+    {
+      "id": "ext-f69c04358e499e2e9037",
+      "title": "阿尔弗雷德·贝斯特: 群星，我的归宿",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6420/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f69c04358e499e2e9037",
+        "ext-8494590110851387254"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6420/index.html"
+      ]
+    },
+    {
+      "id": "ext-af9261928188cf5b7bea",
+      "title": "阿·卡赞采夫: 太空神曲",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/sf/201106/2956.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-af9261928188cf5b7bea",
+        "ext-3680083887450201597"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/sf/201106/2956.html"
+      ]
+    },
+    {
+      "id": "ext-ce10b68ce3de4417ea12",
+      "title": "长铗: 长铗中篇作品",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6486/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ce10b68ce3de4417ea12",
+        "ext-3903700057857240967"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6486/index.html"
+      ]
+    },
+    {
       "id": "ext-15498e873df21d9d78bf",
       "title": "郑文光: 飞向人马座",
       "author": "",
@@ -4848,156 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book3/6757/index.html"
-      ]
-    },
-    {
-      "id": "ext-8fa8216894a0c088b377",
-      "title": "梦枕貘: 沙门空海之大唐鬼宴",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6758/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-8fa8216894a0c088b377",
-        "ext-6150970832506397218"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6758/index.html"
-      ]
-    },
-    {
-      "id": "ext-12570e9d8289398eb8fa",
-      "title": "杰夫·格拉布: 最后的守护者",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201102/1509.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-12570e9d8289398eb8fa",
-        "ext-1720742878360902920"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201102/1509.html"
-      ]
-    },
-    {
-      "id": "ext-74d69e51e9f8c1697e5e",
-      "title": "杰夫·格拉布: 利伯蒂的远征",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10253/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-74d69e51e9f8c1697e5e",
-        "ext-215733151644495718"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10253/index.html"
-      ]
-    },
-    {
-      "id": "ext-6317423bf831e08de417",
-      "title": "暴雪官网: 魔兽世界时间史",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6859/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-6317423bf831e08de417",
-        "ext-9222258607907384114"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6859/index.html"
-      ]
-    },
-    {
-      "id": "ext-28f2ce92823523d947f4",
-      "title": "斩鞍: 九州·秋林箭",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6781/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-28f2ce92823523d947f4",
-        "ext-2412192607588711598"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6781/index.html"
-      ]
-    },
-    {
-      "id": "ext-fb5562710573eff9a26a",
-      "title": "斩鞍: 九州·朱颜记",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6780/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-fb5562710573eff9a26a",
-        "ext-6158376821277651850"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6780/index.html"
       ]
     }
   ]

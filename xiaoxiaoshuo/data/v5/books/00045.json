@@ -1,6 +1,156 @@
 {
   "books": [
     {
+      "id": "ext-2308583c32647a572c73",
+      "title": "校长: 玛丽在隔壁",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/11059/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2308583c32647a572c73",
+        "ext-4115032030856581252"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/11059/index.html"
+      ]
+    },
+    {
+      "id": "ext-c061c9bedd0632a18b21",
+      "title": "柳晨枫: 盛夏晚晴天",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10389/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c061c9bedd0632a18b21",
+        "ext-2114080129568021850"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10389/index.html"
+      ]
+    },
+    {
+      "id": "ext-bad7be2a40992c08875f",
+      "title": "杨华团: 都市男人",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/7859/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-bad7be2a40992c08875f",
+        "ext-102708440770950694"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/7859/index.html"
+      ]
+    },
+    {
+      "id": "ext-26ae79331bffe80818d6",
+      "title": "李波: 我在北京有张床",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10531/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-26ae79331bffe80818d6",
+        "ext-4324063472838593199"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10531/index.html"
+      ]
+    },
+    {
+      "id": "ext-9f195d69433e3859c95b",
+      "title": "李明诚(来小静口述): 女按摩师日记",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/dushi/201103/2131.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9f195d69433e3859c95b",
+        "ext-5826864187478888980"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/dushi/201103/2131.html"
+      ]
+    },
+    {
+      "id": "ext-bfd4b96093c4c49582da",
+      "title": "李承鹏: 李可乐抗拆记",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/dushi/201103/1806.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-bfd4b96093c4c49582da",
+        "ext-4766390311015948668"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/dushi/201103/1806.html"
+      ]
+    },
+    {
       "id": "ext-22aab87431a19b516051",
       "title": "李承鹏: 寻人启事(李可乐寻人记)",
       "author": "",
@@ -4848,156 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book4/9186/index.html"
-      ]
-    },
-    {
-      "id": "ext-f08744aeb5a96978a078",
-      "title": "崔友丽: 校园沙拉1",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9185/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f08744aeb5a96978a078",
-        "ext-6446959794098590346"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9185/index.html"
-      ]
-    },
-    {
-      "id": "ext-ae340cac2fc2d2412d47",
-      "title": "小米拉: 花嫁娃娃错姻缘",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9319/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ae340cac2fc2d2412d47",
-        "ext-3176489062793370031"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9319/index.html"
-      ]
-    },
-    {
-      "id": "ext-172992976741d91992cc",
-      "title": "小米拉: 恶魔与战神",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9318/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-172992976741d91992cc",
-        "ext-7641007521260306426"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9318/index.html"
-      ]
-    },
-    {
-      "id": "ext-f50abe0ded7f3672b030",
-      "title": "小米拉: 云端的浪漫舞曲·下",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9321/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f50abe0ded7f3672b030",
-        "ext-952030807751756068"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9321/index.html"
-      ]
-    },
-    {
-      "id": "ext-00463c732055300b7177",
-      "title": "小米拉: 云端的浪漫舞曲·上",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9320/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-00463c732055300b7177",
-        "ext-872209260588312113"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9320/index.html"
-      ]
-    },
-    {
-      "id": "ext-c5a54d19f75759af1180",
-      "title": "小妮子: 如果天国也曾悲伤",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10124/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c5a54d19f75759af1180",
-        "ext-9175504610236029621"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10124/index.html"
       ]
     }
   ]
