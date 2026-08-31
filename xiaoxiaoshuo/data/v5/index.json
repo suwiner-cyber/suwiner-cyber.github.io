@@ -1,7 +1,7 @@
 {
   "version": 14,
-  "generated_at": "2026-08-31T00:41:04+00:00",
-  "total": 13067,
+  "generated_at": "2026-08-31T00:44:17+00:00",
+  "total": 13117,
   "shard_size": 200,
   "shards": [
     {
@@ -266,10 +266,11 @@
     },
     {
       "file": "books/00066.json",
-      "count": 67
+      "count": 117
     }
   ],
   "source_counts": {
+    "言情小说吧": 640,
     "努努书坊": 6686,
     "塔读文学": 341,
     "爱下电子书": 2742,
@@ -279,8 +280,7 @@
     "和图书": 161,
     "飘天文学": 279,
     "一七小说": 753,
-    "滋味小说网": 405,
-    "言情小说吧": 590
+    "滋味小说网": 405
   },
   "source_status": [
     {
@@ -353,12 +353,12 @@
       "pages_this_run": 80,
       "successful_pages": 80,
       "failed_pages": 0,
-      "books_found": 61,
-      "books_added": 43,
-      "toc_written": 20,
-      "books_seen_total": 251,
-      "remaining_queue": 9449,
-      "seen_pages": 320,
+      "books_found": 60,
+      "books_added": 55,
+      "toc_written": 6,
+      "books_seen_total": 311,
+      "remaining_queue": 11238,
+      "seen_pages": 400,
       "done": false,
       "blocked": false,
       "needs_adapter": false
@@ -493,7 +493,7 @@
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "kanunu8.com",
+  "last_published_source": "xs8.cn",
   "id_scheme": "stable-v4-aliases",
   "metadata_sanitized": true,
   "text_only": true
