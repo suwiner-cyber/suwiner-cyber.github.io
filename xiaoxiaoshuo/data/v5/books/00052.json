@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-951815875a7c0de595ff",
+      "title": "慕容雪村: 伊甸樱桃",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/7127/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-951815875a7c0de595ff",
+        "ext-221821372723762532"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/7127/index.html"
+      ]
+    },
+    {
+      "id": "ext-14d57541141d5a01a543",
+      "title": "徐徐: 蚁族时代",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/dushi/201106/3166.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-14d57541141d5a01a543",
+        "ext-5655046659789594804"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/dushi/201106/3166.html"
+      ]
+    },
+    {
       "id": "ext-bfe5373b616193023764",
       "title": "徐徐: 婆婆媳妇那些事2",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book4/9365/index.html"
-      ]
-    },
-    {
-      "id": "ext-16fa6b185267b340b3bc",
-      "title": "奈奈: 向日葵里的爱情乐章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9364/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-16fa6b185267b340b3bc",
-        "ext-938213813545849084"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9364/index.html"
-      ]
-    },
-    {
-      "id": "ext-055c365aba4e10cf801a",
-      "title": "奈奈: 可不可以不勇敢",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9367/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-055c365aba4e10cf801a",
-        "ext-8980124506312666521"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9367/index.html"
       ]
     }
   ]

@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-3fc3345858de11801719",
+      "title": "邓志谟: 咒枣记",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2506.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3fc3345858de11801719",
+        "ext-868602587004976335"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2506.html"
+      ]
+    },
+    {
+      "id": "ext-0eb7614e882b250d656c",
+      "title": "起云声: 智除巨阉",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2547.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-0eb7614e882b250d656c",
+        "ext-4295904657687964836"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2547.html"
+      ]
+    },
+    {
       "id": "ext-1915e40f1d83a2275412",
       "title": "西周生: 醒世姻缘传",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book3/7131/index.html"
-      ]
-    },
-    {
-      "id": "ext-951815875a7c0de595ff",
-      "title": "慕容雪村: 伊甸樱桃",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/7127/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-951815875a7c0de595ff",
-        "ext-221821372723762532"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/7127/index.html"
-      ]
-    },
-    {
-      "id": "ext-14d57541141d5a01a543",
-      "title": "徐徐: 蚁族时代",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/dushi/201106/3166.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-14d57541141d5a01a543",
-        "ext-5655046659789594804"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/dushi/201106/3166.html"
       ]
     }
   ]

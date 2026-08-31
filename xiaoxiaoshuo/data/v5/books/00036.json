@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-bdb07394edddea4fd090",
+      "title": "第36章 君臣录",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/dby79/458217.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 36,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:56+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-bdb07394edddea4fd090",
+        "ext-4508787469555921171"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/dby79/458217.html"
+      ]
+    },
+    {
+      "id": "ext-72fff065d50ee31e940f",
+      "title": "第35章 教师篇",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/dby79/458216.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 35,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:56+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-72fff065d50ee31e940f",
+        "ext-6084565247707116603"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/dby79/458216.html"
+      ]
+    },
+    {
       "id": "ext-407528251c7e653b927a",
       "title": "第34章 教师篇",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/dby79/458312.html"
-      ]
-    },
-    {
-      "id": "ext-d6cbca8eb78f17ef1cd9",
-      "title": "第130章 悠闲庶皇子",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dby79/458311.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 130,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:56+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d6cbca8eb78f17ef1cd9",
-        "ext-2938280614675328503"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dby79/458311.html"
-      ]
-    },
-    {
-      "id": "ext-3510be2f2f90ec6d79f8",
-      "title": "第12章 公主殿下",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dby79/458193.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 12,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:56+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-3510be2f2f90ec6d79f8",
-        "ext-536854762846792173"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dby79/458193.html"
       ]
     }
   ]

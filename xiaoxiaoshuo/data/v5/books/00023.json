@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-496b9b22e059bd247361",
+      "title": "番外2",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/jinxiefang/449816.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:26+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-496b9b22e059bd247361",
+        "ext-7116876150801326506"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/jinxiefang/449816.html"
+      ]
+    },
+    {
+      "id": "ext-b11fd782cbe205b97394",
+      "title": "番外1",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/jinxiefang/449815.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:26+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b11fd782cbe205b97394",
+        "ext-1676848354864556242"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/jinxiefang/449815.html"
+      ]
+    },
+    {
       "id": "ext-e82e7fe0387237bb7248",
       "title": "番外 全文终",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/feiyingyouxi/456971.html"
-      ]
-    },
-    {
-      "id": "ext-84d10663cf864d2483dd",
-      "title": "第9章 大晋双璧",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/houmen/452495.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 9,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:21+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-84d10663cf864d2483dd",
-        "ext-3275593159075453748"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/houmen/452495.html"
-      ]
-    },
-    {
-      "id": "ext-9c5bd37206591261e50c",
-      "title": "第99章 我不配为她之母",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/houmen/452585.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 99,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:21+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-9c5bd37206591261e50c",
-        "ext-8877442020972001703"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/houmen/452585.html"
       ]
     }
   ]

@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-5f407da9df630c734012",
+      "title": "阿成: 戒台寺",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/little/2011/09-11-3486.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-5f407da9df630c734012",
+        "ext-6088637240462814649"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/09-11-3486.html"
+      ]
+    },
+    {
+      "id": "ext-e650d2e3b6db51fe1cf1",
+      "title": "阿成: 刘先生",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/little/2011/09-11-3487.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e650d2e3b6db51fe1cf1",
+        "ext-2800060670857430748"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/09-11-3487.html"
+      ]
+    },
+    {
       "id": "ext-3ae1d76480de287b7a5f",
       "title": "阿尔贝·加缪: 阿丽阿德娜的石头",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/old/2011/2518.html"
-      ]
-    },
-    {
-      "id": "ext-3fc3345858de11801719",
-      "title": "邓志谟: 咒枣记",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/old/2011/2506.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:29+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-3fc3345858de11801719",
-        "ext-868602587004976335"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/old/2011/2506.html"
-      ]
-    },
-    {
-      "id": "ext-0eb7614e882b250d656c",
-      "title": "起云声: 智除巨阉",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/old/2011/2547.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:29+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-0eb7614e882b250d656c",
-        "ext-4295904657687964836"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/old/2011/2547.html"
       ]
     }
   ]

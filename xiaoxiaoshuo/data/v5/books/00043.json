@@ -1,6 +1,71 @@
 {
   "books": [
     {
+      "id": "ext-80d8495e356a0783d37d",
+      "title": "第12章 矫情男人",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171768.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 12,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-80d8495e356a0783d37d",
+        "ext-8602865689609989730"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171768.html"
+      ]
+    },
+    {
+      "id": "ext-d1dc1b1a7c91a8b841da",
+      "title": "第129章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171885.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171885.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/38061.html",
+        "https://www.kanunu8.com/book7/75chyriji/463401.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481687.html",
+        "https://www.kanunu8.com/book7/hxshn92/485243.html"
+      ],
+      "read_ids": [
+        "ext-d1dc1b1a7c91a8b841da",
+        "ext-4830141277462983498",
+        "ext-0e4020dcff7d16481bd8",
+        "ext-e9ce8a2e7afef88783b9",
+        "ext-53918b3f54d1c32947b0",
+        "ext-9059327a89ee043f4a44"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171885.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/38061.html",
+        "https://www.kanunu8.com/book7/75chyriji/463401.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481687.html",
+        "https://www.kanunu8.com/book7/hxshn92/485243.html"
+      ]
+    },
+    {
       "id": "ext-ebea0e663239fbebbfea",
       "title": "第128章",
       "author": "",
@@ -5458,56 +5523,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65072.html"
-      ]
-    },
-    {
-      "id": "ext-d322d140a2cdd8f9f99b",
-      "title": "第33章 匕首",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65071.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 33,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d322d140a2cdd8f9f99b",
-        "ext-6203467030020525564"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65071.html"
-      ]
-    },
-    {
-      "id": "ext-9ea6ee57f0472fef02f5",
-      "title": "第32章 处境",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65070.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 32,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-9ea6ee57f0472fef02f5",
-        "ext-8929221676222185307"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65070.html"
       ]
     }
   ]

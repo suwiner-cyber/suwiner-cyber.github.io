@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-84d10663cf864d2483dd",
+      "title": "第9章 大晋双璧",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/houmen/452495.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 9,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:21+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-84d10663cf864d2483dd",
+        "ext-3275593159075453748"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/houmen/452495.html"
+      ]
+    },
+    {
+      "id": "ext-9c5bd37206591261e50c",
+      "title": "第99章 我不配为她之母",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/houmen/452585.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 99,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:21+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9c5bd37206591261e50c",
+        "ext-8877442020972001703"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/houmen/452585.html"
+      ]
+    },
+    {
       "id": "ext-acd6f01912fba500a32c",
       "title": "第98章 你挑衅朕？",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/xinpin/449977.html"
-      ]
-    },
-    {
-      "id": "ext-6431cad40ca6358675c8",
-      "title": "第62章 捞鱼",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/xinpin/449976.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:18+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-6431cad40ca6358675c8",
-        "ext-9113573369957379418"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/xinpin/449976.html"
-      ]
-    },
-    {
-      "id": "ext-e0e928181eea987b37f9",
-      "title": "第61章 下厨",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/xinpin/449975.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:18+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e0e928181eea987b37f9",
-        "ext-3421759117626290349"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/xinpin/449975.html"
       ]
     }
   ]

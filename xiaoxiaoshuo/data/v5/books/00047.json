@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-ef393a0d9992561ffb13",
+      "title": "罗伯特·西尔弗伯格: 夜翼",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6028/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ef393a0d9992561ffb13",
+        "ext-3145953659665847677"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6028/index.html"
+      ]
+    },
+    {
+      "id": "ext-62eaf3f92d40c63ce849",
+      "title": "罗伯特·海因莱因: 银河行商",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6042/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-62eaf3f92d40c63ce849",
+        "ext-5107763832008906154"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6042/index.html"
+      ]
+    },
+    {
       "id": "ext-0ca5fd3692e51d097319",
       "title": "罗伯特·海因莱因: 银河系公民",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/xunhuan/201101/1362.html"
-      ]
-    },
-    {
-      "id": "ext-bd1004adb438fe1332fa",
-      "title": "安妮·赖斯: 吸血鬼维多利奥",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201101/1367.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-bd1004adb438fe1332fa",
-        "ext-6793673867251897883"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201101/1367.html"
-      ]
-    },
-    {
-      "id": "ext-b02de4550d31fb160c52",
-      "title": "天下霸唱: 我的邻居是妖怪",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6136/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b02de4550d31fb160c52",
-        "ext-2841874287439975826"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6136/index.html"
       ]
     }
   ]

@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-4a4e9003094094feb4c4",
+      "title": "那多: 过年",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/8758/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4a4e9003094094feb4c4",
+        "ext-1735715480303498594"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/8758/index.html"
+      ]
+    },
+    {
+      "id": "ext-4c6d2189916b9c23e82b",
+      "title": "那多: 纸婴",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/8764/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4c6d2189916b9c23e82b",
+        "ext-941527736121263130"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/8764/index.html"
+      ]
+    },
+    {
       "id": "ext-f8a1fd7c0599d0c8e387",
       "title": "那多: 神的密码",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book3/6027/index.html"
-      ]
-    },
-    {
-      "id": "ext-ef393a0d9992561ffb13",
-      "title": "罗伯特·西尔弗伯格: 夜翼",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6028/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ef393a0d9992561ffb13",
-        "ext-3145953659665847677"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6028/index.html"
-      ]
-    },
-    {
-      "id": "ext-62eaf3f92d40c63ce849",
-      "title": "罗伯特·海因莱因: 银河行商",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6042/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-62eaf3f92d40c63ce849",
-        "ext-5107763832008906154"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6042/index.html"
       ]
     }
   ]

@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-bd1004adb438fe1332fa",
+      "title": "安妮·赖斯: 吸血鬼维多利奥",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/xunhuan/201101/1367.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:34+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-bd1004adb438fe1332fa",
+        "ext-6793673867251897883"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/xunhuan/201101/1367.html"
+      ]
+    },
+    {
+      "id": "ext-b02de4550d31fb160c52",
+      "title": "天下霸唱: 我的邻居是妖怪",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6136/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:34+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b02de4550d31fb160c52",
+        "ext-2841874287439975826"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6136/index.html"
+      ]
+    },
+    {
       "id": "ext-fcf6996f477290225569",
       "title": "多事: 九州·裂云之章",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book3/7628/index.html"
-      ]
-    },
-    {
-      "id": "ext-0d2d42943d7031946982",
-      "title": "千草: 爱情真伟大",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/7598/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-0d2d42943d7031946982",
-        "ext-4595986883127412589"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/7598/index.html"
-      ]
-    },
-    {
-      "id": "ext-f0b92f81229df5bab62c",
-      "title": "千草: 无限依恋你",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/7663/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f0b92f81229df5bab62c",
-        "ext-6141577316398539313"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/7663/index.html"
       ]
     }
   ]
