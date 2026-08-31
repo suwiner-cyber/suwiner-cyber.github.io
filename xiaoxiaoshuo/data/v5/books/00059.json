@@ -1,56 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-6685e33878b47d1d6ef0",
-      "title": "丹尼尔·笛福: 鲁滨孙飘流记",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10201/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:25+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-6685e33878b47d1d6ef0",
-        "ext-7026687315809460008"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10201/index.html"
-      ]
-    },
-    {
-      "id": "ext-829ddffb8b9164fad78f",
-      "title": "J．R．沃勒: 漫漫长夜",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10252/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:25+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-829ddffb8b9164fad78f",
-        "ext-6336771432194571793"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10252/index.html"
-      ]
-    },
-    {
       "id": "ext-f748d7da49165ce6febc",
       "title": "末页",
       "author": "",
@@ -5040,6 +4990,56 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/368633"
+      ]
+    },
+    {
+      "id": "ext-9620aeca151abcbfa2ec",
+      "title": "凌天至尊 辰小白",
+      "author": "六界三道",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2020/08/06/10/21/56a73d38b4794e7dbcdf89711e1569e3_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/490725",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:27+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9620aeca151abcbfa2ec",
+        "ext-7415983405795434450"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/490725"
+      ]
+    },
+    {
+      "id": "ext-2ed6f73b761283af4602",
+      "title": "丹道轮回 开门迎客",
+      "author": "六界三道",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2020/08/06/10/21/56a73d38b4794e7dbcdf89711e1569e3_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/812713",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:27+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2ed6f73b761283af4602",
+        "ext-8282221523587415178"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/812713"
       ]
     }
   ]
