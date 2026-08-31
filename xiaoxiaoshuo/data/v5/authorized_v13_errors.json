@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T12:29:52+00:00",
+  "generated_at": "2026-08-31T12:32:06+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -786,6 +786,12 @@
       "source": "泡书吧小说网",
       "url": "https://www.ipaoshubaxs.net/author/唐家三少.html",
       "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-08-31T12:31:52+00:00",
+      "source": "爱下电子书",
+      "url": "https://ixdzs8.com/read/503705/p.html",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }
