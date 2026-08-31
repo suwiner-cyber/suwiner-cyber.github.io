@@ -1,6 +1,556 @@
 {
   "books": [
     {
+      "id": "ext-4f76e08b1273787b5b1e",
+      "title": "那多: 暗影三十八万",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/8754/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4f76e08b1273787b5b1e",
+        "ext-3010635250586502769"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/8754/index.html"
+      ]
+    },
+    {
+      "id": "ext-196ede61149f965c9dd7",
+      "title": "那多: 把你的命交给我",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/8766/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-196ede61149f965c9dd7",
+        "ext-1731927997064987098"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/8766/index.html"
+      ]
+    },
+    {
+      "id": "ext-3a0ae00a31a839a4ac02",
+      "title": "那多: 幽灵旗",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/8753/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3a0ae00a31a839a4ac02",
+        "ext-4447905932559581613"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/8753/index.html"
+      ]
+    },
+    {
+      "id": "ext-07522713191df7c1c939",
+      "title": "那多: 坏种子",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/8752/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-07522713191df7c1c939",
+        "ext-6041810190854498917"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/8752/index.html"
+      ]
+    },
+    {
+      "id": "ext-586c443e206b80708ae1",
+      "title": "那多: 变形人",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/8751/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-586c443e206b80708ae1",
+        "ext-1987122256610325382"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/8751/index.html"
+      ]
+    },
+    {
+      "id": "ext-62f80677046c41ec0069",
+      "title": "那多: 凶心人",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/8750/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-62f80677046c41ec0069",
+        "ext-5768137491768790260"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/8750/index.html"
+      ]
+    },
+    {
+      "id": "ext-a6483598ee11cede17c5",
+      "title": "那多: 亡者永生",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/8749/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a6483598ee11cede17c5",
+        "ext-1847217831004087275"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/8749/index.html"
+      ]
+    },
+    {
+      "id": "ext-5048c4e2ade7637efe00",
+      "title": "那多: 亡者低语",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/8765/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-5048c4e2ade7637efe00",
+        "ext-532604961945908931"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/8765/index.html"
+      ]
+    },
+    {
+      "id": "ext-21c0c6eb54baeeb5464b",
+      "title": "那多: 世界尽头",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/8767/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-21c0c6eb54baeeb5464b",
+        "ext-2303868959685890959"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/8767/index.html"
+      ]
+    },
+    {
+      "id": "ext-81e53f7efa90e25f4477",
+      "title": "轩辕小胖: 搞鬼：废柴道士的爆笑生活",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10650/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-81e53f7efa90e25f4477",
+        "ext-8151032068610942037"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10650/index.html"
+      ]
+    },
+    {
+      "id": "ext-aab0bd911f8ada26ebb9",
+      "title": "西秦邪少: 鬼医秘方",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10648/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-aab0bd911f8ada26ebb9",
+        "ext-1536883195401498461"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10648/index.html"
+      ]
+    },
+    {
+      "id": "ext-49982b915f88bc273ab6",
+      "title": "蜘蛛: 十宗罪6",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/10876/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-49982b915f88bc273ab6",
+        "ext-2577152311709852116"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/10876/index.html"
+      ]
+    },
+    {
+      "id": "ext-47ed9f9ad48749802689",
+      "title": "蜘蛛: 十宗罪5",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10664/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-47ed9f9ad48749802689",
+        "ext-7902242144688345322"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10664/index.html"
+      ]
+    },
+    {
+      "id": "ext-0694619ab61e664f46d3",
+      "title": "蜘蛛: 十宗罪4",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/9336/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-0694619ab61e664f46d3",
+        "ext-3449008981058733322"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/9336/index.html"
+      ]
+    },
+    {
+      "id": "ext-679dc425ce07937341fa",
+      "title": "蔡骏: 谋杀似水年华",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/8662/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-679dc425ce07937341fa",
+        "ext-4634555765771728379"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/8662/index.html"
+      ]
+    },
+    {
+      "id": "ext-1168148d27c39839c9be",
+      "title": "蔡骏: 诅咒",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/8652/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1168148d27c39839c9be",
+        "ext-8820826341986642187"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/8652/index.html"
+      ]
+    },
+    {
+      "id": "ext-22c011e39bb2a048f56b",
+      "title": "蔡骏: 蝴蝶公墓",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6980/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-22c011e39bb2a048f56b",
+        "ext-2669358656502248782"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6980/index.html"
+      ]
+    },
+    {
+      "id": "ext-d967c91335bf79757615",
+      "title": "蔡骏: 蔡骏短篇小说",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/8651/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d967c91335bf79757615",
+        "ext-8041973869155990363"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/8651/index.html"
+      ]
+    },
+    {
+      "id": "ext-f86e707cc36cac894026",
+      "title": "蔡骏: 荒村归来",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/8654/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f86e707cc36cac894026",
+        "ext-6056634937338854399"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/8654/index.html"
+      ]
+    },
+    {
+      "id": "ext-e6fa0ee5020ac2ae1851",
+      "title": "蔡骏: 荒村公寓",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6981/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e6fa0ee5020ac2ae1851",
+        "ext-6333019146911846412"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6981/index.html"
+      ]
+    },
+    {
+      "id": "ext-8f4f32577f6e15e2c20a",
+      "title": "蔡骏: 神在看着你",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/8653/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8f4f32577f6e15e2c20a",
+        "ext-2901789606662706889"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/8653/index.html"
+      ]
+    },
+    {
+      "id": "ext-3afa6e5b1f5067dad098",
+      "title": "蔡骏: 病毒(蔡骏)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6979/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3afa6e5b1f5067dad098",
+        "ext-384465491714570442"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6979/index.html"
+      ]
+    },
+    {
       "id": "ext-e055af517468e4dcc500",
       "title": "蔡骏: 生死河",
       "author": "",
@@ -4448,556 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book3/6040/index.html"
-      ]
-    },
-    {
-      "id": "ext-ff525d5372c1cdb30db6",
-      "title": "罗伯特·海因莱因: 双星",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6039/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ff525d5372c1cdb30db6",
-        "ext-2564396283449992965"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6039/index.html"
-      ]
-    },
-    {
-      "id": "ext-af01bf31e0170a713269",
-      "title": "罗伯特·海因莱因: 傀儡主人",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6038/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-af01bf31e0170a713269",
-        "ext-2568816063281968275"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6038/index.html"
-      ]
-    },
-    {
-      "id": "ext-dea17486ca074905bae3",
-      "title": "罗伯特·海因莱因: 严厉的月亮",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6037/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-dea17486ca074905bae3",
-        "ext-7571108312809941006"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6037/index.html"
-      ]
-    },
-    {
-      "id": "ext-11b9d56dbef063b0e180",
-      "title": "罗伯特·希克利: 罗伯特·希克利短篇作品",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10086/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-11b9d56dbef063b0e180",
-        "ext-8631525462251446238"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10086/index.html"
-      ]
-    },
-    {
-      "id": "ext-dde33e25005065546bdb",
-      "title": "罗伯特·J·索耶: 计算中的上帝",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6471/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-dde33e25005065546bdb",
-        "ext-3104618846128741369"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6471/index.html"
-      ]
-    },
-    {
-      "id": "ext-133dead8a5b3a2a70be7",
-      "title": "罗伯特·J·索耶: 恐龙文明三部曲·远望",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6470/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-133dead8a5b3a2a70be7",
-        "ext-5770561663734102550"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6470/index.html"
-      ]
-    },
-    {
-      "id": "ext-b34bf8f77b1b8d418edc",
-      "title": "罗伯特·J·索耶: 恐龙文明三部曲·异族",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6468/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b34bf8f77b1b8d418edc",
-        "ext-5777168939914498723"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6468/index.html"
-      ]
-    },
-    {
-      "id": "ext-0bde77778fb51cfc95bb",
-      "title": "罗伯特·J·索耶: 恐龙文明三部曲·化石猎人",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6469/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-0bde77778fb51cfc95bb",
-        "ext-94634242039033581"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6469/index.html"
-      ]
-    },
-    {
-      "id": "ext-8090e2e5c9b79045f36b",
-      "title": "约翰·丹顿: 达尔文的阴谋",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6452/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-8090e2e5c9b79045f36b",
-        "ext-313345367828898900"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6452/index.html"
-      ]
-    },
-    {
-      "id": "ext-2e0793ae587aecd903e8",
-      "title": "童恩正: 西游新记",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6507/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-2e0793ae587aecd903e8",
-        "ext-811056937421735324"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6507/index.html"
-      ]
-    },
-    {
-      "id": "ext-217cc1a5cdc0aa1fc406",
-      "title": "田中芳树: 银环计划",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/8889/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-217cc1a5cdc0aa1fc406",
-        "ext-7144883941933509526"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/8889/index.html"
-      ]
-    },
-    {
-      "id": "ext-dda394a7628c6043f7d4",
-      "title": "田中芳树: 战场夜想曲",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/world/201104/2638.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-dda394a7628c6043f7d4",
-        "ext-3585400529121572347"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/world/201104/2638.html"
-      ]
-    },
-    {
-      "id": "ext-34f647d07f6cc89a7eeb",
-      "title": "理查德·雷蒙德: 隐形人入侵",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6455/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-34f647d07f6cc89a7eeb",
-        "ext-6153652598683861353"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6455/index.html"
-      ]
-    },
-    {
-      "id": "ext-e6317c901215f4d3b124",
-      "title": "玛丽·雪莱: 弗兰肯斯坦",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6459/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e6317c901215f4d3b124",
-        "ext-3905780660963128291"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6459/index.html"
-      ]
-    },
-    {
-      "id": "ext-24f9466caec147b6d527",
-      "title": "王晋康: 豹",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book3/6621/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-24f9466caec147b6d527",
-        "ext-4961667722828381708"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6621/index.html"
-      ]
-    },
-    {
-      "id": "ext-e3d99732c956c1bb3508",
-      "title": "王晋康: 类人",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book3/6628/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e3d99732c956c1bb3508",
-        "ext-4714758966898575649"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6628/index.html"
-      ]
-    },
-    {
-      "id": "ext-13270e7013205ac829d6",
-      "title": "王晋康: 生死平衡",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6625/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-13270e7013205ac829d6",
-        "ext-1267663425983128653"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6625/index.html"
-      ]
-    },
-    {
-      "id": "ext-4f4e8e4ab68f43c495da",
-      "title": "王晋康: 生命之歌",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6626/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-4f4e8e4ab68f43c495da",
-        "ext-4271901973286818146"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6626/index.html"
-      ]
-    },
-    {
-      "id": "ext-6592c20ab0ada9a42f8f",
-      "title": "王晋康: 海豚人",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6627/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-6592c20ab0ada9a42f8f",
-        "ext-4952978032754763366"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6627/index.html"
-      ]
-    },
-    {
-      "id": "ext-7911b9f3acc3fd881c75",
-      "title": "王晋康: 泡泡",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book3/6623/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7911b9f3acc3fd881c75",
-        "ext-6968601905513682974"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6623/index.html"
-      ]
-    },
-    {
-      "id": "ext-bff427586790df6ff90d",
-      "title": "王晋康: 水星播种",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6624/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-bff427586790df6ff90d",
-        "ext-3582877949689686688"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6624/index.html"
-      ]
-    },
-    {
-      "id": "ext-1c3a437e2083f242d931",
-      "title": "王晋康: 三色世界",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6629/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1c3a437e2083f242d931",
-        "ext-2292099505900468926"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6629/index.html"
       ]
     }
   ]
