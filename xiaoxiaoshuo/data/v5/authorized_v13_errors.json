@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T12:24:25+00:00",
+  "generated_at": "2026-08-31T12:26:02+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -780,6 +780,12 @@
       "source": "乐文小说",
       "url": "https://www.ilwxs.com/author/季越人.html",
       "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-08-31T12:25:10+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/唐家三少.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
     }
   ]
 }
