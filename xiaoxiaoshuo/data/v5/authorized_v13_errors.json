@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T06:23:23+00:00",
+  "generated_at": "2026-08-31T06:25:07+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -696,6 +696,24 @@
       "source": "飘天文学",
       "url": "https://www.piaotia.com/userinfo.php?id=429272",
       "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-08-31T06:23:35+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/叶公子.html",
+      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-08-31T06:24:18+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/别让我通宵.html",
+      "error": "'ascii' codec can't encode characters in position 12-16: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-08-31T06:24:46+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/雁九.html",
+      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
     }
   ]
 }
