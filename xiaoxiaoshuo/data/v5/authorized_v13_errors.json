@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T12:19:59+00:00",
+  "generated_at": "2026-08-31T12:21:24+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -738,6 +738,36 @@
       "source": "泡书吧小说网",
       "url": "https://www.ipaoshubaxs.net/author/刘俊刚张晓瑶.html",
       "error": "'ascii' codec can't encode characters in position 12-17: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-08-31T12:20:19+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=449248",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-08-31T12:20:20+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=446726",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-08-31T12:20:25+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=427662",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-08-31T12:20:40+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=430941",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-08-31T12:20:55+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=446400",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }
