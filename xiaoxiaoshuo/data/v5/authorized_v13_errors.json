@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T18:25:51+00:00",
+  "generated_at": "2026-08-31T18:27:39+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -840,6 +840,18 @@
       "source": "乐文小说",
       "url": "https://www.ilwxs.com/author/溪夕汐.html",
       "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-08-31T18:26:03+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/久石.html",
+      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-08-31T18:26:53+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/莫默.html",
+      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
     }
   ]
 }
