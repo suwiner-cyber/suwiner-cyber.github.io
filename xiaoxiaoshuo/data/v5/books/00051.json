@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-7431c9f8bc920d21ccc5",
+      "title": "玖月晞: 栗夏记",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/11127/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:32+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-7431c9f8bc920d21ccc5",
+        "ext-691896395643741002"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/11127/index.html"
+      ]
+    },
+    {
+      "id": "ext-a760f4279747113b279e",
+      "title": "玖月晞: 怦然心动",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/11116/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:32+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a760f4279747113b279e",
+        "ext-231484298827612280"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/11116/index.html"
+      ]
+    },
+    {
       "id": "ext-de6a577c634ef0363c02",
       "title": "玖月晞: 微暗之火(小南风)",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book3/7562/index.html"
-      ]
-    },
-    {
-      "id": "ext-8e2d9a7783fdfe53a991",
-      "title": "桐华: 那些回不去的年少时光",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/yuanchuang/201102/1424.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:31+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-8e2d9a7783fdfe53a991",
-        "ext-7803335841842414742"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/yuanchuang/201102/1424.html"
-      ]
-    },
-    {
-      "id": "ext-5b7f60c71c360f3a836d",
-      "title": "桐华: 解忧曲",
-      "author": "",
-      "kind": "",
-      "status": "已完结",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/yuanchuang/201102/1421.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:31+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-5b7f60c71c360f3a836d",
-        "ext-2704598685128013465"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/yuanchuang/201102/1421.html"
       ]
     }
   ]

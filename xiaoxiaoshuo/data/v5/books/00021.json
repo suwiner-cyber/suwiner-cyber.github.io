@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-28218cb34a078d5e58b5",
+      "title": "诅咒",
+      "author": "",
+      "kind": "",
+      "status": "已完结",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.zwxiaoshuo.com/book-7203.html",
+      "source_host": "www.zwxiaoshuo.com",
+      "source_name": "滋味小说网",
+      "media": "text",
+      "chapter_count": 36,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T15:03:27+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-28218cb34a078d5e58b5",
+        "ext-8413835146655861513"
+      ],
+      "read_sources": [
+        "https://www.zwxiaoshuo.com/book-7203.html"
+      ]
+    },
+    {
+      "id": "ext-b97de91da6b73433fade",
+      "title": "蝴蝶公墓",
+      "author": "",
+      "kind": "",
+      "status": "已完结",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.zwxiaoshuo.com/book-7209.html",
+      "source_host": "www.zwxiaoshuo.com",
+      "source_name": "滋味小说网",
+      "media": "text",
+      "chapter_count": 36,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T15:03:27+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b97de91da6b73433fade",
+        "ext-8731510927111856923"
+      ],
+      "read_sources": [
+        "https://www.zwxiaoshuo.com/book-7209.html"
+      ]
+    },
+    {
       "id": "ext-cff4080af3f803697bbf",
       "title": "藏地密码10:神圣大结局",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.1qxs.com/xs_1/98495.html"
-      ]
-    },
-    {
-      "id": "ext-f3e46dca2b5dfd5b8bfa",
-      "title": "火影：破防系统，给忍界一点压力",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.1qxs.com/xs_1/98564.html",
-      "source_host": "www.1qxs.com",
-      "source_name": "一七小说",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T15:03:03+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f3e46dca2b5dfd5b8bfa",
-        "ext-4692458516399268509"
-      ],
-      "read_sources": [
-        "https://www.1qxs.com/xs_1/98564.html"
-      ]
-    },
-    {
-      "id": "ext-155e52ce336812eeed35",
-      "title": "柯南里的捡尸人",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.1qxs.com/xs_1/14175.html",
-      "source_host": "www.1qxs.com",
-      "source_name": "一七小说",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T15:03:03+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-155e52ce336812eeed35",
-        "ext-751065584505998501"
-      ],
-      "read_sources": [
-        "https://www.1qxs.com/xs_1/14175.html"
       ]
     }
   ]

@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-ede5645309a5c5f74c9c",
+      "title": "乔治·奥威尔: 我为什么要写作",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-24-1318.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ede5645309a5c5f74c9c",
+        "ext-910541729024483155"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-24-1318.html"
+      ]
+    },
+    {
+      "id": "ext-9e0995b011d8f157f501",
+      "title": "乔治·奥威尔: 射象",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2012/03-18-7052.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9e0995b011d8f157f501",
+        "ext-5907288306549948547"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2012/03-18-7052.html"
+      ]
+    },
+    {
       "id": "ext-fec2ade99d2f9e8ea901",
       "title": "乐小米: 山川忘了岁月的悲哀",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/dushi/201106/2838.html"
-      ]
-    },
-    {
-      "id": "ext-875787c9054f7b675116",
-      "title": "金景波: 资本暗战",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/dushi/201106/3129.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-875787c9054f7b675116",
-        "ext-4317898882129825628"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/dushi/201106/3129.html"
-      ]
-    },
-    {
-      "id": "ext-1c71df0367173393869d",
-      "title": "金国栋: 红楼记·揭秘艺校女生",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/11063/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1c71df0367173393869d",
-        "ext-4863358735235951012"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/11063/index.html"
       ]
     }
   ]

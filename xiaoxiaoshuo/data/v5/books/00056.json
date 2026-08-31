@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-29e564b8c558e3082f7a",
+      "title": "莎士比亚: 理查二世",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10363/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-29e564b8c558e3082f7a",
+        "ext-4049710676135091104"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10363/index.html"
+      ]
+    },
+    {
+      "id": "ext-3b6bb99668071a4928e4",
+      "title": "莎士比亚: 理查三世",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10364/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3b6bb99668071a4928e4",
+        "ext-6216212487079106119"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10364/index.html"
+      ]
+    },
+    {
       "id": "ext-6141cb3d6f2544e10f37",
       "title": "莎士比亚: 特洛伊罗斯与克瑞西达",
       "author": "",
@@ -4990,56 +5040,6 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/721546"
-      ]
-    },
-    {
-      "id": "ext-ad0e654cccca9883902e",
-      "title": "错抱魔修大腿后我逃了 王甜甜",
-      "author": "心中有青荷",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2026/04/02/17/25/e1a0400b81a7468aa42e0c81e38717de_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/994684",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:16+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ad0e654cccca9883902e",
-        "ext-6679080200006382035"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/994684"
-      ]
-    },
-    {
-      "id": "ext-c421c311c97ac8dafce8",
-      "title": "重生大师姐不想努力了 玻璃咸鱼",
-      "author": "心中有青荷",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2026/04/02/17/25/e1a0400b81a7468aa42e0c81e38717de_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/809565",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:16+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c421c311c97ac8dafce8",
-        "ext-6876450470820597122"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/809565"
       ]
     }
   ]

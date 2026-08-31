@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-e3c744a387979f00bae6",
+      "title": "第32章 纽约的冬天",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/shjshdyshchli/450615.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 32,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:13+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e3c744a387979f00bae6",
+        "ext-6961261038135684218"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/shjshdyshchli/450615.html"
+      ]
+    },
+    {
+      "id": "ext-7ed0126a9ca07d50418b",
+      "title": "第31章 银色戒指",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/shjshdyshchli/450614.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 31,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:13+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-7ed0126a9ca07d50418b",
+        "ext-3406497916982435137"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/shjshdyshchli/450614.html"
+      ]
+    },
+    {
       "id": "ext-4bfd68d5b3d56800755a",
       "title": "第30章 最后一晚",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/tianjieyese/452001.html"
-      ]
-    },
-    {
-      "id": "ext-72c1aa55fc29e7ff06a5",
-      "title": "第45章 礼物",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/tianjieyese/452000.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:10+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-72c1aa55fc29e7ff06a5",
-        "ext-4481440976250739857"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/tianjieyese/452000.html"
-      ]
-    },
-    {
-      "id": "ext-dbfacc0ccfc83425255e",
-      "title": "第44章 礼物",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/tianjieyese/451999.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:10+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-dbfacc0ccfc83425255e",
-        "ext-1192506915461779806"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/tianjieyese/451999.html"
       ]
     }
   ]

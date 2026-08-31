@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-3a4582380aa3dfbc208a",
+      "title": "赵乾乾: 致我们单纯的小美好",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/10949/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:27+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3a4582380aa3dfbc208a",
+        "ext-2615592598714816011"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/10949/index.html"
+      ]
+    },
+    {
+      "id": "ext-6e4ea67b49ba90caa855",
+      "title": "赵乾乾: 才上心头",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/10946/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:27+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-6e4ea67b49ba90caa855",
+        "ext-1456998202177854234"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/10946/index.html"
+      ]
+    },
+    {
       "id": "ext-273caeb66902f026df44",
       "title": "裴银喜: 是我的，你别碰！",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book4/10360/index.html"
-      ]
-    },
-    {
-      "id": "ext-29e564b8c558e3082f7a",
-      "title": "莎士比亚: 理查二世",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10363/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:25+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-29e564b8c558e3082f7a",
-        "ext-4049710676135091104"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10363/index.html"
-      ]
-    },
-    {
-      "id": "ext-3b6bb99668071a4928e4",
-      "title": "莎士比亚: 理查三世",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10364/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:25+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-3b6bb99668071a4928e4",
-        "ext-6216212487079106119"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10364/index.html"
       ]
     }
   ]
