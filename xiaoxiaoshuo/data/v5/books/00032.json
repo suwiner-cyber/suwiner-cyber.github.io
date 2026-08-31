@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-e0de1c47fd49818bd881",
+      "title": "第6章 网文大神被指抄袭6",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/dby81/459414.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 6,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:57+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e0de1c47fd49818bd881",
+        "ext-4724668653288427512"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/dby81/459414.html"
+      ]
+    },
+    {
       "id": "ext-b47656fbc1a734179f0c",
       "title": "第69章 犯罪侧写师8",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/dby81/459531.html"
-      ]
-    },
-    {
-      "id": "ext-08621800cd55beb761fb",
-      "title": "第122章 民国旧影6",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dby81/459530.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 122,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-08621800cd55beb761fb",
-        "ext-3403309423283015558"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dby81/459530.html"
       ]
     }
   ]

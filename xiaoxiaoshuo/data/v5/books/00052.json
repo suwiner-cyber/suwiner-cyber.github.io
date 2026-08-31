@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-60a52b9bfe3579528882",
+      "title": "田东照: 卖官",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/10450/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:24+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-60a52b9bfe3579528882",
+        "ext-4737780263358750141"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10450/index.html"
+      ]
+    },
+    {
       "id": "ext-83114a5936ab469115a9",
       "title": "田东照: 买官",
       "author": "",
@@ -5015,31 +5040,6 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/730507"
-      ]
-    },
-    {
-      "id": "ext-d989b85989907350a89e",
-      "title": "碎星 千思",
-      "author": "浮兮",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//f/8/6/8/f868dbe4ad931ab3d071b57e84dad04c_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/425110",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:50+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d989b85989907350a89e",
-        "ext-5149227944858063792"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/425110"
       ]
     }
   ]

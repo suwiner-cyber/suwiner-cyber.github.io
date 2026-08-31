@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-247df91ea41f7f01603d",
+      "title": "第37章 长期的…秘密的…不谈感情的",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204299.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 37,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-247df91ea41f7f01603d",
+        "ext-7787169518433908649"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204299.html"
+      ]
+    },
+    {
       "id": "ext-dd06b5e983061ba1e312",
       "title": "第36章 怪好看的",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book4/10703/index.html"
-      ]
-    },
-    {
-      "id": "ext-e4c908867574eba32f18",
-      "title": "周浩晖: 邪恶催眠师2",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10701/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:36+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e4c908867574eba32f18",
-        "ext-2162850357319384471"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10701/index.html"
       ]
     }
   ]

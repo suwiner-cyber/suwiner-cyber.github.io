@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-a37f151e91d9f3fd56bb",
+      "title": "第六章 亲戚上门",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450154.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a37f151e91d9f3fd56bb",
+        "ext-4565175967989804952"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450154.html"
+      ]
+    },
+    {
       "id": "ext-7017e41cd5d3d0914476",
       "title": "第六十章 莲花灯",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450444.html"
-      ]
-    },
-    {
-      "id": "ext-907fa0eb4664db7c412e",
-      "title": "第三十八章 迷梦",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450370.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-907fa0eb4664db7c412e",
-        "ext-6187321156734270952"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450370.html"
       ]
     }
   ]

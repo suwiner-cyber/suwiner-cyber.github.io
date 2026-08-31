@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-7903e5c0abd1e9f93bcb",
+      "title": "番外五十七",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463196.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-7903e5c0abd1e9f93bcb",
+        "ext-1706894947856482866"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463196.html"
+      ]
+    },
+    {
       "id": "ext-dc74a990732d70da9ea5",
       "title": "番外五十一",
       "author": "",
@@ -5420,31 +5445,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/phbfshce/473484.html"
-      ]
-    },
-    {
-      "id": "ext-46ee619707a279b6f8c6",
-      "title": "第79章 你看你的笔",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/phbfshce/473556.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 79,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:45+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-46ee619707a279b6f8c6",
-        "ext-6531610498754864893"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/phbfshce/473556.html"
       ]
     }
   ]

@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-96e2f6b5e13c984b9e2d",
+      "title": "乔治·奥威尔: 行刑",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2012/03-18-7051.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-96e2f6b5e13c984b9e2d",
+        "ext-5767189577884012009"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2012/03-18-7051.html"
+      ]
+    },
+    {
       "id": "ext-ede5645309a5c5f74c9c",
       "title": "乔治·奥威尔: 我为什么要写作",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/dushi/201106/3113.html"
-      ]
-    },
-    {
-      "id": "ext-fe05770c53b3ca7b2346",
-      "title": "闫绍荣: 太阳底下最伟大的傻瓜",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/dushi/201106/2838.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-fe05770c53b3ca7b2346",
-        "ext-7358389023281041762"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/dushi/201106/2838.html"
       ]
     }
   ]

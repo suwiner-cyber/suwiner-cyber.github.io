@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-dc42ecd40dbde410a63f",
+      "title": "梦入神机: 圣王",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/7562/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:31+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-dc42ecd40dbde410a63f",
+        "ext-2480101595999418647"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/7562/index.html"
+      ]
+    },
+    {
       "id": "ext-8e2d9a7783fdfe53a991",
       "title": "桐华: 那些回不去的年少时光",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/01-03-1000.html"
-      ]
-    },
-    {
-      "id": "ext-96e2f6b5e13c984b9e2d",
-      "title": "乔治·奥威尔: 行刑",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2012/03-18-7051.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-96e2f6b5e13c984b9e2d",
-        "ext-5767189577884012009"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2012/03-18-7051.html"
       ]
     }
   ]

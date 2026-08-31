@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-e16bed5360224c99dd73",
+      "title": "刘慈欣: 乡村教师",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6640/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e16bed5360224c99dd73",
+        "ext-8312643326417185320"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6640/index.html"
+      ]
+    },
+    {
       "id": "ext-bfcafbeeccd0b565e898",
       "title": "刘慈欣: 中国太阳",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book2/11114/index.html"
-      ]
-    },
-    {
-      "id": "ext-5e7008505668282fb9d3",
-      "title": "玖月晞: 秦景记(女配，别小看女主)",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/11128/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-5e7008505668282fb9d3",
-        "ext-3256501674370569077"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/11128/index.html"
       ]
     }
   ]

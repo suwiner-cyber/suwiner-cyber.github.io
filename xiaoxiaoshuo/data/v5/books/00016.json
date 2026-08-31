@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-f705c8102fed8460000a",
+      "title": "鬼吹灯之牧野诡事",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.zwxiaoshuo.com/book-7224.html",
+      "source_host": "www.zwxiaoshuo.com",
+      "source_name": "滋味小说网",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T15:03:26+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f705c8102fed8460000a",
+        "ext-5498951702634488605"
+      ],
+      "read_sources": [
+        "https://www.zwxiaoshuo.com/book-7224.html"
+      ]
+    },
+    {
       "id": "ext-6d66eb4cd8e07187828d",
       "title": "鬼吹灯",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.1qxs.com/xs_1/67616.html"
-      ]
-    },
-    {
-      "id": "ext-f30eec584b2bc0f9a4de",
-      "title": "借腹",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.1qxs.com/img/default.png",
-      "source_url": "https://www.1qxs.com/xs_1/60735.html",
-      "source_host": "www.1qxs.com",
-      "source_name": "一七小说",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T15:02:52+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f30eec584b2bc0f9a4de",
-        "ext-134938125555332302"
-      ],
-      "read_sources": [
-        "https://www.1qxs.com/xs_1/60735.html"
       ]
     }
   ]

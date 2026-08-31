@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-6a498342766678f4bb75",
+      "title": "第46章 琐碎",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/tianjieyese/452001.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:10+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-6a498342766678f4bb75",
+        "ext-5791793876918845803"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/tianjieyese/452001.html"
+      ]
+    },
+    {
       "id": "ext-72c1aa55fc29e7ff06a5",
       "title": "第45章 礼物",
       "author": "",
@@ -4982,31 +5007,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450058.html"
-      ]
-    },
-    {
-      "id": "ext-a37f151e91d9f3fd56bb",
-      "title": "第六章 亲戚上门",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450154.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a37f151e91d9f3fd56bb",
-        "ext-4565175967989804952"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450154.html"
       ]
     }
   ]

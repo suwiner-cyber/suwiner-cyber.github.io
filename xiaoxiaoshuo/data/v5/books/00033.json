@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-08621800cd55beb761fb",
+      "title": "第122章 民国旧影6",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/dby81/459530.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 122,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:57+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-08621800cd55beb761fb",
+        "ext-3403309423283015558"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/dby81/459530.html"
+      ]
+    },
+    {
       "id": "ext-18b9b7f96e0733f75e28",
       "title": "第121章 民国旧影5",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/dby79/458398.html"
-      ]
-    },
-    {
-      "id": "ext-41b814f817f26e0c13ac",
-      "title": "第216章 被抱错的大小姐（完）",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dby79/458397.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 216,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:56+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-41b814f817f26e0c13ac",
-        "ext-1259905248958115322"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dby79/458397.html"
       ]
     }
   ]

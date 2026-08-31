@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-c945fe75d5e7de7676fa",
+      "title": "第218章 重返西安",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65256.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 218,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c945fe75d5e7de7676fa",
+        "ext-6091688129202975028"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65256.html"
+      ]
+    },
+    {
       "id": "ext-fa653306f0830cc5b614",
       "title": "第217章 出京",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/gnbk26/204300.html"
-      ]
-    },
-    {
-      "id": "ext-247df91ea41f7f01603d",
-      "title": "第37章 长期的…秘密的…不谈感情的",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/gnbk26/204299.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 37,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:38+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-247df91ea41f7f01603d",
-        "ext-7787169518433908649"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/gnbk26/204299.html"
       ]
     }
   ]

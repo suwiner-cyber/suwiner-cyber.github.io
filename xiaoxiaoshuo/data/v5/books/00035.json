@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-af7850820f87515fc6c2",
+      "title": "第43章 宣讲",
+      "author": "",
+      "kind": "",
+      "status": "已完结",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/hxshn91/485033.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:54+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-af7850820f87515fc6c2",
+        "ext-5713306844673083505"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/hxshn91/485033.html"
+      ]
+    },
+    {
       "id": "ext-b9d6a336ed61c783a680",
       "title": "第42章 创伤后应激",
       "author": "",
@@ -5357,31 +5382,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qianyaobaimei/481829.html"
-      ]
-    },
-    {
-      "id": "ext-de63c1371621d2a9c8a4",
-      "title": "没有头颅的幽灵",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481797.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:50+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-de63c1371621d2a9c8a4",
-        "ext-8203198538556393742"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qianyaobaimei/481797.html"
       ]
     }
   ]

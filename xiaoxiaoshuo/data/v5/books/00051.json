@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-2cdb0b52a14de41fa4ba",
+      "title": "莎士比亚: 第十二夜",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10355/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2cdb0b52a14de41fa4ba",
+        "ext-8064055068631603975"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10355/index.html"
+      ]
+    },
+    {
       "id": "ext-cd30772c5aec780f5596",
       "title": "莎士比亚: 科利奥兰纳斯",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book4/10449/index.html"
-      ]
-    },
-    {
-      "id": "ext-60a52b9bfe3579528882",
-      "title": "田东照: 卖官",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book4/10450/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-60a52b9bfe3579528882",
-        "ext-4737780263358750141"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10450/index.html"
       ]
     }
   ]

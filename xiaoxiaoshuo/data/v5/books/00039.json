@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-46ee619707a279b6f8c6",
+      "title": "第79章 你看你的笔",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/phbfshce/473556.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 79,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:45+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-46ee619707a279b6f8c6",
+        "ext-6531610498754864893"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/phbfshce/473556.html"
+      ]
+    },
+    {
       "id": "ext-0470b0af42fa6da4f2a6",
       "title": "第78章 是一种很难形容的感觉",
       "author": "",
@@ -5711,55 +5736,6 @@
         "https://www.kanunu8.com/book7/hxshn92/485181.html",
         "https://www.kanunu8.com/book5/yiouchun/80350.html",
         "https://www.kanunu8.com/book7/jinxiefang/449811.html"
-      ]
-    },
-    {
-      "id": "ext-f6aae126b7c8e983d59d",
-      "title": "第67章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171823.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171823.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/37999.html",
-        "https://www.kanunu8.com/book7/lmm04/464116.html",
-        "https://www.kanunu8.com/book7/75chyriji/463339.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481623.html",
-        "https://www.kanunu8.com/book7/hxshn92/485180.html",
-        "https://www.kanunu8.com/book5/yiouchun/80349.html",
-        "https://www.kanunu8.com/book7/jinxiefang/449810.html"
-      ],
-      "read_ids": [
-        "ext-f6aae126b7c8e983d59d",
-        "ext-5221668813641194824",
-        "ext-23cefc7f56f884c2be34",
-        "ext-244b2c5a5f8ccb60caff",
-        "ext-e31e72fed54e48e0edd3",
-        "ext-0e5a75686bdc493d1a06",
-        "ext-388d8cff8daffabd6d37",
-        "ext-489075a09feeec895719",
-        "ext-779cd7a20297dd622fd1"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171823.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/37999.html",
-        "https://www.kanunu8.com/book7/lmm04/464116.html",
-        "https://www.kanunu8.com/book7/75chyriji/463339.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481623.html",
-        "https://www.kanunu8.com/book7/hxshn92/485180.html",
-        "https://www.kanunu8.com/book5/yiouchun/80349.html",
-        "https://www.kanunu8.com/book7/jinxiefang/449810.html"
       ]
     }
   ]

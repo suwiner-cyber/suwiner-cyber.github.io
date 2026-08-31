@@ -1,6 +1,37 @@
 {
   "books": [
     {
+      "id": "ext-a5370405c7239e2448f8",
+      "title": "恐怖小说",
+      "author": "",
+      "kind": "武侠小说",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/terrorist/",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": true,
+      "indexed_at": "2026-08-30T03:12:45+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a5370405c7239e2448f8",
+        "ext-16993f614e8577347416"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/terrorist/"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/terrorist/"
+      ]
+    },
+    {
       "id": "ext-73f025fd0014faa557ed",
       "title": "科幻小说",
       "author": "",
@@ -6311,37 +6342,6 @@
       "read_ids": [
         "ext-cb410688d2da15da69dd",
         "ext-9bfb28182b63f6ff10b5"
-      ]
-    },
-    {
-      "id": "ext-c46cdfca8cfd1ee0cabb",
-      "title": "开局见神不坏，横推诡异八万里",
-      "author": "拳王阿李创作，作品开局见神不坏，横推诡异八万里章章动人，乐文小说为你第一时间提供",
-      "kind": "首页 > 都市言情 > 开局见神不坏，横推诡异八万里 > 开局见神不坏，横推诡异",
-      "status": "连载中",
-      "intro": "《开局见神不坏，横推诡异八万里》为作者拳王阿李创作，作品开局见神不坏，横推诡异八万里章章动人，乐文小说为你第一时间提供拳王阿李精心编写原创开局见神不坏，横推诡异八万里及无弹窗开局见神不坏，横推诡异八万里全文免费阅读、TXT下载。 简介:关于开局见神不坏，横推诡异八万里：穿越到鬼怪作乱，魔物横行，邪神窥视大地的恐怖世界之中。古之不详、禁忌存在从时光长河内逐渐苏醒。就在顾青以为自己会普通一辈子，然后在某次危险当中丧命之时。觉醒人生模拟系统！国术世界、武侠世界、修仙世界、末日世界、万族世界、玄幻世界...模拟人生结束后，所拥有的一切皆可兑换成真！当顾青进行千百次模拟游戏，叠加无数世界之中的积累后，哪怕是邪神也要为之颤栗！",
-      "cover": "https://img.ilwxs.com/82311/173657.jpg",
-      "source_url": "https://www.ilwxs.com/shu/82311/",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/shu/82311/"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/shu/82311/"
-      ],
-      "media": "text",
-      "chapter_count": 1796,
-      "last_chapter": "第1787章 原生七号样本",
-      "detail_complete": true,
-      "indexed_at": "2026-08-30T02:55:47+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c46cdfca8cfd1ee0cabb",
-        "ext-ff1b4cf927f7fc1ac959"
       ]
     }
   ]

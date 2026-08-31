@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-e1eaa1f7d2b2e37ad0c4",
+      "title": "第三十二章 威胁",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/dbsbfding/436704.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:01+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e1eaa1f7d2b2e37ad0c4",
+        "ext-4175296676319284437"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/dbsbfding/436704.html"
+      ]
+    },
+    {
       "id": "ext-7e7f0782756d344c1ff5",
       "title": "第三十九章 相谋",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/dby82/459919.html"
-      ]
-    },
-    {
-      "id": "ext-b2fa86c1fd4fc4632621",
-      "title": "第250章 从现代穿回民国5",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dby82/459918.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 250,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:58+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b2fa86c1fd4fc4632621",
-        "ext-8843751890613497332"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dby82/459918.html"
       ]
     }
   ]

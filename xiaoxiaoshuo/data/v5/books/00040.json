@@ -1,6 +1,55 @@
 {
   "books": [
     {
+      "id": "ext-f6aae126b7c8e983d59d",
+      "title": "第67章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171823.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171823.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/37999.html",
+        "https://www.kanunu8.com/book7/lmm04/464116.html",
+        "https://www.kanunu8.com/book7/75chyriji/463339.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481623.html",
+        "https://www.kanunu8.com/book7/hxshn92/485180.html",
+        "https://www.kanunu8.com/book5/yiouchun/80349.html",
+        "https://www.kanunu8.com/book7/jinxiefang/449810.html"
+      ],
+      "read_ids": [
+        "ext-f6aae126b7c8e983d59d",
+        "ext-5221668813641194824",
+        "ext-23cefc7f56f884c2be34",
+        "ext-244b2c5a5f8ccb60caff",
+        "ext-e31e72fed54e48e0edd3",
+        "ext-0e5a75686bdc493d1a06",
+        "ext-388d8cff8daffabd6d37",
+        "ext-489075a09feeec895719",
+        "ext-779cd7a20297dd622fd1"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171823.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/37999.html",
+        "https://www.kanunu8.com/book7/lmm04/464116.html",
+        "https://www.kanunu8.com/book7/75chyriji/463339.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481623.html",
+        "https://www.kanunu8.com/book7/hxshn92/485180.html",
+        "https://www.kanunu8.com/book5/yiouchun/80349.html",
+        "https://www.kanunu8.com/book7/jinxiefang/449810.html"
+      ]
+    },
+    {
       "id": "ext-53f3a514f2b65201ffc9",
       "title": "第66章",
       "author": "",
@@ -7019,31 +7068,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/laojiumen/416871.html"
-      ]
-    },
-    {
-      "id": "ext-fbcdecb75b43a5e3b22e",
-      "title": "第二十一章 雷山小过",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/laojiumen/416828.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:41+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-fbcdecb75b43a5e3b22e",
-        "ext-6098380755326595559"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/laojiumen/416828.html"
       ]
     }
   ]

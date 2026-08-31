@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-fe05770c53b3ca7b2346",
+      "title": "闫绍荣: 太阳底下最伟大的傻瓜",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/dushi/201106/2838.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-fe05770c53b3ca7b2346",
+        "ext-7358389023281041762"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/dushi/201106/2838.html"
+      ]
+    },
+    {
       "id": "ext-875787c9054f7b675116",
       "title": "金景波: 资本暗战",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book4/9188/index.html"
-      ]
-    },
-    {
-      "id": "ext-61496b92aee51504986d",
-      "title": "酷儿: 坏小子攻略1",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9187/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-61496b92aee51504986d",
-        "ext-661264530592718141"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9187/index.html"
       ]
     }
   ]
