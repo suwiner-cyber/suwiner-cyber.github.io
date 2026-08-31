@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-8e2491c8025fe9e14a70",
+      "title": "墨宝非宝: 一厘米的阳光",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/11027/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:32+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8e2491c8025fe9e14a70",
+        "ext-934206185022369488"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/11027/index.html"
+      ]
+    },
+    {
+      "id": "ext-98b09c5828200dbccc63",
+      "title": "唐七公子: 四幕戏",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/10885/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:32+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-98b09c5828200dbccc63",
+        "ext-7858625867092890409"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/10885/index.html"
+      ]
+    },
+    {
       "id": "ext-25ac28aa149e30d50922",
       "title": "唐七公子: 三生三世：枕上书",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/writer/1384.html"
-      ]
-    },
-    {
-      "id": "ext-0c95021565f4b3cdfc0d",
-      "title": "黄珍(易拉罐): 《天使只为星夜哭》番外",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/03-08-1903.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-0c95021565f4b3cdfc0d",
-        "ext-7131737043008424891"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/03-08-1903.html"
-      ]
-    },
-    {
-      "id": "ext-7a51dd5f5304fabc4f7e",
-      "title": "黄凌: 琵琶·久远·须臾",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2009/08-04-821.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7a51dd5f5304fabc4f7e",
-        "ext-1125088533301836545"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2009/08-04-821.html"
       ]
     }
   ]

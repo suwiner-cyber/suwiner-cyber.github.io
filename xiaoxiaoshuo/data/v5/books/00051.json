@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-e00299093b65038c0979",
+      "title": "番外三：梁成敏",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204403.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e00299093b65038c0979",
+        "ext-8795949539330264272"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204403.html"
+      ]
+    },
+    {
+      "id": "ext-cf1abcc12cab0ba693f1",
+      "title": "番外七：梁成敏",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204407.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-cf1abcc12cab0ba693f1",
+        "ext-5704490572572349853"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204407.html"
+      ]
+    },
+    {
       "id": "ext-26624396295a42a875da",
       "title": "番外一：梁成敏",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/sf/201106/2956.html"
-      ]
-    },
-    {
-      "id": "ext-ce10b68ce3de4417ea12",
-      "title": "长铗: 长铗中篇作品",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6486/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ce10b68ce3de4417ea12",
-        "ext-3903700057857240967"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6486/index.html"
-      ]
-    },
-    {
-      "id": "ext-15498e873df21d9d78bf",
-      "title": "郑文光: 飞向人马座",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6483/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-15498e873df21d9d78bf",
-        "ext-7789650791995343523"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6483/index.html"
       ]
     }
   ]

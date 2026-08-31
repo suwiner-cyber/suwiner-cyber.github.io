@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-6ccb735da678740a8627",
+      "title": "李兰妮: 旷野无人",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/dushi/201106/3106.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-6ccb735da678740a8627",
+        "ext-5416152825995237193"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/dushi/201106/3106.html"
+      ]
+    },
+    {
+      "id": "ext-323482d14e7e83e6a9ac",
+      "title": "李兰: 我是保姆",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/dushi/201106/3133.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-323482d14e7e83e6a9ac",
+        "ext-5902716603612304854"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/dushi/201106/3133.html"
+      ]
+    },
+    {
       "id": "ext-a17701f6424a2fbfe278",
       "title": "李兰: 以赌为生",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book4/10105/index.html"
-      ]
-    },
-    {
-      "id": "ext-e0a153ed312adecb4315",
-      "title": "宅小花: 早安，王子殿",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10125/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e0a153ed312adecb4315",
-        "ext-7255515617864003245"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10125/index.html"
-      ]
-    },
-    {
-      "id": "ext-fdeba78749376781eaf5",
-      "title": "宅小花: 捉王子有氧运动",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9358/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-fdeba78749376781eaf5",
-        "ext-4621862578450056974"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9358/index.html"
       ]
     }
   ]

@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-220ce10e868e1f2a39b2",
+      "title": "黄南丁氏: 杨乃武与小白菜",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2522.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-220ce10e868e1f2a39b2",
+        "ext-2854268473911202654"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2522.html"
+      ]
+    },
+    {
+      "id": "ext-aa8169351a3829ade780",
+      "title": "魏秀仁: 花月痕",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2556.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-aa8169351a3829ade780",
+        "ext-7621009210864273560"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2556.html"
+      ]
+    },
+    {
       "id": "ext-787b6197cd97f06f4b8c",
       "title": "驷溪云间子: 草木春秋演义",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/dushi/201103/1807.html"
-      ]
-    },
-    {
-      "id": "ext-6ccb735da678740a8627",
-      "title": "李兰妮: 旷野无人",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/dushi/201106/3106.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-6ccb735da678740a8627",
-        "ext-5416152825995237193"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/dushi/201106/3106.html"
-      ]
-    },
-    {
-      "id": "ext-323482d14e7e83e6a9ac",
-      "title": "李兰: 我是保姆",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/dushi/201106/3133.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-323482d14e7e83e6a9ac",
-        "ext-5902716603612304854"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/dushi/201106/3133.html"
       ]
     }
   ]

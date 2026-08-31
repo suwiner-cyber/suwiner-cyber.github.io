@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-e0a153ed312adecb4315",
+      "title": "宅小花: 早安，王子殿",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10125/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:27+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e0a153ed312adecb4315",
+        "ext-7255515617864003245"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10125/index.html"
+      ]
+    },
+    {
+      "id": "ext-fdeba78749376781eaf5",
+      "title": "宅小花: 捉王子有氧运动",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/9358/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:27+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-fdeba78749376781eaf5",
+        "ext-4621862578450056974"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/9358/index.html"
+      ]
+    },
+    {
       "id": "ext-fdd0939bf6e3cc17eb77",
       "title": "宅小花: 我的恶魔少主",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book4/10317/index.html"
-      ]
-    },
-    {
-      "id": "ext-6685e33878b47d1d6ef0",
-      "title": "丹尼尔·笛福: 鲁滨孙飘流记",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10201/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:25+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-6685e33878b47d1d6ef0",
-        "ext-7026687315809460008"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10201/index.html"
-      ]
-    },
-    {
-      "id": "ext-829ddffb8b9164fad78f",
-      "title": "J．R．沃勒: 漫漫长夜",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10252/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:25+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-829ddffb8b9164fad78f",
-        "ext-6336771432194571793"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10252/index.html"
       ]
     }
   ]

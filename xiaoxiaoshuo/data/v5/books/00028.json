@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-3542775cc7698e5e5aca",
+      "title": "方白羽作品集",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/writer/6363.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3542775cc7698e5e5aca",
+        "ext-4601342096439864844"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/writer/6363.html"
+      ]
+    },
+    {
+      "id": "ext-f12130ca94d8f393e13c",
+      "title": "第9章 人选",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/jinxiefang/449750.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:26+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f12130ca94d8f393e13c",
+        "ext-753546437290343118"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/jinxiefang/449750.html"
+      ]
+    },
+    {
       "id": "ext-492159572774c567074c",
       "title": "第8章 让芙儿兼祧",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/feiyingyouxi/456964.html"
-      ]
-    },
-    {
-      "id": "ext-6c7bd64673a2fdb7b3c1",
-      "title": "27. 非赢游戏",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/feiyingyouxi/456988.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:22+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-6c7bd64673a2fdb7b3c1",
-        "ext-4745792320356542190"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/feiyingyouxi/456988.html"
-      ]
-    },
-    {
-      "id": "ext-f84db5a35b9bfb368c14",
-      "title": "26. 野人佩花，尸骨无存",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/feiyingyouxi/456987.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:22+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f84db5a35b9bfb368c14",
-        "ext-5619523128170541989"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/feiyingyouxi/456987.html"
       ]
     }
   ]
