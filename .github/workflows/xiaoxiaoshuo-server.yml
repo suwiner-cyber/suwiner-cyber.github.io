@@ -1,0 +1,33 @@
+name: XiaoXiaoShuo Server Package
+
+on:
+  push:
+    branches: [xiaoxiaoshuo-native-rebuild]
+    paths:
+      - 'xiaoxiaoshuo-server/**'
+      - '.github/workflows/xiaoxiaoshuo-server.yml'
+  workflow_dispatch:
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: PHP syntax check
+        shell: bash
+        run: |
+          set -euxo pipefail
+          php -l xiaoxiaoshuo-server/bootstrap.php
+          php -l xiaoxiaoshuo-server/api.php
+          php -l xiaoxiaoshuo-server/admin.php
+      - name: Package deployable server
+        shell: bash
+        run: |
+          set -euxo pipefail
+          mkdir -p out
+          zip -r out/xiaoxiaoshuo-server-v1.0.0.zip xiaoxiaoshuo-server -x '*/data/*'
+      - uses: actions/upload-artifact@v4
+        with:
+          name: xiaoxiaoshuo-server-deploy
+          path: out/xiaoxiaoshuo-server-v1.0.0.zip
+          if-no-files-found: error
