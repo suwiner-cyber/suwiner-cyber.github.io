@@ -1,0 +1,23 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.xiaoxiaoshuo.reader'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'com.xiaoxiaoshuo.reader'
+        minSdk 24
+        targetSdk 35
+        versionCode 10000
+        versionName '10.0.0'
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            shrinkResources false
+        }
+    }
+}
