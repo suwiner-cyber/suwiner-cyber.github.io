@@ -1,56 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-02d7083898031071081e",
-      "title": "追寻青春梦 秦念",
-      "author": "沐雨漫希",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2021/09/09/15/23/770b6076302c4d8da7339d0f959beb44_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/889565",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-02d7083898031071081e",
-        "ext-5095014221054964907"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/889565"
-      ]
-    },
-    {
-      "id": "ext-22fe673d259f24076730",
-      "title": "西游记后记 曲东杰",
-      "author": "一念茫然",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2025/12/24/11/41/0182abaa96b04a28b4eab2e466135434_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/954422",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-22fe673d259f24076730",
-        "ext-7328253954334810623"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/954422"
-      ]
-    },
-    {
       "id": "ext-aba419abb4318f23a54a",
       "title": "血色芭蕾 微醺的夏天",
       "author": "一念茫然",
@@ -5062,6 +5012,54 @@
       ],
       "read_sources": [
         "https://ixdzs8.com/read/636988/"
+      ]
+    },
+    {
+      "id": "ix-625551",
+      "title": "莽荒尘寰录",
+      "author": "鬼新魔刀",
+      "kind": "玄幻奇幻",
+      "status": "连载中",
+      "intro": "少年陈玄，身居边陲黑山城，一介散修之子，资质中庸在五年一度的测灵仪式上，仅得三纹评价，前路仿佛已被注定——于贫瘠与危险中挣扎，终老于低微之境",
+      "cover": "https://img22.ixdzs.com/ce/81/ce818d3e45255476da3e473323654adc.jpg",
+      "source_url": "https://ixdzs8.com/read/625551/",
+      "source_host": "ixdzs8.com",
+      "source_name": "爱下电子书",
+      "media": "text",
+      "chapter_count": 253,
+      "last_chapter": "第253章",
+      "word_count_wan": 63.98,
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:52:20+00:00",
+      "read_ids": [
+        "ix-625551"
+      ],
+      "read_sources": [
+        "https://ixdzs8.com/read/625551/"
+      ]
+    },
+    {
+      "id": "ix-618459",
+      "title": "聚灵仙瓶：从杂役到仙帝",
+      "author": "人如其名",
+      "kind": "玄幻奇幻",
+      "status": "连载中",
+      "intro": "秦宁出身微末，自幼便是燕城姜家的一名奴仆，跟着大小姐姜嫣然加入了紫霄宗，成为了杂役弟子，他偶然获得了一个聚灵仙瓶，任何东西只要放进去，竟都能变废为宝。瓶中更有无限灵液任他吸收，一滴可抵百枚灵石。他的崛起，由此开始……",
+      "cover": "https://img22.ixdzs.com/14/0e/140e66a72c0a5edaf6fa257fb7e82804.jpg",
+      "source_url": "https://ixdzs8.com/read/618459/",
+      "source_host": "ixdzs8.com",
+      "source_name": "爱下电子书",
+      "media": "text",
+      "chapter_count": 795,
+      "last_chapter": "第795章",
+      "word_count_wan": 181.96,
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:52:20+00:00",
+      "read_ids": [
+        "ix-618459"
+      ],
+      "read_sources": [
+        "https://ixdzs8.com/read/618459/"
       ]
     }
   ]
