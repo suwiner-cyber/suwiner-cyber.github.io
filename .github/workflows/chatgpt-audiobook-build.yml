@@ -42,15 +42,15 @@ jobs:
           keytool -genkeypair -v -keystore /tmp/lingyue-release.jks -storepass LingYue2026 -keypass LingYue2026 -alias lingyue -keyalg RSA -keysize 2048 -validity 10000 -dname 'CN=LingYue, OU=Android, O=Suwiner, L=Tokyo, ST=Tokyo, C=JP'
           APKSIGNER=$(find "$ANDROID_HOME/build-tools" -type f -name apksigner | sort -V | tail -1)
           test -x "$APKSIGNER"
-          "$APKSIGNER" sign --ks /tmp/lingyue-release.jks --ks-key-alias lingyue --ks-pass pass:LingYue2026 --key-pass pass:LingYue2026 --out LingYue-Audiobook-v1.0.0.apk "$UNSIGNED"
-          "$APKSIGNER" verify --verbose LingYue-Audiobook-v1.0.0.apk
-          test -s LingYue-Audiobook-v1.0.0.apk
-          sha256sum LingYue-Audiobook-v1.0.0.apk
+          "$APKSIGNER" sign --ks /tmp/lingyue-release.jks --ks-key-alias lingyue --ks-pass pass:LingYue2026 --key-pass pass:LingYue2026 --out LingYue-Audiobook-v1.0.1.apk "$UNSIGNED"
+          "$APKSIGNER" verify --verbose LingYue-Audiobook-v1.0.1.apk
+          test -s LingYue-Audiobook-v1.0.1.apk
+          sha256sum LingYue-Audiobook-v1.0.1.apk
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
-          name: LingYue-Audiobook-v1.0.0
-          path: LingYue-Audiobook-v1.0.0.apk
+          name: LingYue-Audiobook-v1.0.1
+          path: LingYue-Audiobook-v1.0.1.apk
           if-no-files-found: error
           retention-days: 7
