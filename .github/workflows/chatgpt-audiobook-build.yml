@@ -55,3 +55,5 @@ jobs:
           path: LingYue-Audiobook-v1.0.0.apk
           if-no-files-found: error
           retention-days: 7
+
+# Triggered after the workflow file exists on the isolated build branch.
