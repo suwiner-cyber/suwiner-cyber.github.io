@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-3e8aa8ef0183048bd359",
+      "title": "无罪: 剑王朝",
+      "author": "",
+      "kind": "",
+      "status": "已完结",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/11117/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:31+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3e8aa8ef0183048bd359",
+        "ext-4378153477060758895"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/11117/index.html"
+      ]
+    },
+    {
+      "id": "ext-b28514a1e439a9f5f81f",
+      "title": "无极: 邪仙4",
+      "author": "",
+      "kind": "",
+      "status": "已完结",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/7971/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:31+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b28514a1e439a9f5f81f",
+        "ext-823286783380393162"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/7971/index.html"
+      ]
+    },
+    {
       "id": "ext-2e0ebc73482ca74ca8a6",
       "title": "无极: 邪仙3",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/01-16-1166.html"
-      ]
-    },
-    {
-      "id": "ext-c22e399bfac3523e2ee2",
-      "title": "乐小米(纪伟娜): 烟花烫",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1150.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c22e399bfac3523e2ee2",
-        "ext-3938535822934900265"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-16-1150.html"
-      ]
-    },
-    {
-      "id": "ext-05df28ca8f0b38e5ad24",
-      "title": "乐小米(纪伟娜): 温暖青城梦",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1161.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-05df28ca8f0b38e5ad24",
-        "ext-3952760616008607402"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-16-1161.html"
       ]
     }
   ]

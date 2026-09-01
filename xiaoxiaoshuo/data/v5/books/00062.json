@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-43222f7a5ebca8e5bb21",
+      "title": "可蕊: 奇幻旅途",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/8540/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-43222f7a5ebca8e5bb21",
+        "ext-6810112539371533545"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/8540/index.html"
+      ]
+    },
+    {
+      "id": "ext-a77e3eafa79627852120",
+      "title": "凯丝·莱克斯: 骨头在说话",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10087/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a77e3eafa79627852120",
+        "ext-3281964668485368114"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10087/index.html"
+      ]
+    },
+    {
       "id": "ext-c49bd71c9f3a99fc407b",
       "title": "凯丝·莱克斯: 看，死亡的颜色",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book3/6044/index.html"
-      ]
-    },
-    {
-      "id": "ext-d3eb54dae73eba9c13db",
-      "title": "雷蒙·E·费斯特: 魔法师(时空裂隙之战)后传：血之皇子",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6045/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d3eb54dae73eba9c13db",
-        "ext-7928224912628198273"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6045/index.html"
-      ]
-    },
-    {
-      "id": "ext-ed4b6d48a985bb19c659",
-      "title": "遥控: 九州·终末之章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6778/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ed4b6d48a985bb19c659",
-        "ext-8349614547443808758"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6778/index.html"
       ]
     }
   ]

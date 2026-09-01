@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-c22e399bfac3523e2ee2",
+      "title": "乐小米(纪伟娜): 烟花烫",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1150.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c22e399bfac3523e2ee2",
+        "ext-3938535822934900265"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-16-1150.html"
+      ]
+    },
+    {
+      "id": "ext-05df28ca8f0b38e5ad24",
+      "title": "乐小米(纪伟娜): 温暖青城梦",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1161.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-05df28ca8f0b38e5ad24",
+        "ext-3952760616008607402"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-16-1161.html"
+      ]
+    },
+    {
       "id": "ext-88b5aa8c70b0658621af",
       "title": "乐小米(纪伟娜): 深深深呼吸",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/dushi/201107/3231.html"
-      ]
-    },
-    {
-      "id": "ext-58cbae0b70b1f6984766",
-      "title": "苏小懒: 流经存在的邂逅",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/dushi/201107/3228.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-58cbae0b70b1f6984766",
-        "ext-5491648914458009604"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/dushi/201107/3228.html"
-      ]
-    },
-    {
-      "id": "ext-11bd7e44869a6bebfd8c",
-      "title": "苏小懒: 如果你曾奋不顾身爱上一个人",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/10959/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-11bd7e44869a6bebfd8c",
-        "ext-836472036948200263"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/10959/index.html"
       ]
     }
   ]

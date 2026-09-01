@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-a874f21f9ad7e24dfa68",
+      "title": "流潋紫: 后宫·如懿传4",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10673/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:32+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a874f21f9ad7e24dfa68",
+        "ext-7294713895719854820"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10673/index.html"
+      ]
+    },
+    {
+      "id": "ext-89922bcbfcf4dbe6ebd6",
+      "title": "流潋紫: 后宫·如懿传3",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10513/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:32+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-89922bcbfcf4dbe6ebd6",
+        "ext-317570813206194870"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10513/index.html"
+      ]
+    },
+    {
       "id": "ext-432995e04c5f9b89892c",
       "title": "流潋紫: 后宫·如懿传2",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/yuanchuang/201102/1381.html"
-      ]
-    },
-    {
-      "id": "ext-3e8aa8ef0183048bd359",
-      "title": "无罪: 剑王朝",
-      "author": "",
-      "kind": "",
-      "status": "已完结",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/11117/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:31+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-3e8aa8ef0183048bd359",
-        "ext-4378153477060758895"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/11117/index.html"
-      ]
-    },
-    {
-      "id": "ext-b28514a1e439a9f5f81f",
-      "title": "无极: 邪仙4",
-      "author": "",
-      "kind": "",
-      "status": "已完结",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/7971/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:31+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b28514a1e439a9f5f81f",
-        "ext-823286783380393162"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/7971/index.html"
       ]
     }
   ]
