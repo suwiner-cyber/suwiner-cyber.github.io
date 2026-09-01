@@ -8,10 +8,10 @@ android {
 
     defaultConfig {
         applicationId 'com.xiaoxiaoshuo.reader'
-        minSdk 24
-        targetSdk 35
-        versionCode 10000
-        versionName '10.0.0'
+        minSdk 23
+        targetSdk 29
+        versionCode 10001
+        versionName '10.0.1'
     }
 
     buildTypes {
