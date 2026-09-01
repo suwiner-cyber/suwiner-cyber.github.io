@@ -13,6 +13,8 @@ public final class HotBookLoader {
     public static void load(Context c, Callback cb){
         List<LegacyDexBridge.BookResult> cached=readCache(c);
         if(!cached.isEmpty())cb.onLoaded(cached);
+        long updated=c.getSharedPreferences("hot_books",Context.MODE_PRIVATE).getLong("updated",0L);
+        if(!cached.isEmpty()&&System.currentTimeMillis()-updated<6L*60L*60L*1000L)return;
         new Thread(()->{List<LegacyDexBridge.BookResult> fresh=refresh(c);if(!fresh.isEmpty()){writeCache(c,fresh);cb.onLoaded(fresh);}}).start();
     }
 
@@ -34,7 +36,13 @@ public final class HotBookLoader {
                             List<LegacyDexBridge.Chapter> chapters=LegacyDexBridge.get(c).loadCatalog(b);
                             if(chapters==null||chapters.size()<20)continue;
                             if(!CoverLoader.probe(b.coverUrl,b.bookUrl.length()>0?b.bookUrl:b.sourceUrl,b.sourceJson))continue;
-                            hit=b;OfflineBookCache.saveBook(c,b,chapters);break;
+                            LegacyDexBridge.Chapter first=chapters.get(0),last=chapters.get(chapters.size()-1);
+                            String firstText=LegacyDexBridge.get(c).loadChapter(b.sourceJson,first.name,first.url);
+                            if(firstText==null||firstText.trim().length()<80)continue;
+                            String lastText=LegacyDexBridge.get(c).loadChapter(b.sourceJson,last.name,last.url);
+                            if(lastText==null||lastText.trim().length()<40)continue;
+                            OfflineBookCache.saveBook(c,b,chapters);OfflineBookCache.putChapter(c,b.title,0,first.url,firstText);OfflineBookCache.putChapter(c,b.title,chapters.size()-1,last.url,lastText);
+                            hit=b;break;
                         }
                     }catch(Throwable ignored){}
                     if(hit!=null)break;
@@ -46,12 +54,6 @@ public final class HotBookLoader {
     }
 
     private static String norm(String s){return s==null?"":s.replace(" ","").replace("《","").replace("》","").toLowerCase(Locale.ROOT);}
-    private static void writeCache(Context c,List<LegacyDexBridge.BookResult> list){
-        try{JSONArray a=new JSONArray();for(LegacyDexBridge.BookResult b:list){JSONObject o=new JSONObject();o.put("title",b.title);o.put("author",b.author);o.put("intro",b.intro);o.put("cover",b.coverUrl);o.put("bookUrl",b.bookUrl);o.put("sourceName",b.sourceName);o.put("sourceUrl",b.sourceUrl);o.put("sourceJson",b.sourceJson);a.put(o);}c.getSharedPreferences("hot_books",Context.MODE_PRIVATE).edit().putString("items",a.toString()).putLong("updated",System.currentTimeMillis()).apply();}catch(Throwable ignored){}
-    }
-    private static List<LegacyDexBridge.BookResult> readCache(Context c){
-        ArrayList<LegacyDexBridge.BookResult> out=new ArrayList<>();
-        try{SharedPreferences p=c.getSharedPreferences("hot_books",Context.MODE_PRIVATE);String raw=p.getString("items","[]");JSONArray a=new JSONArray(raw);for(int i=0;i<a.length();i++){JSONObject o=a.optJSONObject(i);if(o==null)continue;LegacyDexBridge.BookResult b=new LegacyDexBridge.BookResult();b.title=o.optString("title");b.author=o.optString("author");b.intro=o.optString("intro");b.coverUrl=o.optString("cover");b.bookUrl=o.optString("bookUrl");b.sourceName=o.optString("sourceName");b.sourceUrl=o.optString("sourceUrl");b.sourceJson=o.optString("sourceJson");if(b.title.length()>0&&b.coverUrl.length()>0)out.add(b);}}catch(Throwable ignored){}
-        return out;
-    }
+    private static void writeCache(Context c,List<LegacyDexBridge.BookResult> list){try{JSONArray a=new JSONArray();for(LegacyDexBridge.BookResult b:list){JSONObject o=new JSONObject();o.put("title",b.title);o.put("author",b.author);o.put("intro",b.intro);o.put("cover",b.coverUrl);o.put("bookUrl",b.bookUrl);o.put("sourceName",b.sourceName);o.put("sourceUrl",b.sourceUrl);o.put("sourceJson",b.sourceJson);a.put(o);}c.getSharedPreferences("hot_books",Context.MODE_PRIVATE).edit().putString("items",a.toString()).putLong("updated",System.currentTimeMillis()).apply();}catch(Throwable ignored){}}
+    private static List<LegacyDexBridge.BookResult> readCache(Context c){ArrayList<LegacyDexBridge.BookResult> out=new ArrayList<>();try{SharedPreferences p=c.getSharedPreferences("hot_books",Context.MODE_PRIVATE);String raw=p.getString("items","[]");JSONArray a=new JSONArray(raw);for(int i=0;i<a.length();i++){JSONObject o=a.optJSONObject(i);if(o==null)continue;LegacyDexBridge.BookResult b=new LegacyDexBridge.BookResult();b.title=o.optString("title");b.author=o.optString("author");b.intro=o.optString("intro");b.coverUrl=o.optString("cover");b.bookUrl=o.optString("bookUrl");b.sourceName=o.optString("sourceName");b.sourceUrl=o.optString("sourceUrl");b.sourceJson=o.optString("sourceJson");if(b.title.length()>0&&b.coverUrl.length()>0&&OfflineBookCache.hasBook(c,b.title))out.add(b);}}catch(Throwable ignored){}return out;}
 }
