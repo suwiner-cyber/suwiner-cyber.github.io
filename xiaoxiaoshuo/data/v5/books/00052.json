@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-d9cbfa365d8cfb4dc8fd",
+      "title": "第25章 徘徊",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65063.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 25,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d9cbfa365d8cfb4dc8fd",
+        "ext-4187358637797637478"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65063.html"
+      ]
+    },
+    {
       "id": "ext-5d0dfecd8c80335b985d",
       "title": "第259章 挑明",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/gnbk26/204269.html"
-      ]
-    },
-    {
-      "id": "ext-0d2d1ad8cb2ed7ebe6bd",
-      "title": "第79章 时间",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/gnbk26/204342.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 48,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:38+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-0d2d1ad8cb2ed7ebe6bd",
-        "ext-2622480401321456554"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/gnbk26/204342.html"
       ]
     }
   ]

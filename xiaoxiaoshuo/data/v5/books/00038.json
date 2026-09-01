@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-ac48741836d0c85a8d5e",
+      "title": "第二十一章 父子",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450251.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ac48741836d0c85a8d5e",
+        "ext-3727585799019245053"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450251.html"
+      ]
+    },
+    {
       "id": "ext-c02f150a49ad3e61b085",
       "title": "第二十一章 暴雨中",
       "author": "",
@@ -5006,31 +5031,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/ttcbuzhu/48191.html"
-      ]
-    },
-    {
-      "id": "ext-0b7b72026cbfbc80637c",
-      "title": "第60章 藏不住",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/ttcbuzhu/48190.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 60,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:06+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-0b7b72026cbfbc80637c",
-        "ext-9082962002335785347"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/ttcbuzhu/48190.html"
       ]
     }
   ]

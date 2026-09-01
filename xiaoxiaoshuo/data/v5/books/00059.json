@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-7647628cd35944bfabe9",
+      "title": "吴元泰: 东游记",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/1594.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-7647628cd35944bfabe9",
+        "ext-5194165831359116265"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/1594.html"
+      ]
+    },
+    {
       "id": "ext-5377edb6387a076d29e5",
       "title": "名教中人: 好逑传",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book4/9201/index.html"
-      ]
-    },
-    {
-      "id": "ext-1232821dae7425b9ec49",
-      "title": "黄珍: 鲜女孩的甜蜜日记1",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9200/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1232821dae7425b9ec49",
-        "ext-2272784287957557263"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9200/index.html"
       ]
     }
   ]

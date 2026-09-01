@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-bad02c94db2a8c0faba5",
+      "title": "丁墨: 乌云遇皎月",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/11107/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:32+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-bad02c94db2a8c0faba5",
+        "ext-5403800268547064217"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/11107/index.html"
+      ]
+    },
+    {
       "id": "ext-073f89872f39c38135d6",
       "title": "一碗麻辣烫: 热搜女王",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/03-21-2300.html"
-      ]
-    },
-    {
-      "id": "ext-53024e7f22ec3aebb41e",
-      "title": "步非烟: 人人都想成为加里格兰特，包括我自己",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/03-21-2298.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-53024e7f22ec3aebb41e",
-        "ext-2417204562679735692"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/03-21-2298.html"
       ]
     }
   ]

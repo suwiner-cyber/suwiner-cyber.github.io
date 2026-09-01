@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-0b7b72026cbfbc80637c",
+      "title": "第60章 藏不住",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/ttcbuzhu/48190.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 60,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:06+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-0b7b72026cbfbc80637c",
+        "ext-9082962002335785347"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/ttcbuzhu/48190.html"
+      ]
+    },
+    {
       "id": "ext-1800f9275bf6884d928c",
       "title": "第5章 偷偷",
       "author": "",
@@ -5120,31 +5145,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/dbsbfding/436714.html"
-      ]
-    },
-    {
-      "id": "ext-3e1e429c7617614b1763",
-      "title": "第四十九章 “转机”",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dbsbfding/436721.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:01+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-3e1e429c7617614b1763",
-        "ext-681578417433866558"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dbsbfding/436721.html"
       ]
     }
   ]

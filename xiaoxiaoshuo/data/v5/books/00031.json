@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-416baa3c3c080c3cc3d0",
+      "title": "第01章 典妾",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/dianqie/456633.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-416baa3c3c080c3cc3d0",
+        "ext-6841455028139819814"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/dianqie/456633.html"
+      ]
+    },
+    {
       "id": "ext-f35d127f32e060e790a2",
       "title": "校园if线 那么喜欢",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/houmen/452533.html"
-      ]
-    },
-    {
-      "id": "ext-17971f38811825d2f744",
-      "title": "第46章 破例",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/houmen/452532.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:21+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-17971f38811825d2f744",
-        "ext-3635716571769251945"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/houmen/452532.html"
       ]
     }
   ]

@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-b920fc7666ccdb0eee39",
+      "title": "第十章 黑毛漆棺",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/laojiumen/416817.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:41+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b920fc7666ccdb0eee39",
+        "ext-6567990838997564559"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/laojiumen/416817.html"
+      ]
+    },
+    {
       "id": "ext-4a3df5a0184c8dad75cc",
       "title": "第十章 天冷",
       "author": "",
@@ -4979,31 +5004,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65298.html"
-      ]
-    },
-    {
-      "id": "ext-d9cbfa365d8cfb4dc8fd",
-      "title": "第25章 徘徊",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65063.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 25,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d9cbfa365d8cfb4dc8fd",
-        "ext-4187358637797637478"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65063.html"
       ]
     }
   ]

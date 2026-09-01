@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-bd2c6c34e97b08ee8688",
+      "title": "彼埃尔·布勒: 升华",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/7735/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-bd2c6c34e97b08ee8688",
+        "ext-3780922346325728161"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/7735/index.html"
+      ]
+    },
+    {
       "id": "ext-aed6dee5c14326adb9b8",
       "title": "彼埃尔·布勒: E＝MC2或一个思想的故事",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book4/10594/index.html"
-      ]
-    },
-    {
-      "id": "ext-cadea1dbbaa41b9a7332",
-      "title": "R·A·萨尔瓦多: 牧师五部曲3: 影夜假面",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10593/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-cadea1dbbaa41b9a7332",
-        "ext-8533881160435446695"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10593/index.html"
       ]
     }
   ]

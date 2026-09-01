@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-b9382889ff07c89e4c43",
+      "title": "阿瑟·黑利: 08跑道",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10145/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b9382889ff07c89e4c43",
+        "ext-6539397815724803482"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10145/index.html"
+      ]
+    },
+    {
       "id": "ext-dc11ad64cc1e914c5e09",
       "title": "阿尔弗里·缪塞: 缪塞诗选",
       "author": "",
@@ -5015,31 +5040,6 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/737706"
-      ]
-    },
-    {
-      "id": "ext-19d87ce17fa1e0e61a25",
-      "title": "网游之我的职业是财主 陈呆毛",
-      "author": "命给你行不行",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2023/07/07/11/11/b772781809574cebb5fc4e1134946810_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/766931",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:43+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-19d87ce17fa1e0e61a25",
-        "ext-419458533092932631"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/766931"
       ]
     }
   ]

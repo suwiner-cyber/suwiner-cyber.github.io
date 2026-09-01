@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-4ef0d98c58e64e918792",
+      "title": "第128章 算账",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/xinpin/450042.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 128,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:18+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4ef0d98c58e64e918792",
+        "ext-3261205315008894271"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/xinpin/450042.html"
+      ]
+    },
+    {
       "id": "ext-852a65c045053b864763",
       "title": "第127章 归程",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/mangjia/450783.html"
-      ]
-    },
-    {
-      "id": "ext-e6749f11ce56c5eea5ce",
-      "title": "大结局 端水大师",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/mangjia/450782.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:16+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e6749f11ce56c5eea5ce",
-        "ext-2063728759289564574"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/mangjia/450782.html"
       ]
     }
   ]

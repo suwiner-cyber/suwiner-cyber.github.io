@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-164a653766a4d87b30f5",
+      "title": "踏枝",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.1qxs.com/xs_1/39873.html",
+      "source_host": "www.1qxs.com",
+      "source_name": "一七小说",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T15:02:37+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-164a653766a4d87b30f5",
+        "ext-7286582969705374729"
+      ],
+      "read_sources": [
+        "https://www.1qxs.com/xs_1/39873.html"
+      ]
+    },
+    {
       "id": "ext-6bcae4c628e546d1ffc3",
       "title": "臻璇",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.1qxs.com/xs_1/92114.html"
-      ]
-    },
-    {
-      "id": "ext-d63af0905a3f7cc05a56",
-      "title": "倚天崆峒掌派人",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.1qxs.com/xs_1/97999.html",
-      "source_host": "www.1qxs.com",
-      "source_name": "一七小说",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T15:02:05+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d63af0905a3f7cc05a56",
-        "ext-8006995815216511804"
-      ],
-      "read_sources": [
-        "https://www.1qxs.com/xs_1/97999.html"
       ]
     }
   ]

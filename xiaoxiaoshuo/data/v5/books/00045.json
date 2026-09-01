@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-9449447ba6028f2c1721",
+      "title": "第85章 律法之古今",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/hxshn91/485075.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 85,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:54+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9449447ba6028f2c1721",
+        "ext-3838105367829024069"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/hxshn91/485075.html"
+      ]
+    },
+    {
       "id": "ext-087bc71e4c3cbdacb29d",
       "title": "第84章 律法之古今",
       "author": "",
@@ -5357,31 +5382,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qianyaobaimei/481811.html"
-      ]
-    },
-    {
-      "id": "ext-8e79bc09fe13dc5c6b73",
-      "title": "首牢村的来信",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481796.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:50+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-8e79bc09fe13dc5c6b73",
-        "ext-4950168445861601198"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qianyaobaimei/481796.html"
       ]
     }
   ]

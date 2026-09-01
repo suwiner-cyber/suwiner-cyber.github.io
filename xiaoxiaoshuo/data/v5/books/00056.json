@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-cadea1dbbaa41b9a7332",
+      "title": "R·A·萨尔瓦多: 牧师五部曲3: 影夜假面",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10593/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:34+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-cadea1dbbaa41b9a7332",
+        "ext-8533881160435446695"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10593/index.html"
+      ]
+    },
+    {
       "id": "ext-a139077ecb53d70600dc",
       "title": "R·A·萨尔瓦多: 牧师五部曲1: 黑暗颂歌",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book2/11104/index.html"
-      ]
-    },
-    {
-      "id": "ext-bad02c94db2a8c0faba5",
-      "title": "丁墨: 乌云遇皎月",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/11107/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-bad02c94db2a8c0faba5",
-        "ext-5403800268547064217"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/11107/index.html"
       ]
     }
   ]
