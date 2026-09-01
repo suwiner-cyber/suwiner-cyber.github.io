@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T12:32:16+00:00",
+  "generated_at": "2026-09-01T12:33:37+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -1235,6 +1235,36 @@
       "time": "2026-09-01T06:49:37+00:00",
       "source": "塔读文学",
       "url": "https://www.tadu.com/book/847720/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-01T12:32:37+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=446701",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-01T12:32:38+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=427247",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-01T12:32:43+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=428691",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-01T12:32:54+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=434102",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-01T12:32:59+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=428538",
       "error": "HTTP Error 404: Not Found"
     }
   ]
