@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-f2eb4ff050f2432e554d",
+      "title": "辛夷坞: 致我们终将逝去的青春",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10237/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f2eb4ff050f2432e554d",
+        "ext-7302523803609282597"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10237/index.html"
+      ]
+    },
+    {
+      "id": "ext-4d43e5c307fc86a19c43",
+      "title": "赵迪: 基金经理",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/dushi/201107/3240.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4d43e5c307fc86a19c43",
+        "ext-5091938177948702341"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/dushi/201107/3240.html"
+      ]
+    },
+    {
       "id": "ext-29c51f98c8ba0cec8137",
       "title": "赵宇: 偷窥日记",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book4/9290/index.html"
-      ]
-    },
-    {
-      "id": "ext-314004458b025bff17bc",
-      "title": "草莓多: 爱在花藤下",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10123/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-314004458b025bff17bc",
-        "ext-2398514103018178391"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10123/index.html"
-      ]
-    },
-    {
-      "id": "ext-5a8f291f4757075e9c39",
-      "title": "罗相万: 爱的语法",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/9289/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-5a8f291f4757075e9c39",
-        "ext-1906674594949522414"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/9289/index.html"
       ]
     }
   ]

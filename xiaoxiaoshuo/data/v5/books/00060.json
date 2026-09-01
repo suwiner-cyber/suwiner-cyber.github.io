@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-5565e67c844fe225a6b1",
+      "title": "桐华: 步步为营",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/yuanchuang/201102/1422.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:31+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-5565e67c844fe225a6b1",
+        "ext-1936501435721096561"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/yuanchuang/201102/1422.html"
+      ]
+    },
+    {
+      "id": "ext-7d8e95349e454f6575e8",
+      "title": "桐华: 曾许诺(天籁传奇·桃花策)试阅本",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/yuanchuang/201102/1426.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:31+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-7d8e95349e454f6575e8",
+        "ext-8046459188958999916"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/yuanchuang/201102/1426.html"
+      ]
+    },
+    {
       "id": "ext-b0c5ff7ff4cf766114b1",
       "title": "桐华: 曼陀罗华之楼兰新娘",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2008/06-16-734.html"
-      ]
-    },
-    {
-      "id": "ext-10f2405ac0ce4922c3c4",
-      "title": "乐小米: 属于我自己的《凉生3》",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2008/06-16-735.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-10f2405ac0ce4922c3c4",
-        "ext-4954794438524198991"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2008/06-16-735.html"
-      ]
-    },
-    {
-      "id": "ext-ecbe701d312a8bcaedda",
-      "title": "乐小米: 如果百褶裙偷偷哭泣",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2008/06-16-733.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ecbe701d312a8bcaedda",
-        "ext-4390649267216411797"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2008/06-16-733.html"
       ]
     }
   ]

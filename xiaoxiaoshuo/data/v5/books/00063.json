@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-314004458b025bff17bc",
+      "title": "草莓多: 爱在花藤下",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10123/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:27+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-314004458b025bff17bc",
+        "ext-2398514103018178391"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10123/index.html"
+      ]
+    },
+    {
+      "id": "ext-5a8f291f4757075e9c39",
+      "title": "罗相万: 爱的语法",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/9289/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:27+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-5a8f291f4757075e9c39",
+        "ext-1906674594949522414"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/9289/index.html"
+      ]
+    },
+    {
       "id": "ext-7df6a7563fb9cb8d0138",
       "title": "米米拉: 绯闻一号公馆",
       "author": "",
@@ -4990,56 +5040,6 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/955986"
-      ]
-    },
-    {
-      "id": "ext-02d7083898031071081e",
-      "title": "追寻青春梦 秦念",
-      "author": "沐雨漫希",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2021/09/09/15/23/770b6076302c4d8da7339d0f959beb44_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/889565",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-02d7083898031071081e",
-        "ext-5095014221054964907"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/889565"
-      ]
-    },
-    {
-      "id": "ext-22fe673d259f24076730",
-      "title": "西游记后记 曲东杰",
-      "author": "一念茫然",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2025/12/24/11/41/0182abaa96b04a28b4eab2e466135434_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/954422",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-22fe673d259f24076730",
-        "ext-7328253954334810623"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/954422"
       ]
     }
   ]
