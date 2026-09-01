@@ -5,7 +5,7 @@ on:
     branches:
       - chatgpt-audiobook-build-20260901
     paths:
-      - 'chatgpt-audiobook-project.tar.gz.b64'
+      - 'audiobook-lite/**'
       - '.github/workflows/chatgpt-audiobook-build.yml'
   workflow_dispatch:
 
@@ -31,19 +31,13 @@ jobs:
         with:
           gradle-version: '8.9'
 
-      - name: Decode project
-        run: |
-          base64 -d chatgpt-audiobook-project.tar.gz.b64 > /tmp/audiobook-project.tar.gz
-          tar -xzf /tmp/audiobook-project.tar.gz
-          test -f audiobook-project/app/build.gradle
-
       - name: Build release APK
-        working-directory: audiobook-project
+        working-directory: audiobook-lite
         run: gradle --no-daemon --stacktrace :app:assembleRelease
 
       - name: Verify APK
         run: |
-          APK='audiobook-project/app/build/outputs/apk/release/app-release.apk'
+          APK='audiobook-lite/app/build/outputs/apk/release/app-release.apk'
           test -s "$APK"
           sha256sum "$APK"
           cp "$APK" LingYue-Audiobook-v1.0.0.apk
@@ -55,5 +49,3 @@ jobs:
           path: LingYue-Audiobook-v1.0.0.apk
           if-no-files-found: error
           retention-days: 7
-
-# Triggered after the workflow file exists on the isolated build branch.
