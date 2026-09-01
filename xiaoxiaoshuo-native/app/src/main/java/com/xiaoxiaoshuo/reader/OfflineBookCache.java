@@ -11,67 +11,39 @@ public final class OfflineBookCache {
 
     public static void saveBook(Context c, LegacyDexBridge.BookResult b, List<LegacyDexBridge.Chapter> chapters){
         saveBookMetadata(c,b,chapters);
-        if(c!=null&&b!=null&&chapters!=null&&!chapters.isEmpty()) FullBookDownloadService.enqueue(c,b.title);
+        if(c!=null&&b!=null&&chapters!=null&&!chapters.isEmpty()){
+            ServerCacheSync.pushBook(c,b,chapters);
+            FullBookDownloadService.enqueue(c,b.title);
+        }
     }
 
     public static void saveBookMetadata(Context c, LegacyDexBridge.BookResult b, List<LegacyDexBridge.Chapter> chapters){
         if(c==null||b==null||b.title==null||b.title.trim().length()==0)return;
         try{
-            File dir=bookDir(c,b.title);dir.mkdirs();
-            JSONObject root=new JSONObject();
-            root.put("title",safe(b.title));root.put("author",safe(b.author));root.put("intro",safe(b.intro));root.put("cover",safe(b.coverUrl));root.put("bookUrl",safe(b.bookUrl));root.put("sourceName",safe(b.sourceName));root.put("sourceUrl",safe(b.sourceUrl));root.put("sourceJson",safe(b.sourceJson));root.put("updatedAt",System.currentTimeMillis());
-            JSONArray a=new JSONArray();if(chapters!=null)for(LegacyDexBridge.Chapter ch:chapters){JSONObject o=new JSONObject();o.put("name",safe(ch.name));o.put("url",safe(ch.url));a.put(o);}root.put("chapters",a);
-            writeAtomic(new File(dir,"book.json"),root.toString().getBytes("UTF-8"));
+            File dir=bookDir(c,b.title);dir.mkdirs();JSONObject root=new JSONObject();root.put("title",safe(b.title));root.put("author",safe(b.author));root.put("intro",safe(b.intro));root.put("cover",safe(b.coverUrl));root.put("bookUrl",safe(b.bookUrl));root.put("sourceName",safe(b.sourceName));root.put("sourceUrl",safe(b.sourceUrl));root.put("sourceJson",safe(b.sourceJson));root.put("updatedAt",System.currentTimeMillis());JSONArray a=new JSONArray();if(chapters!=null)for(LegacyDexBridge.Chapter ch:chapters){JSONObject o=new JSONObject();o.put("name",safe(ch.name));o.put("url",safe(ch.url));a.put(o);}root.put("chapters",a);writeAtomic(new File(dir,"book.json"),root.toString().getBytes("UTF-8"));
         }catch(Throwable ignored){}
     }
 
     public static BookData loadBook(Context c,String title){
-        BookData d=new BookData();
-        try{
-            File f=new File(bookDir(c,title),"book.json");if(!f.isFile())return d;
-            JSONObject root=new JSONObject(readText(f,6*1024*1024));
-            d.title=root.optString("title",title);d.author=root.optString("author","");d.intro=root.optString("intro","");d.cover=root.optString("cover","");d.bookUrl=root.optString("bookUrl","");d.sourceName=root.optString("sourceName","");d.sourceUrl=root.optString("sourceUrl","");d.sourceJson=root.optString("sourceJson","");
-            JSONArray a=root.optJSONArray("chapters");if(a!=null)for(int i=0;i<a.length();i++){JSONObject o=a.optJSONObject(i);if(o!=null)d.chapters.add(new LegacyDexBridge.Chapter(o.optString("name",""),o.optString("url","")));}
-        }catch(Throwable ignored){}
-        return d;
+        BookData d=new BookData();try{File f=new File(bookDir(c,title),"book.json");if(!f.isFile())return d;JSONObject root=new JSONObject(readText(f,6*1024*1024));d.title=root.optString("title",title);d.author=root.optString("author","");d.intro=root.optString("intro","");d.cover=root.optString("cover","");d.bookUrl=root.optString("bookUrl","");d.sourceName=root.optString("sourceName","");d.sourceUrl=root.optString("sourceUrl","");d.sourceJson=root.optString("sourceJson","");JSONArray a=root.optJSONArray("chapters");if(a!=null)for(int i=0;i<a.length();i++){JSONObject o=a.optJSONObject(i);if(o!=null)d.chapters.add(new LegacyDexBridge.Chapter(o.optString("name",""),o.optString("url","")));}}catch(Throwable ignored){}return d;
     }
 
     public static String getChapter(Context c,String title,int index,String chapterUrl){
-        try{
-            File canonical=canonicalChapterFile(c,title,index);if(canonical.isFile()&&canonical.length()>0)return readText(canonical,5*1024*1024);
-            File old=legacyChapterFile(c,title,index,chapterUrl);if(old.isFile()&&old.length()>0)return readText(old,5*1024*1024);
-            File dir=new File(bookDir(c,title),"chapters");String prefix=String.format(Locale.US,"%06d",Math.max(0,index));File[] fs=dir.listFiles();if(fs!=null)for(File f:fs)if(f.isFile()&&f.getName().startsWith(prefix)&&f.length()>0)return readText(f,5*1024*1024);
-        }catch(Throwable ignored){}
-        return "";
+        try{File canonical=canonicalChapterFile(c,title,index);if(canonical.isFile()&&canonical.length()>0)return readText(canonical,5*1024*1024);File old=legacyChapterFile(c,title,index,chapterUrl);if(old.isFile()&&old.length()>0)return readText(old,5*1024*1024);File dir=new File(bookDir(c,title),"chapters");String prefix=String.format(Locale.US,"%06d",Math.max(0,index));File[] fs=dir.listFiles();if(fs!=null)for(File f:fs)if(f.isFile()&&f.getName().startsWith(prefix)&&f.length()>0)return readText(f,5*1024*1024);}catch(Throwable ignored){}
+        String remote=ServerCacheSync.pullChapter(c,title,index);if(remote.trim().length()>0){putChapterLocal(c,title,index,chapterUrl,remote);return remote;}return "";
     }
 
     public static void putChapter(Context c,String title,int index,String chapterUrl,String text){
-        if(text==null||text.trim().length()==0)return;
-        try{File f=canonicalChapterFile(c,title,index);if(f.isFile()&&f.length()>0)return;writeAtomic(f,text.getBytes("UTF-8"));}catch(Throwable ignored){}
+        if(text==null||text.trim().length()==0)return;boolean wrote=putChapterLocal(c,title,index,chapterUrl,text);if(wrote)ServerCacheSync.pushChapter(c,title,index,"",text);
     }
+    private static boolean putChapterLocal(Context c,String title,int index,String chapterUrl,String text){try{File f=canonicalChapterFile(c,title,index);if(f.isFile()&&f.length()>0)return false;writeAtomic(f,text.getBytes("UTF-8"));return true;}catch(Throwable ignored){return false;}}
 
-    public static int cachedChapterCount(Context c,String title,int total){
-        int n=0;try{for(int i=0;i<Math.max(0,total);i++)if(canonicalChapterFile(c,title,i).isFile()&&canonicalChapterFile(c,title,i).length()>0)n++;}catch(Throwable ignored){}return n;
-    }
+    public static int cachedChapterCount(Context c,String title,int total){int n=0;try{for(int i=0;i<Math.max(0,total);i++)if(canonicalChapterFile(c,title,i).isFile()&&canonicalChapterFile(c,title,i).length()>0)n++;}catch(Throwable ignored){}return n;}
+    public static void setDownloadState(Context c,String title,int done,int total,boolean complete,String message){try{c.getSharedPreferences("offline_download",Context.MODE_PRIVATE).edit().putInt(key(title)+"_done",done).putInt(key(title)+"_total",total).putBoolean(key(title)+"_complete",complete).putString(key(title)+"_message",message==null?"":message).putLong(key(title)+"_updated",System.currentTimeMillis()).apply();}catch(Throwable ignored){}}
+    public static boolean isComplete(Context c,String title,int total){try{android.content.SharedPreferences p=c.getSharedPreferences("offline_download",Context.MODE_PRIVATE);return p.getBoolean(key(title)+"_complete",false)&&p.getInt(key(title)+"_total",0)==total;}catch(Throwable e){return false;}}
 
-    public static void setDownloadState(Context c,String title,int done,int total,boolean complete,String message){
-        try{c.getSharedPreferences("offline_download",Context.MODE_PRIVATE).edit().putInt(key(title)+"_done",done).putInt(key(title)+"_total",total).putBoolean(key(title)+"_complete",complete).putString(key(title)+"_message",message==null?"":message).putLong(key(title)+"_updated",System.currentTimeMillis()).apply();}catch(Throwable ignored){}
-    }
-
-    public static boolean isComplete(Context c,String title,int total){
-        try{android.content.SharedPreferences p=c.getSharedPreferences("offline_download",Context.MODE_PRIVATE);return p.getBoolean(key(title)+"_complete",false)&&p.getInt(key(title)+"_total",0)==total;}catch(Throwable e){return false;}
-    }
-
-    public static void deleteBook(Context c,String title,String coverUrl,String coverBase,String sourceJson){
-        try{deleteTree(bookDir(c,title));}catch(Throwable ignored){}
-        try{CoverLoader.deleteCached(c,coverUrl,coverBase);}catch(Throwable ignored){}
-        try{CatalogStore.deleteFor(c,title,sourceJson);}catch(Throwable ignored){}
-        try{c.getSharedPreferences("reading_progress",Context.MODE_PRIVATE).edit().remove("idx_"+Integer.toHexString(title.hashCode())).apply();}catch(Throwable ignored){}
-        try{android.content.SharedPreferences p=c.getSharedPreferences("offline_download",Context.MODE_PRIVATE);p.edit().remove(key(title)+"_done").remove(key(title)+"_total").remove(key(title)+"_complete").remove(key(title)+"_message").remove(key(title)+"_updated").apply();}catch(Throwable ignored){}
-    }
-
+    public static void deleteBook(Context c,String title,String coverUrl,String coverBase,String sourceJson){try{deleteTree(bookDir(c,title));}catch(Throwable ignored){}try{CoverLoader.deleteCached(c,coverUrl,coverBase);}catch(Throwable ignored){}try{CatalogStore.deleteFor(c,title,sourceJson);}catch(Throwable ignored){}try{c.getSharedPreferences("reading_progress",Context.MODE_PRIVATE).edit().remove("idx_"+Integer.toHexString(title.hashCode())).apply();}catch(Throwable ignored){}try{android.content.SharedPreferences p=c.getSharedPreferences("offline_download",Context.MODE_PRIVATE);p.edit().remove(key(title)+"_done").remove(key(title)+"_total").remove(key(title)+"_complete").remove(key(title)+"_message").remove(key(title)+"_updated").apply();}catch(Throwable ignored){}}
     public static boolean hasBook(Context c,String title){return new File(bookDir(c,title),"book.json").isFile();}
-
     private static File canonicalChapterFile(Context c,String title,int index){File dir=new File(bookDir(c,title),"chapters");dir.mkdirs();return new File(dir,String.format(Locale.US,"%06d.txt",Math.max(0,index)));}
     private static File legacyChapterFile(Context c,String title,int index,String url){File dir=new File(bookDir(c,title),"chapters");dir.mkdirs();String suffix=(url==null||url.length()==0)?"":("_"+shortHash(url));return new File(dir,String.format(Locale.US,"%06d%s.txt",Math.max(0,index),suffix));}
     private static File bookDir(Context c,String title){File root=new File(c.getFilesDir(),"offline_books");root.mkdirs();return new File(root,shortHash(title==null?"":title));}
@@ -81,9 +53,5 @@ public final class OfflineBookCache {
     private static String shortHash(String s){try{MessageDigest m=MessageDigest.getInstance("SHA-256");byte[] b=m.digest(s.getBytes("UTF-8"));StringBuilder x=new StringBuilder();for(int i=0;i<12;i++)x.append(String.format(Locale.US,"%02x",b[i]));return x.toString();}catch(Throwable e){return Integer.toHexString(s.hashCode());}}
     private static String key(String title){return "book_"+shortHash(title==null?"":title);}
     private static String safe(String s){return s==null?"":s;}
-
-    public static final class BookData{
-        public String title="",author="",intro="",cover="",bookUrl="",sourceName="",sourceUrl="",sourceJson="";
-        public final ArrayList<LegacyDexBridge.Chapter> chapters=new ArrayList<>();
-    }
+    public static final class BookData{public String title="",author="",intro="",cover="",bookUrl="",sourceName="",sourceUrl="",sourceJson="";public final ArrayList<LegacyDexBridge.Chapter> chapters=new ArrayList<>();}
 }
