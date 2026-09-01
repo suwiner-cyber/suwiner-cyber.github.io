@@ -1,6 +1,556 @@
 {
   "books": [
     {
+      "id": "ext-92d118a658df1781058b",
+      "title": "燕垒生: 昨日之爱",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6418/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-92d118a658df1781058b",
+        "ext-4402131678469369156"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6418/index.html"
+      ]
+    },
+    {
+      "id": "ext-9cf9bb7d28609fd8e3d7",
+      "title": "燕垒生: 忘川水",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6416/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9cf9bb7d28609fd8e3d7",
+        "ext-6199086940465726676"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6416/index.html"
+      ]
+    },
+    {
+      "id": "ext-669ad59c6002cde02653",
+      "title": "潘海天: 黑暗中归来",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6475/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-669ad59c6002cde02653",
+        "ext-3226576069029405796"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6475/index.html"
+      ]
+    },
+    {
+      "id": "ext-2d67e22b279a5adc25e3",
+      "title": "潘海天: 潘海天短篇作品",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6477/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2d67e22b279a5adc25e3",
+        "ext-578795698110817959"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6477/index.html"
+      ]
+    },
+    {
+      "id": "ext-ebe3443f6c214fd8b87c",
+      "title": "潘海天: 大角，快跑！",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6050/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ebe3443f6c214fd8b87c",
+        "ext-8355999112379981769"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6050/index.html"
+      ]
+    },
+    {
+      "id": "ext-2b564fbfc5e75a17574d",
+      "title": "潘海天: 克隆之城",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6476/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2b564fbfc5e75a17574d",
+        "ext-8774234303926807235"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6476/index.html"
+      ]
+    },
+    {
+      "id": "ext-3ca5c995c910eb277b8d",
+      "title": "梅奥·西蒙: 大西洋底来的人",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6458/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3ca5c995c910eb277b8d",
+        "ext-4144279043849251863"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6458/index.html"
+      ]
+    },
+    {
+      "id": "ext-42050b24becf2d44f72f",
+      "title": "柳文扬: 解咒人",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6572/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-42050b24becf2d44f72f",
+        "ext-1844561295274388784"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6572/index.html"
+      ]
+    },
+    {
+      "id": "ext-853ae7d12a3bf798bd13",
+      "title": "柳文扬: 柳文扬中短篇科幻作品",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6570/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-853ae7d12a3bf798bd13",
+        "ext-3750334474109637768"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6570/index.html"
+      ]
+    },
+    {
+      "id": "ext-cfe9fb904005a13fbb21",
+      "title": "柳文扬: 废楼十三层",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6571/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-cfe9fb904005a13fbb21",
+        "ext-5931711348324421649"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6571/index.html"
+      ]
+    },
+    {
+      "id": "ext-6c8289cffa0907e8714f",
+      "title": "柳文扬: 天城海城",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6573/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-6c8289cffa0907e8714f",
+        "ext-6247451698745302942"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6573/index.html"
+      ]
+    },
+    {
+      "id": "ext-1201f75f16674fdf94bb",
+      "title": "杰克·威廉森: 黑太阳",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6033/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1201f75f16674fdf94bb",
+        "ext-5488105729517183137"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6033/index.html"
+      ]
+    },
+    {
+      "id": "ext-6790b4e77a70e44cf101",
+      "title": "杰克·威廉森: 潜在的异族",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6034/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-6790b4e77a70e44cf101",
+        "ext-6474751569069966173"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6034/index.html"
+      ]
+    },
+    {
+      "id": "ext-1adbe0e1cdd03e98cd11",
+      "title": "杰克·威廉森: 束手无策",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6035/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1adbe0e1cdd03e98cd11",
+        "ext-2652861392157820761"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6035/index.html"
+      ]
+    },
+    {
+      "id": "ext-571ab5bf1dd78f03b289",
+      "title": "杰克·威廉森: 月亮孩子",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6036/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-571ab5bf1dd78f03b289",
+        "ext-1866638619168581220"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6036/index.html"
+      ]
+    },
+    {
+      "id": "ext-697feb8caae97848caba",
+      "title": "杰克·威廉森: 最终的地球",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6032/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-697feb8caae97848caba",
+        "ext-4497082302185824513"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6032/index.html"
+      ]
+    },
+    {
+      "id": "ext-7b377ca61f17ad6c8dd6",
+      "title": "杰克·威廉森: 天网的坠落",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6031/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-7b377ca61f17ad6c8dd6",
+        "ext-9169583566650652599"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6031/index.html"
+      ]
+    },
+    {
+      "id": "ext-c873d6868e5f8d64328e",
+      "title": "杰克·威廉森: 反物质飞船",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6029/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c873d6868e5f8d64328e",
+        "ext-4229723453525229813"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6029/index.html"
+      ]
+    },
+    {
+      "id": "ext-3f590994caf144374a03",
+      "title": "杰克·威廉森: CT辐射",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6030/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3f590994caf144374a03",
+        "ext-8635084623992165208"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6030/index.html"
+      ]
+    },
+    {
+      "id": "ext-99104bdedb817c85f96c",
+      "title": "杨平: 杨平中短篇科幻作品",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6508/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-99104bdedb817c85f96c",
+        "ext-8524418056104805862"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6508/index.html"
+      ]
+    },
+    {
+      "id": "ext-f2c73d0df1c947ec6a89",
+      "title": "星河: 血腥的年代",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6501/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f2c73d0df1c947ec6a89",
+        "ext-2047996856762725389"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6501/index.html"
+      ]
+    },
+    {
+      "id": "ext-995aee134869546d019d",
+      "title": "星河: 空间错落有致",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6500/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-995aee134869546d019d",
+        "ext-2239376872365517085"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6500/index.html"
+      ]
+    },
+    {
       "id": "ext-3dd0bab62ed546194172",
       "title": "星河: 火星生命基因(太空城)",
       "author": "",
@@ -4448,556 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/xunhuan/201102/1516.html"
-      ]
-    },
-    {
-      "id": "ext-e353c603e77008610dac",
-      "title": "[韩]全民熙: 符文之子（7）选择黎明",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201106/3095.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e353c603e77008610dac",
-        "ext-1014057562494097695"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201106/3095.html"
-      ]
-    },
-    {
-      "id": "ext-02375701b4c0a16568a7",
-      "title": "[韩]全民熙: 符文之子（6）封印呼唤",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201106/3094.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-02375701b4c0a16568a7",
-        "ext-6432830983369221559"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201106/3094.html"
-      ]
-    },
-    {
-      "id": "ext-0be334be15987ff60a87",
-      "title": "[韩]全民熙: 符文之子（5）染血盛宴",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201106/3093.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-0be334be15987ff60a87",
-        "ext-2504941964365414391"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201106/3093.html"
-      ]
-    },
-    {
-      "id": "ext-2070f9a5bebfe0f87248",
-      "title": "[韩]全民熙: 符文之子（4）鲜血永存",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201106/3092.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-2070f9a5bebfe0f87248",
-        "ext-5603474844925801167"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201106/3092.html"
-      ]
-    },
-    {
-      "id": "ext-5ec06a26f86f78cfaa26",
-      "title": "[韩]全民熙: 符文之子（3）存活之岛",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201106/3091.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-5ec06a26f86f78cfaa26",
-        "ext-3965984207104162092"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201106/3091.html"
-      ]
-    },
-    {
-      "id": "ext-160e7b55e06c95a3e170",
-      "title": "[韩]全民熙: 符文之子（2）冲出陷阱",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201106/3090.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-160e7b55e06c95a3e170",
-        "ext-1856305884511613701"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201106/3090.html"
-      ]
-    },
-    {
-      "id": "ext-a3c416cf793c9ca1bbf2",
-      "title": "[韩]全民熙: 符文之子（1）冬日之剑",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201106/3089.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a3c416cf793c9ca1bbf2",
-        "ext-5028411844864261247"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201106/3089.html"
-      ]
-    },
-    {
-      "id": "ext-253a0e14a12bfd7a1c46",
-      "title": "[美]斯蒂芬妮·梅尔: 暮光之城5：午夜阳光",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201101/1117.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-253a0e14a12bfd7a1c46",
-        "ext-2041533135250518014"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201101/1117.html"
-      ]
-    },
-    {
-      "id": "ext-bcc885174752d4873a21",
-      "title": "[美]斯蒂芬妮·梅尔: 暮光之城4：破晓",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201101/1116.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-bcc885174752d4873a21",
-        "ext-6789247693648677971"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201101/1116.html"
-      ]
-    },
-    {
-      "id": "ext-291ea687b1746a417eb2",
-      "title": "[美]斯蒂芬妮·梅尔: 暮光之城3：月食",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201101/1115.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-291ea687b1746a417eb2",
-        "ext-4693996888406257523"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201101/1115.html"
-      ]
-    },
-    {
-      "id": "ext-74370840a050a905e40e",
-      "title": "[美]斯蒂芬妮·梅尔: 暮光之城2：新月",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201101/1114.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-74370840a050a905e40e",
-        "ext-8717226888181537714"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201101/1114.html"
-      ]
-    },
-    {
-      "id": "ext-d4500d6acc41027f5533",
-      "title": "[美]斯蒂芬妮·梅尔: 暮光之城1：暮色",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201101/1113.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d4500d6acc41027f5533",
-        "ext-7474984365549302766"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201101/1113.html"
-      ]
-    },
-    {
-      "id": "ext-72314047d7600ab15a05",
-      "title": "[美]斯蒂芬妮·梅尔: 布里坦纳第二次短暂生命",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201101/1118.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-72314047d7600ab15a05",
-        "ext-2937515298080693746"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201101/1118.html"
-      ]
-    },
-    {
-      "id": "ext-8af23b91a7b1ad724840",
-      "title": "[美]斯蒂芬妮·梅尔: 宿主",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201101/1119.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-8af23b91a7b1ad724840",
-        "ext-4618123516080431278"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201101/1119.html"
-      ]
-    },
-    {
-      "id": "ext-17d0294caf762f3e7932",
-      "title": "[美]R·A·萨尔瓦多: 冰风之谷三部曲之二：白银溪流",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201102/1764.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-17d0294caf762f3e7932",
-        "ext-2063425711830428499"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201102/1764.html"
-      ]
-    },
-    {
-      "id": "ext-eee7a921016486b9022d",
-      "title": "[美]R·A·萨尔瓦多: 冰风之谷三部曲之三：半身人的魔坠",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201102/1765.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-eee7a921016486b9022d",
-        "ext-4603285317813839640"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201102/1765.html"
-      ]
-    },
-    {
-      "id": "ext-ffe7d590acda4a315b2f",
-      "title": "[美]R·A·萨尔瓦多: 冰风之谷三部曲之一：碎魔晶",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201102/1763.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ffe7d590acda4a315b2f",
-        "ext-2393295891469420768"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201102/1763.html"
-      ]
-    },
-    {
-      "id": "ext-e4051e6ae567e548ed79",
-      "title": "Sarah Pine: 卡尔洛斯：求战之心",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201102/1759.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e4051e6ae567e548ed79",
-        "ext-8801537313092230578"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201102/1759.html"
-      ]
-    },
-    {
-      "id": "ext-cbbb990874274fc2dab5",
-      "title": "R·A·萨尔瓦多: 黑暗精灵三部曲之二：流亡",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201102/1761.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-cbbb990874274fc2dab5",
-        "ext-8779869611729096613"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201102/1761.html"
-      ]
-    },
-    {
-      "id": "ext-ec7c0af1fcfd12633c08",
-      "title": "R·A·萨尔瓦多: 黑暗精灵三部曲之三：旅居",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201102/1762.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ec7c0af1fcfd12633c08",
-        "ext-8135047974061112596"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201102/1762.html"
-      ]
-    },
-    {
-      "id": "ext-77b0f76b9631e9d9461c",
-      "title": "R·A·萨尔瓦多: 黑暗精灵三部曲之一：故土",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201102/1760.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-77b0f76b9631e9d9461c",
-        "ext-4399732903109706435"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201102/1760.html"
-      ]
-    },
-    {
-      "id": "ext-2b0b6b4b6ed8640ddfcf",
-      "title": "R·A·萨尔瓦多: 黑暗之路四部曲",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6756/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-2b0b6b4b6ed8640ddfcf",
-        "ext-7341430159269722591"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6756/index.html"
       ]
     }
   ]
