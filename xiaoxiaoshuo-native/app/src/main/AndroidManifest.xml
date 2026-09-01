@@ -9,6 +9,10 @@
         android:roundIcon="@drawable/ic_logo"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <service
+            android:name=".FullBookDownloadService"
+            android:enabled="true"
+            android:exported="false" />
         <receiver
             android:name=".SourceMaintenanceReceiver"
             android:enabled="true"
