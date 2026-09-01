@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
     <application
         android:allowBackup="true"
         android:label="小小说"
@@ -8,12 +9,24 @@
         android:roundIcon="@drawable/ic_logo"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <receiver
+            android:name=".SourceMaintenanceReceiver"
+            android:enabled="true"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="com.xiaoxiaoshuo.reader.DAILY_SOURCE_MAINTENANCE" />
+            </intent-filter>
+        </receiver>
         <activity android:name=".InfoActivity" android:screenOrientation="portrait" android:exported="false" />
         <activity android:name=".SourceManagerActivity" android:screenOrientation="portrait" android:exported="false" />
-        <activity android:name=".SearchActivity" android:screenOrientation="portrait" android:exported="false" />
         <activity android:name=".BookDetailActivity" android:screenOrientation="portrait" android:exported="false" />
+        <activity android:name=".SearchActivity" android:screenOrientation="portrait" android:exported="false" />
         <activity android:name=".ReaderActivity" android:screenOrientation="portrait" android:exported="false" />
-        <activity android:name=".MainActivity" android:screenOrientation="portrait" android:exported="true">
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
