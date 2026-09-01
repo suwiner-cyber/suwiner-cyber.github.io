@@ -1,6 +1,181 @@
 {
   "books": [
     {
+      "id": "ext-4fbb61df25c9c8e3d194",
+      "title": "詹姆斯·冈恩: 快乐制造者",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6467/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4fbb61df25c9c8e3d194",
+        "ext-5638916421045578098"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6467/index.html"
+      ]
+    },
+    {
+      "id": "ext-061126084b190ae9ca10",
+      "title": "詹姆斯·冈恩: 堡垒世界",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/sf/201106/2957.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-061126084b190ae9ca10",
+        "ext-529681506579731201"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/sf/201106/2957.html"
+      ]
+    },
+    {
+      "id": "ext-504195609a5f4d7807ac",
+      "title": "詹姆斯·冈恩: 危机",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6466/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-504195609a5f4d7807ac",
+        "ext-2861258971768487048"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6466/index.html"
+      ]
+    },
+    {
+      "id": "ext-7e08a92ecb50e6040d59",
+      "title": "艾萨克·阿西莫夫: 阿西莫夫短篇小说集",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6432/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-7e08a92ecb50e6040d59",
+        "ext-7435179341329049209"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6432/index.html"
+      ]
+    },
+    {
+      "id": "ext-45286a985c09fc15afc1",
+      "title": "艾萨克·阿西莫夫: 奇妙的航程",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6430/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-45286a985c09fc15afc1",
+        "ext-8970371454512651337"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6430/index.html"
+      ]
+    },
+    {
+      "id": "ext-923ce9d108771505ef63",
+      "title": "艾萨克·阿西莫夫: 复仇女神",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6431/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-923ce9d108771505ef63",
+        "ext-9032581422904505446"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6431/index.html"
+      ]
+    },
+    {
+      "id": "ext-28556d8f12fee55628fe",
+      "title": "艾萨克·阿西莫夫: 基地与帝国-骡",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6434/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-28556d8f12fee55628fe",
+        "ext-9204180351972537264"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6434/index.html"
+      ]
+    },
+    {
       "id": "ext-bb50b5685027cf46d9af",
       "title": "艾萨克·阿西莫夫: 你知道吗--现代科学中的100个问题",
       "author": "",
@@ -4823,181 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book3/6794/index.html"
-      ]
-    },
-    {
-      "id": "ext-f2f6ba7184acd1f0bff8",
-      "title": "安妮·赖斯: 血颂",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201101/1369.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f2f6ba7184acd1f0bff8",
-        "ext-3638167547813328328"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201101/1369.html"
-      ]
-    },
-    {
-      "id": "ext-5de40e10e779289d9d31",
-      "title": "安妮·赖斯: 血和黄金",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201101/1364.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-5de40e10e779289d9d31",
-        "ext-4284815335391917403"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201101/1364.html"
-      ]
-    },
-    {
-      "id": "ext-523f430e0019eb19c6cc",
-      "title": "安妮·赖斯: 肉体窃贼",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201101/1361.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-523f430e0019eb19c6cc",
-        "ext-288316334682191868"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201101/1361.html"
-      ]
-    },
-    {
-      "id": "ext-a0186cc7a3154bd5fe16",
-      "title": "安妮·赖斯: 潘多拉",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201101/1365.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a0186cc7a3154bd5fe16",
-        "ext-5508074342854328352"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201101/1365.html"
-      ]
-    },
-    {
-      "id": "ext-45ff0ec70192ebeb8f63",
-      "title": "安妮·赖斯: 梅瑞克",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201101/1368.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-45ff0ec70192ebeb8f63",
-        "ext-6216128248745767496"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201101/1368.html"
-      ]
-    },
-    {
-      "id": "ext-9becca7c79a94eb3e113",
-      "title": "安妮·赖斯: 恶魔迈诺克",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201101/1366.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-9becca7c79a94eb3e113",
-        "ext-8764520938247557595"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201101/1366.html"
-      ]
-    },
-    {
-      "id": "ext-d5e1da014968be51230b",
-      "title": "安妮·赖斯: 布莱克伍德庄园",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201101/1363.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d5e1da014968be51230b",
-        "ext-8405019009609889825"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201101/1363.html"
       ]
     }
   ]
