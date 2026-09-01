@@ -1,0 +1,57 @@
+name: Build LingYue Audiobook APK
+
+on:
+  push:
+    branches:
+      - chatgpt-audiobook-build-20260901
+    paths:
+      - 'chatgpt-audiobook-project.tar.gz.b64'
+      - '.github/workflows/chatgpt-audiobook-build.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Java 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Setup Gradle
+        uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: '8.9'
+
+      - name: Decode project
+        run: |
+          base64 -d chatgpt-audiobook-project.tar.gz.b64 > /tmp/audiobook-project.tar.gz
+          tar -xzf /tmp/audiobook-project.tar.gz
+          test -f audiobook-project/app/build.gradle
+
+      - name: Build release APK
+        working-directory: audiobook-project
+        run: gradle --no-daemon --stacktrace :app:assembleRelease
+
+      - name: Verify APK
+        run: |
+          APK='audiobook-project/app/build/outputs/apk/release/app-release.apk'
+          test -s "$APK"
+          sha256sum "$APK"
+          cp "$APK" LingYue-Audiobook-v1.0.0.apk
+
+      - name: Upload APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: LingYue-Audiobook-v1.0.0
+          path: LingYue-Audiobook-v1.0.0.apk
+          if-no-files-found: error
+          retention-days: 7
