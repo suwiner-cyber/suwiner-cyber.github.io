@@ -1,9 +1,10 @@
 {
   "version": 14,
   "adapter_version": "14.2",
-  "generated_at": "2026-09-01T12:30:08+00:00",
-  "total_books": 15298,
+  "generated_at": "2026-09-01T12:32:16+00:00",
+  "total_books": 15334,
   "source_counts": {
+    "一七小说": 1051,
     "滋味小说网": 689,
     "言情小说吧": 822,
     "努努书坊": 6724,
@@ -13,8 +14,7 @@
     "泡书吧小说网": 860,
     "乐文小说": 873,
     "和图书": 377,
-    "飘天文学": 362,
-    "一七小说": 1015
+    "飘天文学": 362
   },
   "all_done": false,
   "continue_needed": true,
@@ -37,7 +37,7 @@
     "九九藏书网",
     "69书吧"
   ],
-  "last_published_source": "69shuba.com",
+  "last_published_source": "1qxs.com",
   "sources": [
     {
       "name": "爱下电子书",
@@ -125,12 +125,12 @@
       "pages_this_run": 80,
       "successful_pages": 80,
       "failed_pages": 0,
-      "books_found": 41,
-      "books_added": 27,
-      "toc_written": 38,
-      "books_seen_total": 679,
-      "remaining_queue": 4176,
-      "seen_pages": 880,
+      "books_found": 40,
+      "books_added": 36,
+      "toc_written": 39,
+      "books_seen_total": 719,
+      "remaining_queue": 4851,
+      "seen_pages": 960,
       "done": false,
       "blocked": false,
       "needs_adapter": false
