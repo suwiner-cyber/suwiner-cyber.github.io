@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-e343d1e8458a47730607",
-      "title": "一碗葱花面",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481801.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:50+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e343d1e8458a47730607",
-        "ext-5789907962325671412"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qianyaobaimei/481801.html"
-      ]
-    },
-    {
       "id": "ext-ec7b5b3fe8fe7a3127a7",
       "title": "一场公开课",
       "author": "",
@@ -5766,6 +5741,37 @@
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/462948.html",
         "https://www.kanunu8.com/book7/dby67/470044.html"
+      ]
+    },
+    {
+      "id": "ext-5f276cc05a42f434c1a5",
+      "title": "第一百零九章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/462955.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462955.html",
+        "https://www.kanunu8.com/book7/dby67/470051.html"
+      ],
+      "read_ids": [
+        "ext-5f276cc05a42f434c1a5",
+        "ext-5843439416336312287",
+        "ext-24fc759b258f5b3f7208"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462955.html",
+        "https://www.kanunu8.com/book7/dby67/470051.html"
       ]
     }
   ]

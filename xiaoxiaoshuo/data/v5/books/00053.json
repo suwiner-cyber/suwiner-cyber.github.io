@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-d2158a453477c12fd3fa",
-      "title": "第17章 使劲忽悠",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171773.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 17,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d2158a453477c12fd3fa",
-        "ext-7733234856966906708"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171773.html"
-      ]
-    },
-    {
       "id": "ext-94cead8e2a1274722335",
       "title": "第16章 吓到你了？",
       "author": "",
@@ -6027,6 +6002,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65108.html"
+      ]
+    },
+    {
+      "id": "ext-b3b1807c3aee98538798",
+      "title": "第6章 惊变",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65044.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 6,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b3b1807c3aee98538798",
+        "ext-4213086859087633959"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65044.html"
       ]
     }
   ]

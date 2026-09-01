@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-a1db9a935d0050dad255",
-      "title": "番外一:新荻镇（完）",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/hxshn91/485099.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:54+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a1db9a935d0050dad255",
-        "ext-8131643650446103349"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/hxshn91/485099.html"
-      ]
-    },
-    {
       "id": "ext-f166caa3c6b4f0d11357",
       "title": "番外一:新荻镇（3）",
       "author": "",
@@ -5382,6 +5357,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qianyaobaimei/481831.html"
+      ]
+    },
+    {
+      "id": "ext-e343d1e8458a47730607",
+      "title": "一碗葱花面",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481801.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:50+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e343d1e8458a47730607",
+        "ext-5789907962325671412"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qianyaobaimei/481801.html"
       ]
     }
   ]

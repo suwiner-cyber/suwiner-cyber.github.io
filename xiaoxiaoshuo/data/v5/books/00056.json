@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-828f11672a68c4bc5e56",
-      "title": "第109章 霜冻",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/gnbk26/204373.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 109,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:38+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-828f11672a68c4bc5e56",
-        "ext-8543590633896496303"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/gnbk26/204373.html"
-      ]
-    },
-    {
       "id": "ext-cee621a975b47f784f2e",
       "title": "第108章 伤城",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book3/6503/index.html"
+      ]
+    },
+    {
+      "id": "ext-aa0c1b5008f50bb96c0a",
+      "title": "韩松: 沙漠古船",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6504/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-aa0c1b5008f50bb96c0a",
+        "ext-3229856062075080585"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6504/index.html"
       ]
     }
   ]

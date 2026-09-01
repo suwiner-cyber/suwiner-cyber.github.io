@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-6422591dd7e8c10218f8",
-      "title": "机战星空 梦纹",
-      "author": "一柄墨刀",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2023/01/11/11/29/e0b3f19f33754041b9f23e1c6e2e79f5.jpg",
-      "source_url": "https://www.tadu.com/book/1003812",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:50+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-6422591dd7e8c10218f8",
-        "ext-3049347645788831686"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/1003812"
-      ]
-    },
-    {
       "id": "ext-229cb6804ec793268b1d",
       "title": "末日G病毒 熋貓",
       "author": "浮兮",
@@ -5011,6 +4986,30 @@
       ],
       "read_sources": [
         "https://ixdzs8.com/read/640296/"
+      ]
+    },
+    {
+      "id": "ix-641334",
+      "title": "我斩妖除魔便可变强",
+      "author": "幻影星的冬瓜",
+      "kind": "玄幻奇幻",
+      "status": "连载中",
+      "intro": "李闲原是一位赘婿，开始斩妖。……沧海桑田，若干年后，李闲已经是长生不死。",
+      "cover": "https://img22.ixdzs.com/2d/99/2d990b27234636f6f9c37872f7ea3a62.jpg",
+      "source_url": "https://ixdzs8.com/read/641334/",
+      "source_host": "ixdzs8.com",
+      "source_name": "爱下电子书",
+      "media": "text",
+      "chapter_count": 401,
+      "last_chapter": "第401章",
+      "word_count_wan": 92.91,
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:52:16+00:00",
+      "read_ids": [
+        "ix-641334"
+      ],
+      "read_sources": [
+        "https://ixdzs8.com/read/641334/"
       ]
     }
   ]

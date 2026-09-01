@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-c5a54d19f75759af1180",
-      "title": "小妮子: 如果天国也曾悲伤",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10124/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c5a54d19f75759af1180",
-        "ext-9175504610236029621"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10124/index.html"
-      ]
-    },
-    {
       "id": "ext-5c24741f3897a7c55902",
       "title": "宝厘米城: 暴龙纪男生",
       "author": "",
@@ -5040,6 +5015,31 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/425110"
+      ]
+    },
+    {
+      "id": "ext-6422591dd7e8c10218f8",
+      "title": "机战星空 梦纹",
+      "author": "一柄墨刀",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2023/01/11/11/29/e0b3f19f33754041b9f23e1c6e2e79f5.jpg",
+      "source_url": "https://www.tadu.com/book/1003812",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:50+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-6422591dd7e8c10218f8",
+        "ext-3049347645788831686"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/1003812"
       ]
     }
   ]
