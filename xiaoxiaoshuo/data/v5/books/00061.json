@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-d4f35121c8ddec1480cf",
+      "title": "不详: 燃烧的卡利姆多",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/xunhuan/201102/1757.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:34+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d4f35121c8ddec1480cf",
+        "ext-1434620385248951439"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/xunhuan/201102/1757.html"
+      ]
+    },
+    {
+      "id": "ext-bb3e6fde3f001a0c5fa9",
+      "title": "不详: 不碎之灵",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/xunhuan/201102/1516.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:34+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-bb3e6fde3f001a0c5fa9",
+        "ext-8011729138898992850"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/xunhuan/201102/1516.html"
+      ]
+    },
+    {
       "id": "ext-e353c603e77008610dac",
       "title": "[韩]全民熙: 符文之子（7）选择黎明",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book3/5963/index.html"
-      ]
-    },
-    {
-      "id": "ext-e42f3d76da79eae202e2",
-      "title": "匪我思存: 爱如繁星",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/10879/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e42f3d76da79eae202e2",
-        "ext-1644685954661242801"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/10879/index.html"
-      ]
-    },
-    {
-      "id": "ext-892ef1a4151745e19edc",
-      "title": "匪我思存: 寻找爱情的邹小姐",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/10873/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-892ef1a4151745e19edc",
-        "ext-5101738593256190839"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/10873/index.html"
       ]
     }
   ]

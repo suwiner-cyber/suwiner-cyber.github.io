@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-a19d82a14b7e3ff2149b",
+      "title": "第107章 乘凉",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65145.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 107,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a19d82a14b7e3ff2149b",
+        "ext-3025075095476464373"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65145.html"
+      ]
+    },
+    {
+      "id": "ext-220e1818911d5dacf8b2",
+      "title": "第106章 无惧",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65144.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 106,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-220e1818911d5dacf8b2",
+        "ext-6283915423961114030"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65144.html"
+      ]
+    },
+    {
       "id": "ext-1486047f8e105dfd21e3",
       "title": "第105章 喜悦",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book3/6979/index.html"
-      ]
-    },
-    {
-      "id": "ext-e055af517468e4dcc500",
-      "title": "蔡骏: 生死河",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book4/10710/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:36+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e055af517468e4dcc500",
-        "ext-6825724427638082793"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10710/index.html"
-      ]
-    },
-    {
-      "id": "ext-25c1407918fdb538c87e",
-      "title": "蔡骏: 玛格丽特的秘密",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/8657/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:36+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-25c1407918fdb538c87e",
-        "ext-8919773438480140551"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/8657/index.html"
       ]
     }
   ]

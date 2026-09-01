@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-e055af517468e4dcc500",
+      "title": "蔡骏: 生死河",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/10710/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e055af517468e4dcc500",
+        "ext-6825724427638082793"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10710/index.html"
+      ]
+    },
+    {
+      "id": "ext-25c1407918fdb538c87e",
+      "title": "蔡骏: 玛格丽特的秘密",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/8657/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-25c1407918fdb538c87e",
+        "ext-8919773438480140551"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/8657/index.html"
+      ]
+    },
+    {
       "id": "ext-188f511d93218d1f5416",
       "title": "蔡骏: 猫眼",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book3/6629/index.html"
-      ]
-    },
-    {
-      "id": "ext-eb41a1e7aa4bfd0cf34c",
-      "title": "特德·姜: 你一生的故事",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6460/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-eb41a1e7aa4bfd0cf34c",
-        "ext-1069843038654987616"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6460/index.html"
-      ]
-    },
-    {
-      "id": "ext-3dadf55d3d6f5960e929",
-      "title": "燕垒生: 燕垒生短篇科幻",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6417/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-3dadf55d3d6f5960e929",
-        "ext-1247822434760097101"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6417/index.html"
       ]
     }
   ]
