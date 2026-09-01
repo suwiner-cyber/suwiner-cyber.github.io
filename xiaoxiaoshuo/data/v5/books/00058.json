@@ -1,46 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-8c4a3dbc3bc2a0a59dd2",
-      "title": "第145章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171901.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171901.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/38077.html",
-        "https://www.kanunu8.com/book7/75chyriji/463417.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481703.html",
-        "https://www.kanunu8.com/book7/hxshn92/485259.html"
-      ],
-      "read_ids": [
-        "ext-8c4a3dbc3bc2a0a59dd2",
-        "ext-2255794686437933877",
-        "ext-1cf68e15d3882ce76c11",
-        "ext-f8fbcd8c513202303c85",
-        "ext-7882e099172907059083",
-        "ext-772fa018260693b162e2"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171901.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/38077.html",
-        "https://www.kanunu8.com/book7/75chyriji/463417.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481703.html",
-        "https://www.kanunu8.com/book7/hxshn92/485259.html"
-      ]
-    },
-    {
       "id": "ext-ed4c3e52368bc91feb9e",
       "title": "第144章",
       "author": "",
@@ -5763,6 +5723,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65042.html"
+      ]
+    },
+    {
+      "id": "ext-a0558b2fd18518338bd7",
+      "title": "第49章 离别",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65087.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 49,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a0558b2fd18518338bd7",
+        "ext-6413751280301559896"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65087.html"
       ]
     }
   ]

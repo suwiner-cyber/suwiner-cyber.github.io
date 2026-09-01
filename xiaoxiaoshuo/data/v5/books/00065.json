@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-7a51dd5f5304fabc4f7e",
-      "title": "黄凌: 琵琶·久远·须臾",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2009/08-04-821.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7a51dd5f5304fabc4f7e",
-        "ext-1125088533301836545"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2009/08-04-821.html"
-      ]
-    },
-    {
       "id": "ext-79d169478f8e98efdaab",
       "title": "黄仁宇: 看历史，看未来",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/old/2011/2522.html"
+      ]
+    },
+    {
+      "id": "ext-aa8169351a3829ade780",
+      "title": "魏秀仁: 花月痕",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2556.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-aa8169351a3829ade780",
+        "ext-7621009210864273560"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2556.html"
       ]
     }
   ]

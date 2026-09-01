@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-323482d14e7e83e6a9ac",
-      "title": "李兰: 我是保姆",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/dushi/201106/3133.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-323482d14e7e83e6a9ac",
-        "ext-5902716603612304854"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/dushi/201106/3133.html"
-      ]
-    },
-    {
       "id": "ext-a17701f6424a2fbfe278",
       "title": "李兰: 以赌为生",
       "author": "",
@@ -5040,6 +5015,31 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/811704"
+      ]
+    },
+    {
+      "id": "ext-ab03df39655fb935fbee",
+      "title": "我怎么就变成了系统 墨玉橙香",
+      "author": "忘川雾",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2022/07/17/08/15/c5e90ffa1dd14d93826f6011a7f1c275.jpg",
+      "source_url": "https://www.tadu.com/book/850229",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:55+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ab03df39655fb935fbee",
+        "ext-4461919819561669563"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/850229"
       ]
     }
   ]

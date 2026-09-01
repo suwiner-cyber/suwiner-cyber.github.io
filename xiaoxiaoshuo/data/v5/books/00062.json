@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-15498e873df21d9d78bf",
-      "title": "郑文光: 飞向人马座",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6483/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-15498e873df21d9d78bf",
-        "ext-7789650791995343523"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6483/index.html"
-      ]
-    },
-    {
       "id": "ext-5b5fd1ec55c553f72168",
       "title": "道格拉斯·亚当斯: 银河系漫游指南",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book3/6780/index.html"
+      ]
+    },
+    {
+      "id": "ext-cc1211b53ab65d0a358b",
+      "title": "斩鞍: 九州·旅人",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6779/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:34+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-cc1211b53ab65d0a358b",
+        "ext-6757062909677112019"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6779/index.html"
       ]
     }
   ]

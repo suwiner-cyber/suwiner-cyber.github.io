@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-cc1211b53ab65d0a358b",
-      "title": "斩鞍: 九州·旅人",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6779/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-cc1211b53ab65d0a358b",
-        "ext-6757062909677112019"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6779/index.html"
-      ]
-    },
-    {
       "id": "ext-8d6822636227096da101",
       "title": "托尔金: 魔戒之王(指环王)",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book2/11027/index.html"
+      ]
+    },
+    {
+      "id": "ext-98b09c5828200dbccc63",
+      "title": "唐七公子: 四幕戏",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/10885/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:32+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-98b09c5828200dbccc63",
+        "ext-7858625867092890409"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/10885/index.html"
       ]
     }
   ]
