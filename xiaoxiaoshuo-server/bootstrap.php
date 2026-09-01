@@ -44,10 +44,59 @@ function issue_token(int $uid): string {
     $token = bin2hex(random_bytes(32)); $now=time(); $q=db()->prepare('INSERT INTO tokens(token_hash,user_id,expires_at,created_at) VALUES(?,?,?,?)'); $q->execute([hash('sha256',$token),$uid,$now+60*60*24*90,$now]); return $token;
 }
 function book_key(string $title): string { return hash('sha256', trim($title)); }
-function admin_user(): string { return getenv('XXS_ADMIN_USER') ?: 'admin'; }
-function admin_password_hash(): string { return getenv('XXS_ADMIN_PASSWORD_HASH') ?: ''; }
+
+function admin_config_file(): string { return app_data_dir().'/admin.json'; }
+function admin_config(): array {
+    static $cfg = null;
+    if (is_array($cfg)) return $cfg;
+    $envUser = getenv('XXS_ADMIN_USER') ?: '';
+    $envHash = getenv('XXS_ADMIN_PASSWORD_HASH') ?: '';
+    if ($envHash !== '') return $cfg=['username'=>$envUser !== '' ? $envUser : 'admin','password_hash'=>$envHash,'created_at'=>0];
+    $file=admin_config_file();
+    if (is_file($file)) {
+        $x=json_decode((string)@file_get_contents($file),true);
+        if(is_array($x) && !empty($x['username']) && !empty($x['password_hash'])) return $cfg=$x;
+    }
+    return $cfg=[];
+}
+function admin_is_configured(): bool { $c=admin_config(); return !empty($c['username']) && !empty($c['password_hash']); }
+function admin_user(): string { $c=admin_config(); return (string)($c['username'] ?? 'admin'); }
+function admin_password_hash(): string { $c=admin_config(); return (string)($c['password_hash'] ?? ''); }
+function save_admin_config(string $username,string $password): bool {
+    $username=trim($username);
+    if(!valid_username($username) || !valid_password($password)) return false;
+    $data=['username'=>$username,'password_hash'=>password_hash($password,PASSWORD_DEFAULT),'created_at'=>time(),'updated_at'=>time()];
+    $tmp=admin_config_file().'.tmp';
+    if(@file_put_contents($tmp,json_encode($data,JSON_UNESCAPED_UNICODE|JSON_PRETTY_PRINT),LOCK_EX)===false) return false;
+    @chmod($tmp,0640);
+    return @rename($tmp,admin_config_file());
+}
+function change_admin_password(string $password): bool {
+    if(!valid_password($password)) return false;
+    $c=admin_config(); if(!$c) return false;
+    $c['password_hash']=password_hash($password,PASSWORD_DEFAULT);$c['updated_at']=time();
+    return @file_put_contents(admin_config_file(),json_encode($c,JSON_UNESCAPED_UNICODE|JSON_PRETTY_PRINT),LOCK_EX)!==false;
+}
 function admin_ok(): bool {
     if (session_status() !== PHP_SESSION_ACTIVE) session_start();
     return !empty($_SESSION['xxs_admin']);
 }
+function admin_session_start(): void {
+    if(session_status()===PHP_SESSION_ACTIVE)return;
+    @ini_set('session.cookie_httponly','1');
+    @ini_set('session.cookie_samesite','Strict');
+    if(!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS']!=='off') @ini_set('session.cookie_secure','1');
+    session_start();
+}
+function csrf_token(): string {
+    admin_session_start();
+    if(empty($_SESSION['xxs_csrf'])) $_SESSION['xxs_csrf']=bin2hex(random_bytes(24));
+    return (string)$_SESSION['xxs_csrf'];
+}
+function csrf_ok(string $token): bool { admin_session_start(); return $token!=='' && !empty($_SESSION['xxs_csrf']) && hash_equals((string)$_SESSION['xxs_csrf'],$token); }
 function h(string $s): string { return htmlspecialchars($s, ENT_QUOTES|ENT_SUBSTITUTE, 'UTF-8'); }
+function bytes_human(int $n): string { $u=['B','KB','MB','GB'];$i=0;$v=max(0,$n);while($v>=1024&&$i<count($u)-1){$v/=1024;$i++;}return ($i===0?(string)(int)$v:number_format($v,1)).' '.$u[$i]; }
+function server_base_url(): string {
+    $https=!empty($_SERVER['HTTPS'])&&$_SERVER['HTTPS']!=='off';$scheme=$https?'https':'http';$host=$_SERVER['HTTP_HOST']??'localhost';$path=rtrim(str_replace('\\','/',dirname($_SERVER['SCRIPT_NAME']??'/')),'/');
+    return $scheme.'://'.$host.($path===''?'':$path);
+}
