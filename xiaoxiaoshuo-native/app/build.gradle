@@ -10,8 +10,8 @@ android {
         applicationId 'com.xiaoxiaoshuo.reader'
         minSdk 23
         targetSdk 29
-        versionCode 10008
-        versionName '10.0.8'
+        versionCode 10009
+        versionName '10.0.9'
     }
 
     lint {
