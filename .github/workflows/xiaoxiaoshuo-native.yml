@@ -1,0 +1,43 @@
+name: XiaoXiaoShuo Native Android
+
+on:
+  push:
+    branches: [xiaoxiaoshuo-native-rebuild]
+    paths:
+      - 'xiaoxiaoshuo-native/**'
+      - '.github/workflows/xiaoxiaoshuo-native.yml'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: '8.10.2'
+      - name: Bundle open-source fonts
+        shell: bash
+        run: |
+          set -euxo pipefail
+          mkdir -p xiaoxiaoshuo-native/app/src/main/assets/fonts
+          base=https://raw.githubusercontent.com/lxgw/LxgwWenKai-Lite/main/fonts/TTF
+          for f in LXGWWenKaiLite-Regular.ttf LXGWWenKaiLite-Medium.ttf LXGWWenKaiLite-Light.ttf LXGWWenKaiMonoLite-Regular.ttf LXGWWenKaiMonoLite-Medium.ttf; do
+            curl --retry 4 --retry-delay 2 -fL "$base/$f" -o "xiaoxiaoshuo-native/app/src/main/assets/fonts/$f"
+          done
+      - name: Build release APK
+        run: gradle -p xiaoxiaoshuo-native :app:assembleRelease --stacktrace
+      - name: Collect APK
+        shell: bash
+        run: |
+          mkdir -p out
+          cp xiaoxiaoshuo-native/app/build/outputs/apk/release/app-release-unsigned.apk out/xiaoxiaoshuo-v10.0.0-native-unsigned.apk
+      - uses: actions/upload-artifact@v4
+        with:
+          name: xiaoxiaoshuo-v10-native-apk
+          path: out/*.apk
+          if-no-files-found: error
