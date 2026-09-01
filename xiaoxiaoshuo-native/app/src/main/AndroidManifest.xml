@@ -24,6 +24,7 @@
         </receiver>
         <activity android:name=".InfoActivity" android:screenOrientation="portrait" android:exported="false" />
         <activity android:name=".SourceManagerActivity" android:screenOrientation="portrait" android:exported="false" />
+        <activity android:name=".HotCategoryActivity" android:screenOrientation="portrait" android:exported="false" />
         <activity android:name=".BookDetailActivity" android:screenOrientation="portrait" android:exported="false" />
         <activity android:name=".SearchActivity" android:screenOrientation="portrait" android:exported="false" />
         <activity android:name=".ReaderActivity" android:screenOrientation="portrait" android:exported="false" />
