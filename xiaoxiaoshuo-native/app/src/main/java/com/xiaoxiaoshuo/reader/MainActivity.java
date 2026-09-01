@@ -1,149 +1,18 @@
 package com.xiaoxiaoshuo.reader;
-
-import android.app.*;
-import android.os.*;
-import android.content.*;
-import android.graphics.*;
-import android.graphics.drawable.*;
-import android.view.*;
-import android.widget.*;
-import java.util.*;
-import java.io.*;
-import java.net.*;
-import org.json.*;
-
-public class MainActivity extends Activity {
-    private LinearLayout root, content, nav;
-    private final int green = Color.rgb(49,88,71);
-    private LegacySourceStore.State sourceState;
-    private final Handler quoteHandler=new Handler();
-    private TextView quoteView;
-    private int quoteIndex=0;
-    private final String[] quotes={
-            "日子缓缓，心里有光，寻常的烟火也会开出花。",
-            "把今天过好，就是对明天最温柔的回答。",
-            "愿你在琐碎的生活里，始终保留一方安静的月光。",
-            "山高水长，慢一点也没关系，喜欢的日子会慢慢靠近。",
-            "生活不是赶路，偶尔停下来，也能看见风吹过树梢。",
-            "读几页书，喝一杯热茶，把心放回自己的生活里。"
-    };
-
-    private final String[][] books={
-            {"长安的荔枝","马伯庸","大唐天宝年间，一名小吏接到几乎不可能完成的差事：把岭南鲜荔枝送到长安。路途遥远、期限严苛，他只能在制度与现实之间寻找一线生机。",""},
-            {"雪中悍刀行","烽火戏诸侯","江湖庙堂交织，少年从北凉王府走入天下。故事在侠义、家国与个人选择之间展开。",""},
-            {"庆余年","猫腻","一个带着现代记忆的年轻人进入陌生时代，在家族、朝堂与江湖之间寻找自己的道路。",""},
-            {"将夜","猫腻","边城少年入都城求学，从书院走向更辽阔的世界。成长、信念与命运在漫长旅途中不断碰撞。",""}
-    };
-
-    @Override public void onCreate(Bundle b){
-        super.onCreate(b);
-        getWindow().setStatusBarColor(Color.rgb(247,244,238));
-        getWindow().getDecorView().setSystemUiVisibility(View.SYSTEM_UI_FLAG_LIGHT_STATUS_BAR);
-        sourceState=LegacySourceStore.prepare(this,80);
-        buildShell();
-        showHome();
-    }
-
-    @Override protected void onDestroy(){ quoteHandler.removeCallbacksAndMessages(null); super.onDestroy(); }
-
-    private void buildShell(){
-        root=new LinearLayout(this); root.setOrientation(LinearLayout.VERTICAL); root.setBackgroundColor(Color.rgb(247,244,238));
-        content=new LinearLayout(this); content.setOrientation(LinearLayout.VERTICAL); root.addView(content,new LinearLayout.LayoutParams(-1,0,1));
-        nav=new LinearLayout(this); nav.setOrientation(LinearLayout.HORIZONTAL); nav.setPadding(dp(10),dp(8),dp(10),dp(10)); nav.setBackgroundColor(Color.WHITE);
-        root.addView(nav,new LinearLayout.LayoutParams(-1,dp(72))); setContentView(root); renderNav(0);
-    }
-
-    private void renderNav(int active){
-        nav.removeAllViews(); String[] labels={"首页","发现","书架","我的"}; String[] glyph={"⌂","✦","▣","●"};
-        for(int i=0;i<4;i++){ final int idx=i; TextView v=new TextView(this); v.setGravity(Gravity.CENTER); v.setText(glyph[i]+"\n"+labels[i]); v.setTextSize(13); v.setTypeface(Typeface.DEFAULT,i==active?Typeface.BOLD:Typeface.NORMAL); v.setTextColor(i==active?green:Color.rgb(110,110,110)); v.setOnClickListener(x->{ if(idx==0)showHome(); else if(idx==1)showDiscover(); else if(idx==2)showShelf(); else showMe(); }); nav.addView(v,new LinearLayout.LayoutParams(0,-1,1)); }
-    }
-
-    private ScrollView page(String title,String subtitle,int active){
-        quoteHandler.removeCallbacksAndMessages(null); content.removeAllViews(); renderNav(active);
-        ScrollView sv=new ScrollView(this); sv.setFillViewport(true); LinearLayout box=new LinearLayout(this); box.setOrientation(LinearLayout.VERTICAL); box.setPadding(dp(22),dp(22),dp(22),dp(30));
-        box.addView(text(title,28,green,true)); TextView s=text(subtitle,14,Color.rgb(120,115,105),false); LinearLayout.LayoutParams sp=new LinearLayout.LayoutParams(-1,-2); sp.topMargin=dp(6); sp.bottomMargin=dp(18); box.addView(s,sp); sv.addView(box); content.addView(sv,new LinearLayout.LayoutParams(-1,-1)); return sv;
-    }
-    private LinearLayout bodyOf(ScrollView sv){return (LinearLayout)sv.getChildAt(0);}
-
-    private void showHome(){
-        ScrollView sv=page("小小说","把阅读放回生活里。",0); LinearLayout box=bodyOf(sv);
-        box.addView(homeHero());
-        box.addView(section("今日推荐"));
-        ArrayList<LegacySourceStore.BookInfo> legacy=LegacySourceStore.loadLegacyBooks(this,4);
-        if(!legacy.isEmpty()){
-            for(int i=0;i<Math.min(4,legacy.size());i++){ LegacySourceStore.BookInfo b=legacy.get(i); box.addView(bookCard(new String[]{b.title,b.author,b.intro,b.cover})); }
-        }else{
-            for(int i=0;i<books.length;i++)box.addView(bookCard(books[i]));
-        }
-    }
-
-    private View homeHero(){
-        LinearLayout card=card(); card.setPadding(dp(18),dp(18),dp(18),dp(18));
-        LinearLayout tags=new LinearLayout(this); tags.setOrientation(LinearLayout.HORIZONTAL); tags.setPadding(0,0,0,dp(12));
-        String[] names={"文学","治愈","生活","今日共读"}; for(String n:names){ TextView t=text(n,12,green,true); GradientDrawable g=new GradientDrawable(); g.setColor(Color.rgb(236,242,238)); g.setCornerRadius(dp(20)); t.setBackground(g); t.setGravity(Gravity.CENTER); t.setPadding(dp(10),dp(5),dp(10),dp(5)); LinearLayout.LayoutParams p=new LinearLayout.LayoutParams(-2,-2); p.rightMargin=dp(7); tags.addView(t,p); }
-        card.addView(tags);
-        quoteView=text(quotes[quoteIndex%quotes.length],19,Color.rgb(48,57,52),true); quoteView.setLineSpacing(dp(4),1f); card.addView(quoteView);
-        TextView hint=text("每 7 秒换一句 · 经典 / 文艺 / 生活 / 暖心",12,Color.rgb(132,125,114),false); LinearLayout.LayoutParams hp=new LinearLayout.LayoutParams(-1,-2); hp.topMargin=dp(7); card.addView(hint,hp);
-        card.addView(new WarmIllustrationView(this),new LinearLayout.LayoutParams(-1,dp(150)));
-        quoteHandler.postDelayed(new Runnable(){public void run(){ if(quoteView==null)return; quoteIndex=(quoteIndex+1)%quotes.length; quoteView.animate().alpha(0f).setDuration(180).withEndAction(()->{quoteView.setText(quotes[quoteIndex]); quoteView.animate().alpha(1f).setDuration(220).start();}).start(); quoteHandler.postDelayed(this,7000); }},7000);
-        LinearLayout holder=new LinearLayout(this); LinearLayout.LayoutParams p=new LinearLayout.LayoutParams(-1,-2); p.bottomMargin=dp(18); holder.addView(card,p); return holder;
-    }
-
-    private void showDiscover(){
-        ScrollView sv=page("发现","优质书源优先，简介统一经过 AI 净排版。",1); LinearLayout box=bodyOf(sv);
-        TextView source=text(sourceState==null?"书源准备中":sourceState.message,13,Color.rgb(112,106,96),false); source.setPadding(0,0,0,dp(12)); box.addView(source);
-        for(String[] b:books)box.addView(bookCard(b));
-        fetchDiscover(box);
-    }
-
-    private void fetchDiscover(LinearLayout box){
-        new Thread(()->{
-            try{
-                URL u=new URL("https://raw.githubusercontent.com/suwiner-cyber/suwiner-cyber.github.io/xiaoxiaoshuo-native-rebuild/xiaoxiaoshuo-native/discover.json"); HttpURLConnection c=(HttpURLConnection)u.openConnection(); c.setConnectTimeout(6000); c.setReadTimeout(6000); c.setRequestProperty("User-Agent","XiaoXiaoShuo/10.0");
-                BufferedReader r=new BufferedReader(new InputStreamReader(c.getInputStream(),"UTF-8")); StringBuilder sb=new StringBuilder(); String line; while((line=r.readLine())!=null)sb.append(line); r.close(); JSONArray a=new JSONArray(sb.toString()); final ArrayList<String[]> remote=new ArrayList<>();
-                for(int i=0;i<a.length();i++){JSONObject o=a.getJSONObject(i); remote.add(new String[]{o.optString("title"),o.optString("author"),AiTypesetter.compactIntro(o.optString("intro")),o.optString("cover")});}
-                runOnUiThread(()->{ if(remote.isEmpty())return; while(box.getChildCount()>3)box.removeViewAt(box.getChildCount()-1); for(String[] b:remote)box.addView(bookCard(b)); });
-            }catch(Throwable ignored){}
-        }).start();
-    }
-
-    private void showShelf(){
-        ScrollView sv=page("书架","旧书架数据优先恢复，封面继续沿用原 cover_url。",2); LinearLayout box=bodyOf(sv);
-        ArrayList<LegacySourceStore.BookInfo> legacy=LegacySourceStore.loadLegacyBooks(this,80);
-        if(!legacy.isEmpty()){ for(LegacySourceStore.BookInfo b:legacy)box.addView(bookCard(new String[]{b.title,b.author,b.intro,b.cover})); return; }
-        Set<String> shelf=getPreferences(MODE_PRIVATE).getStringSet("shelf",new LinkedHashSet<>()); if(shelf.isEmpty()){TextView e=text("书架还是空的。去“发现”添加一本书。",16,Color.DKGRAY,false);e.setPadding(0,dp(30),0,0);box.addView(e);return;} for(String title:shelf)for(String[] b:books)if(b[0].equals(title))box.addView(bookCard(b));
-    }
-
-    private void showMe(){
-        ScrollView sv=page("我的","书源、阅读和数据都单独管理。",3); LinearLayout box=bodyOf(sv);
-        int total=sourceState==null?0:sourceState.all.size(); int selected=sourceState==null?0:sourceState.selected.size();
-        box.addView(actionCard("外部书源","检测到 "+total+" 个旧外部书源 · 智能默认加载 "+selected+" 个优质书源"));
-        if(sourceState!=null && !sourceState.selected.isEmpty()){
-            StringBuilder names=new StringBuilder(); for(int i=0;i<Math.min(12,sourceState.selected.size());i++){ if(i>0)names.append(" · "); String n=sourceState.selected.get(i).name; names.append(n.length()==0?sourceState.selected.get(i).url:n); }
-            box.addView(actionCard("优选书源示例",names.toString()));
-        }
-        box.addView(actionCard("阅读设置","字号、字体、背景、行距都在阅读页内直接调整。")); box.addView(actionCard("版本","10.0.2 华为兼容原生重建分支"));
-    }
-
-    private View bookCard(String[] b){
-        LinearLayout card=card(); LinearLayout row=new LinearLayout(this); row.setOrientation(LinearLayout.HORIZONTAL); ImageView cover=new ImageView(this); cover.setScaleType(ImageView.ScaleType.CENTER_CROP); GradientDrawable cg=new GradientDrawable(); cg.setColor(Color.rgb(228,219,199)); cg.setCornerRadius(dp(12)); cover.setBackground(cg); cover.setImageDrawable(new LetterCoverDrawable(b[0])); row.addView(cover,new LinearLayout.LayoutParams(dp(88),dp(124)));
-        LinearLayout info=new LinearLayout(this); info.setOrientation(LinearLayout.VERTICAL); LinearLayout.LayoutParams fp=new LinearLayout.LayoutParams(0,-2,1); fp.leftMargin=dp(14); row.addView(info,fp); info.addView(text(b[0],20,Color.rgb(37,45,41),true)); TextView author=text(b[1],13,Color.rgb(128,122,112),false); LinearLayout.LayoutParams ap=new LinearLayout.LayoutParams(-1,-2); ap.topMargin=dp(3); info.addView(author,ap); TextView intro=text(AiTypesetter.compactIntro(b[2]),14,Color.rgb(78,78,74),false); intro.setMaxLines(4); intro.setLineSpacing(dp(3),1f); LinearLayout.LayoutParams ip=new LinearLayout.LayoutParams(-1,-2); ip.topMargin=dp(10); info.addView(intro,ip); card.addView(row);
-        if(b.length>3 && b[3]!=null && (b[3].startsWith("http://")||b[3].startsWith("https://")))loadCover(cover,b[3]);
-        LinearLayout actions=new LinearLayout(this); actions.setGravity(Gravity.END); actions.setPadding(0,dp(12),0,0); Button add=button("加入书架"); add.setOnClickListener(v->{Set<String> cur=new LinkedHashSet<>(getPreferences(MODE_PRIVATE).getStringSet("shelf",new LinkedHashSet<>()));cur.add(b[0]);getPreferences(MODE_PRIVATE).edit().putStringSet("shelf",cur).apply();Toast.makeText(this,"已加入书架",Toast.LENGTH_SHORT).show();}); Button read=button("开始阅读"); read.setOnClickListener(v->{Intent it=new Intent(this,ReaderActivity.class);it.putExtra("title",b[0]);it.putExtra("body",sampleBody(b));startActivity(it);}); actions.addView(add); LinearLayout.LayoutParams rp=new LinearLayout.LayoutParams(-2,-2); rp.leftMargin=dp(8); actions.addView(read,rp); card.addView(actions);
-        LinearLayout holder=new LinearLayout(this); LinearLayout.LayoutParams cp=new LinearLayout.LayoutParams(-1,-2); cp.bottomMargin=dp(14); holder.addView(card,cp); return holder;
-    }
-
-    private void loadCover(ImageView target,String url){ new Thread(()->{ try{HttpURLConnection c=(HttpURLConnection)new URL(url).openConnection();c.setConnectTimeout(5000);c.setReadTimeout(7000);c.setInstanceFollowRedirects(true);c.setRequestProperty("User-Agent","Mozilla/5.0 XiaoXiaoShuo");InputStream in=c.getInputStream();final Bitmap bm=BitmapFactory.decodeStream(in);in.close();if(bm!=null)runOnUiThread(()->target.setImageBitmap(bm));}catch(Throwable ignored){} }).start(); }
-    private String sampleBody(String[] b){return "第一章 重新开始\n\n"+b[2]+"\n\n夜色从窗外慢慢落下来。屋里只留一盏灯，纸页上的字却比白天更清楚。\n\n好的阅读器不应该让人注意到自己。字号、行距、字体和背景都可以改变，但正文始终只经过同一套 AI 排版引擎。";}
-    private LinearLayout card(){LinearLayout c=new LinearLayout(this);c.setOrientation(LinearLayout.VERTICAL);c.setPadding(dp(18),dp(16),dp(18),dp(16));GradientDrawable g=new GradientDrawable();g.setColor(Color.WHITE);g.setCornerRadius(dp(18));c.setBackground(g);return c;}
-    private View actionCard(String title,String sub){LinearLayout c=card();c.addView(text(title,17,Color.rgb(38,48,43),true));TextView s=text(sub,14,Color.rgb(102,98,91),false);LinearLayout.LayoutParams p=new LinearLayout.LayoutParams(-1,-2);p.topMargin=dp(7);c.addView(s,p);LinearLayout h=new LinearLayout(this);LinearLayout.LayoutParams hp=new LinearLayout.LayoutParams(-1,-2);hp.bottomMargin=dp(12);h.addView(c,hp);return h;}
-    private TextView section(String s){TextView v=text(s,18,Color.rgb(45,61,53),true);v.setPadding(0,dp(6),0,dp(10));return v;}
-    private TextView text(String s,int size,int color,boolean bold){TextView v=new TextView(this);v.setText(s==null?"":s);v.setTextSize(size);v.setTextColor(color);v.setTypeface(Typeface.create("sans",bold?Typeface.BOLD:Typeface.NORMAL));return v;}
-    private Button button(String s){Button b=new Button(this);b.setText(s);b.setTextSize(13);b.setAllCaps(false);b.setTextColor(green);return b;}
-    private int dp(int n){return (int)(n*getResources().getDisplayMetrics().density+0.5f);}
-
-    private class WarmIllustrationView extends View{
-        Paint p=new Paint(3); public WarmIllustrationView(Context c){super(c);setLayerType(View.LAYER_TYPE_SOFTWARE,null);} protected void onDraw(Canvas c){super.onDraw(c);float w=getWidth(),h=getHeight();p.setColor(Color.rgb(239,232,218));c.drawRoundRect(w*.05f,h*.20f,w*.95f,h*.92f,dp(24),dp(24),p);p.setColor(Color.rgb(91,119,99));c.drawCircle(w*.77f,h*.39f,dp(31),p);p.setColor(Color.rgb(250,246,237));c.drawRoundRect(w*.28f,h*.46f,w*.72f,h*.81f,dp(10),dp(10),p);p.setColor(Color.rgb(196,173,134));c.drawRect(w*.49f,h*.46f,w*.51f,h*.81f,p);p.setColor(Color.rgb(74,101,83));p.setStrokeWidth(dp(4));c.drawLine(w*.14f,h*.78f,w*.28f,h*.61f,p);c.drawLine(w*.14f,h*.78f,w*.22f,h*.46f,p);c.drawCircle(w*.22f,h*.46f,dp(8),p);c.drawCircle(w*.27f,h*.58f,dp(7),p);p.setColor(Color.rgb(69,75,70));p.setTextSize(dp(15));p.setTypeface(Typeface.create("serif",Typeface.BOLD));c.drawText("读书，也是在照顾生活",w*.12f,h*.18f,p);}}
-    private class LetterCoverDrawable extends Drawable{
-        Paint p=new Paint(3); String title; LetterCoverDrawable(String t){title=t==null?"书":t;} public void draw(Canvas c){Rect b=getBounds();p.setColor(Color.rgb(223,211,187));c.drawRoundRect(new RectF(b),dp(10),dp(10),p);p.setColor(green);p.setTextAlign(Paint.Align.CENTER);p.setTypeface(Typeface.create("serif",Typeface.BOLD));p.setTextSize(Math.max(dp(14),b.width()/6f));String s=title.length()>4?title.substring(0,4):title;float y=b.centerY()-(p.ascent()+p.descent())/2;c.drawText(s,b.centerX(),y,p);} public void setAlpha(int a){p.setAlpha(a);} public void setColorFilter(android.graphics.ColorFilter f){p.setColorFilter(f);} public int getOpacity(){return android.graphics.PixelFormat.TRANSLUCENT;}}
+import android.app.*;import android.os.*;import android.content.*;import android.graphics.*;import android.graphics.drawable.GradientDrawable;import android.view.*;import android.view.inputmethod.EditorInfo;import android.widget.*;import org.json.JSONObject;import java.util.*;
+public class MainActivity extends Activity{
+ private final int green=Color.rgb(49,88,71);private LinearLayout root,content,nav;private Handler handler=new Handler();private TextView quoteView;private int quoteIndex=0;private LegacySourceStore.State sourceState;private final String[] quotes={"日子缓缓向前，喜欢的文字会在某一页等你。","愿你读过山河，也仍然相信人间灯火。","把生活调成喜欢的频道，慢一点也没有关系。","有些答案不在远方，在安静读完的一页里。","晚风会经过窗台，故事会替你收藏今天的疲惫。","愿每一次翻页，都比昨天多一点从容。","人间烟火最寻常，也最值得认真喜欢。","读书不是逃离生活，是给生活多一扇窗。","心里有光，平凡的日子也会慢慢发亮。","愿你有书可读，有路可走，也有人间可爱。"};private final String[][] defaults={{"长安的荔枝","马伯庸","一场跨越千里的限时任务，从一颗荔枝里看见普通人的坚持与选择。"},{"雪中悍刀行","烽火戏诸侯","江湖与庙堂交织，人物在风雪与人情之间走出自己的道路。"},{"庆余年","猫腻","带着另一段人生记忆进入陌生时代，在家族、朝堂与自我之间成长。"},{"将夜","猫腻","边城少年走进书院，从一盏灯、一把刀开始看见更大的世界。"}};
+ @Override public void onCreate(Bundle b){super.onCreate(b);sourceState=LegacySourceStore.prepare(this,80);buildShell();showHome();}@Override protected void onDestroy(){handler.removeCallbacksAndMessages(null);super.onDestroy();}
+ private void buildShell(){root=new LinearLayout(this);root.setOrientation(LinearLayout.VERTICAL);root.setBackgroundColor(Color.rgb(247,244,238));content=new LinearLayout(this);content.setOrientation(LinearLayout.VERTICAL);root.addView(content,new LinearLayout.LayoutParams(-1,0,1));nav=new LinearLayout(this);nav.setOrientation(LinearLayout.HORIZONTAL);nav.setPadding(dp(8),dp(6),dp(8),dp(8));nav.setBackgroundColor(Color.WHITE);root.addView(nav,new LinearLayout.LayoutParams(-1,dp(68)));setContentView(root);getWindow().setStatusBarColor(Color.rgb(247,244,238));getWindow().getDecorView().setSystemUiVisibility(View.SYSTEM_UI_FLAG_LIGHT_STATUS_BAR);}
+ private void renderNav(int active){nav.removeAllViews();String[] labels={"首页","发现","书架","我的"};String[] glyph={"⌂","✦","▣","●"};for(int i=0;i<4;i++){final int idx=i;TextView v=tx(glyph[i]+"\n"+labels[i],12,i==active?green:Color.rgb(112,112,108),i==active);v.setGravity(Gravity.CENTER);v.setOnClickListener(x->{if(idx==0)showHome();else if(idx==1)showDiscover();else if(idx==2)showShelf();else showMe();});nav.addView(v,new LinearLayout.LayoutParams(0,-1,1));}}
+ private ScrollView page(String title,String subtitle,int active){handler.removeCallbacksAndMessages(null);content.removeAllViews();renderNav(active);ScrollView sv=new ScrollView(this);sv.setFillViewport(true);LinearLayout box=new LinearLayout(this);box.setOrientation(LinearLayout.VERTICAL);box.setPadding(dp(20),dp(18),dp(20),dp(34));box.addView(tx(title,28,green,true));TextView s=tx(subtitle,13,Color.rgb(126,118,107),false);LinearLayout.LayoutParams sp=new LinearLayout.LayoutParams(-1,-2);sp.topMargin=dp(4);sp.bottomMargin=dp(15);box.addView(s,sp);sv.addView(box);content.addView(sv,new LinearLayout.LayoutParams(-1,-1));return sv;}private LinearLayout body(ScrollView sv){return(LinearLayout)sv.getChildAt(0);}
+ private void showHome(){ScrollView sv=page("小小说","把喜欢的故事，放进日常。",0);LinearLayout box=body(sv);box.addView(hero(),mp(0,0,0,14));box.addView(searchBar(),mp(0,0,0,18));LinearLayout sec=new LinearLayout(this);sec.setGravity(Gravity.CENTER_VERTICAL);sec.addView(tx("为你推荐",19,Color.rgb(45,60,52),true),new LinearLayout.LayoutParams(0,-2,1));TextView more=tx("搜索更多 ›",13,green,true);more.setOnClickListener(v->startActivity(new Intent(this,SearchActivity.class)));sec.addView(more);box.addView(sec,mp(0,0,0,10));ArrayList<LegacySourceStore.BookInfo> legacy=LegacySourceStore.loadLegacyBooks(this,6);if(!legacy.isEmpty()){for(LegacySourceStore.BookInfo b:legacy)box.addView(bookCard(b.title,b.author,b.intro,b.cover),mp(0,0,0,12));}else for(String[] b:defaults)box.addView(bookCard(b[0],b[1],b[2],""),mp(0,0,0,12));}
+ private View hero(){LinearLayout card=new LinearLayout(this);card.setOrientation(LinearLayout.HORIZONTAL);card.setGravity(Gravity.CENTER_VERTICAL);card.setPadding(dp(18),dp(16),dp(12),dp(14));GradientDrawable g=new GradientDrawable();g.setColor(Color.WHITE);g.setCornerRadius(dp(22));card.setBackground(g);LinearLayout left=new LinearLayout(this);left.setOrientation(LinearLayout.VERTICAL);LinearLayout tags=new LinearLayout(this);tags.setOrientation(LinearLayout.HORIZONTAL);tags.addView(tag("文学"));tags.addView(tag("治愈"));tags.addView(tag("生活"));left.addView(tags);quoteView=tx(quotes[quoteIndex],19,Color.rgb(45,59,51),true);quoteView.setLineSpacing(dp(4),1f);quoteView.setPadding(0,dp(14),dp(8),dp(8));left.addView(quoteView);left.addView(tx("今日一句 · 每8秒轻轻换一句",11,Color.rgb(148,137,120),false));card.addView(left,new LinearLayout.LayoutParams(0,dp(156),1));LiteraryIllustrationView art=new LiteraryIllustrationView(this);card.addView(art,new LinearLayout.LayoutParams(dp(132),dp(156)));handler.postDelayed(new Runnable(){public void run(){if(quoteView==null||quoteView.getWindowToken()==null)return;quoteIndex=(quoteIndex+1)%quotes.length;quoteView.animate().alpha(0f).setDuration(180).withEndAction(()->{quoteView.setText(quotes[quoteIndex]);quoteView.animate().alpha(1f).setDuration(260).start();}).start();handler.postDelayed(this,8000);}},8000);return card;}
+ private TextView tag(String s){TextView v=tx(s,11,green,true);v.setGravity(Gravity.CENTER);v.setPadding(dp(9),dp(5),dp(9),dp(5));GradientDrawable d=new GradientDrawable();d.setColor(Color.rgb(237,244,239));d.setCornerRadius(dp(12));v.setBackground(d);LinearLayout.LayoutParams p=new LinearLayout.LayoutParams(-2,-2);p.rightMargin=dp(6);v.setLayoutParams(p);return v;}
+ private View searchBar(){LinearLayout row=new LinearLayout(this);row.setGravity(Gravity.CENTER_VERTICAL);row.setPadding(dp(14),0,dp(8),0);GradientDrawable g=new GradientDrawable();g.setColor(Color.WHITE);g.setCornerRadius(dp(18));row.setBackground(g);row.addView(tx("⌕",22,green,true),new LinearLayout.LayoutParams(dp(34),dp(52)));EditText e=new EditText(this);e.setSingleLine(true);e.setHint("搜索书名、作者 · 80个优质书源");e.setTextSize(15);e.setBackgroundColor(Color.TRANSPARENT);e.setImeOptions(EditorInfo.IME_ACTION_SEARCH);row.addView(e,new LinearLayout.LayoutParams(0,dp(52),1));TextView go=tx("搜索",13,green,true);go.setGravity(Gravity.CENTER);View.OnClickListener run=v->{String q=e.getText().toString().trim();Intent i=new Intent(this,SearchActivity.class);if(q.length()>0)i.putExtra("query",q);startActivity(i);};go.setOnClickListener(run);e.setOnEditorActionListener((v,id,event)->{if(id==EditorInfo.IME_ACTION_SEARCH){run.onClick(v);return true;}return false;});row.addView(go,new LinearLayout.LayoutParams(dp(58),dp(52)));return row;}
+ private void showDiscover(){ScrollView sv=page("发现","从书源里找到新的故事，也可以继续添加更多。",1);LinearLayout box=body(sv);box.addView(iconCard("＋","添加更多书源","支持JSON、JSON数组和订阅网址",v->startActivity(new Intent(this,SourceManagerActivity.class))),mp(0,0,0,12));box.addView(iconCard("⌕","搜索全书源","使用智能80优质书源检索书名或作者",v->startActivity(new Intent(this,SearchActivity.class))),mp(0,0,0,18));box.addView(tx("推荐阅读",19,Color.rgb(45,60,52),true),mp(0,0,0,10));for(String[] b:defaults)box.addView(bookCard(b[0],b[1],b[2],""),mp(0,0,0,12));}
+ private void showShelf(){ScrollView sv=page("书架","旧书架和新加入的书都放在这里。",2);LinearLayout box=body(sv);box.addView(iconCard("＋","添加更多","搜索并把喜欢的书加入书架",v->startActivity(new Intent(this,SearchActivity.class))),mp(0,0,0,14));int count=0;Set<String> keys=getSharedPreferences("native_shelf",MODE_PRIVATE).getStringSet("keys",Collections.emptySet());for(String key:keys){String raw=getSharedPreferences("native_shelf",MODE_PRIVATE).getString(key,"");try{JSONObject o=new JSONObject(raw);box.addView(bookCard(o.optString("title"),o.optString("author"),o.optString("intro"),o.optString("cover")),mp(0,0,0,12));count++;}catch(Throwable ignored){}}if(count==0){ArrayList<LegacySourceStore.BookInfo> legacy=LegacySourceStore.loadLegacyBooks(this,50);for(LegacySourceStore.BookInfo b:legacy){box.addView(bookCard(b.title,b.author,b.intro,b.cover),mp(0,0,0,12));count++;}}if(count==0){TextView empty=tx("书架还是空的。点击“添加更多”搜索一本书。",15,Color.rgb(110,103,94),false);empty.setPadding(dp(10),dp(24),dp(10),dp(24));box.addView(empty);}}
+ private void showMe(){ScrollView sv=page("我的","常用功能全部图标化，一眼就能找到。",3);LinearLayout box=body(sv);sourceState=LegacySourceStore.prepare(this,80);TextView stat=tx("书源 "+sourceState.all.size()+" 个 · 智能启用 "+sourceState.selected.size()+" 个",13,green,true);stat.setPadding(dp(2),0,0,dp(12));box.addView(stat);LinearLayout r1=new LinearLayout(this);r1.addView(iconCard("◫","书源管理","添加 · 优选80",v->startActivity(new Intent(this,SourceManagerActivity.class))),grid());r1.addView(iconCard("⚙","设置","阅读与兼容",v->openInfo("settings")),grid());box.addView(r1);LinearLayout r2=new LinearLayout(this);r2.addView(iconCard("?","帮助中心","搜索 · 目录 · 封面",v->openInfo("help")),grid());r2.addView(iconCard("§","免责声明","书源与内容说明",v->openInfo("disclaimer")),grid());box.addView(r2);TextView ver=tx("小小说 10.0.3 · 华为兼容原生架构",12,Color.rgb(145,138,128),false);ver.setGravity(Gravity.CENTER);ver.setPadding(0,dp(22),0,dp(10));box.addView(ver);}private void openInfo(String mode){Intent i=new Intent(this,InfoActivity.class);i.putExtra("mode",mode);startActivity(i);}
+ private View bookCard(String title,String author,String intro,String coverUrl){LinearLayout c=new LinearLayout(this);c.setOrientation(LinearLayout.HORIZONTAL);c.setPadding(dp(12),dp(12),dp(12),dp(12));GradientDrawable g=new GradientDrawable();g.setColor(Color.WHITE);g.setCornerRadius(dp(18));c.setBackground(g);ImageView cover=new ImageView(this);cover.setImageDrawable(new LiteraryCoverDrawable(title));c.addView(cover,new LinearLayout.LayoutParams(dp(88),dp(124)));CoverLoader.load(cover,coverUrl,"","",title);LinearLayout info=new LinearLayout(this);info.setOrientation(LinearLayout.VERTICAL);info.setPadding(dp(14),0,0,0);info.addView(tx(title,18,Color.rgb(39,49,44),true));TextView a=tx(author.length()>0?author:"作者待获取",12,Color.rgb(127,119,108),false);a.setPadding(0,dp(4),0,dp(8));info.addView(a);TextView i=tx(intro.length()>0?AiTypesetter.compactIntro(intro):"点击查看完整简介和章节目录",13,Color.rgb(82,80,75),false);i.setMaxLines(3);info.addView(i);TextView hint=tx("查看目录 · 更多章节 ›",12,green,true);hint.setGravity(Gravity.RIGHT|Gravity.BOTTOM);info.addView(hint,new LinearLayout.LayoutParams(-1,0,1));c.addView(info,new LinearLayout.LayoutParams(0,dp(124),1));c.setOnClickListener(v->{Intent x=new Intent(this,BookDetailActivity.class);x.putExtra("title",title);x.putExtra("author",author);x.putExtra("intro",intro);x.putExtra("cover",coverUrl);startActivity(x);});return c;}
+ private LinearLayout iconCard(String icon,String title,String sub,View.OnClickListener l){LinearLayout c=new LinearLayout(this);c.setOrientation(LinearLayout.VERTICAL);c.setPadding(dp(16),dp(14),dp(16),dp(14));GradientDrawable g=new GradientDrawable();g.setColor(Color.WHITE);g.setCornerRadius(dp(18));c.setBackground(g);TextView ic=tx(icon,24,green,true);ic.setGravity(Gravity.CENTER);GradientDrawable ib=new GradientDrawable();ib.setColor(Color.rgb(237,244,239));ib.setCornerRadius(dp(18));ic.setBackground(ib);c.addView(ic,new LinearLayout.LayoutParams(dp(42),dp(42)));TextView t=tx(title,16,Color.rgb(46,57,51),true);t.setPadding(0,dp(10),0,dp(4));c.addView(t);c.addView(tx(sub,12,Color.rgb(127,119,108),false));c.setOnClickListener(l);return c;}private LinearLayout.LayoutParams grid(){LinearLayout.LayoutParams p=new LinearLayout.LayoutParams(0,dp(132),1);p.setMargins(dp(4),dp(4),dp(4),dp(4));return p;}private TextView tx(String s,int z,int color,boolean b){TextView v=new TextView(this);v.setText(s);v.setTextSize(z);v.setTextColor(color);v.setTypeface(Typeface.create("sans",b?Typeface.BOLD:Typeface.NORMAL));return v;}private LinearLayout.LayoutParams mp(int l,int t,int r,int b){LinearLayout.LayoutParams p=new LinearLayout.LayoutParams(-1,-2);p.setMargins(dp(l),dp(t),dp(r),dp(b));return p;}private int dp(float n){return(int)(n*getResources().getDisplayMetrics().density+.5f);}
 }
