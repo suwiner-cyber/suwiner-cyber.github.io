@@ -1,7 +1,7 @@
 {
   "version": 14,
   "adapter_version": "14.2",
-  "generated_at": "2026-09-01T12:57:07+00:00",
+  "generated_at": "2026-09-01T12:59:08+00:00",
   "total_books": 15693,
   "source_counts": {
     "言情小说吧": 856,
@@ -37,7 +37,7 @@
     "九九藏书网",
     "69书吧"
   ],
-  "last_published_source": "xs8.cn",
+  "last_published_source": "zwxiaoshuo.com",
   "sources": [
     {
       "name": "爱下电子书",
@@ -141,12 +141,12 @@
       "pages_this_run": 80,
       "successful_pages": 80,
       "failed_pages": 0,
-      "books_found": 7,
-      "books_added": 7,
-      "toc_written": 5,
+      "books_found": 0,
+      "books_added": 0,
+      "toc_written": 0,
       "books_seen_total": 492,
-      "remaining_queue": 16792,
-      "seen_pages": 799,
+      "remaining_queue": 28495,
+      "seen_pages": 879,
       "done": false,
       "blocked": false,
       "needs_adapter": false
