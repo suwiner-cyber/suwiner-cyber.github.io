@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.LingYue" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#F6F2EA</item>
+        <item name="android:navigationBarColor">#FBFAF7</item>
+        <item name="android:colorAccent">#1C5E55</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
