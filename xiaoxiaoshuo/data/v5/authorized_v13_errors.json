@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T06:45:15+00:00",
+  "generated_at": "2026-09-01T06:47:36+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -1206,6 +1206,12 @@
       "source": "AAAKS小说",
       "url": "https://www.aaaks.com/book/1749307779/",
       "error": "IncompleteRead(122880 bytes read)"
+    },
+    {
+      "time": "2026-09-01T06:47:00+00:00",
+      "source": "爱下电子书",
+      "url": "https://ixdzs8.com/read/533247/p.html",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }
