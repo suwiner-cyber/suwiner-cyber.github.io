@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T18:34:58+00:00",
+  "generated_at": "2026-09-02T18:36:29+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -2220,6 +2220,30 @@
       "source": "乐文小说",
       "url": "https://www.ilwxs.com/author/双枪婆婆.html",
       "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-02T18:35:13+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/三分钱的糖.html",
+      "error": "'ascii' codec can't encode characters in position 12-16: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-02T18:35:16+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/飞蛇在森.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-02T18:35:28+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/墨兰清雅.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-02T18:35:57+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/不要大脑要小脑.html",
+      "error": "'ascii' codec can't encode characters in position 12-18: ordinal not in range(128)"
     }
   ]
 }
