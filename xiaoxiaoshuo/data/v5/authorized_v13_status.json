@@ -1,6 +1,6 @@
 {
   "version": 13,
-  "generated_at": "2026-09-02T00:45:40+00:00",
+  "generated_at": "2026-09-02T00:45:49+00:00",
   "total_books": 16482,
   "source_counts": {
     "AAAKS小说": 700,
@@ -18,21 +18,21 @@
   "all_done": false,
   "continue_needed": true,
   "unresolved_sources": [
-    "AAAKS小说"
+    "九九藏书网"
   ],
   "sources": [
     {
-      "name": "AAAKS小说",
-      "host": "aaaks.com",
-      "pages_this_run": 80,
-      "successful_pages": 80,
+      "name": "九九藏书网",
+      "host": "99csw.com",
+      "pages_this_run": 0,
+      "successful_pages": 0,
       "failed_pages": 0,
-      "books_found": 80,
-      "books_added": 80,
-      "toc_written": 77,
-      "books_seen_total": 710,
-      "remaining_queue": 17919,
-      "seen_pages": 1120,
+      "books_found": 0,
+      "books_added": 0,
+      "toc_written": 0,
+      "books_seen_total": 0,
+      "remaining_queue": 0,
+      "seen_pages": 2,
       "done": false,
       "blocked": false,
       "needs_adapter": false
