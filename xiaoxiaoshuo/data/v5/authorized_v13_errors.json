@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T12:48:40+00:00",
+  "generated_at": "2026-09-02T12:53:04+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -1848,6 +1848,18 @@
       "source": "泡书吧小说网",
       "url": "https://www.ipaoshubaxs.net/author/双枪婆婆.html",
       "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-02T12:50:35+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/store/103-a-4-5-a-20-p-1-98",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-02T12:52:18+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/book/872474/",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }

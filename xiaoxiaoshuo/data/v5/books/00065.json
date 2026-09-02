@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-4e0ce2ed337c837bd837",
-      "title": "第17章 魏侯之怒（下）",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/plk_zheyao/37949.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 17,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:43+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-4e0ce2ed337c837bd837",
-        "ext-8418614448046904061"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/plk_zheyao/37949.html"
-      ]
-    },
-    {
       "id": "ext-c27b642865ba0869f674",
       "title": "第171章",
       "author": "",
@@ -7806,6 +7781,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/laojiumen/416801.html"
+      ]
+    },
+    {
+      "id": "ext-4b1f6f8e0ff461fdd0ca",
+      "title": "老九门之狗五",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/laojiumen/416799.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:41+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4b1f6f8e0ff461fdd0ca",
+        "ext-5569796152661453384"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/laojiumen/416799.html"
       ]
     }
   ]

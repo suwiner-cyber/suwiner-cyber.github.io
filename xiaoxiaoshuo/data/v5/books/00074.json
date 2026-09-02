@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-5532b22c979420593d00",
-      "title": "吴趼人: 恨海",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/old/2011/2567.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:29+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-5532b22c979420593d00",
-        "ext-7345413890063870284"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/old/2011/2567.html"
-      ]
-    },
-    {
       "id": "ext-9c81c8500f53df843ec3",
       "title": "吴趼人: 二十年目睹之怪现状",
       "author": "",
@@ -5040,6 +5015,31 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/736362"
+      ]
+    },
+    {
+      "id": "ext-4b5a27bf1976aa97d59b",
+      "title": "末世之开局激活我的世界面板 刘达大",
+      "author": "一柄墨刀",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2023/01/11/11/29/e0b3f19f33754041b9f23e1c6e2e79f5.jpg",
+      "source_url": "https://www.tadu.com/book/873516",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:50+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4b5a27bf1976aa97d59b",
+        "ext-3241839093666133671"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/873516"
       ]
     }
   ]

@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-158dce0e06e137fc69cf",
-      "title": "丁墨: 待我有罪时(待我醒来时)",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/11098/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-158dce0e06e137fc69cf",
-        "ext-8732652230270757498"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/11098/index.html"
-      ]
-    },
-    {
       "id": "ext-23bc8591bddaaec3de37",
       "title": "丁墨: 如果蜗牛有爱情",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/11-02-4222.html"
+      ]
+    },
+    {
+      "id": "ext-d91b6336556dad0b6533",
+      "title": "流潋紫: 鸭架粥",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2012/05-07-7704.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d91b6336556dad0b6533",
+        "ext-8995318116132229004"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2012/05-07-7704.html"
       ]
     }
   ]

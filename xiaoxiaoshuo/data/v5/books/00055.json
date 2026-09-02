@@ -1,58 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-4c50f046f64b3eb1d0aa",
-      "title": "第1节",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/shenyuan/443662.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:02+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/shenyuan/443662.html",
-        "https://www.kanunu8.com/book7/shenyuan/443668.html",
-        "https://www.kanunu8.com/book7/shenyuan/443674.html",
-        "https://www.kanunu8.com/book7/shenyuan/443680.html",
-        "https://www.kanunu8.com/book7/shenyuan/443686.html",
-        "https://www.kanunu8.com/book7/shenyuan/443692.html",
-        "https://www.kanunu8.com/book7/shenyuan/443698.html",
-        "https://www.kanunu8.com/book7/shenyuan/443704.html",
-        "https://www.kanunu8.com/book7/shenyuan/443712.html"
-      ],
-      "read_ids": [
-        "ext-4c50f046f64b3eb1d0aa",
-        "ext-5808492916286704045",
-        "ext-547954d7054f53eb4e46",
-        "ext-a41300cedc53b2e22b02",
-        "ext-469377bb338484f76382",
-        "ext-0d1ec3b97cdc92ef4d9d",
-        "ext-aefef097feeb922e60d8",
-        "ext-3d59b9e9cfd9dcd34868",
-        "ext-fe8f2c2b796ec63ff34e",
-        "ext-8090ea6737f7ec79e075"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/shenyuan/443662.html",
-        "https://www.kanunu8.com/book7/shenyuan/443668.html",
-        "https://www.kanunu8.com/book7/shenyuan/443674.html",
-        "https://www.kanunu8.com/book7/shenyuan/443680.html",
-        "https://www.kanunu8.com/book7/shenyuan/443686.html",
-        "https://www.kanunu8.com/book7/shenyuan/443692.html",
-        "https://www.kanunu8.com/book7/shenyuan/443698.html",
-        "https://www.kanunu8.com/book7/shenyuan/443704.html",
-        "https://www.kanunu8.com/book7/shenyuan/443712.html"
-      ]
-    },
-    {
       "id": "ext-5803107d538b147c6266",
       "title": "第四章 数独",
       "author": "",
@@ -5025,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/dby82/459711.html"
+      ]
+    },
+    {
+      "id": "ext-99fdfd2f061645e7cf1f",
+      "title": "第42章 白月光替身8",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/dby82/459710.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 42,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:58+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-99fdfd2f061645e7cf1f",
+        "ext-771992502723012484"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/dby82/459710.html"
       ]
     }
   ]
