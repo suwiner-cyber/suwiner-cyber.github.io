@@ -1,6 +1,456 @@
 {
   "books": [
     {
+      "id": "ext-dd643bef6164a95ca734",
+      "title": "曹雪芹: 红楼梦",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2449.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-dd643bef6164a95ca734",
+        "ext-161181650950831343"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2449.html"
+      ]
+    },
+    {
+      "id": "ext-870c0516b0aa2bd4e399",
+      "title": "无名氏: 海游记",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2565.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-870c0516b0aa2bd4e399",
+        "ext-268629041042361292"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2565.html"
+      ]
+    },
+    {
+      "id": "ext-d5546df2f731b8f573e3",
+      "title": "无名氏: 后宋慈云走国全传",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2564.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d5546df2f731b8f573e3",
+        "ext-7019635082492761278"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2564.html"
+      ]
+    },
+    {
+      "id": "ext-92dea21770f765688bd1",
+      "title": "无名氏: 五美缘全传",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2435.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-92dea21770f765688bd1",
+        "ext-634647785696377095"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2435.html"
+      ]
+    },
+    {
+      "id": "ext-43bb369cffa7d8788e65",
+      "title": "施耐庵: 水浒传",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2446.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-43bb369cffa7d8788e65",
+        "ext-6048602424035866729"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2446.html"
+      ]
+    },
+    {
+      "id": "ext-3341c6b21985b5211521",
+      "title": "文康: 儿女英雄传",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2557.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3341c6b21985b5211521",
+        "ext-830570786547230635"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2557.html"
+      ]
+    },
+    {
+      "id": "ext-81b92a9729ff15ab6fd1",
+      "title": "徐述夔: 快士传",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2569.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-81b92a9729ff15ab6fd1",
+        "ext-7851286736331297730"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2569.html"
+      ]
+    },
+    {
+      "id": "ext-9e9a4ca5f7f2fc5b7dfb",
+      "title": "徐枕亚: 玉梨魂",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2570.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9e9a4ca5f7f2fc5b7dfb",
+        "ext-7410256254448201135"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2570.html"
+      ]
+    },
+    {
+      "id": "ext-9ad85771b63aa54a2fad",
+      "title": "徐哲身: 大清三杰",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2571.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9ad85771b63aa54a2fad",
+        "ext-7292260191224887765"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2571.html"
+      ]
+    },
+    {
+      "id": "ext-dd4bcd533fe0bb0339cd",
+      "title": "弥坚堂主人: 终须梦",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2539.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-dd4bcd533fe0bb0339cd",
+        "ext-3584516783784188228"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2539.html"
+      ]
+    },
+    {
+      "id": "ext-e3b821890fbffca8118b",
+      "title": "宋慈: 洗冤集录",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2142.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e3b821890fbffca8118b",
+        "ext-6574507414509392067"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2142.html"
+      ]
+    },
+    {
+      "id": "ext-1b87122942dc99d90243",
+      "title": "守朴翁: 醒梦骈言",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2549.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1b87122942dc99d90243",
+        "ext-7911265942619937456"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2549.html"
+      ]
+    },
+    {
+      "id": "ext-abcbd6b4160d8a919df5",
+      "title": "孔尚任: 桃花扇",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2443.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-abcbd6b4160d8a919df5",
+        "ext-3427984936548868268"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2443.html"
+      ]
+    },
+    {
+      "id": "ext-116d23ff6568e111e60c",
+      "title": "如莲居士: 薛刚反唐",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2546.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-116d23ff6568e111e60c",
+        "ext-2832764977084432860"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2546.html"
+      ]
+    },
+    {
+      "id": "ext-cf98be837bf53e106afc",
+      "title": "墨憨斋: 醒名花",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2541.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-cf98be837bf53e106afc",
+        "ext-2140585528099190461"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2541.html"
+      ]
+    },
+    {
+      "id": "ext-4b07760d20c3420b94eb",
+      "title": "坐花散人: 风流悟",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2440.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4b07760d20c3420b94eb",
+        "ext-668178612304650226"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2440.html"
+      ]
+    },
+    {
+      "id": "ext-2ff0d78ca2b466b1050b",
+      "title": "唐芸洲: 七剑十三侠",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2554.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2ff0d78ca2b466b1050b",
+        "ext-1546418782712212563"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2554.html"
+      ]
+    },
+    {
+      "id": "ext-fd3cf243b040212a3955",
+      "title": "周骥良: 李鸿章与慈禧",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2491.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-fd3cf243b040212a3955",
+        "ext-7632155262126818798"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2491.html"
+      ]
+    },
+    {
       "id": "ext-5532b22c979420593d00",
       "title": "吴趼人: 恨海",
       "author": "",
@@ -4590,456 +5040,6 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/720885"
-      ]
-    },
-    {
-      "id": "ext-7716a8d05b4aa1fe0e5e",
-      "title": "龙之谷与镇魂街的奇遇 好溜的阿伟",
-      "author": "一念茫然",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2025/12/24/11/41/0182abaa96b04a28b4eab2e466135434_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/955986",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7716a8d05b4aa1fe0e5e",
-        "ext-5942837688786115365"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/955986"
-      ]
-    },
-    {
-      "id": "ext-02d7083898031071081e",
-      "title": "追寻青春梦 秦念",
-      "author": "沐雨漫希",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2021/09/09/15/23/770b6076302c4d8da7339d0f959beb44_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/889565",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-02d7083898031071081e",
-        "ext-5095014221054964907"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/889565"
-      ]
-    },
-    {
-      "id": "ext-22fe673d259f24076730",
-      "title": "西游记后记 曲东杰",
-      "author": "一念茫然",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2025/12/24/11/41/0182abaa96b04a28b4eab2e466135434_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/954422",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-22fe673d259f24076730",
-        "ext-7328253954334810623"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/954422"
-      ]
-    },
-    {
-      "id": "ext-aba419abb4318f23a54a",
-      "title": "血色芭蕾 微醺的夏天",
-      "author": "一念茫然",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2025/12/24/11/41/0182abaa96b04a28b4eab2e466135434_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/1050878",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-aba419abb4318f23a54a",
-        "ext-7683229876970861936"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/1050878"
-      ]
-    },
-    {
-      "id": "ext-03bb11e1b444723941e1",
-      "title": "白云街三侠传 HSG来日方长",
-      "author": "一念茫然",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2025/12/24/11/41/0182abaa96b04a28b4eab2e466135434_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/953514",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-03bb11e1b444723941e1",
-        "ext-8921857891593560901"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/953514"
-      ]
-    },
-    {
-      "id": "ext-dec9e0b936dd1819427b",
-      "title": "爱情观 1个小白",
-      "author": "一念茫然",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2025/12/24/11/41/0182abaa96b04a28b4eab2e466135434_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/954531",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-dec9e0b936dd1819427b",
-        "ext-8937321656532468517"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/954531"
-      ]
-    },
-    {
-      "id": "ext-efe54eebc0619f1aa505",
-      "title": "灵宅 月亮去哪里啦",
-      "author": "沐雨漫希",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2021/09/09/15/23/770b6076302c4d8da7339d0f959beb44_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/864279",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-efe54eebc0619f1aa505",
-        "ext-2700516321571636109"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/864279"
-      ]
-    },
-    {
-      "id": "ext-33881e77ac9f7901a388",
-      "title": "瀚海棠华 小花",
-      "author": "沐雨漫希",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2021/09/09/15/23/770b6076302c4d8da7339d0f959beb44_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/867515",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-33881e77ac9f7901a388",
-        "ext-7147749600616980020"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/867515"
-      ]
-    },
-    {
-      "id": "ext-3c2260daf8912a146df0",
-      "title": "漠北双刀客 一支破枪",
-      "author": "沐雨漫希",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2021/09/09/15/23/770b6076302c4d8da7339d0f959beb44_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/792501",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-3c2260daf8912a146df0",
-        "ext-7221678477452108847"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/792501"
-      ]
-    },
-    {
-      "id": "ext-53768241a8ea3f1cd721",
-      "title": "清尘空 清无空",
-      "author": "一念茫然",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2025/12/24/11/41/0182abaa96b04a28b4eab2e466135434_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/954974",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-53768241a8ea3f1cd721",
-        "ext-5758167076320188303"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/954974"
-      ]
-    },
-    {
-      "id": "ext-70a183dc9b088f6b4072",
-      "title": "末世中的帝王 作者：一念茫然 银票数：78",
-      "author": "一念茫然",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2025/12/24/11/41/0182abaa96b04a28b4eab2e466135434_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/1042531",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-70a183dc9b088f6b4072",
-        "ext-6722062851354790045"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/1042531"
-      ]
-    },
-    {
-      "id": "ext-932a2310314be84f8a34",
-      "title": "我的青春献给了职场小白 作者：沐雨漫希 日人气：10",
-      "author": "沐雨漫希",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2021/09/09/15/23/770b6076302c4d8da7339d0f959beb44_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/842023",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-932a2310314be84f8a34",
-        "ext-3570513207305546020"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/842023"
-      ]
-    },
-    {
-      "id": "ext-f155663215bf1510fa6c",
-      "title": "我的前夫二娃 子琇",
-      "author": "沐雨漫希",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2021/09/09/15/23/770b6076302c4d8da7339d0f959beb44_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/893697",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f155663215bf1510fa6c",
-        "ext-3430914082036531440"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/893697"
-      ]
-    },
-    {
-      "id": "ext-7023eff637063924e4ce",
-      "title": "我玩梦幻西游的那些年 市阁凌霄",
-      "author": "沐雨漫希",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2021/09/09/15/23/770b6076302c4d8da7339d0f959beb44_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/850718",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7023eff637063924e4ce",
-        "ext-3112636810348257327"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/850718"
-      ]
-    },
-    {
-      "id": "ext-7e4b9d66e24b5e58ff96",
-      "title": "怜悯 虚者唯心",
-      "author": "一念茫然",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2025/12/24/11/41/0182abaa96b04a28b4eab2e466135434_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/956302",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7e4b9d66e24b5e58ff96",
-        "ext-6918501382959470313"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/956302"
-      ]
-    },
-    {
-      "id": "ext-dabb4cda698a591c8008",
-      "title": "大学毕业去当兵 昊语人生",
-      "author": "沐雨漫希",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2021/09/09/15/23/770b6076302c4d8da7339d0f959beb44_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/892723",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-dabb4cda698a591c8008",
-        "ext-8572868510012731238"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/892723"
-      ]
-    },
-    {
-      "id": "ext-61a1e909106141c0b4a0",
-      "title": "基层工作那些事儿 夜深望星空",
-      "author": "沐雨漫希",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2021/09/09/15/23/770b6076302c4d8da7339d0f959beb44_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/794402",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-61a1e909106141c0b4a0",
-        "ext-8300078772436297178"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/794402"
-      ]
-    },
-    {
-      "id": "ext-c83fc94e2274fed3597b",
-      "title": "在人间爱你的十六年 南方荼蘼",
-      "author": "沐雨漫希",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2021/09/09/15/23/770b6076302c4d8da7339d0f959beb44_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/794615",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c83fc94e2274fed3597b",
-        "ext-6290987416399259774"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/794615"
       ]
     }
   ]
