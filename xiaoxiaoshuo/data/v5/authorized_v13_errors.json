@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T18:29:08+00:00",
+  "generated_at": "2026-09-02T18:31:16+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -2160,6 +2160,18 @@
       "source": "一七小说",
       "url": "https://www.1qxs.com/xs_1/16793.html",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-02T18:29:22+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=312921",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-02T18:30:26+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=391017",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }
