@@ -1,24 +1,719 @@
-<!doctype html><html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="light"><title>小小说管理后台</title><style>*{box-sizing:border-box}html,body{margin:0;min-height:100%;background:#f5f3ee;color:#24312b;font:14px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif}button,input{font:inherit}.hidden{display:none!important}.shell{display:flex;min-height:100vh}.side{width:232px;background:#20382f;color:#fff;padding:24px 16px;position:fixed;inset:0 auto 0 0}.brand{display:flex;gap:12px;align-items:center;padding:2px 8px 24px}.logo{width:42px;height:42px;border-radius:14px;background:#f1efe7;color:#315847;display:grid;place-items:center;font-size:20px;font-weight:800}.brand b{font-size:17px}.brand small{display:block;color:#9fb5aa}.nav button{display:flex;width:100%;align-items:center;gap:11px;color:#cbdad3;background:none;border:0;text-align:left;padding:11px 12px;border-radius:12px;margin:4px 0;cursor:pointer}.nav button:hover,.nav button.on{background:#315847;color:#fff}.dot{width:8px;height:8px;border-radius:50%;background:#78978a}.nav button.on .dot{background:white}.foot{position:absolute;bottom:22px;left:24px;color:#8da397;font-size:12px}.main{margin-left:232px;width:calc(100% - 232px);padding:28px 30px 48px}.top{display:flex;justify-content:space-between;align-items:center;margin-bottom:22px}.top h1{margin:0;color:#294b3d;font-size:26px}.top p{margin:5px 0 0;color:#8d8980}.userbox{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid #e8e5dc;border-radius:14px;padding:8px 9px 8px 14px}.userbox button{border:0;background:#f2f0ea;border-radius:9px;padding:7px 10px;cursor:pointer}.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}.stat,.card{background:#fff;border:1px solid #e8e5dc;border-radius:18px;box-shadow:0 5px 18px rgba(41,75,61,.035)}.stat{padding:18px}.stat .k{font-size:12px;color:#8e8a80}.stat .v{font-size:27px;font-weight:800;color:#315847;margin:7px 0 3px}.stat .s{font-size:12px;color:#aaa69b}.card{padding:20px;margin-top:16px}.card h2{margin:0 0 15px;font-size:17px;color:#2e493e}.twocol{display:grid;grid-template-columns:1.25fr .75fr;gap:16px}.sys{display:grid;grid-template-columns:170px 1fr;gap:0 14px}.sys div{padding:9px 0;border-bottom:1px solid #f0eee7}.muted{color:#959187}.pill{display:inline-block;padding:3px 8px;border-radius:99px;background:#eef4f0;color:#426b58;font-size:12px}.barrow{display:grid;grid-template-columns:110px 1fr 44px;gap:10px;align-items:center;margin:11px 0}.bar{height:8px;background:#edf0eb;border-radius:99px;overflow:hidden}.bar i{height:100%;display:block;background:#587e6d;border-radius:99px}.search{display:flex;gap:8px;margin-bottom:14px}.search input{flex:1;max-width:360px;border:1px solid #deddd7;background:#faf9f5;border-radius:11px;padding:10px 12px}.search button,.primary{border:0;background:#315847;color:white;border-radius:11px;padding:10px 15px;cursor:pointer}.tablewrap{overflow:auto}table{width:100%;border-collapse:collapse;min-width:760px}th{text-align:left;font-size:12px;color:#8f8b82;padding:10px;border-bottom:1px solid #ece9e1}td{padding:12px 10px;border-bottom:1px solid #f0eee7;vertical-align:top}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12px}.auth{min-height:100vh;display:grid;place-items:center;padding:20px}.loginbox{width:min(440px,100%);background:#fff;border:1px solid #e7e3da;border-radius:24px;padding:30px;box-shadow:0 18px 60px rgba(39,64,53,.08)}.loginhead{display:flex;gap:13px;align-items:center;margin-bottom:24px}.loginhead h1{margin:0;color:#315847;font-size:23px}.loginhead p{margin:2px 0;color:#999389}.field{margin:13px 0}.field label{display:block;font-size:12px;color:#77756e;margin-bottom:6px}.field input{width:100%;border:1px solid #dddcd5;border-radius:12px;padding:12px 13px;font-size:15px}.submit{width:100%;border:0;background:#315847;color:#fff;border-radius:12px;padding:12px;font-size:15px;font-weight:700;margin-top:10px;cursor:pointer}.hint{background:#f4f7f4;color:#68756d;border-radius:10px;padding:10px 12px;font-size:12px}.error{background:#fff1ef;color:#a64b44;border-radius:10px;padding:10px 12px;margin:12px 0}.empty{text-align:center;color:#99958b;padding:30px}.loading{padding:70px;text-align:center;color:#777}.toast{position:fixed;right:22px;bottom:22px;background:#243b31;color:#fff;padding:11px 14px;border-radius:11px;box-shadow:0 10px 30px #0002;z-index:99}@media(max-width:980px){.grid{grid-template-columns:repeat(2,1fr)}.twocol{grid-template-columns:1fr}}@media(max-width:720px){.side{width:70px;padding:18px 10px}.brand>div:not(.logo),.nav span,.foot{display:none}.nav button{justify-content:center}.main{margin-left:70px;width:calc(100% - 70px);padding:18px 12px}.grid{grid-template-columns:1fr 1fr}.userbox span{display:none}}</style></head><body><div id="auth" class="auth"><div class="loginbox"><div class="loginhead"><div class="logo">小</div><div><h1>小小说管理后台</h1><p id="authSub">正在连接管理服务…</p></div></div><div id="authError" class="error hidden"></div><form id="authForm" class="hidden"><div class="field"><label>管理员账号</label><input id="username" autocomplete="username" required minlength="3" maxlength="32"></div><div class="field"><label>管理员密码</label><input id="password" type="password" required minlength="8"></div><div id="confirmWrap" class="field hidden"><label>确认密码</label><input id="confirm" type="password" minlength="8"></div><div id="setupHint" class="hint hidden">首次使用请创建管理员。密码至少8位，并同时包含英文字母和数字。</div><button id="authBtn" class="submit">登录后台</button></form></div></div><div id="app" class="shell hidden"><aside class="side"><div class="brand"><div class="logo">小</div><div><b>小小说后台</b><small>Management Center</small></div></div><nav class="nav" id="nav"></nav><div class="foot">Admin v2.2<br>Supabase + GitHub Pages</div></aside><main class="main"><header class="top"><div><h1 id="title">仪表盘</h1><p id="subtitle">查看小小说实时运行概况</p></div><div class="userbox"><span id="adminName">admin</span><button id="logout">退出</button></div></header><div id="content" class="loading">正在读取数据…</div></main></div><div id="toast" class="toast hidden"></div><script>
-const API='https://cgjwbyvebzstiucmuyou.supabase.co/functions/v1/xiaoxiaoshuo-admin';
-const S={token:sessionStorage.getItem('xxs_admin_token')||'',admin:'',mode:'login',page:'dashboard'};
-const NAV=[['dashboard','仪表盘','查看小小说实时运行概况'],['users','用户管理','注册用户与最近活跃'],['reading','阅读数据','阅读进度、章节和时长'],['sessions','会话设备','APP会话与终端版本'],['cache','缓存中心','缓存记录与占用空间'],['events','事件日志','功能使用与页面行为'],['system','系统状态','数据库和管理后台运行情况']];
-const $=s=>document.querySelector(s), esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-function toast(s){$('#toast').textContent=s;$('#toast').classList.remove('hidden');setTimeout(()=>$('#toast').classList.add('hidden'),2200)}
-async function api(action,opts={}){const h={'Content-Type':'application/json'};if(S.token)h.Authorization='Bearer '+S.token;const r=await fetch(API+'?api='+encodeURIComponent(action),{...opts,headers:{...h,...(opts.headers||{})}});let j={};try{j=await r.json()}catch{}if(!r.ok)throw new Error(j.message||('请求失败 '+r.status));return j}
-async function boot(){try{const b=await api('bootstrap');if(S.token){try{const m=await api('me');S.admin=m.username;showApp();return}catch{S.token='';sessionStorage.removeItem('xxs_admin_token')}}showAuth(b.needsSetup?'setup':'login')}catch(e){showAuth('login');err('管理服务连接失败，请刷新后重试：'+e.message)}}
-function showAuth(mode){S.mode=mode;$('#auth').classList.remove('hidden');$('#app').classList.add('hidden');$('#authForm').classList.remove('hidden');$('#authSub').textContent=mode==='setup'?'首次使用 · 创建管理员':'用户、阅读与缓存管理';$('#confirmWrap').classList.toggle('hidden',mode!=='setup');$('#setupHint').classList.toggle('hidden',mode!=='setup');$('#authBtn').textContent=mode==='setup'?'创建管理员并进入':'登录后台';$('#password').autocomplete=mode==='setup'?'new-password':'current-password'}
-function err(s){$('#authError').textContent=s;$('#authError').classList.remove('hidden')}
-$('#authForm').addEventListener('submit',async e=>{e.preventDefault();$('#authError').classList.add('hidden');const username=$('#username').value.trim(),password=$('#password').value,confirm=$('#confirm').value;try{const j=await api(S.mode==='setup'?'setup':'login',{method:'POST',body:JSON.stringify({username,password,confirm})});S.token=j.token;S.admin=j.username;sessionStorage.setItem('xxs_admin_token',S.token);showApp()}catch(x){err(x.message)}});
-function showApp(){ $('#auth').classList.add('hidden');$('#app').classList.remove('hidden');$('#adminName').textContent=S.admin||'管理员';const nav=$('#nav');nav.innerHTML=NAV.map(([k,n])=>`<button data-page="${k}"><i class="dot"></i><span>${n}</span></button>`).join('');nav.onclick=e=>{const b=e.target.closest('button');if(b)loadPage(b.dataset.page)};loadPage(S.page)}
-$('#logout').onclick=async()=>{try{await api('logout',{method:'POST',body:'{}'})}catch{}sessionStorage.removeItem('xxs_admin_token');S.token='';location.reload()};
-function bytes(n){n=Number(n||0);if(!n)return'0 B';const u=['B','KB','MB','GB','TB'];let i=0;while(n>=1024&&i<u.length-1){n/=1024;i++}return n.toFixed(i?1:0)+' '+u[i]}
-function dur(s){s=Number(s||0);const h=Math.floor(s/3600),m=Math.floor((s%3600)/60);return h?`${h}小时${m}分`:`${m}分钟`}
-function tm(v){if(!v)return'—';try{return new Intl.DateTimeFormat('zh-CN',{year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hour12:false}).format(new Date(v))}catch{return'—'}}
-async function loadPage(p){S.page=p;document.querySelectorAll('#nav button').forEach(x=>x.classList.toggle('on',x.dataset.page===p));const meta=NAV.find(x=>x[0]===p)||NAV[0];$('#title').textContent=meta[1];$('#subtitle').textContent=meta[2];$('#content').className='loading';$('#content').textContent='正在读取数据…';try{if(p==='dashboard')renderDashboard(await api('summary'));else if(p==='system')renderSystem(await api('system'));else renderList(p,await api('list&page='+encodeURIComponent(p)))}catch(e){$('#content').className='card';$('#content').innerHTML=`<div class="empty">加载失败：${esc(e.message)}</div>`}}
-function renderDashboard(j){$('#content').className='';const vm=j.versions||{},mx=Math.max(1,...Object.values(vm));const bars=Object.entries(vm).sort((a,b)=>b[1]-a[1]).slice(0,6).map(([v,n])=>`<div class="barrow"><span>${esc(v)}</span><div class="bar"><i style="width:${Math.round(n/mx*100)}%"></i></div><b>${n}</b></div>`).join('')||'<div class="empty">暂无版本数据</div>';$('#content').innerHTML=`<section class="grid"><div class="stat"><div class="k">注册用户</div><div class="v">${j.users||0}</div><div class="s">累计用户</div></div><div class="stat"><div class="k">设备</div><div class="v">${j.devices||0}</div><div class="s">已记录终端</div></div><div class="stat"><div class="k">24小时会话</div><div class="v">${j.sessions24h||0}</div><div class="s">APP启动会话</div></div><div class="stat"><div class="k">24小时阅读</div><div class="v">${dur(j.readSeconds24h)}</div><div class="s">累计阅读时长</div></div></section><section class="twocol"><div class="card"><h2>近7天 APP 版本</h2>${bars}</div><div class="card"><h2>缓存概览</h2><div class="sys"><div>缓存记录</div><div>${j.cacheRecords||0}</div><div>缓存体积</div><div>${bytes(j.cacheBytes)}</div><div>公共小说缓存</div><div>${j.publicCache||0}</div><div>24小时事件</div><div>${j.events24h||0}</div></div></div></section>`}
-const heads={users:['用户','联系方式','创建时间','最近活跃'],reading:['书籍 / 章节','用户 / 设备','进度','时长','更新时间'],sessions:['设备','版本','网络','开始时间','时长'],cache:['类型','书籍 / 键','章节','大小','状态','更新时间'],events:['事件','页面','设备','版本','时间']};
-function row(p,x){if(p==='users')return`<tr><td><strong>${esc(x.display_name||x.external_user_id||'匿名用户')}</strong><br><span class="mono muted">${esc(String(x.id||'').slice(0,8))}</span></td><td>${esc(x.phone_masked||x.email_masked||'—')}</td><td>${tm(x.created_at)}</td><td>${tm(x.last_seen_at)}</td></tr>`;if(p==='reading')return`<tr><td><strong>${esc(x.book_title||x.book_id||'未知书籍')}</strong><br><span class="muted">${esc(x.chapter_title||('第'+(Number(x.chapter_index||0)+1)+'章'))}</span></td><td class="mono">${esc(x.user_id?String(x.user_id).slice(0,8):x.device_id)}</td><td>${x.progress==null?'—':Math.round(Number(x.progress)*100)+'%'}</td><td>${dur(x.read_seconds)}</td><td>${tm(x.updated_at)}</td></tr>`;if(p==='sessions')return`<tr><td class="mono">${esc(x.device_id)}</td><td><span class="pill">${esc(x.app_version||'未知')}</span></td><td>${esc(x.network_type||'—')}</td><td>${tm(x.started_at)}</td><td>${x.duration_seconds?dur(x.duration_seconds):'—'}</td></tr>`;if(p==='cache')return`<tr><td><span class="pill">${esc(x.cache_type)}</span></td><td>${esc(x.book_id||x.cache_key||'—')}</td><td>${x.chapter_index==null?'—':Number(x.chapter_index)+1}</td><td>${bytes(x.size_bytes)}</td><td>${esc(x.status)}</td><td>${tm(x.updated_at)}</td></tr>`;return`<tr><td><strong>${esc(x.event_name)}</strong></td><td>${esc(x.screen_name||'—')}</td><td class="mono">${esc(x.device_id)}</td><td>${esc(x.app_version||'—')}</td><td>${tm(x.occurred_at)}</td></tr>`}
-function renderList(p,j){$('#content').className='';let data=j.items||[];const h=heads[p];$('#content').innerHTML=`<div class="card"><div class="search"><input id="filter" placeholder="搜索当前数据"><button id="filterBtn">搜索</button></div><div class="tablewrap"><table><thead><tr>${h.map(x=>`<th>${x}</th>`).join('')}</tr></thead><tbody id="tbody"></tbody></table></div></div>`;const draw=()=>{const q=$('#filter').value.toLowerCase();const a=data.filter(x=>!q||JSON.stringify(x).toLowerCase().includes(q));$('#tbody').innerHTML=a.map(x=>row(p,x)).join('')||`<tr><td colspan="${h.length}" class="empty">暂无数据</td></tr>`};$('#filterBtn').onclick=draw;$('#filter').oninput=draw;draw()}
-function renderSystem(j){$('#content').className='';$('#content').innerHTML=`<div class="card"><h2>服务状态</h2><div class="sys"><div>云端项目</div><div><span class="pill">ACTIVE HEALTHY</span></div><div>后台版本</div><div>Static Admin v2.2</div><div>数据库</div><div>PostgreSQL / Supabase</div>${Object.entries(j.counts||{}).map(([k,v])=>`<div>${esc(k)}</div><div>${v} 条</div>`).join('')}</div></div>`}
-boot();
-</script></body></html>
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="color-scheme" content="light" />
+    <title>小小说管理后台</title>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+      html,
+      body {
+        margin: 0;
+        min-height: 100%;
+        background: #f5f3ee;
+        color: #24312b;
+        font:
+          14px/1.55 -apple-system,
+          BlinkMacSystemFont,
+          "Segoe UI",
+          "PingFang SC",
+          "Microsoft YaHei",
+          sans-serif;
+      }
+      button,
+      input {
+        font: inherit;
+      }
+      .hidden {
+        display: none !important;
+      }
+      .shell {
+        display: flex;
+        min-height: 100vh;
+      }
+      .side {
+        width: 232px;
+        background: #20382f;
+        color: #fff;
+        padding: 24px 16px;
+        position: fixed;
+        inset: 0 auto 0 0;
+      }
+      .brand {
+        display: flex;
+        gap: 12px;
+        align-items: center;
+        padding: 2px 8px 24px;
+      }
+      .logo {
+        width: 42px;
+        height: 42px;
+        border-radius: 14px;
+        background: #f1efe7;
+        color: #315847;
+        display: grid;
+        place-items: center;
+        font-size: 20px;
+        font-weight: 800;
+      }
+      .brand b {
+        font-size: 17px;
+      }
+      .brand small {
+        display: block;
+        color: #9fb5aa;
+      }
+      .nav button {
+        display: flex;
+        width: 100%;
+        align-items: center;
+        gap: 11px;
+        color: #cbdad3;
+        background: none;
+        border: 0;
+        text-align: left;
+        padding: 11px 12px;
+        border-radius: 12px;
+        margin: 4px 0;
+        cursor: pointer;
+      }
+      .nav button:hover,
+      .nav button.on {
+        background: #315847;
+        color: #fff;
+      }
+      .dot {
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        background: #78978a;
+      }
+      .nav button.on .dot {
+        background: white;
+      }
+      .foot {
+        position: absolute;
+        bottom: 22px;
+        left: 24px;
+        color: #8da397;
+        font-size: 12px;
+      }
+      .main {
+        margin-left: 232px;
+        width: calc(100% - 232px);
+        padding: 28px 30px 48px;
+      }
+      .top {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 22px;
+      }
+      .top h1 {
+        margin: 0;
+        color: #294b3d;
+        font-size: 26px;
+      }
+      .top p {
+        margin: 5px 0 0;
+        color: #8d8980;
+      }
+      .userbox {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        background: #fff;
+        border: 1px solid #e8e5dc;
+        border-radius: 14px;
+        padding: 8px 9px 8px 14px;
+      }
+      .userbox button {
+        border: 0;
+        background: #f2f0ea;
+        border-radius: 9px;
+        padding: 7px 10px;
+        cursor: pointer;
+      }
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 14px;
+      }
+      .stat,
+      .card {
+        background: #fff;
+        border: 1px solid #e8e5dc;
+        border-radius: 18px;
+        box-shadow: 0 5px 18px rgba(41, 75, 61, 0.035);
+      }
+      .stat {
+        padding: 18px;
+      }
+      .stat .k {
+        font-size: 12px;
+        color: #8e8a80;
+      }
+      .stat .v {
+        font-size: 27px;
+        font-weight: 800;
+        color: #315847;
+        margin: 7px 0 3px;
+      }
+      .stat .s {
+        font-size: 12px;
+        color: #aaa69b;
+      }
+      .card {
+        padding: 20px;
+        margin-top: 16px;
+      }
+      .card h2 {
+        margin: 0 0 15px;
+        font-size: 17px;
+        color: #2e493e;
+      }
+      .twocol {
+        display: grid;
+        grid-template-columns: 1.25fr 0.75fr;
+        gap: 16px;
+      }
+      .sys {
+        display: grid;
+        grid-template-columns: 170px 1fr;
+        gap: 0 14px;
+      }
+      .sys div {
+        padding: 9px 0;
+        border-bottom: 1px solid #f0eee7;
+      }
+      .muted {
+        color: #959187;
+      }
+      .pill {
+        display: inline-block;
+        padding: 3px 8px;
+        border-radius: 99px;
+        background: #eef4f0;
+        color: #426b58;
+        font-size: 12px;
+      }
+      .barrow {
+        display: grid;
+        grid-template-columns: 110px 1fr 44px;
+        gap: 10px;
+        align-items: center;
+        margin: 11px 0;
+      }
+      .bar {
+        height: 8px;
+        background: #edf0eb;
+        border-radius: 99px;
+        overflow: hidden;
+      }
+      .bar i {
+        height: 100%;
+        display: block;
+        background: #587e6d;
+        border-radius: 99px;
+      }
+      .search {
+        display: flex;
+        gap: 8px;
+        margin-bottom: 14px;
+      }
+      .search input {
+        flex: 1;
+        max-width: 360px;
+        border: 1px solid #deddd7;
+        background: #faf9f5;
+        border-radius: 11px;
+        padding: 10px 12px;
+      }
+      .search button,
+      .primary {
+        border: 0;
+        background: #315847;
+        color: white;
+        border-radius: 11px;
+        padding: 10px 15px;
+        cursor: pointer;
+      }
+      .tablewrap {
+        overflow: auto;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        min-width: 760px;
+      }
+      th {
+        text-align: left;
+        font-size: 12px;
+        color: #8f8b82;
+        padding: 10px;
+        border-bottom: 1px solid #ece9e1;
+      }
+      td {
+        padding: 12px 10px;
+        border-bottom: 1px solid #f0eee7;
+        vertical-align: top;
+      }
+      .mono {
+        font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+        font-size: 12px;
+      }
+      .auth {
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+        padding: 20px;
+      }
+      .loginbox {
+        width: min(440px, 100%);
+        background: #fff;
+        border: 1px solid #e7e3da;
+        border-radius: 24px;
+        padding: 30px;
+        box-shadow: 0 18px 60px rgba(39, 64, 53, 0.08);
+      }
+      .loginhead {
+        display: flex;
+        gap: 13px;
+        align-items: center;
+        margin-bottom: 24px;
+      }
+      .loginhead h1 {
+        margin: 0;
+        color: #315847;
+        font-size: 23px;
+      }
+      .loginhead p {
+        margin: 2px 0;
+        color: #999389;
+      }
+      .field {
+        margin: 13px 0;
+      }
+      .field label {
+        display: block;
+        font-size: 12px;
+        color: #77756e;
+        margin-bottom: 6px;
+      }
+      .field input {
+        width: 100%;
+        border: 1px solid #dddcd5;
+        border-radius: 12px;
+        padding: 12px 13px;
+        font-size: 15px;
+      }
+      .submit {
+        width: 100%;
+        border: 0;
+        background: #315847;
+        color: #fff;
+        border-radius: 12px;
+        padding: 12px;
+        font-size: 15px;
+        font-weight: 700;
+        margin-top: 10px;
+        cursor: pointer;
+      }
+      .hint {
+        background: #f4f7f4;
+        color: #68756d;
+        border-radius: 10px;
+        padding: 10px 12px;
+        font-size: 12px;
+      }
+      .error {
+        background: #fff1ef;
+        color: #a64b44;
+        border-radius: 10px;
+        padding: 10px 12px;
+        margin: 12px 0;
+      }
+      .empty {
+        text-align: center;
+        color: #99958b;
+        padding: 30px;
+      }
+      .loading {
+        padding: 70px;
+        text-align: center;
+        color: #777;
+      }
+      .toast {
+        position: fixed;
+        right: 22px;
+        bottom: 22px;
+        background: #243b31;
+        color: #fff;
+        padding: 11px 14px;
+        border-radius: 11px;
+        box-shadow: 0 10px 30px #0002;
+        z-index: 99;
+      }
+      @media (max-width: 980px) {
+        .grid {
+          grid-template-columns: repeat(2, 1fr);
+        }
+        .twocol {
+          grid-template-columns: 1fr;
+        }
+      }
+      @media (max-width: 720px) {
+        .side {
+          width: 70px;
+          padding: 18px 10px;
+        }
+        .brand > div:not(.logo),
+        .nav span,
+        .foot {
+          display: none;
+        }
+        .nav button {
+          justify-content: center;
+        }
+        .main {
+          margin-left: 70px;
+          width: calc(100% - 70px);
+          padding: 18px 12px;
+        }
+        .grid {
+          grid-template-columns: 1fr 1fr;
+        }
+        .userbox span {
+          display: none;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="auth" class="auth">
+      <div class="loginbox">
+        <div class="loginhead">
+          <div class="logo">小</div>
+          <div>
+            <h1>小小说管理后台</h1>
+            <p id="authSub">正在连接管理服务…</p>
+          </div>
+        </div>
+        <div id="authError" class="error hidden"></div>
+        <form id="authForm" class="hidden">
+          <div class="field">
+            <label>管理员账号</label
+            ><input
+              id="username"
+              autocomplete="username"
+              required
+              minlength="3"
+              maxlength="32"
+            />
+          </div>
+          <div class="field">
+            <label>管理员密码</label
+            ><input id="password" type="password" required minlength="8" />
+          </div>
+          <div id="confirmWrap" class="field hidden">
+            <label>确认密码</label
+            ><input id="confirm" type="password" minlength="8" />
+          </div>
+          <div id="setupHint" class="hint hidden">
+            首次使用请创建管理员。密码至少8位，并同时包含英文字母和数字。
+          </div>
+          <button id="authBtn" class="submit">登录后台</button>
+        </form>
+      </div>
+    </div>
+    <div id="app" class="shell hidden">
+      <aside class="side">
+        <div class="brand">
+          <div class="logo">小</div>
+          <div><b>小小说后台</b><small>Management Center</small></div>
+        </div>
+        <nav class="nav" id="nav"></nav>
+        <div class="foot">Admin v2.3<br />Supabase + GitHub Pages</div>
+      </aside>
+      <main class="main">
+        <header class="top">
+          <div>
+            <h1 id="title">仪表盘</h1>
+            <p id="subtitle">查看小小说实时运行概况</p>
+          </div>
+          <div class="userbox">
+            <span id="adminName">admin</span><button id="logout">退出</button>
+          </div>
+        </header>
+        <div id="content" class="loading">正在读取数据…</div>
+      </main>
+    </div>
+    <div id="toast" class="toast hidden"></div>
+    <script>
+      const API =
+        "https://cgjwbyvebzstiucmuyou.supabase.co/functions/v1/xiaoxiaoshuo-admin";
+      const S = {
+        token: sessionStorage.getItem("xxs_admin_token") || "",
+        admin: "",
+        mode: "login",
+        page: "dashboard",
+      };
+      const NAV = [
+        ["dashboard", "仪表盘", "查看小小说实时运行概况"],
+        ["users", "用户管理", "注册用户与最近活跃"],
+        ["reading", "阅读数据", "阅读进度、章节和时长"],
+        ["sessions", "会话设备", "APP会话与终端版本"],
+        ["cache", "缓存中心", "按用户与设备查看缓存记录和占用空间"],
+        ["events", "事件日志", "功能使用与页面行为"],
+        ["system", "系统状态", "数据库和管理后台运行情况"],
+      ];
+      const $ = (s) => document.querySelector(s),
+        esc = (v) =>
+          String(v ?? "").replace(
+            /[&<>"']/g,
+            (c) =>
+              ({
+                "&": "&amp;",
+                "<": "&lt;",
+                ">": "&gt;",
+                '"': "&quot;",
+                "'": "&#39;",
+              })[c],
+          );
+      function toast(s) {
+        $("#toast").textContent = s;
+        $("#toast").classList.remove("hidden");
+        setTimeout(() => $("#toast").classList.add("hidden"), 2200);
+      }
+      async function api(action, opts = {}) {
+        const h = { "Content-Type": "application/json" };
+        if (S.token) h.Authorization = "Bearer " + S.token;
+        const r = await fetch(API + "?api=" + encodeURIComponent(action), {
+          ...opts,
+          headers: { ...h, ...(opts.headers || {}) },
+        });
+        let j = {};
+        try {
+          j = await r.json();
+        } catch {}
+        if (!r.ok) throw new Error(j.message || "请求失败 " + r.status);
+        return j;
+      }
+      async function boot() {
+        try {
+          const b = await api("bootstrap");
+          if (S.token) {
+            try {
+              const m = await api("me");
+              S.admin = m.username;
+              showApp();
+              return;
+            } catch {
+              S.token = "";
+              sessionStorage.removeItem("xxs_admin_token");
+            }
+          }
+          showAuth(b.needsSetup ? "setup" : "login");
+        } catch (e) {
+          showAuth("login");
+          err("管理服务连接失败，请刷新后重试：" + e.message);
+        }
+      }
+      function showAuth(mode) {
+        S.mode = mode;
+        $("#auth").classList.remove("hidden");
+        $("#app").classList.add("hidden");
+        $("#authForm").classList.remove("hidden");
+        $("#authSub").textContent =
+          mode === "setup" ? "首次使用 · 创建管理员" : "用户、阅读与缓存管理";
+        $("#confirmWrap").classList.toggle("hidden", mode !== "setup");
+        $("#setupHint").classList.toggle("hidden", mode !== "setup");
+        $("#authBtn").textContent =
+          mode === "setup" ? "创建管理员并进入" : "登录后台";
+        $("#password").autocomplete =
+          mode === "setup" ? "new-password" : "current-password";
+      }
+      function err(s) {
+        $("#authError").textContent = s;
+        $("#authError").classList.remove("hidden");
+      }
+      $("#authForm").addEventListener("submit", async (e) => {
+        e.preventDefault();
+        $("#authError").classList.add("hidden");
+        const username = $("#username").value.trim(),
+          password = $("#password").value,
+          confirm = $("#confirm").value;
+        try {
+          const j = await api(S.mode === "setup" ? "setup" : "login", {
+            method: "POST",
+            body: JSON.stringify({ username, password, confirm }),
+          });
+          S.token = j.token;
+          S.admin = j.username;
+          sessionStorage.setItem("xxs_admin_token", S.token);
+          showApp();
+        } catch (x) {
+          err(x.message);
+        }
+      });
+      function showApp() {
+        $("#auth").classList.add("hidden");
+        $("#app").classList.remove("hidden");
+        $("#adminName").textContent = S.admin || "管理员";
+        const nav = $("#nav");
+        nav.innerHTML = NAV.map(
+          ([k, n]) =>
+            `<button data-page="${k}"><i class="dot"></i><span>${n}</span></button>`,
+        ).join("");
+        nav.onclick = (e) => {
+          const b = e.target.closest("button");
+          if (b) loadPage(b.dataset.page);
+        };
+        loadPage(S.page);
+      }
+      $("#logout").onclick = async () => {
+        try {
+          await api("logout", { method: "POST", body: "{}" });
+        } catch {}
+        sessionStorage.removeItem("xxs_admin_token");
+        S.token = "";
+        location.reload();
+      };
+      function bytes(n) {
+        n = Number(n || 0);
+        if (!n) return "0 B";
+        const u = ["B", "KB", "MB", "GB", "TB"];
+        let i = 0;
+        while (n >= 1024 && i < u.length - 1) {
+          n /= 1024;
+          i++;
+        }
+        return n.toFixed(i ? 1 : 0) + " " + u[i];
+      }
+      function dur(s) {
+        s = Number(s || 0);
+        const h = Math.floor(s / 3600),
+          m = Math.floor((s % 3600) / 60);
+        return h ? `${h}小时${m}分` : `${m}分钟`;
+      }
+      function tm(v) {
+        if (!v) return "—";
+        try {
+          return new Intl.DateTimeFormat("zh-CN", {
+            year: "numeric",
+            month: "2-digit",
+            day: "2-digit",
+            hour: "2-digit",
+            minute: "2-digit",
+            hour12: false,
+          }).format(new Date(v));
+        } catch {
+          return "—";
+        }
+      }
+      async function loadPage(p) {
+        S.page = p;
+        document
+          .querySelectorAll("#nav button")
+          .forEach((x) => x.classList.toggle("on", x.dataset.page === p));
+        const meta = NAV.find((x) => x[0] === p) || NAV[0];
+        $("#title").textContent = meta[1];
+        $("#subtitle").textContent = meta[2];
+        $("#content").className = "loading";
+        $("#content").textContent = "正在读取数据…";
+        try {
+          if (p === "dashboard") renderDashboard(await api("summary"));
+          else if (p === "system") renderSystem(await api("system"));
+          else renderList(p, await api("list&page=" + encodeURIComponent(p)));
+        } catch (e) {
+          $("#content").className = "card";
+          $("#content").innerHTML =
+            `<div class="empty">加载失败：${esc(e.message)}</div>`;
+        }
+      }
+      function renderDashboard(j) {
+        $("#content").className = "";
+        const vm = j.versions || {},
+          mx = Math.max(1, ...Object.values(vm));
+        const bars =
+          Object.entries(vm)
+            .sort((a, b) => b[1] - a[1])
+            .slice(0, 6)
+            .map(
+              ([v, n]) =>
+                `<div class="barrow"><span>${esc(v)}</span><div class="bar"><i style="width:${Math.round((n / mx) * 100)}%"></i></div><b>${n}</b></div>`,
+            )
+            .join("") || '<div class="empty">暂无版本数据</div>';
+        $("#content").innerHTML =
+          `<section class="grid"><div class="stat"><div class="k">注册用户</div><div class="v">${j.users || 0}</div><div class="s">累计用户</div></div><div class="stat"><div class="k">设备</div><div class="v">${j.devices || 0}</div><div class="s">已记录终端</div></div><div class="stat"><div class="k">24小时会话</div><div class="v">${j.sessions24h || 0}</div><div class="s">APP启动会话</div></div><div class="stat"><div class="k">24小时阅读</div><div class="v">${dur(j.readSeconds24h)}</div><div class="s">累计阅读时长</div></div></section><section class="twocol"><div class="card"><h2>近7天 APP 版本</h2>${bars}</div><div class="card"><h2>缓存概览</h2><div class="sys"><div>缓存记录</div><div>${j.cacheRecords || 0}</div><div>缓存体积</div><div>${bytes(j.cacheBytes)}</div><div>公共小说缓存</div><div>${j.publicCache || 0}</div><div>24小时事件</div><div>${j.events24h || 0}</div></div></div></section>`;
+      }
+      const heads = {
+        users: ["用户", "联系方式", "创建时间", "最近活跃"],
+        reading: ["书籍 / 章节", "用户 / 设备", "进度", "时长", "更新时间"],
+        sessions: ["设备", "版本", "网络", "开始时间", "时长"],
+        cache: [
+          "用户 / 设备",
+          "类型",
+          "书籍 / 键",
+          "章节",
+          "大小",
+          "状态",
+          "更新时间",
+        ],
+        events: ["事件", "页面", "设备", "版本", "时间"],
+      };
+      function row(p, x) {
+        if (p === "users")
+          return `<tr><td><strong>${esc(x.display_name || x.external_user_id || "匿名用户")}</strong><br><span class="mono muted">${esc(String(x.id || "").slice(0, 8))}</span></td><td>${esc(x.phone_masked || x.email_masked || "—")}</td><td>${tm(x.created_at)}</td><td>${tm(x.last_seen_at)}</td></tr>`;
+        if (p === "reading")
+          return `<tr><td><strong>${esc(x.book_title || x.book_id || "未知书籍")}</strong><br><span class="muted">${esc(x.chapter_title || "第" + (Number(x.chapter_index || 0) + 1) + "章")}</span></td><td class="mono">${esc(x.user_id ? String(x.user_id).slice(0, 8) : x.device_id)}</td><td>${x.progress == null ? "—" : Math.round(Number(x.progress) * 100) + "%"}</td><td>${dur(x.read_seconds)}</td><td>${tm(x.updated_at)}</td></tr>`;
+        if (p === "sessions")
+          return `<tr><td class="mono">${esc(x.device_id)}</td><td><span class="pill">${esc(x.app_version || "未知")}</span></td><td>${esc(x.network_type || "—")}</td><td>${tm(x.started_at)}</td><td>${x.duration_seconds ? dur(x.duration_seconds) : "—"}</td></tr>`;
+        if (p === "cache") {
+          const owner =
+            x.display_name ||
+            x.username ||
+            (x.user_id
+              ? "用户 " + String(x.user_id).slice(0, 8)
+              : x.device_id
+                ? "设备 " + String(x.device_id).slice(0, 12)
+                : "公共缓存");
+          return `<tr><td><strong>${esc(owner)}</strong><br><span class="mono muted">${esc(x.user_id || x.device_id || "PUBLIC")}</span></td><td><span class="pill">${esc(x.cache_type)}</span></td><td>${esc(x.book_title || x.book_id || x.cache_key || "—")}</td><td>${x.chapter_index == null ? "—" : Number(x.chapter_index) + 1}</td><td>${bytes(x.size_bytes)}</td><td>${esc(x.status || "已缓存")}</td><td>${tm(x.updated_at)}</td></tr>`;
+        }
+        return `<tr><td><strong>${esc(x.event_name)}</strong></td><td>${esc(x.screen_name || "—")}</td><td class="mono">${esc(x.device_id)}</td><td>${esc(x.app_version || "—")}</td><td>${tm(x.occurred_at)}</td></tr>`;
+      }
+      function renderList(p, j) {
+        $("#content").className = "";
+        let data = j.items || [];
+        const h = heads[p];
+        $("#content").innerHTML =
+          `<div class="card"><div class="search"><input id="filter" placeholder="搜索当前数据"><button id="filterBtn">搜索</button></div><div class="tablewrap"><table><thead><tr>${h.map((x) => `<th>${x}</th>`).join("")}</tr></thead><tbody id="tbody"></tbody></table></div></div>`;
+        const draw = () => {
+          const q = $("#filter").value.toLowerCase();
+          const a = data.filter(
+            (x) => !q || JSON.stringify(x).toLowerCase().includes(q),
+          );
+          $("#tbody").innerHTML =
+            a.map((x) => row(p, x)).join("") ||
+            `<tr><td colspan="${h.length}" class="empty">暂无数据</td></tr>`;
+        };
+        $("#filterBtn").onclick = draw;
+        $("#filter").oninput = draw;
+        draw();
+      }
+      function renderSystem(j) {
+        $("#content").className = "";
+        $("#content").innerHTML =
+          `<div class="card"><h2>服务状态</h2><div class="sys"><div>云端项目</div><div><span class="pill">ACTIVE HEALTHY</span></div><div>后台版本</div><div>Static Admin v2.3</div><div>数据库</div><div>PostgreSQL / Supabase</div>${Object.entries(
+            j.counts || {},
+          )
+            .map(([k, v]) => `<div>${esc(k)}</div><div>${v} 条</div>`)
+            .join("")}</div></div>`;
+      }
+      boot();
+    </script>
+  </body>
+</html>
