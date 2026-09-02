@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T18:33:31+00:00",
+  "generated_at": "2026-09-02T18:34:58+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -2172,6 +2172,54 @@
       "source": "飘天文学",
       "url": "https://www.piaotia.com/userinfo.php?id=391017",
       "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-02T18:33:58+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/黑城月音.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-02T18:34:06+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/不是奸商.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-02T18:34:14+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/来条咸鱼吗.html",
+      "error": "'ascii' codec can't encode characters in position 12-16: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-02T18:34:23+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/王不悔.html",
+      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-02T18:34:28+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/掘土小坦克.html",
+      "error": "'ascii' codec can't encode characters in position 12-16: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-02T18:34:39+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/千年以后2.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-02T18:34:44+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/蒸宝.html",
+      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-02T18:34:52+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/双枪婆婆.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
     }
   ]
 }
