@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-31a619a85e4fbb323986",
-      "title": "艾未未: 所有人问所有人",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-03-994.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-31a619a85e4fbb323986",
-        "ext-4736521163380178190"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-03-994.html"
-      ]
-    },
-    {
       "id": "ext-895d5acaaf227b7f873b",
       "title": "老王子: 合唱",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/old/2011/2564.html"
+      ]
+    },
+    {
+      "id": "ext-92dea21770f765688bd1",
+      "title": "无名氏: 五美缘全传",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2435.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-92dea21770f765688bd1",
+        "ext-634647785696377095"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2435.html"
       ]
     }
   ]

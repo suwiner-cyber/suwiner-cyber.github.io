@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-befa12f569f53846037a",
-      "title": "第31章 王母仙药",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/plk_zheyao/37963.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 31,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:43+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-befa12f569f53846037a",
-        "ext-5833459436279790246"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/plk_zheyao/37963.html"
-      ]
-    },
-    {
       "id": "ext-4b0d65a90b6541c4fba0",
       "title": "第30章 备膳",
       "author": "",
@@ -7746,6 +7721,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zhuyu/171934.html"
+      ]
+    },
+    {
+      "id": "ext-d8678f703a663e972b23",
+      "title": "番外：李怀安篇",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171930.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d8678f703a663e972b23",
+        "ext-4721053857271072617"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171930.html"
       ]
     }
   ]

@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-80f65ae75182d3ec4d23",
-      "title": "第9章 不卖",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/gnbk26/204271.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:38+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-80f65ae75182d3ec4d23",
-        "ext-7828929487703134730"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/gnbk26/204271.html"
-      ]
-    },
-    {
       "id": "ext-f99209a8b3e36bd47408",
       "title": "第99章 相撞",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book3/6977/index.html"
+      ]
+    },
+    {
+      "id": "ext-7bf17f6f2d3adc789ade",
+      "title": "蔡骏: 地狱变",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/8661/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-7bf17f6f2d3adc789ade",
+        "ext-7368921966330304958"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/8661/index.html"
       ]
     }
   ]

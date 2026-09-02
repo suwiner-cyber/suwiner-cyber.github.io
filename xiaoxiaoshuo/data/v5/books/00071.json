@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-7bf17f6f2d3adc789ade",
-      "title": "蔡骏: 地狱变",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book4/8661/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:36+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7bf17f6f2d3adc789ade",
-        "ext-7368921966330304958"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/8661/index.html"
-      ]
-    },
-    {
       "id": "ext-900d0535362223eb407f",
       "title": "艾西: 蓝裙子杀人事件",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book3/6476/index.html"
+      ]
+    },
+    {
+      "id": "ext-3ca5c995c910eb277b8d",
+      "title": "梅奥·西蒙: 大西洋底来的人",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6458/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3ca5c995c910eb277b8d",
+        "ext-4144279043849251863"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6458/index.html"
       ]
     }
   ]

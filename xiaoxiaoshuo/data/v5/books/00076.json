@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-92dea21770f765688bd1",
-      "title": "无名氏: 五美缘全传",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/old/2011/2435.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:29+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-92dea21770f765688bd1",
-        "ext-634647785696377095"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/old/2011/2435.html"
-      ]
-    },
-    {
       "id": "ext-43bb369cffa7d8788e65",
       "title": "施耐庵: 水浒传",
       "author": "",
@@ -5040,6 +5015,31 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/985159"
+      ]
+    },
+    {
+      "id": "ext-c7343ec0f24d057a3113",
+      "title": "走阴夜话之打更人 彤山煮茶",
+      "author": "水龙吟",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2022/05/07/11/56/0ce7f6b91d884e58a4ab308e4f24c052_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/904713",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:53+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c7343ec0f24d057a3113",
+        "ext-5492261176998318044"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/904713"
       ]
     }
   ]

@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-3edfea635b7a64c32cef",
-      "title": "番外-后续7",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dby67/470130.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:55+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-3edfea635b7a64c32cef",
-        "ext-4549114510071956149"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dby67/470130.html"
-      ]
-    },
-    {
       "id": "ext-7d3e653d092692fa083c",
       "title": "番外-后续6",
       "author": "",
@@ -5274,6 +5249,37 @@
       "read_sources": [
         "https://www.kanunu8.com/book7/datangpizhuji/481745.html",
         "https://www.kanunu8.com/book7/hxshn92/485305.html"
+      ]
+    },
+    {
+      "id": "ext-d239b5666750f53ab169",
+      "title": "第189章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/datangpizhuji/481744.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 154,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:52+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/datangpizhuji/481744.html",
+        "https://www.kanunu8.com/book7/hxshn92/485304.html"
+      ],
+      "read_ids": [
+        "ext-d239b5666750f53ab169",
+        "ext-3768688449376602729",
+        "ext-2cdfefc3d50147f25fbe"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/datangpizhuji/481744.html",
+        "https://www.kanunu8.com/book7/hxshn92/485304.html"
       ]
     }
   ]

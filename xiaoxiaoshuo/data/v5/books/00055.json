@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-e0869fb41ce156f22fc1",
-      "title": "第二十二章 金刚杵",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450430.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e0869fb41ce156f22fc1",
-        "ext-5060001464017308334"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450430.html"
-      ]
-    },
-    {
       "id": "ext-86613d1a66c281ad711f",
       "title": "第二十二章 花样",
       "author": "",
@@ -5031,6 +5006,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/ttcbuzhu/48212.html"
+      ]
+    },
+    {
+      "id": "ext-eb73fd9674fab13241af",
+      "title": "第81章 藏不住",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/ttcbuzhu/48211.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 81,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:06+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-eb73fd9674fab13241af",
+        "ext-3172804195639107177"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/ttcbuzhu/48211.html"
       ]
     }
   ]

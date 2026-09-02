@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-3ca5c995c910eb277b8d",
-      "title": "梅奥·西蒙: 大西洋底来的人",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6458/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-3ca5c995c910eb277b8d",
-        "ext-4144279043849251863"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6458/index.html"
-      ]
-    },
-    {
       "id": "ext-42050b24becf2d44f72f",
       "title": "柳文扬: 解咒人",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/xunhuan/201106/3090.html"
+      ]
+    },
+    {
+      "id": "ext-a3c416cf793c9ca1bbf2",
+      "title": "[韩]全民熙: 符文之子（1）冬日之剑",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/xunhuan/201106/3089.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:34+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a3c416cf793c9ca1bbf2",
+        "ext-5028411844864261247"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/xunhuan/201106/3089.html"
       ]
     }
   ]
