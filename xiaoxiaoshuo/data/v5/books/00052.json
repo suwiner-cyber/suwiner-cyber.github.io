@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-1c160228953efde41ecc",
+      "title": "第88章 湖水恶臭的秘密",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/10669/356304.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 88,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:03+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1c160228953efde41ecc",
+        "ext-1575167213095384265"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10669/356304.html"
+      ]
+    },
+    {
+      "id": "ext-ecbe9606422eb46fb603",
+      "title": "第87章 替身",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/10669/356303.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:03+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ecbe9606422eb46fb603",
+        "ext-1739403466261686528"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10669/356303.html"
+      ]
+    },
+    {
       "id": "ext-ab21e1985c1c95aefeef",
       "title": "第86章 意外发现",
       "author": "",
@@ -5089,56 +5139,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/qy_jlwxs/35620.html"
-      ]
-    },
-    {
-      "id": "ext-9bf4d12fe058bd84b9ae",
-      "title": "第62章 62号登机口",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/qy_jlwxs/35619.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 62,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:59+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-9bf4d12fe058bd84b9ae",
-        "ext-6459209793400713125"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/qy_jlwxs/35619.html"
-      ]
-    },
-    {
-      "id": "ext-908f60b5585c98990f6b",
-      "title": "第61章 61号登机口",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/qy_jlwxs/35618.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 61,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:59+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-908f60b5585c98990f6b",
-        "ext-4557540228471241785"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/qy_jlwxs/35618.html"
       ]
     }
   ]

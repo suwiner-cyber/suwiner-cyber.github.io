@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-971052cf4103bd7931fc",
+      "title": "余以键: 纸上的姐妹",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10670/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-971052cf4103bd7931fc",
+        "ext-6004544490336413874"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10670/index.html"
+      ]
+    },
+    {
+      "id": "ext-ac9fad41920c8e702aaa",
+      "title": "余以键: 死刑之后",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10654/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ac9fad41920c8e702aaa",
+        "ext-1865927847269762788"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10654/index.html"
+      ]
+    },
+    {
       "id": "ext-0cc60b7194c4234aa4ac",
       "title": "九把刀: 都市恐怖病系列·狼嚎",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book3/6776/index.html"
-      ]
-    },
-    {
-      "id": "ext-1b599c0044f16e0c2261",
-      "title": "萧如瑟: 九州·斛珠夫人",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6775/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1b599c0044f16e0c2261",
-        "ext-2189858670011045159"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6775/index.html"
-      ]
-    },
-    {
-      "id": "ext-5f8d3337b57d6773c2dd",
-      "title": "菲利普·普尔曼: 魔法神刀(黑质三步曲Ⅱ)",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/200805/567.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-5f8d3337b57d6773c2dd",
-        "ext-6521739225991815611"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/200805/567.html"
       ]
     }
   ]

@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-bfd4b96093c4c49582da",
+      "title": "李承鹏: 李可乐抗拆记",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/dushi/201103/1806.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-bfd4b96093c4c49582da",
+        "ext-4766390311015948668"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/dushi/201103/1806.html"
+      ]
+    },
+    {
+      "id": "ext-22aab87431a19b516051",
+      "title": "李承鹏: 寻人启事(李可乐寻人记)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/chinese/201103/1828.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-22aab87431a19b516051",
+        "ext-1874636424728182670"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/chinese/201103/1828.html"
+      ]
+    },
+    {
       "id": "ext-39676ffc9c301a9f6b32",
       "title": "李承鹏: 你是我的敌人",
       "author": "",
@@ -4990,56 +5040,6 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/742853"
-      ]
-    },
-    {
-      "id": "ext-8ec480bd812d59eefa56",
-      "title": "高达SD：我真的只想抱大腿 花醉客",
-      "author": "隔江",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2020/08/17/13/26/a1ac2218bb264866ab9c23d23d990d54_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/807216",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-8ec480bd812d59eefa56",
-        "ext-5967066511848262414"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/807216"
-      ]
-    },
-    {
-      "id": "ext-205080636283a2a2e007",
-      "title": "都市：我每周一个新身份 万千繁星",
-      "author": "隔江",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2020/08/17/13/26/a1ac2218bb264866ab9c23d23d990d54_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/741535",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-205080636283a2a2e007",
-        "ext-7913102064615439965"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/741535"
       ]
     }
   ]

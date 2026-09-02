@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-2647c5d200b929136f81",
+      "title": "乐小米(纪伟娜): 沈园",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1192.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2647c5d200b929136f81",
+        "ext-8894135931453197100"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-16-1192.html"
+      ]
+    },
+    {
+      "id": "ext-dc936213c5ab33f1a872",
+      "title": "乐小米(纪伟娜): 水色胭脂",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1158.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-dc936213c5ab33f1a872",
+        "ext-3053398343573816790"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-16-1158.html"
+      ]
+    },
+    {
       "id": "ext-24b0177fc4ea92a90503",
       "title": "乐小米(纪伟娜): 梦境过期居留",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/dushi/201103/2131.html"
-      ]
-    },
-    {
-      "id": "ext-bfd4b96093c4c49582da",
-      "title": "李承鹏: 李可乐抗拆记",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/dushi/201103/1806.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-bfd4b96093c4c49582da",
-        "ext-4766390311015948668"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/dushi/201103/1806.html"
-      ]
-    },
-    {
-      "id": "ext-22aab87431a19b516051",
-      "title": "李承鹏: 寻人启事(李可乐寻人记)",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/chinese/201103/1828.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-22aab87431a19b516051",
-        "ext-1874636424728182670"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/chinese/201103/1828.html"
       ]
     }
   ]

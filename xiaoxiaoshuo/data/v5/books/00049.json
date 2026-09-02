@@ -1,6 +1,65 @@
 {
   "books": [
     {
+      "id": "ext-5ad92286aa6fa440632b",
+      "title": "第20章 知道",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/tianjieyese/451975.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:10+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-5ad92286aa6fa440632b",
+        "ext-8951572209789960256"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/tianjieyese/451975.html"
+      ]
+    },
+    {
+      "id": "ext-6ce516166fdee127325c",
+      "title": "第1章 楔子",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/tianjieyese/451956.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:10+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/tianjieyese/451956.html",
+        "https://www.kanunu8.com/book7/xingguanghaian/457272.html",
+        "https://www.kanunu8.com/book7/jianchuqiao/445512.html"
+      ],
+      "read_ids": [
+        "ext-6ce516166fdee127325c",
+        "ext-2049404225154407695",
+        "ext-cea62ebc1dc7b5ad9a99",
+        "ext-f2c6462a5b3b6ca1e20b"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/tianjieyese/451956.html",
+        "https://www.kanunu8.com/book7/xingguanghaian/457272.html",
+        "https://www.kanunu8.com/book7/jianchuqiao/445512.html"
+      ]
+    },
+    {
       "id": "ext-c4759a215a03a85c3515",
       "title": "第19章 知道",
       "author": "",
@@ -4948,56 +5007,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450399.html"
-      ]
-    },
-    {
-      "id": "ext-3600c4b1af002f9aed04",
-      "title": "第六十一章 笑靥",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450291.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-3600c4b1af002f9aed04",
-        "ext-4555870201920212547"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450291.html"
-      ]
-    },
-    {
-      "id": "ext-97322b869ebadb9bfe72",
-      "title": "第六十一章 揭幕",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450209.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-97322b869ebadb9bfe72",
-        "ext-660691655530751674"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450209.html"
       ]
     }
   ]

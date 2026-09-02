@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-2084303f4949f55c4909",
+      "title": "无极: 邪仙1",
+      "author": "",
+      "kind": "",
+      "status": "已完结",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/7968/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:31+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2084303f4949f55c4909",
+        "ext-8379471060042404803"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/7968/index.html"
+      ]
+    },
+    {
+      "id": "ext-711332d95880bf561869",
+      "title": "方想: 修真世界",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/yuanchuang/201106/3172.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:31+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-711332d95880bf561869",
+        "ext-1619311017678927947"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/yuanchuang/201106/3172.html"
+      ]
+    },
+    {
       "id": "ext-581ee7ff046005c6a872",
       "title": "文山樵人: 盗墓迷津",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/01-16-1141.html"
-      ]
-    },
-    {
-      "id": "ext-2647c5d200b929136f81",
-      "title": "乐小米(纪伟娜): 沈园",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1192.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-2647c5d200b929136f81",
-        "ext-8894135931453197100"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-16-1192.html"
-      ]
-    },
-    {
-      "id": "ext-dc936213c5ab33f1a872",
-      "title": "乐小米(纪伟娜): 水色胭脂",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1158.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-dc936213c5ab33f1a872",
-        "ext-3053398343573816790"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-16-1158.html"
       ]
     }
   ]

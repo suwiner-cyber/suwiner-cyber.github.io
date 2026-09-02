@@ -1,6 +1,71 @@
 {
   "books": [
     {
+      "id": "ext-f0d4186736413edb1809",
+      "title": "第三十章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/462876.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462876.html",
+        "https://www.kanunu8.com/book7/dby67/469972.html",
+        "https://www.kanunu8.com/book5/2j15ri/113955.html"
+      ],
+      "read_ids": [
+        "ext-f0d4186736413edb1809",
+        "ext-456051233414877377",
+        "ext-0c5b54987bb8198b21c0",
+        "ext-e6ab5d6727cd19566ce1"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462876.html",
+        "https://www.kanunu8.com/book7/dby67/469972.html",
+        "https://www.kanunu8.com/book5/2j15ri/113955.html"
+      ]
+    },
+    {
+      "id": "ext-c5ad10d3e8e380eae4cd",
+      "title": "第三十四章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/462880.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462880.html",
+        "https://www.kanunu8.com/book7/dby67/469976.html"
+      ],
+      "read_ids": [
+        "ext-c5ad10d3e8e380eae4cd",
+        "ext-7982829729456579165",
+        "ext-8e2f666a7fa360f85cf6"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462880.html",
+        "https://www.kanunu8.com/book7/dby67/469976.html"
+      ]
+    },
+    {
       "id": "ext-346fffeb0f882c2fac73",
       "title": "第三十六章",
       "author": "",
@@ -5572,56 +5637,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/463174.html"
-      ]
-    },
-    {
-      "id": "ext-765bf89026470d1a8089",
-      "title": "番外三十二",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/463171.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-765bf89026470d1a8089",
-        "ext-4168786443210758173"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/463171.html"
-      ]
-    },
-    {
-      "id": "ext-72911c5bf9707f520299",
-      "title": "番外三十九",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/463178.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-72911c5bf9707f520299",
-        "ext-9174490922978151219"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/463178.html"
       ]
     }
   ]
