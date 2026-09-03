@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-a10a29a0627a6832c80d",
-      "title": "第102章 江湖第一美人",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dby79/458283.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 102,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:56+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a10a29a0627a6832c80d",
-        "ext-2696968124872514458"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dby79/458283.html"
-      ]
-    },
-    {
       "id": "ext-6fd3a3b682316c6c0220",
       "title": "第101章 江湖第一美人",
       "author": "",
@@ -5244,6 +5219,37 @@
       "read_sources": [
         "https://www.kanunu8.com/book7/datangpizhuji/481750.html",
         "https://www.kanunu8.com/book7/hxshn92/485310.html"
+      ]
+    },
+    {
+      "id": "ext-795127d32e9da21a7b91",
+      "title": "第194章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/datangpizhuji/481749.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 154,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:52+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/datangpizhuji/481749.html",
+        "https://www.kanunu8.com/book7/hxshn92/485309.html"
+      ],
+      "read_ids": [
+        "ext-795127d32e9da21a7b91",
+        "ext-2531733879971824479",
+        "ext-49d5f2ebd160f4782063"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/datangpizhuji/481749.html",
+        "https://www.kanunu8.com/book7/hxshn92/485309.html"
       ]
     }
   ]

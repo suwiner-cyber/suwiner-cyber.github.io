@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-2fdd67e9081a903e7526",
-      "title": "蔡骏: 沉没之鱼",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/8659/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:36+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-2fdd67e9081a903e7526",
-        "ext-7762989918339198126"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/8659/index.html"
-      ]
-    },
-    {
       "id": "ext-df0948a89036b225dfc0",
       "title": "蔡骏: 旋转门",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book3/6418/index.html"
+      ]
+    },
+    {
+      "id": "ext-9cf9bb7d28609fd8e3d7",
+      "title": "燕垒生: 忘川水",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6416/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9cf9bb7d28609fd8e3d7",
+        "ext-6199086940465726676"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6416/index.html"
       ]
     }
   ]

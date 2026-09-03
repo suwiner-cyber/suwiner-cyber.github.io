@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-ccc3a783d2c5f01dee02",
-      "title": "第3章 比彘",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/plk_zheyao/37935.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:43+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ccc3a783d2c5f01dee02",
-        "ext-1380828140661912284"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/plk_zheyao/37935.html"
-      ]
-    },
-    {
       "id": "ext-98881bec4ac53fc8a626",
       "title": "第35章 二更",
       "author": "",
@@ -7710,6 +7685,49 @@
         "https://www.kanunu8.com/book7/datangpizhuji/481659.html",
         "https://www.kanunu8.com/book7/hxshn92/485216.html",
         "https://www.kanunu8.com/book5/yiouchun/80384.html"
+      ]
+    },
+    {
+      "id": "ext-86ef8b10b3792fddfa18",
+      "title": "第101章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171857.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171857.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/38033.html",
+        "https://www.kanunu8.com/book7/75chyriji/463373.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481658.html",
+        "https://www.kanunu8.com/book7/hxshn92/485215.html",
+        "https://www.kanunu8.com/book5/yiouchun/80383.html"
+      ],
+      "read_ids": [
+        "ext-86ef8b10b3792fddfa18",
+        "ext-681855653224889308",
+        "ext-5072bec02b3dd9e67c3c",
+        "ext-c7b0089de940a419029e",
+        "ext-222d8e2a3bf1acf23c34",
+        "ext-7000f638d1779f34e52b",
+        "ext-b0d43afff9b3d4172e31"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171857.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/38033.html",
+        "https://www.kanunu8.com/book7/75chyriji/463373.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481658.html",
+        "https://www.kanunu8.com/book7/hxshn92/485215.html",
+        "https://www.kanunu8.com/book5/yiouchun/80383.html"
       ]
     }
   ]

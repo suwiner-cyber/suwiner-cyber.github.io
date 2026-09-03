@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-895d5acaaf227b7f873b",
-      "title": "老王子: 合唱",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-03-997.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-895d5acaaf227b7f873b",
-        "ext-1433184216139730002"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-03-997.html"
-      ]
-    },
-    {
       "id": "ext-d550889633906ecdaf5b",
       "title": "罗永浩: 秋菊男的故事",
       "author": "",
@@ -5040,6 +5015,31 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/808980"
+      ]
+    },
+    {
+      "id": "ext-c49b994e6e37105a7165",
+      "title": "微甜的怦然心动 墨天凝儿",
+      "author": "湖藻",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2019/07/12/12/17/b685145643c6475eaa43be4d2ed7b006_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/815116",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:21+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c49b994e6e37105a7165",
+        "ext-44307006171860129"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/815116"
       ]
     }
   ]
