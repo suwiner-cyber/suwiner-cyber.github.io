@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T00:39:57+00:00",
+  "generated_at": "2026-09-03T00:41:37+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -2250,6 +2250,42 @@
       "source": "飘天文学",
       "url": "https://www.piaotia.com/userinfo.php?id=400484",
       "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-03T00:40:26+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/梦境与北海.html",
+      "error": "'ascii' codec can't encode characters in position 12-16: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-03T00:40:28+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/三分钱的糖.html",
+      "error": "'ascii' codec can't encode characters in position 12-16: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-03T00:40:32+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/飞蛇在森.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-03T00:40:36+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/墨兰清雅.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-03T00:41:00+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/不要大脑要小脑.html",
+      "error": "'ascii' codec can't encode characters in position 12-18: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-03T00:41:30+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/廿虹.html",
+      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
     }
   ]
 }
