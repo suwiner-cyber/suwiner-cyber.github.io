@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T12:33:07+00:00",
+  "generated_at": "2026-09-03T12:34:26+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -2424,6 +2424,36 @@
       "source": "泡书吧小说网",
       "url": "https://www.ipaoshubaxs.net/author/小羊羔白又白.html",
       "error": "'ascii' codec can't encode characters in position 12-17: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-03T12:33:28+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=429063",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-03T12:33:31+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=428667",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-03T12:33:57+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=430506",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-03T12:33:58+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=395876",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-03T12:33:59+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=442980",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }
