@@ -1,7 +1,7 @@
 {
   "version": 14,
-  "generated_at": "2026-09-03T00:48:01+00:00",
-  "total": 18204,
+  "generated_at": "2026-09-03T00:48:11+00:00",
+  "total": 18201,
   "shard_size": 200,
   "shards": [
     {
@@ -370,11 +370,11 @@
     },
     {
       "file": "books/00092.json",
-      "count": 4
+      "count": 1
     }
   ],
   "source_counts": {
-    "AAAKS小说": 1012,
+    "AAAKS小说": 1009,
     "泡书吧小说网": 1319,
     "乐文小说": 1216,
     "和图书": 751,
@@ -597,7 +597,7 @@
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "aaaks.com",
+  "last_published_source": "99csw.com",
   "id_scheme": "stable-v4-aliases",
   "metadata_sanitized": true,
   "text_only": true
