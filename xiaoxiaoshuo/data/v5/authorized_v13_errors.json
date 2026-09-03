@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T06:36:04+00:00",
+  "generated_at": "2026-09-03T06:37:43+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -2334,6 +2334,54 @@
       "source": "飘天文学",
       "url": "https://www.piaotia.com/userinfo.php?id=446794",
       "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-03T06:36:27+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/鸿月之欣.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-03T06:36:32+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/爱吃甏肉的焱妃.html",
+      "error": "'ascii' codec can't encode characters in position 12-18: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-03T06:36:34+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/钧垚垚.html",
+      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-03T06:37:12+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/猫儿桥土.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-03T06:37:20+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/一道森冷的天苍茧.html",
+      "error": "'ascii' codec can't encode characters in position 12-19: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-03T06:37:21+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/趁热.html",
+      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-03T06:37:22+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/任风萧.html",
+      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-03T06:37:31+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/小羊羔白又白.html",
+      "error": "'ascii' codec can't encode characters in position 12-17: ordinal not in range(128)"
     }
   ]
 }
