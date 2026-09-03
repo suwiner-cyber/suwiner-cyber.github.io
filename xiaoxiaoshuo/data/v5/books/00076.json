@@ -1,56 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-0313fb3baa388131ff3b",
-      "title": "第13章 今日宜发财",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/phbfshce/473490.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 13,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:45+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-0313fb3baa388131ff3b",
-        "ext-7964297058300716567"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/phbfshce/473490.html"
-      ]
-    },
-    {
-      "id": "ext-5378c45499dbeded0b1b",
-      "title": "第137章 正文完结",
-      "author": "",
-      "kind": "",
-      "status": "已完结",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/phbfshce/473614.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 137,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:45+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-5378c45499dbeded0b1b",
-        "ext-2614416674765833085"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/phbfshce/473614.html"
-      ]
-    },
-    {
       "id": "ext-dda59eae1eb074720dc5",
       "title": "第136章 一些日常和后续",
       "author": "",
@@ -6975,6 +6925,68 @@
         "https://www.kanunu8.com/book5/plk_zheyao/38083.html",
         "https://www.kanunu8.com/book7/75chyriji/463423.html",
         "https://www.kanunu8.com/book7/hxshn92/485265.html"
+      ]
+    },
+    {
+      "id": "ext-ea7b847ba5a427ed9753",
+      "title": "第150章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171906.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171906.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/38082.html",
+        "https://www.kanunu8.com/book7/75chyriji/463422.html",
+        "https://www.kanunu8.com/book7/hxshn92/485264.html"
+      ],
+      "read_ids": [
+        "ext-ea7b847ba5a427ed9753",
+        "ext-8463497588575599072",
+        "ext-def9d73e70ceccd9da67",
+        "ext-e26fef0c0c93467ff07d",
+        "ext-4ea56154fe1f7c856b53"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171906.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/38082.html",
+        "https://www.kanunu8.com/book7/75chyriji/463422.html",
+        "https://www.kanunu8.com/book7/hxshn92/485264.html"
+      ]
+    },
+    {
+      "id": "ext-05fb96ea52aaa3c655b2",
+      "title": "第14章 他看见了",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171770.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 14,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-05fb96ea52aaa3c655b2",
+        "ext-4220926506079649846"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171770.html"
       ]
     }
   ]

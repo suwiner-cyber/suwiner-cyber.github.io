@@ -1,56 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-bb20c1085aa2455a39b3",
-      "title": "番外六：梁成敏",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/gnbk26/204406.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:38+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-bb20c1085aa2455a39b3",
-        "ext-5998718377833750141"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/gnbk26/204406.html"
-      ]
-    },
-    {
-      "id": "ext-4ef5e735468bedb6e2df",
-      "title": "番外八：念桃",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/gnbk26/204408.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:38+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-4ef5e735468bedb6e2df",
-        "ext-1690514579458822855"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/gnbk26/204408.html"
-      ]
-    },
-    {
       "id": "ext-ae7d68a1c09d9b55bc0a",
       "title": "番外五：梁成敏",
       "author": "",
@@ -4998,6 +4948,56 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book3/7741/index.html"
+      ]
+    },
+    {
+      "id": "ext-8ba383fda5d9c7a9bae3",
+      "title": "阿瑟·C·克拉克: 拉玛真相",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/7740/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8ba383fda5d9c7a9bae3",
+        "ext-1912553513547120015"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/7740/index.html"
+      ]
+    },
+    {
+      "id": "ext-986ffc5e025f885294d3",
+      "title": "阿瑟·C·克拉克: 拉玛2号",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/7742/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-986ffc5e025f885294d3",
+        "ext-7162284659099874691"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/7742/index.html"
       ]
     }
   ]
