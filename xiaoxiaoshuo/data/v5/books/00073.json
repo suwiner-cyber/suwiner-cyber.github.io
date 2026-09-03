@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-10de4089f7726687d3cc",
+      "title": "番外一百零二",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463241.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-10de4089f7726687d3cc",
+        "ext-8743722153579806268"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463241.html"
+      ]
+    },
+    {
+      "id": "ext-5a70e94e00630f65e699",
+      "title": "番外一百零九",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463248.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-5a70e94e00630f65e699",
+        "ext-3177017515316880327"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463248.html"
+      ]
+    },
+    {
       "id": "ext-d5dc97205971e7012421",
       "title": "番外一百零三",
       "author": "",
@@ -5383,56 +5433,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/phbfshce/473512.html"
-      ]
-    },
-    {
-      "id": "ext-80c743557938d5ec5267",
-      "title": "第34章 不是也得给她是！",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/phbfshce/473511.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 34,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:45+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-80c743557938d5ec5267",
-        "ext-3176278869429858966"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/phbfshce/473511.html"
-      ]
-    },
-    {
-      "id": "ext-958fcbdcde1b5e64beab",
-      "title": "第33章 这一夜，谢子殷没睡好。",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/phbfshce/473510.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 33,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:45+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-958fcbdcde1b5e64beab",
-        "ext-837912757197857521"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/phbfshce/473510.html"
       ]
     }
   ]

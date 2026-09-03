@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-a5811235bb5c056acca5",
+      "title": "乐小米(纪伟娜): 你是谁的浅唇我是谁的眉",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1170.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a5811235bb5c056acca5",
+        "ext-3310237356133145652"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-16-1170.html"
+      ]
+    },
+    {
       "id": "ext-7b39f754c6577262b8d0",
       "title": "乐小米(纪伟娜): 你听，你听，风，过境无声",
       "author": "",
@@ -5015,31 +5040,6 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/468423"
-      ]
-    },
-    {
-      "id": "ext-bb8c38fb33c667c9157a",
-      "title": "网游：我的宠物能无限进化 C调",
-      "author": "命给你行不行",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2023/07/07/11/11/b772781809574cebb5fc4e1134946810_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/737706",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:43+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-bb8c38fb33c667c9157a",
-        "ext-8336270713956577197"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/737706"
       ]
     }
   ]

@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-d22aefc07bfbf5399ea4",
+      "title": "第7章 月亮响，潮水涨",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/xingguanghaian/457278.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 7,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:12+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d22aefc07bfbf5399ea4",
+        "ext-6749942751642567855"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/xingguanghaian/457278.html"
+      ]
+    },
+    {
+      "id": "ext-767d780e15b7dabad6f7",
+      "title": "第79章 三尺冻，事事休",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/xingguanghaian/457350.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 79,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:12+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-767d780e15b7dabad6f7",
+        "ext-6233844360994023263"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/xingguanghaian/457350.html"
+      ]
+    },
+    {
       "id": "ext-8cb5bb30e6286f6e5db4",
       "title": "第78章 三尺冻，事事休",
       "author": "",
@@ -4957,56 +5007,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/heqinghaiyan/451305.html"
-      ]
-    },
-    {
-      "id": "ext-c43ba6ff4c1debb03213",
-      "title": "番外 南柯一梦",
-      "author": "",
-      "kind": "",
-      "status": "已完结",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/heqinghaiyan/451295.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:09+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c43ba6ff4c1debb03213",
-        "ext-1050346904266376593"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/heqinghaiyan/451295.html"
-      ]
-    },
-    {
-      "id": "ext-57a47bfd4ac8251ebe4d",
-      "title": "番外 减肥",
-      "author": "",
-      "kind": "",
-      "status": "已完结",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/heqinghaiyan/451304.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:09+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-57a47bfd4ac8251ebe4d",
-        "ext-7471298857684005180"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/heqinghaiyan/451304.html"
       ]
     }
   ]

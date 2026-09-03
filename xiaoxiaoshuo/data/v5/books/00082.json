@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-e0ba7918cfdede9f07a3",
+      "title": "刘猛: 如临大敌",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/7955/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:31+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e0ba7918cfdede9f07a3",
+        "ext-8090543948963851810"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/7955/index.html"
+      ]
+    },
+    {
+      "id": "ext-b11db02e6d95159d7258",
+      "title": "刘猛: 危机四伏",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/7957/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:31+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b11db02e6d95159d7258",
+        "ext-6208901360197119621"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/7957/index.html"
+      ]
+    },
+    {
       "id": "ext-890fb99669df8c929cb8",
       "title": "刘猛: 刺客",
       "author": "",
@@ -823,31 +873,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/01-03-980.html"
-      ]
-    },
-    {
-      "id": "ext-dc67a3ee7c82e4b53c21",
-      "title": "韩寒: 书店",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-03-982.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-dc67a3ee7c82e4b53c21",
-        "ext-6251846040166117049"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-03-982.html"
       ]
     },
     {
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/01-16-1165.html"
-      ]
-    },
-    {
-      "id": "ext-a5811235bb5c056acca5",
-      "title": "乐小米(纪伟娜): 你是谁的浅唇我是谁的眉",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1170.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a5811235bb5c056acca5",
-        "ext-3310237356133145652"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-16-1170.html"
       ]
     }
   ]

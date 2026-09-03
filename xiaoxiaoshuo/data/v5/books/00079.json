@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-4cf480010e4e640c9dc7",
+      "title": "黄易: 兽性回归",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/sf/201103/2391.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4cf480010e4e640c9dc7",
+        "ext-6992781585842601255"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/sf/201103/2391.html"
+      ]
+    },
+    {
+      "id": "ext-626b52e8985e46cc690a",
+      "title": "黄易: 光神",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/sf/201103/2392.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-626b52e8985e46cc690a",
+        "ext-8453800099178558342"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/sf/201103/2392.html"
+      ]
+    },
+    {
       "id": "ext-ffe81a3e85fd49b1c55d",
       "title": "黄易: 云梦城之谜",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book3/6761/index.html"
-      ]
-    },
-    {
-      "id": "ext-75e69e46f4c319c03cfa",
-      "title": "沧月: 羽·苍穹之烬",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10643/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-75e69e46f4c319c03cfa",
-        "ext-2757403508014391846"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10643/index.html"
-      ]
-    },
-    {
-      "id": "ext-2f60a1c45afba76431f5",
-      "title": "江南: 龙族5·悼亡者的归来",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/10943/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-2f60a1c45afba76431f5",
-        "ext-8214535147443900499"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/10943/index.html"
       ]
     }
   ]
