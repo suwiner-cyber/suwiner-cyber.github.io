@@ -1,6 +1,6 @@
 {
   "version": 13,
-  "generated_at": "2026-09-03T01:01:58+00:00",
+  "generated_at": "2026-09-03T06:31:05+00:00",
   "total_books": 18314,
   "source_counts": {
     "滋味小说网": 763,
@@ -18,21 +18,21 @@
   "all_done": false,
   "continue_needed": true,
   "unresolved_sources": [
-    "滋味小说网"
+    "69书吧"
   ],
   "sources": [
     {
-      "name": "滋味小说网",
-      "host": "zwxiaoshuo.com",
-      "pages_this_run": 80,
-      "successful_pages": 80,
+      "name": "69书吧",
+      "host": "69shuba.com",
+      "pages_this_run": 0,
+      "successful_pages": 0,
       "failed_pages": 0,
-      "books_found": 70,
-      "books_added": 28,
-      "toc_written": 44,
-      "books_seen_total": 737,
-      "remaining_queue": 31294,
-      "seen_pages": 1359,
+      "books_found": 0,
+      "books_added": 0,
+      "toc_written": 0,
+      "books_seen_total": 0,
+      "remaining_queue": 0,
+      "seen_pages": 3,
       "done": false,
       "blocked": false,
       "needs_adapter": false
