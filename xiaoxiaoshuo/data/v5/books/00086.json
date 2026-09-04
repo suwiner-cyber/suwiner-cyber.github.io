@@ -1,6 +1,331 @@
 {
   "books": [
     {
+      "id": "ext-0c94323ba1a9645eb655",
+      "title": "潘海天: 九州·展翅",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6761/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:34+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-0c94323ba1a9645eb655",
+        "ext-2541525382401927776"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6761/index.html"
+      ]
+    },
+    {
+      "id": "ext-75e69e46f4c319c03cfa",
+      "title": "沧月: 羽·苍穹之烬",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10643/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:34+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-75e69e46f4c319c03cfa",
+        "ext-2757403508014391846"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10643/index.html"
+      ]
+    },
+    {
+      "id": "ext-2f60a1c45afba76431f5",
+      "title": "江南: 龙族5·悼亡者的归来",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/10943/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:34+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2f60a1c45afba76431f5",
+        "ext-8214535147443900499"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/10943/index.html"
+      ]
+    },
+    {
+      "id": "ext-3b36a4e7e67322c0fb18",
+      "title": "江南: 龙族4·奥丁之渊",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/10911/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:34+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3b36a4e7e67322c0fb18",
+        "ext-7871009493184000834"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/10911/index.html"
+      ]
+    },
+    {
+      "id": "ext-a19e6f764f9b8a850344",
+      "title": "江南: 龙族3·黑月之潮(下)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10665/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:34+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a19e6f764f9b8a850344",
+        "ext-6851227168524392696"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10665/index.html"
+      ]
+    },
+    {
+      "id": "ext-0de1f82ce7c20893ec53",
+      "title": "江南: 龙族3·黑月之潮(上)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/7751/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:34+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-0de1f82ce7c20893ec53",
+        "ext-1976249798632876312"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/7751/index.html"
+      ]
+    },
+    {
+      "id": "ext-c00cd72fdc10c7fd5cd0",
+      "title": "江南: 龙族2·悼亡者之瞳",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/7749/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:34+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c00cd72fdc10c7fd5cd0",
+        "ext-108936794130308741"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/7749/index.html"
+      ]
+    },
+    {
+      "id": "ext-0d4f2e8c1b633aed55c1",
+      "title": "江南: 龙族2·哀悼之翼(龙族前传)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/7750/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:34+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-0d4f2e8c1b633aed55c1",
+        "ext-1706532970191899060"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/7750/index.html"
+      ]
+    },
+    {
+      "id": "ext-4e8d587e6018d4b71a9c",
+      "title": "江南: 龙族1·火之晨曦",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/7748/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:34+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4e8d587e6018d4b71a9c",
+        "ext-5772068809362453410"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/7748/index.html"
+      ]
+    },
+    {
+      "id": "ext-f0575252f7f88cdcdfdb",
+      "title": "江南: 荆棘王座第一季：猛虎蔷薇",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/7747/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:34+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f0575252f7f88cdcdfdb",
+        "ext-5473870346979383667"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/7747/index.html"
+      ]
+    },
+    {
+      "id": "ext-a281911a3000d3d90931",
+      "title": "江南: 天之炽2·女武神",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/10909/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:34+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a281911a3000d3d90931",
+        "ext-9182746899596971446"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/10909/index.html"
+      ]
+    },
+    {
+      "id": "ext-461d3fa53f70ee386f0f",
+      "title": "江南: 天之炽1·红龙的归来",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/10908/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:34+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-461d3fa53f70ee386f0f",
+        "ext-2843858129746728624"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/10908/index.html"
+      ]
+    },
+    {
+      "id": "ext-4ce08503288ad329d15e",
+      "title": "江南: 九州·飘零书·商博良",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6759/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:34+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4ce08503288ad329d15e",
+        "ext-2048381770398474871"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6759/index.html"
+      ]
+    },
+    {
       "id": "ext-b4625617c1f880f60bdd",
       "title": "江南: 九州·刺客王朝·葵",
       "author": "",
@@ -4673,331 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book2/10744/index.html"
-      ]
-    },
-    {
-      "id": "ext-60f70aa9e5d333a5ec8d",
-      "title": "念一: 佛跳墙",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book2/10742/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-60f70aa9e5d333a5ec8d",
-        "ext-141285516733179858"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/10742/index.html"
-      ]
-    },
-    {
-      "id": "ext-f83c72a1a038b370567e",
-      "title": "张小娴: 雪地里的蜗牛奄列",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/10957/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f83c72a1a038b370567e",
-        "ext-2109382886002708458"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/10957/index.html"
-      ]
-    },
-    {
-      "id": "ext-6c322897a56cf8d2ec8e",
-      "title": "张小娴: ChannelAⅣ我们都是丑小鸭",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/10958/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-6c322897a56cf8d2ec8e",
-        "ext-3459998250649682522"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/10958/index.html"
-      ]
-    },
-    {
-      "id": "ext-b833a6afdafdea63ecb0",
-      "title": "寐语者: 江山故人(帝王业)",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/11131/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b833a6afdafdea63ecb0",
-        "ext-3926202831851713583"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/11131/index.html"
-      ]
-    },
-    {
-      "id": "ext-60edb85531f31272899c",
-      "title": "寂月皎皎: 君临天下",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/11076/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-60edb85531f31272899c",
-        "ext-7282814251643314460"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/11076/index.html"
-      ]
-    },
-    {
-      "id": "ext-331e87e4ef4f209facb7",
-      "title": "寂月皎皎: 两世欢",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/11077/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-331e87e4ef4f209facb7",
-        "ext-2937051453738686981"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/11077/index.html"
-      ]
-    },
-    {
-      "id": "ext-a2a90b34b4aef2168c9a",
-      "title": "安知晓: 总裁的替身前妻",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10715/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a2a90b34b4aef2168c9a",
-        "ext-908287156199820866"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10715/index.html"
-      ]
-    },
-    {
-      "id": "ext-32a8c0456a55ee310764",
-      "title": "安知晓: 亿万老婆买一送一",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/10716/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-32a8c0456a55ee310764",
-        "ext-5651441467437138989"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10716/index.html"
-      ]
-    },
-    {
-      "id": "ext-efa41639d91a71e9e317",
-      "title": "夜湖月: 狄仁杰断案之鎏金绿度母像",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/8432/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-efa41639d91a71e9e317",
-        "ext-411750859512826961"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/8432/index.html"
-      ]
-    },
-    {
-      "id": "ext-fc4c389a7cc43e4020e7",
-      "title": "夜湖月: 狄仁杰断案之伊阙神兵",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/8433/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-fc4c389a7cc43e4020e7",
-        "ext-4970677845140613730"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/8433/index.html"
-      ]
-    },
-    {
-      "id": "ext-5faaea65149112aec249",
-      "title": "墨香铜臭: 魔道祖师(陈情令)",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/11092/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-5faaea65149112aec249",
-        "ext-8665824607787028862"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/11092/index.html"
-      ]
-    },
-    {
-      "id": "ext-48d4d7871ba997e3b16e",
-      "title": "墨香铜臭: 重生之人渣反派自救系统",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/11090/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-48d4d7871ba997e3b16e",
-        "ext-3708604238540857194"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/11090/index.html"
-      ]
-    },
-    {
-      "id": "ext-11e2bea4108d5ae18e2a",
-      "title": "墨香铜臭: 天官赐福",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/11091/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-11e2bea4108d5ae18e2a",
-        "ext-1827803206633615437"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/11091/index.html"
       ]
     }
   ]
