@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-0af8bd44a2b0bfa389be",
-      "title": "第83章 晚风",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/gnbk26/204346.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 48,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:38+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-0af8bd44a2b0bfa389be",
-        "ext-1093260039848842808"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/gnbk26/204346.html"
-      ]
-    },
-    {
       "id": "ext-0ec2fe91fbfaa0219db4",
       "title": "第82章 转星",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book2/10904/index.html"
+      ]
+    },
+    {
+      "id": "ext-c943a27634e2a635b54c",
+      "title": "法医秦明: 第十一根手指",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/10898/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c943a27634e2a635b54c",
+        "ext-5816708008156316664"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/10898/index.html"
       ]
     }
   ]

@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-42420f31373068983204",
-      "title": "丁墨: 你和我的倾城时光",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/11103/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-42420f31373068983204",
-        "ext-5469939645968759899"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/11103/index.html"
-      ]
-    },
-    {
       "id": "ext-91eba0771c1232f9a8e1",
       "title": "丁墨: 他来了，请闭眼",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/03-21-2294.html"
+      ]
+    },
+    {
+      "id": "ext-d6589e0f940d38b4d5f9",
+      "title": "步非烟: 七宗罪之春葱指",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/03-21-2295.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d6589e0f940d38b4d5f9",
+        "ext-9202380950305482404"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/03-21-2295.html"
       ]
     }
   ]

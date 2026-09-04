@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-443d070583716b8419f2",
-      "title": "第8章 仙人开了天眼",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/hxshn91/484998.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 8,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:54+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-443d070583716b8419f2",
-        "ext-421214651560220959"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/hxshn91/484998.html"
-      ]
-    },
-    {
       "id": "ext-fe8396807987d31b1196",
       "title": "第89章 间谍与反间",
       "author": "",
@@ -5382,6 +5357,31 @@
       "read_sources": [
         "https://www.kanunu8.com/book7/datangpizhuji/481727.html",
         "https://www.kanunu8.com/book7/hxshn92/485287.html"
+      ]
+    },
+    {
+      "id": "ext-24e8fc350fdb79fc507a",
+      "title": "鼓惑人心",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481805.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:50+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-24e8fc350fdb79fc507a",
+        "ext-6513172452463425764"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qianyaobaimei/481805.html"
       ]
     }
   ]

@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-24e8fc350fdb79fc507a",
-      "title": "鼓惑人心",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481805.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:50+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-24e8fc350fdb79fc507a",
-        "ext-6513172452463425764"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qianyaobaimei/481805.html"
-      ]
-    },
-    {
       "id": "ext-e62818285911eb6fbf14",
       "title": "黑潮",
       "author": "",
@@ -5238,6 +5213,37 @@
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/462908.html",
         "https://www.kanunu8.com/book7/dby67/470003.html"
+      ]
+    },
+    {
+      "id": "ext-0651499eff6066a6fbfb",
+      "title": "第六十九章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/462915.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462915.html",
+        "https://www.kanunu8.com/book7/dby67/470010.html"
+      ],
+      "read_ids": [
+        "ext-0651499eff6066a6fbfb",
+        "ext-6231183584660306201",
+        "ext-fab33a9494ba25aad592"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462915.html",
+        "https://www.kanunu8.com/book7/dby67/470010.html"
       ]
     }
   ]
