@@ -1,80 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-1ff958772aad49e86c8d",
-      "title": "第3章 赶猪少女",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171759z.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 3,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1ff958772aad49e86c8d",
-        "ext-3941409870612817876"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171759z.html"
-      ]
-    },
-    {
-      "id": "ext-42d971171f0bc989329b",
-      "title": "第39章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171795.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171795.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/37971.html",
-        "https://www.kanunu8.com/book7/lmm04/464088.html",
-        "https://www.kanunu8.com/book7/75chyriji/463311.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481594.html",
-        "https://www.kanunu8.com/book7/hxshn92/485152.html",
-        "https://www.kanunu8.com/book5/yiouchun/80321.html",
-        "https://www.kanunu8.com/book7/jinxiefang/449780.html"
-      ],
-      "read_ids": [
-        "ext-42d971171f0bc989329b",
-        "ext-646112427561176836",
-        "ext-dc5afef7ca62a5406f9d",
-        "ext-5afaa492bfc858264b5e",
-        "ext-3ed23b44ef50a7cdbb3d",
-        "ext-44f608ff06d405355704",
-        "ext-fff4d74342b001618c8e",
-        "ext-0373d142a1116442f8cb",
-        "ext-5e73e7fc042fef8a5f84"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171795.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/37971.html",
-        "https://www.kanunu8.com/book7/lmm04/464088.html",
-        "https://www.kanunu8.com/book7/75chyriji/463311.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481594.html",
-        "https://www.kanunu8.com/book7/hxshn92/485152.html",
-        "https://www.kanunu8.com/book5/yiouchun/80321.html",
-        "https://www.kanunu8.com/book7/jinxiefang/449780.html"
-      ]
-    },
-    {
       "id": "ext-90d29f516ee1cd610c28",
       "title": "第38章",
       "author": "",
@@ -6399,6 +6325,56 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65131.html"
+      ]
+    },
+    {
+      "id": "ext-8a1fcaff2a2bc356b7ac",
+      "title": "第92章 事发",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65130.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 92,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8a1fcaff2a2bc356b7ac",
+        "ext-3824146644394031428"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65130.html"
+      ]
+    },
+    {
+      "id": "ext-a0a7526dec50f4493e3a",
+      "title": "第91章 后果",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65129.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 91,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a0a7526dec50f4493e3a",
+        "ext-6858513044968277295"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65129.html"
       ]
     }
   ]
