@@ -1,89 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-1ef8657642d18ab10419",
-      "title": "第103章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171859.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171859.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/38035.html",
-        "https://www.kanunu8.com/book7/75chyriji/463375.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481660.html",
-        "https://www.kanunu8.com/book7/hxshn92/485217.html"
-      ],
-      "read_ids": [
-        "ext-1ef8657642d18ab10419",
-        "ext-1078887725612832022",
-        "ext-ee0ea063be4c8bddd2d0",
-        "ext-03741cca54b97a29dfd8",
-        "ext-5027c081438382697dde",
-        "ext-58e8ec833d0da903e76d"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171859.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/38035.html",
-        "https://www.kanunu8.com/book7/75chyriji/463375.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481660.html",
-        "https://www.kanunu8.com/book7/hxshn92/485217.html"
-      ]
-    },
-    {
-      "id": "ext-9050a37e526e25809d39",
-      "title": "第102章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171858.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171858.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/38034.html",
-        "https://www.kanunu8.com/book7/75chyriji/463374.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481659.html",
-        "https://www.kanunu8.com/book7/hxshn92/485216.html",
-        "https://www.kanunu8.com/book5/yiouchun/80384.html"
-      ],
-      "read_ids": [
-        "ext-9050a37e526e25809d39",
-        "ext-7075683326769022817",
-        "ext-d560e6495a8506f283d2",
-        "ext-5ec2428214d6c0a5b84d",
-        "ext-613ebb50812d5497ce64",
-        "ext-d6986d33e147e4ab3599",
-        "ext-79257c75adb3735b9305"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171858.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/38034.html",
-        "https://www.kanunu8.com/book7/75chyriji/463374.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481659.html",
-        "https://www.kanunu8.com/book7/hxshn92/485216.html",
-        "https://www.kanunu8.com/book5/yiouchun/80384.html"
-      ]
-    },
-    {
       "id": "ext-86ef8b10b3792fddfa18",
       "title": "第101章",
       "author": "",
@@ -5133,6 +5050,56 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65326.html"
+      ]
+    },
+    {
+      "id": "ext-d6804446965e2328265f",
+      "title": "第287章 别样",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65325.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 287,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d6804446965e2328265f",
+        "ext-5892078745595221908"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65325.html"
+      ]
+    },
+    {
+      "id": "ext-6115e2db08dcf32ab174",
+      "title": "第286章 吃食",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65324.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 286,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-6115e2db08dcf32ab174",
+        "ext-223179341654883854"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65324.html"
       ]
     }
   ]
