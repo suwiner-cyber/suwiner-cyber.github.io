@@ -1,6 +1,306 @@
 {
   "books": [
     {
+      "id": "ext-8f18cc145918aae53d8e",
+      "title": "韩寒: 寒：十八禁",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-03-984.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8f18cc145918aae53d8e",
+        "ext-9171640205952847377"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-03-984.html"
+      ]
+    },
+    {
+      "id": "ext-40e9d07559863c544ff8",
+      "title": "韩寒: 北京时间",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2012/04-03-7374.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-40e9d07559863c544ff8",
+        "ext-7275283250782497956"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2012/04-03-7374.html"
+      ]
+    },
+    {
+      "id": "ext-1eaf2d6f6600b775f3c7",
+      "title": "韩寒: 傻子",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-03-980.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1eaf2d6f6600b775f3c7",
+        "ext-6801421624788357909"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-03-980.html"
+      ]
+    },
+    {
+      "id": "ext-48ec8572b59a47b7967e",
+      "title": "雷蒙德·卡佛: 野鸡",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-24-1283.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-48ec8572b59a47b7967e",
+        "ext-14335307085082325"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-24-1283.html"
+      ]
+    },
+    {
+      "id": "ext-3336325ba5631357001c",
+      "title": "雷蒙德·卡佛: 火",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-24-1294.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3336325ba5631357001c",
+        "ext-6926105275194241418"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-24-1294.html"
+      ]
+    },
+    {
+      "id": "ext-19e6f9da6bad5ee2709e",
+      "title": "雷蒙德·卡佛: 小木屋",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-24-1292.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-19e6f9da6bad5ee2709e",
+        "ext-7699887548153066001"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-24-1292.html"
+      ]
+    },
+    {
+      "id": "ext-c9ebef7a2ea141925d9e",
+      "title": "阿成: 灯会",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/little/2011/09-11-3488.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c9ebef7a2ea141925d9e",
+        "ext-7923844472435662315"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/09-11-3488.html"
+      ]
+    },
+    {
+      "id": "ext-5f407da9df630c734012",
+      "title": "阿成: 戒台寺",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/little/2011/09-11-3486.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-5f407da9df630c734012",
+        "ext-6088637240462814649"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/09-11-3486.html"
+      ]
+    },
+    {
+      "id": "ext-e650d2e3b6db51fe1cf1",
+      "title": "阿成: 刘先生",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/little/2011/09-11-3487.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e650d2e3b6db51fe1cf1",
+        "ext-2800060670857430748"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/09-11-3487.html"
+      ]
+    },
+    {
+      "id": "ext-3ae1d76480de287b7a5f",
+      "title": "阿尔贝·加缪: 阿丽阿德娜的石头",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2012/09-06-8137.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3ae1d76480de287b7a5f",
+        "ext-6729032172021978075"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2012/09-06-8137.html"
+      ]
+    },
+    {
+      "id": "ext-200cef240ca94b6ce1eb",
+      "title": "阿尔贝·加缪: 西西弗的神话",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2012/09-06-8135.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-200cef240ca94b6ce1eb",
+        "ext-2126428490036329470"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2012/09-06-8135.html"
+      ]
+    },
+    {
+      "id": "ext-8627558fb7627bf5d5f8",
+      "title": "阿尔贝.加缪: 阿尔及尔之夏——献给贾克· 额尔功",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2012/09-06-8136.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8627558fb7627bf5d5f8",
+        "ext-6803130482161147607"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2012/09-06-8136.html"
+      ]
+    },
+    {
       "id": "ext-7806404c64e9df586705",
       "title": "阿城: 良娼",
       "author": "",
@@ -4698,306 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/old/2011/2493.html"
-      ]
-    },
-    {
-      "id": "ext-31b34f2232c500a175cf",
-      "title": "陈一夫: 热钱风暴",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/dushi/201103/1894.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-31b34f2232c500a175cf",
-        "ext-3022427079033357578"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/dushi/201103/1894.html"
-      ]
-    },
-    {
-      "id": "ext-fe05770c53b3ca7b2346",
-      "title": "闫绍荣: 太阳底下最伟大的傻瓜",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/dushi/201106/2838.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-fe05770c53b3ca7b2346",
-        "ext-7358389023281041762"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/dushi/201106/2838.html"
-      ]
-    },
-    {
-      "id": "ext-693ab49e48c1c04dfe20",
-      "title": "蔡康永: 阿婴",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/files/dushi/201102/1469.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-693ab49e48c1c04dfe20",
-        "ext-2420103293998960658"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/dushi/201102/1469.html"
-      ]
-    },
-    {
-      "id": "ext-3856e6ffe42c9b291d87",
-      "title": "蔡康永: 蔡康永的说话之道",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/dushi/201102/1471.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-3856e6ffe42c9b291d87",
-        "ext-7321174176144403236"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/dushi/201102/1471.html"
-      ]
-    },
-    {
-      "id": "ext-58cbae0b70b1f6984766",
-      "title": "苏小懒: 流经存在的邂逅",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/dushi/201107/3228.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-58cbae0b70b1f6984766",
-        "ext-5491648914458009604"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/dushi/201107/3228.html"
-      ]
-    },
-    {
-      "id": "ext-ab393d05b0d20f2ecf0f",
-      "title": "苏小懒: 全世爱Ⅱ·丝婚四年",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/dushi/201107/3230.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ab393d05b0d20f2ecf0f",
-        "ext-2006345693072808710"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/dushi/201107/3230.html"
-      ]
-    },
-    {
-      "id": "ext-d37f631fb88ed02251fe",
-      "title": "苏小懒: 全世爱",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/dushi/201107/3229.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d37f631fb88ed02251fe",
-        "ext-7192410526892875012"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/dushi/201107/3229.html"
-      ]
-    },
-    {
-      "id": "ext-7ec90e991e656c7da351",
-      "title": "缪娟: 我的波塞冬",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/dushi/201103/1834.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7ec90e991e656c7da351",
-        "ext-4354192583968976630"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/dushi/201103/1834.html"
-      ]
-    },
-    {
-      "id": "ext-6b06a36f908d24528cd2",
-      "title": "缪娟: 丹尼海格",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/dushi/201103/1835.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-6b06a36f908d24528cd2",
-        "ext-5473835104030500018"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/dushi/201103/1835.html"
-      ]
-    },
-    {
-      "id": "ext-a2098dda9e9279eab20d",
-      "title": "缪娟(纪缓缓): 堕落天使(掮客)",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/dushi/201103/1833.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a2098dda9e9279eab20d",
-        "ext-7371463321032707919"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/dushi/201103/1833.html"
-      ]
-    },
-    {
-      "id": "ext-dfd420aa991bb2dffb5e",
-      "title": "玉朵朵(吴景霞): 毕婚",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/dushi/201102/1439.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-dfd420aa991bb2dffb5e",
-        "ext-2815050410482658842"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/dushi/201102/1439.html"
-      ]
-    },
-    {
-      "id": "ext-2b39f68f0569cad7f776",
-      "title": "玉朵朵(吴景霞): 半婚(彼岸花开)",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/dushi/201102/1438.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-2b39f68f0569cad7f776",
-        "ext-6052591478551119787"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/dushi/201102/1438.html"
       ]
     }
   ]
