@@ -1,8 +1,9 @@
 {
   "version": 13,
-  "generated_at": "2026-09-04T06:54:04+00:00",
-  "total_books": 20661,
+  "generated_at": "2026-09-04T06:55:51+00:00",
+  "total_books": 20740,
   "source_counts": {
+    "滋味小说网": 1156,
     "言情小说吧": 1276,
     "努努书坊": 6974,
     "塔读文学": 356,
@@ -12,27 +13,26 @@
     "乐文小说": 1622,
     "和图书": 1004,
     "飘天文学": 561,
-    "一七小说": 1576,
-    "滋味小说网": 1077
+    "一七小说": 1576
   },
   "all_done": false,
   "continue_needed": true,
   "unresolved_sources": [
-    "言情小说吧"
+    "滋味小说网"
   ],
   "sources": [
     {
-      "name": "言情小说吧",
-      "host": "xs8.cn",
+      "name": "滋味小说网",
+      "host": "zwxiaoshuo.com",
       "pages_this_run": 80,
       "successful_pages": 80,
       "failed_pages": 0,
-      "books_found": 41,
-      "books_added": 41,
-      "toc_written": 8,
-      "books_seen_total": 1117,
-      "remaining_queue": 36594,
-      "seen_pages": 1760,
+      "books_found": 80,
+      "books_added": 79,
+      "toc_written": 25,
+      "books_seen_total": 1131,
+      "remaining_queue": 31470,
+      "seen_pages": 1759,
       "done": false,
       "blocked": false,
       "needs_adapter": false
