@@ -1,81 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-ed5a1c99af1f8f3f906d",
-      "title": "伊恩·麦克尤恩: 玩具娃娃",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-24-1303.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ed5a1c99af1f8f3f906d",
-        "ext-136910431032640764"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-24-1303.html"
-      ]
-    },
-    {
-      "id": "ext-739eb8b11cdf8ac4ebd2",
-      "title": "伊恩·麦克尤恩: 猫",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-24-1301.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-739eb8b11cdf8ac4ebd2",
-        "ext-2115880420054883733"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-24-1301.html"
-      ]
-    },
-    {
-      "id": "ext-aaf831d5fb428b3b0fe7",
-      "title": "伊恩·麦克尤恩: 成年人",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-24-1299.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-aaf831d5fb428b3b0fe7",
-        "ext-1937984525948441871"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-24-1299.html"
-      ]
-    },
-    {
       "id": "ext-f10acbc194a09e430a84",
       "title": "伊恩·麦克尤恩: 彼得其人",
       "author": "",
@@ -5040,6 +4965,81 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/985159"
+      ]
+    },
+    {
+      "id": "ext-c7343ec0f24d057a3113",
+      "title": "走阴夜话之打更人 彤山煮茶",
+      "author": "水龙吟",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2022/05/07/11/56/0ce7f6b91d884e58a4ab308e4f24c052_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/904713",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:53+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c7343ec0f24d057a3113",
+        "ext-5492261176998318044"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/904713"
+      ]
+    },
+    {
+      "id": "ext-c52ac779e1f10853426a",
+      "title": "盗墓笔记之寻仙 西门小官人",
+      "author": "水龙吟",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2022/05/07/11/56/0ce7f6b91d884e58a4ab308e4f24c052_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/465535",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:53+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c52ac779e1f10853426a",
+        "ext-7802186856545111050"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/465535"
+      ]
+    },
+    {
+      "id": "ext-4ffd81081effcd1b25b2",
+      "title": "狩魔神探 狂笑",
+      "author": "水龙吟",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2022/05/07/11/56/0ce7f6b91d884e58a4ab308e4f24c052_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/394195",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:53+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4ffd81081effcd1b25b2",
+        "ext-2234510377101148897"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/394195"
       ]
     }
   ]
