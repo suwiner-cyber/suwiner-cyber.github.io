@@ -1,9 +1,10 @@
 {
   "version": 14,
   "adapter_version": "14.2",
-  "generated_at": "2026-09-05T00:42:26+00:00",
-  "total_books": 22154,
+  "generated_at": "2026-09-05T00:46:14+00:00",
+  "total_books": 22225,
   "source_counts": {
+    "AAAKS小说": 1630,
     "泡书吧小说网": 1789,
     "乐文小说": 1781,
     "和图书": 1170,
@@ -13,8 +14,7 @@
     "言情小说吧": 1377,
     "努努书坊": 7091,
     "塔读文学": 343,
-    "爱下电子书": 3559,
-    "AAAKS小说": 1554
+    "爱下电子书": 3559
   },
   "all_done": false,
   "continue_needed": true,
@@ -37,7 +37,7 @@
     "九九藏书网",
     "69书吧"
   ],
-  "last_published_source": "ipaoshubaxs.net",
+  "last_published_source": "aaaks.com",
   "sources": [
     {
       "name": "爱下电子书",
@@ -192,9 +192,9 @@
       "books_found": 80,
       "books_added": 80,
       "toc_written": 80,
-      "books_seen_total": 1590,
-      "remaining_queue": 20385,
-      "seen_pages": 2000,
+      "books_seen_total": 1670,
+      "remaining_queue": 20305,
+      "seen_pages": 2080,
       "done": false,
       "blocked": false,
       "needs_adapter": false
