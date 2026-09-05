@@ -1,7 +1,7 @@
 {
   "version": 14,
-  "generated_at": "2026-09-05T06:54:39+00:00",
-  "total": 22909,
+  "generated_at": "2026-09-05T06:56:40+00:00",
+  "total": 22987,
   "shard_size": 200,
   "shards": [
     {
@@ -462,10 +462,11 @@
     },
     {
       "file": "books/00115.json",
-      "count": 109
+      "count": 187
     }
   ],
   "source_counts": {
+    "滋味小说网": 1468,
     "言情小说吧": 1445,
     "努努书坊": 7105,
     "塔读文学": 394,
@@ -475,8 +476,7 @@
     "乐文小说": 1683,
     "和图书": 1219,
     "飘天文学": 780,
-    "一七小说": 1785,
-    "滋味小说网": 1390
+    "一七小说": 1785
   },
   "source_status": [
     {
@@ -581,12 +581,12 @@
       "pages_this_run": 80,
       "successful_pages": 80,
       "failed_pages": 0,
-      "books_found": 80,
-      "books_added": 80,
-      "toc_written": 76,
-      "books_seen_total": 1371,
-      "remaining_queue": 31470,
-      "seen_pages": 1999,
+      "books_found": 78,
+      "books_added": 78,
+      "toc_written": 68,
+      "books_seen_total": 1449,
+      "remaining_queue": 31469,
+      "seen_pages": 2079,
       "done": false,
       "blocked": false,
       "needs_adapter": false
@@ -689,7 +689,7 @@
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "xs8.cn",
+  "last_published_source": "zwxiaoshuo.com",
   "id_scheme": "stable-v4-aliases",
   "metadata_sanitized": true,
   "text_only": true
