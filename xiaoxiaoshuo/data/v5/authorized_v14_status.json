@@ -1,10 +1,11 @@
 {
   "version": 14,
   "adapter_version": "14.2",
-  "generated_at": "2026-09-05T12:48:06+00:00",
-  "total_books": 23418,
+  "generated_at": "2026-09-05T12:49:42+00:00",
+  "total_books": 23416,
   "source_counts": {
-    "塔读文学": 396,
+    "努努书坊": 7105,
+    "塔读文学": 394,
     "爱下电子书": 3679,
     "AAAKS小说": 1773,
     "泡书吧小说网": 1944,
@@ -13,8 +14,7 @@
     "飘天文学": 841,
     "一七小说": 1854,
     "滋味小说网": 1468,
-    "言情小说吧": 1452,
-    "努努书坊": 7105
+    "言情小说吧": 1452
   },
   "all_done": false,
   "continue_needed": true,
@@ -37,7 +37,7 @@
     "九九藏书网",
     "69书吧"
   ],
-  "last_published_source": "tadu.com",
+  "last_published_source": "kanunu8.com",
   "sources": [
     {
       "name": "爱下电子书",
@@ -77,12 +77,12 @@
       "pages_this_run": 80,
       "successful_pages": 80,
       "failed_pages": 0,
-      "books_found": 77,
-      "books_added": 14,
-      "toc_written": 77,
-      "books_seen_total": 1765,
-      "remaining_queue": 10866,
-      "seen_pages": 2080,
+      "books_found": 80,
+      "books_added": 0,
+      "toc_written": 80,
+      "books_seen_total": 1845,
+      "remaining_queue": 10787,
+      "seen_pages": 2160,
       "done": false,
       "blocked": false,
       "needs_adapter": false
