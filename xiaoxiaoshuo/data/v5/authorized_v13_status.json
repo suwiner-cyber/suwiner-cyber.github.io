@@ -1,8 +1,9 @@
 {
   "version": 13,
-  "generated_at": "2026-09-05T12:30:42+00:00",
-  "total_books": 23106,
+  "generated_at": "2026-09-05T12:32:16+00:00",
+  "total_books": 23150,
   "source_counts": {
+    "和图书": 1279,
     "飘天文学": 841,
     "一七小说": 1854,
     "滋味小说网": 1468,
@@ -12,26 +13,25 @@
     "爱下电子书": 3640,
     "AAAKS小说": 1697,
     "泡书吧小说网": 1869,
-    "乐文小说": 1861,
-    "和图书": 1234
+    "乐文小说": 1861
   },
   "all_done": false,
   "continue_needed": true,
   "unresolved_sources": [
-    "飘天文学"
+    "和图书"
   ],
   "sources": [
     {
-      "name": "飘天文学",
-      "host": "piaotia.com",
+      "name": "和图书",
+      "host": "hetushu.com",
       "pages_this_run": 80,
       "successful_pages": 80,
       "failed_pages": 0,
-      "books_found": 61,
-      "books_added": 61,
-      "toc_written": 61,
-      "books_seen_total": 995,
-      "remaining_queue": 10973,
+      "books_found": 45,
+      "books_added": 45,
+      "toc_written": 45,
+      "books_seen_total": 1279,
+      "remaining_queue": 4917,
       "seen_pages": 2240,
       "done": false,
       "blocked": false,
