@@ -1,56 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-1fbcfc2473f3222216a3",
-      "title": "第130章 多好",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/gnbk26/204395.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 130,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:38+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1fbcfc2473f3222216a3",
-        "ext-7550510223772317316"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/gnbk26/204395.html"
-      ]
-    },
-    {
-      "id": "ext-881ae6137b67f859b403",
-      "title": "第12章 我恋爱过",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/gnbk26/204274.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 12,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:38+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-881ae6137b67f859b403",
-        "ext-8966273587669015290"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/gnbk26/204274.html"
-      ]
-    },
-    {
       "id": "ext-98c75405bc84d617b486",
       "title": "第129章 冬夜",
       "author": "",
@@ -4998,6 +4948,56 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book3/7346/index.html"
+      ]
+    },
+    {
+      "id": "ext-d12158f0a3f448f888de",
+      "title": "九把刀: 都市恐怖病系列·影子",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/7345/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d12158f0a3f448f888de",
+        "ext-7445299631464093281"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/7345/index.html"
+      ]
+    },
+    {
+      "id": "ext-ac772603fcfd7a2b5770",
+      "title": "九把刀: 都市恐怖病系列·异梦",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/7354/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ac772603fcfd7a2b5770",
+        "ext-7494475009518223428"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/7354/index.html"
       ]
     }
   ]

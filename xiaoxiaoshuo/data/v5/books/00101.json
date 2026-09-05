@@ -1,56 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-78e1e8736866a2264b48",
-      "title": "许骥: 一个“八○后”的自述",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2009/08-04-817.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-78e1e8736866a2264b48",
-        "ext-3641695182129225170"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2009/08-04-817.html"
-      ]
-    },
-    {
-      "id": "ext-b5aa34432176e16d01c8",
-      "title": "覃雄: 我的旧年代",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2009/08-04-822.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b5aa34432176e16d01c8",
-        "ext-3782029727587250010"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2009/08-04-822.html"
-      ]
-    },
-    {
       "id": "ext-bd34bb148274dbb4891a",
       "title": "西村寿行: 高昂的代价",
       "author": "",
@@ -5040,6 +4990,56 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/xunhuan/201102/1502.html"
+      ]
+    },
+    {
+      "id": "ext-db984da0618a358a2225",
+      "title": "辛夷坞作品集",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/writer/2530.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:22+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-db984da0618a358a2225",
+        "ext-8858471250535284372"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/writer/2530.html"
+      ]
+    },
+    {
+      "id": "ext-71799926e969780b3bcd",
+      "title": "桐华作品集",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/writer/1415.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:22+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-71799926e969780b3bcd",
+        "ext-5970537667938745538"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/writer/1415.html"
       ]
     }
   ]
