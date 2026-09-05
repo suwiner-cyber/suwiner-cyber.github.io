@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-1201f75f16674fdf94bb",
+      "title": "杰克·威廉森: 黑太阳",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6033/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1201f75f16674fdf94bb",
+        "ext-5488105729517183137"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6033/index.html"
+      ]
+    },
+    {
+      "id": "ext-6790b4e77a70e44cf101",
+      "title": "杰克·威廉森: 潜在的异族",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6034/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-6790b4e77a70e44cf101",
+        "ext-6474751569069966173"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6034/index.html"
+      ]
+    },
+    {
       "id": "ext-1adbe0e1cdd03e98cd11",
       "title": "杰克·威廉森: 束手无策",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/xunhuan/201102/1510.html"
-      ]
-    },
-    {
-      "id": "ext-6b287a0312e42b1fb250",
-      "title": "Aaron Rosenberg: 黑暗之潮",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201102/1503.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-6b287a0312e42b1fb250",
-        "ext-2804312067097439198"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201102/1503.html"
-      ]
-    },
-    {
-      "id": "ext-88ddf1441b62c424c9c6",
-      "title": "辛夷坞: 我们·下册",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book2/10878/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-88ddf1441b62c424c9c6",
-        "ext-1939875388256569672"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book2/10878/index.html"
       ]
     }
   ]

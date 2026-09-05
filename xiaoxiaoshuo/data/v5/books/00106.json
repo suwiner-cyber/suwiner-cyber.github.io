@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-6b287a0312e42b1fb250",
+      "title": "Aaron Rosenberg: 黑暗之潮",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/xunhuan/201102/1503.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:34+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-6b287a0312e42b1fb250",
+        "ext-2804312067097439198"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/xunhuan/201102/1503.html"
+      ]
+    },
+    {
+      "id": "ext-88ddf1441b62c424c9c6",
+      "title": "辛夷坞: 我们·下册",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book2/10878/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:32+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-88ddf1441b62c424c9c6",
+        "ext-1939875388256569672"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book2/10878/index.html"
+      ]
+    },
+    {
       "id": "ext-578ffb6dc532e273fdfa",
       "title": "辛夷坞: 我们·上册",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/01-03-987.html"
-      ]
-    },
-    {
-      "id": "ext-c8d2a0854e4a14bbd6f7",
-      "title": "明晓溪: 玉壶儿江湖散记",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-11-1101.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c8d2a0854e4a14bbd6f7",
-        "ext-1480960815688898429"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-11-1101.html"
-      ]
-    },
-    {
-      "id": "ext-35e9da588e7ad15ec679",
-      "title": "明晓溪: 小鱼的向日葵",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2009/09-02-835.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-35e9da588e7ad15ec679",
-        "ext-7946578207132225000"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2009/09-02-835.html"
       ]
     }
   ]

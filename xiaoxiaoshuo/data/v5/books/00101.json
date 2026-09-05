@@ -1,6 +1,68 @@
 {
   "books": [
     {
+      "id": "ext-5d1932cf8b2e665340f4",
+      "title": "番外：公孙篇 1",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171926.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-5d1932cf8b2e665340f4",
+        "ext-8784424229981957543"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171926.html"
+      ]
+    },
+    {
+      "id": "ext-1708ba5f4c858b484da4",
+      "title": "番外四",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171924.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171924.html",
+        "https://www.kanunu8.com/book7/75chyriji/463143.html",
+        "https://www.kanunu8.com/book5/qy_jlwxs/35638.html",
+        "https://www.kanunu8.com/book7/shjshdyshchli/450620.html"
+      ],
+      "read_ids": [
+        "ext-1708ba5f4c858b484da4",
+        "ext-8352739142713002033",
+        "ext-d08995408e8a1977a49f",
+        "ext-ffb63b68bac9a8f25087",
+        "ext-d5936d78724fd57464b1"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171924.html",
+        "https://www.kanunu8.com/book7/75chyriji/463143.html",
+        "https://www.kanunu8.com/book5/qy_jlwxs/35638.html",
+        "https://www.kanunu8.com/book7/shjshdyshchli/450620.html"
+      ]
+    },
+    {
       "id": "ext-cf338faa8da916fbc1c3",
       "title": "番外五",
       "author": "",
@@ -5002,56 +5064,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65315.html"
-      ]
-    },
-    {
-      "id": "ext-a14ef69b498de54e7e22",
-      "title": "第276章 春暖",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65314.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 276,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a14ef69b498de54e7e22",
-        "ext-1022459742703955970"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65314.html"
-      ]
-    },
-    {
-      "id": "ext-386570c4b431c7aacdb9",
-      "title": "第275章 训子",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65313.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 275,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-386570c4b431c7aacdb9",
-        "ext-1705422275983852637"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65313.html"
       ]
     }
   ]
