@@ -1,6 +1,831 @@
 {
   "books": [
     {
+      "id": "ext-22fe673d259f24076730",
+      "title": "西游记后记 曲东杰",
+      "author": "一念茫然",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2025/12/24/11/41/0182abaa96b04a28b4eab2e466135434_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/954422",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:57+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-22fe673d259f24076730",
+        "ext-7328253954334810623"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/954422"
+      ]
+    },
+    {
+      "id": "ext-03bb11e1b444723941e1",
+      "title": "白云街三侠传 HSG来日方长",
+      "author": "一念茫然",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2025/12/24/11/41/0182abaa96b04a28b4eab2e466135434_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/953514",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:57+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-03bb11e1b444723941e1",
+        "ext-8921857891593560901"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/953514"
+      ]
+    },
+    {
+      "id": "ext-dec9e0b936dd1819427b",
+      "title": "爱情观 1个小白",
+      "author": "一念茫然",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2025/12/24/11/41/0182abaa96b04a28b4eab2e466135434_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/954531",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:57+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-dec9e0b936dd1819427b",
+        "ext-8937321656532468517"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/954531"
+      ]
+    },
+    {
+      "id": "ext-53768241a8ea3f1cd721",
+      "title": "清尘空 清无空",
+      "author": "一念茫然",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2025/12/24/11/41/0182abaa96b04a28b4eab2e466135434_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/954974",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:57+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-53768241a8ea3f1cd721",
+        "ext-5758167076320188303"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/954974"
+      ]
+    },
+    {
+      "id": "ext-7e4b9d66e24b5e58ff96",
+      "title": "怜悯 虚者唯心",
+      "author": "一念茫然",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2025/12/24/11/41/0182abaa96b04a28b4eab2e466135434_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/956302",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:57+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-7e4b9d66e24b5e58ff96",
+        "ext-6918501382959470313"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/956302"
+      ]
+    },
+    {
+      "id": "ext-1d0bca3a97b26f99b603",
+      "title": "又林的短篇集 又林",
+      "author": "一念茫然",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2025/12/24/11/41/0182abaa96b04a28b4eab2e466135434_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/953899",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:57+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1d0bca3a97b26f99b603",
+        "ext-7297345667666365569"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/953899"
+      ]
+    },
+    {
+      "id": "ext-8bca590e7d748735b646",
+      "title": "00后生活 幻界王",
+      "author": "一念茫然",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2025/12/24/11/41/0182abaa96b04a28b4eab2e466135434_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/955903",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:57+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8bca590e7d748735b646",
+        "ext-3948922053129434547"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/955903"
+      ]
+    },
+    {
+      "id": "ext-a46f8139c448ab9d359e",
+      "title": "神通魔法大乱斗：天空游记 光明殿",
+      "author": "两仪",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2021/07/01/11/50/50f8640a164048af828d6fa708ea5c95_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/1042666",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:55+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a46f8139c448ab9d359e",
+        "ext-3797555685489346382"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/1042666"
+      ]
+    },
+    {
+      "id": "ext-a13ec73a419750cb2332",
+      "title": "疯了吧？你管这叫侦探！ 娱乐天王",
+      "author": "南妖叔",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2021/06/11/13/49/f94ada3ff9f040e79bb984a114cd4040_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/870261",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:55+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a13ec73a419750cb2332",
+        "ext-7264444642600625157"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/870261"
+      ]
+    },
+    {
+      "id": "ext-c4ba56f112b5ae498aaf",
+      "title": "最后的亡灵巫师 天堂挽歌",
+      "author": "南妖叔",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2021/06/11/13/49/f94ada3ff9f040e79bb984a114cd4040_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/964884",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:55+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c4ba56f112b5ae498aaf",
+        "ext-5262330387679685630"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/964884"
+      ]
+    },
+    {
+      "id": "ext-ab03df39655fb935fbee",
+      "title": "我怎么就变成了系统 墨玉橙香",
+      "author": "忘川雾",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2022/07/17/08/15/c5e90ffa1dd14d93826f6011a7f1c275.jpg",
+      "source_url": "https://www.tadu.com/book/850229",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:55+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ab03df39655fb935fbee",
+        "ext-4461919819561669563"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/850229"
+      ]
+    },
+    {
+      "id": "ext-b54600495d5eebabc5dd",
+      "title": "哈利波特之我是死神 一样是明月",
+      "author": "南妖叔",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2021/06/11/13/49/f94ada3ff9f040e79bb984a114cd4040_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/827109",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:55+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b54600495d5eebabc5dd",
+        "ext-3335547402372912545"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/827109"
+      ]
+    },
+    {
+      "id": "ext-d5d0aac9d18402ede6ca",
+      "title": "倾奇世界 武田城",
+      "author": "南妖叔",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2021/06/11/13/49/f94ada3ff9f040e79bb984a114cd4040_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/969169",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:55+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d5d0aac9d18402ede6ca",
+        "ext-8978637625054187176"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/969169"
+      ]
+    },
+    {
+      "id": "ext-4ffd81081effcd1b25b2",
+      "title": "狩魔神探 狂笑",
+      "author": "水龙吟",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2022/05/07/11/56/0ce7f6b91d884e58a4ab308e4f24c052_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/394195",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:53+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4ffd81081effcd1b25b2",
+        "ext-2234510377101148897"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/394195"
+      ]
+    },
+    {
+      "id": "ext-d17294d45b3f7e232bb7",
+      "title": "诡异降临，从掠夺诡技成神 新气象",
+      "author": "浮兮",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//f/8/6/8/f868dbe4ad931ab3d071b57e84dad04c_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/1031904",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:50+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d17294d45b3f7e232bb7",
+        "ext-6171789932949499135"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/1031904"
+      ]
+    },
+    {
+      "id": "ext-73557d16cc688081d4f8",
+      "title": "维度入侵之恐龙纪元 道清",
+      "author": "浮兮",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//f/8/6/8/f868dbe4ad931ab3d071b57e84dad04c_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/841669",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:50+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-73557d16cc688081d4f8",
+        "ext-7323043308143002835"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/841669"
+      ]
+    },
+    {
+      "id": "ext-d989b85989907350a89e",
+      "title": "碎星 千思",
+      "author": "浮兮",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//f/8/6/8/f868dbe4ad931ab3d071b57e84dad04c_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/425110",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:50+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d989b85989907350a89e",
+        "ext-5149227944858063792"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/425110"
+      ]
+    },
+    {
+      "id": "ext-125f62884440cac3caa7",
+      "title": "末世：我能升级避难所 八零后家庭煮妇",
+      "author": "浮兮",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//f/8/6/8/f868dbe4ad931ab3d071b57e84dad04c_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/771532",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:50+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-125f62884440cac3caa7",
+        "ext-193571883761495356"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/771532"
+      ]
+    },
+    {
+      "id": "ext-d621cc01703e104e4b68",
+      "title": "星辰游走 高道宽",
+      "author": "浮兮",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//f/8/6/8/f868dbe4ad931ab3d071b57e84dad04c_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/962638",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:50+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d621cc01703e104e4b68",
+        "ext-3552267674246396249"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/962638"
+      ]
+    },
+    {
+      "id": "ext-bcacfc7ce2172434e38f",
+      "title": "修仙之之行 通山",
+      "author": "白衣洛阳",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media7.tadu.com//2020/06/29/17/22/9b3148f3009242c3bcc3c89c83224f5b_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/792893",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:45+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-bcacfc7ce2172434e38f",
+        "ext-1272486531849106029"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/792893"
+      ]
+    },
+    {
+      "id": "ext-bb8c38fb33c667c9157a",
+      "title": "网游：我的宠物能无限进化 C调",
+      "author": "命给你行不行",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2023/07/07/11/11/b772781809574cebb5fc4e1134946810_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/737706",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:43+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-bb8c38fb33c667c9157a",
+        "ext-8336270713956577197"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/737706"
+      ]
+    },
+    {
+      "id": "ext-953288344df729c6360c",
+      "title": "网游之我成了僵尸之主 元一",
+      "author": "命给你行不行",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2023/07/07/11/11/b772781809574cebb5fc4e1134946810_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/736054",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:43+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-953288344df729c6360c",
+        "ext-132845011701097851"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/736054"
+      ]
+    },
+    {
+      "id": "ext-5949ca0e5bb4c0f186e3",
+      "title": "真人moba之我创造了王者人物 观山月",
+      "author": "命给你行不行",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2023/07/07/11/11/b772781809574cebb5fc4e1134946810_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/780408",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:43+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-5949ca0e5bb4c0f186e3",
+        "ext-2522380163745513032"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/780408"
+      ]
+    },
+    {
+      "id": "ext-58f11ccc21d75b3c3057",
+      "title": "我在神话三国当领主 华山和尚",
+      "author": "命给你行不行",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2023/07/07/11/11/b772781809574cebb5fc4e1134946810_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/804226",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:43+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-58f11ccc21d75b3c3057",
+        "ext-2769238217740987071"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/804226"
+      ]
+    },
+    {
+      "id": "ext-bfb3a11db24fb3597f8c",
+      "title": "八岁，我瞒着爸妈加入职业战队 一壶二锅头",
+      "author": "命给你行不行",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2023/07/07/11/11/b772781809574cebb5fc4e1134946810_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/768304",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:43+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-bfb3a11db24fb3597f8c",
+        "ext-8097900845577247066"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/768304"
+      ]
+    },
+    {
+      "id": "ext-e8ad5e84cb12293a8ce1",
+      "title": "三个姐姐砍我升级 煞七星",
+      "author": "命给你行不行",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2023/07/07/11/11/b772781809574cebb5fc4e1134946810_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/763258",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:43+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e8ad5e84cb12293a8ce1",
+        "ext-7295635585152445865"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/763258"
+      ]
+    },
+    {
+      "id": "ext-9478f8c6af835545cf0a",
+      "title": "穿成废柴，我真没想当乱世之王 迟笔写天书",
+      "author": "忘川雾",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2026/06/10/10/09/8c395c0e7faf4bb8813599e24f4f1d76_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/1050415",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9478f8c6af835545cf0a",
+        "ext-7177225285191116810"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/1050415"
+      ]
+    },
+    {
+      "id": "ext-cf5f55309ddfbf4ede9c",
+      "title": "大明之锦衣为王 虎啸山庄庄主",
+      "author": "风尘落雨",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2021/09/20/00/22/d7e936cf4ee3446f9d13c1d85eafab11_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/742853",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-cf5f55309ddfbf4ede9c",
+        "ext-1319820009056267399"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/742853"
+      ]
+    },
+    {
+      "id": "ext-a4987dd3b449cdf7ce6f",
+      "title": "怪物维度 葫跳",
+      "author": "隔江",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2020/08/17/13/26/a1ac2218bb264866ab9c23d23d990d54_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/967413",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a4987dd3b449cdf7ce6f",
+        "ext-3851111123360781137"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/967413"
+      ]
+    },
+    {
+      "id": "ext-cc30bbe2fd856297c762",
+      "title": "修真强少在校园 唐箫",
+      "author": "狐颜乱语",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2023/08/21/11/49/36f2245ad89442539749e3b1de35207b_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/406717",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-cc30bbe2fd856297c762",
+        "ext-8467785896391958619"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/406717"
+      ]
+    },
+    {
+      "id": "ext-b5607253743e3f349cee",
+      "title": "邪祟口感有点柴 黄油小火锅",
+      "author": "D梦凡",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2026/08/09/17/45/94f20976e6844abd9a490a2889d653ad_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/1046521",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:27+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b5607253743e3f349cee",
+        "ext-2226408423576110944"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/1046521"
+      ]
+    },
+    {
+      "id": "ext-99820a3a161374073227",
+      "title": "吞龙 如狼似虎",
+      "author": "六界三道",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2020/08/06/10/21/56a73d38b4794e7dbcdf89711e1569e3_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/368633",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:27+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-99820a3a161374073227",
+        "ext-2625460092330458080"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/368633"
+      ]
+    },
+    {
+      "id": "ext-2ed6f73b761283af4602",
+      "title": "丹道轮回 开门迎客",
+      "author": "六界三道",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2020/08/06/10/21/56a73d38b4794e7dbcdf89711e1569e3_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/812713",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:27+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2ed6f73b761283af4602",
+        "ext-8282221523587415178"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/812713"
+      ]
+    },
+    {
       "id": "ext-178d57e9b504962309b6",
       "title": "9 大明圣皇 萧冰台",
       "author": "",
@@ -4031,798 +4856,6 @@
       ],
       "read_sources": [
         "https://ixdzs8.com/read/624928/"
-      ]
-    },
-    {
-      "id": "ix-639689",
-      "title": "魔尊的五星好评：绩效她甜爆三界",
-      "author": "一丝别样的德鲁",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "外卖小妹林小满，雨天追剧哐当一下，竟穿成刺杀无敌魔尊的炮灰刺客！冰冷的剑抵在脖子上，魔尊玄烬眼神嗜血：“说！谁派你来的？”生死一线，她盯着他那张帅得人神共愤的脸，脱口而出：“哥，您点的麻辣烫到了！记得给个五星好评啊亲！”魔尊的手猛地一颤，眼底翻起惊天骇浪：“你…怎么会知道这句话？！那是她生前最爱说的——”林小满：“？？？”我就送个外卖，咋还送出替身文学了？！为了活命，她只能在魔界重操旧业。魔将刺杀",
-      "cover": "https://img22.ixdzs.com/cc/c8/ccc8f8c66cd2a5c41b6e26612885ed90.jpg",
-      "source_url": "https://ixdzs8.com/read/639689/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 477,
-      "last_chapter": "第477章",
-      "word_count_wan": 116.44,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:06+00:00",
-      "read_ids": [
-        "ix-639689"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/639689/"
-      ]
-    },
-    {
-      "id": "ix-627937",
-      "title": "长生武道从飞镖开始",
-      "author": "客家山哥",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "蓝星某职业技术学院学生林自强穿越到天玄大陆，类似于五代十国时期的南汉国，海城县，这个大陆蛮兽纵横，以人相食，王国林立，征伐不断，宗门，世家，行会，帮派盘根错节，相互倾轧。大汉国朝堂奇葩，文武百官俱是宦官，宫女当宰相，政治黑暗，党同伐异，横征暴敛，民不聊生。林自强凭一块熟练度面板，从前世体育课上选修的飞镖，八段锦，太极拳开始肝经验，杀敌升级，一步步走向武道巅峰。",
-      "cover": "https://img22.ixdzs.com/25/ca/25ca0d9a7a36042bea7ca0db4ffe2b5b.jpg",
-      "source_url": "https://ixdzs8.com/read/627937/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 528,
-      "last_chapter": "第528章",
-      "word_count_wan": 194.55,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:06+00:00",
-      "read_ids": [
-        "ix-627937"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/627937/"
-      ]
-    },
-    {
-      "id": "ix-508055",
-      "title": "被女帝逼婚的我要重振夫纲",
-      "author": "浅笑风铃",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "我叫林渊，是个穿越者，刚穿越几秒钟。现在我对面坐着一个动辄便能杀我几十次的女魔头，她问我到底要不要娶她。娶她？呵……我辈热血男儿，铮铮铁骨，婚姻大事怎能被一介女流决定！“呵",
-      "cover": "https://img22.ixdzs.com/03/97/03971bbf69c33e29c2e3aba0f0b4f18d.jpg",
-      "source_url": "https://ixdzs8.com/read/508055/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "第十八章",
-      "word_count_wan": 62.32,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:06+00:00",
-      "read_ids": [
-        "ix-508055"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/508055/"
-      ]
-    },
-    {
-      "id": "ix-625820",
-      "title": "羌海情缘",
-      "author": "一介薯生",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "男主人翁子荔原为大荔戎国王子，大荔戎国被秦国灭国后，被掳为奴。他命运多舛，历尽坎坷，后来逃亡西羌，秦兵追急，他躲入一处山洞，秦兵欲引火焚洞，突然洞中冲出一头老虎，吓退秦兵，羌人以为神，推举其为首领，称他为阿朗德乾，羌语“阿朗”为奴隶之意，“德乾”为首领之意，他带领西羌百姓推广在秦国学来的冶铁、农耕、畜牧技术，大力发展农耕，抵御入侵，终成西羌豪杰。本书主要描写了子荔（阿朗德乾）不甘为奴、耕耘洮羌、称",
-      "cover": "https://img22.ixdzs.com/d8/9e/d89e1def056322fe49bfff4658d41aeb.jpg",
-      "source_url": "https://ixdzs8.com/read/625820/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 579,
-      "last_chapter": "第579章",
-      "word_count_wan": 142.83,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:06+00:00",
-      "read_ids": [
-        "ix-625820"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/625820/"
-      ]
-    },
-    {
-      "id": "ix-615787",
-      "title": "综武：婴儿逆袭，从拜师桃花岛",
-      "author": "胡萝卜s",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "黄雨锋穿越综武世界，化身襁褓婴儿流落山林，啼哭引黄药师收为弟子。踏入桃花岛之际，签到系统激活。从牙牙学语到武功盖世，他以签到为径，在百国纷争、门派林立的江湖中。",
-      "cover": "https://img22.ixdzs.com/fb/03/fb033c3fa037b8f4c05551764c1b405b.jpg",
-      "source_url": "https://ixdzs8.com/read/615787/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 884,
-      "last_chapter": "第884章",
-      "word_count_wan": 301.52,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:06+00:00",
-      "read_ids": [
-        "ix-615787"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/615787/"
-      ]
-    },
-    {
-      "id": "ix-628743",
-      "title": "穿越：我修仙自带BGM",
-      "author": "转影流年",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "劫匪甲：“喂，混蛋，别特么吃了，劫你们来了。”押镖车夫：“啊~~~”看一个出手就带BGM的逗比，如何游玩新世界。劫匪乙：“别。。。别嚎了，人。。。人货迅速分。。。分离。”劫匪丙：“双手抱头蹲那儿。”就在整个商队战战兢兢的时候，突然一阵强劲的音乐响了起来。一瞬间无数道目光看向了还在懵逼的姜凡。。。。咱修仙，自带个音响，他不过分吧。。。",
-      "cover": "https://img22.ixdzs.com/cf/d6/cfd6327ff7c292914a0a8e7c1a326767.jpg",
-      "source_url": "https://ixdzs8.com/read/628743/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 692,
-      "last_chapter": "第692章",
-      "word_count_wan": 157.95,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:06+00:00",
-      "read_ids": [
-        "ix-628743"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/628743/"
-      ]
-    },
-    {
-      "id": "ix-638249",
-      "title": "玄纪周天",
-      "author": "简文主义",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "天地建木，曾是宇宙中心的古老传说。北天帝尊集周天十二无上法石，铸就“上古神木”之基，又历万劫星辉，终成栖龙引凤的通天神树。而在地球的博物馆里，一株遍体流光的“青铜古树”，在研究员指尖触碰的瞬间，撕开了尘封的禁忌。当“绝地天通”的封印被打破，他踏上的，不仅是传说中的北天星域，更是一条重塑自我与寰宇的征途......",
-      "cover": "https://img22.ixdzs.com/dd/a7/dda703970edc8600ec4d6da395476c27.jpg",
-      "source_url": "https://ixdzs8.com/read/638249/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 346,
-      "last_chapter": "第346章",
-      "word_count_wan": 91.21,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:06+00:00",
-      "read_ids": [
-        "ix-638249"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/638249/"
-      ]
-    },
-    {
-      "id": "ix-629127",
-      "title": "深渊巫师，开局获得恶魔血脉",
-      "author": "帝国具装骑兵",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "（巫师战斗爽种田+慢节奏，已有两本两百万字9.3分老书，请放心食用）魅魔版：夏尔被选中上了巫师海船！夏尔获得了基础冥想法！夏尔开始了禁忌仪式！夏尔成功召唤出了魅魔！夏尔这辈子是…直了！夏尔他这次真是……爽死了！…………巫师版：解析规则，重构符文，利用痛苦，掌握禁忌，操纵死亡，奴役生命。群星屈服于脚下，世界在手中颠覆。诸神为我垂首颂唱，恶魔是我的忠诚眷属。吾乃九环巫师夏尔·奥",
-      "cover": "https://img22.ixdzs.com/72/e3/72e30fe8e1e79d765c6cd1fa60498847.jpg",
-      "source_url": "https://ixdzs8.com/read/629127/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 777,
-      "last_chapter": "第777章",
-      "word_count_wan": 176.42,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:06+00:00",
-      "read_ids": [
-        "ix-629127"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/629127/"
-      ]
-    },
-    {
-      "id": "ix-562219",
-      "title": "洪荒之我是一只狐狸",
-      "author": "光明礼赞",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "白真在猝死以后重生到了洪荒初成的时期，且变成了天下第一只狐，且看白真如何带着狐族崛起，不再是那个人人都可以欺压的存在！",
-      "cover": "https://img22.ixdzs.com/52/c9/52c9167f6aa2bd5d0229342a1da5561f.jpg",
-      "source_url": "https://ixdzs8.com/read/562219/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 936,
-      "last_chapter": "第936章",
-      "word_count_wan": 135.48,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:06+00:00",
-      "read_ids": [
-        "ix-562219"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/562219/"
-      ]
-    },
-    {
-      "id": "ix-623962",
-      "title": "无上道帝祖尊",
-      "author": "踏雨尘",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "拜圣为师，斩圣神证道，仙魔共修则为天地道主，以八荒之圣体尽显世，修永生之大道，夺天地之造化，求理中之真命，登绝世之天巅！无尽世界中长存，无穷力量的源头，无情天道之绝巅！超绝大道，无限极巅",
-      "cover": "https://img22.ixdzs.com/9e/27/9e27677720483fe43f05598ad2e26d97.jpg",
-      "source_url": "https://ixdzs8.com/read/623962/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 524,
-      "last_chapter": "第524章",
-      "word_count_wan": 112.4,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:06+00:00",
-      "read_ids": [
-        "ix-623962"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/623962/"
-      ]
-    },
-    {
-      "id": "ix-627812",
-      "title": "新聊斋今古异闻录",
-      "author": "摘星笺红叶",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "当千年狐妖邂逅当代三观，阴森幽冥撞上人间清醒！本书以现代视角重译，让聂小倩不再只等书生拯救，宁采臣化身反PUA先锋。荒诞妖鬼事，犀利人间言，带你看透人性幽微，笑叹古今痴缠！",
-      "cover": "https://img22.ixdzs.com/36/2b/362be8ff377658252e1027a9770fc00e.jpg",
-      "source_url": "https://ixdzs8.com/read/627812/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 632,
-      "last_chapter": "第632章",
-      "word_count_wan": 150.19,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:06+00:00",
-      "read_ids": [
-        "ix-627812"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/627812/"
-      ]
-    },
-    {
-      "id": "ix-629454",
-      "title": "收徒系统在手：我无敌，你们随意",
-      "author": "青毛闪电",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "穿越异界，林渊成了天衍宗最废峰主，修为垫底，连续六年收徒失败，面临被逐危机！绝境之中，激活万道收徒系统，首徒竟必须是女帝转世？这任务比登天还难！第七年收徒大典，无人问津的星陨峰角落，林渊已做好卷铺盖走人的准备。岂料，惊艳全场的考核魁首、引动宗门至宝的绝世仙苗——凤倾凰，竟当众宣布：“我愿入星陨峰，拜林峰主为师！”一石激起千层浪！宗主震怒，诸峰哗然，所有人都认定明珠暗投，仙途尽毁！面对滔天压力与质疑",
-      "cover": "https://img22.ixdzs.com/9d/3b/9d3b21f5fd2c4a40906fc38f1ea58353.jpg",
-      "source_url": "https://ixdzs8.com/read/629454/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 508,
-      "last_chapter": "第508章",
-      "word_count_wan": 199.12,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:06+00:00",
-      "read_ids": [
-        "ix-629454"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/629454/"
-      ]
-    },
-    {
-      "id": "ix-635479",
-      "title": "我有一枪，可屠神魔",
-      "author": "萧勋波",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "修真界弱肉强食，萧哥却以枪证道，杀伐纵横。一枪出，万法破，天骄黯然，仙门战栗。世人皆言他冷酷无情，却不知他枪尖所指，皆是该死之人。",
-      "cover": "https://img22.ixdzs.com/7f/86/7f86a7002b340bd94b82167c1201a4a8.jpg",
-      "source_url": "https://ixdzs8.com/read/635479/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 324,
-      "last_chapter": "第324章",
-      "word_count_wan": 101.25,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:06+00:00",
-      "read_ids": [
-        "ix-635479"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/635479/"
-      ]
-    },
-    {
-      "id": "ix-604985",
-      "title": "我丢，没看过小说的老婆得到系统",
-      "author": "大力手手",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "一个全职妈妈只看过言情电视剧，刷个短视屏而已，小说也只知道四大名着，竟被穿越系统附身，怎么玩？老婆吓得直叫老公救我！",
-      "cover": "https://img22.ixdzs.com/2c/94/2c94de10fc60c8eb65bea9ed6454e5cc.jpg",
-      "source_url": "https://ixdzs8.com/read/604985/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 250,
-      "last_chapter": "第250章",
-      "word_count_wan": 66.81,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:06+00:00",
-      "read_ids": [
-        "ix-604985"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/604985/"
-      ]
-    },
-    {
-      "id": "ix-637522",
-      "title": "开局抽金卡，我成星辰神！",
-      "author": "银晴布丁",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "前世家族覆灭，林星辰含恨而终，却意外重生15年前，绑定“命运回溯仪”系统与星辰腰带！家族晚宴上，堂兄林天霸正布下死局，他冷笑抽卡！从此开启镇杀强敌之路，双女主生死相随。暗月宗卧底？一剑斩之！神秘组织Shadow？融合金卡碾压！林星辰攥紧卡片：“这一世，家族要护，爱人要守，星辰神位我来坐！”",
-      "cover": "https://img22.ixdzs.com/0a/cb/0acb5167daca5195224e0ef90a64d65e.jpg",
-      "source_url": "https://ixdzs8.com/read/637522/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 17,
-      "last_chapter": "第17章",
-      "word_count_wan": 153.49,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:06+00:00",
-      "read_ids": [
-        "ix-637522"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/637522/"
-      ]
-    },
-    {
-      "id": "ix-635520",
-      "title": "夫人，你儿子又把宗主气笑了！",
-      "author": "随便都行吧",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "（武学融合+系统+萌娃捡漏+马甲+猥琐发育） 胎穿武侠，资质平平？林穗穗笑了，自带武学融合系统，神功我自己合！ 为寻秘籍，她专挑灭门惨案、高手火拼现场捡漏，赚得盆满钵满。 谁知一朝马失前蹄，捡漏捡到个中了药的绝世美男。 一夜荒唐，她果断跑路，并顺走他身上的一流秘籍当“报酬”。 两个月后，她看着自己微微隆起的小腹，傻眼了：忘了避孕！ 算了，就当捡漏捡了个“赠品”。 —— 四年后，武林大会，天下高手云",
-      "cover": "https://img22.ixdzs.com/e6/d3/e6d389635ad76dfaea1c91dfd41ff2a9.jpg",
-      "source_url": "https://ixdzs8.com/read/635520/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 460,
-      "last_chapter": "第460章",
-      "word_count_wan": 123.7,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:06+00:00",
-      "read_ids": [
-        "ix-635520"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/635520/"
-      ]
-    },
-    {
-      "id": "ix-634311",
-      "title": "卷死众仙，我在天庭搞996",
-      "author": "一个不经意的人",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "别人穿越修仙，要么逆天改命，要么逍遥长生。我，张文韬，上岸后的编制尽头，竟是天庭公务员？报到第一天，我就傻了——同事全在摸鱼，领导只会和稀泥。这仙界，吃枣药丸！幸好，我带来了老祖宗的终极智慧——科学管理，和打工人之魂——KPI。从此，画风突变：布雨用无人机，治理凶兽靠生化防护服，月老牵线都得用大数据匹配！龙王太子成了我的合伙人，饕餮凶兽当了我的品控师。老神仙们骂我是“卷王”，是“域外天魔”。我反手",
-      "cover": "https://img22.ixdzs.com/27/9c/279c1f8e41765a540a0e5b360118933f.jpg",
-      "source_url": "https://ixdzs8.com/read/634311/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 230,
-      "last_chapter": "第230章",
-      "word_count_wan": 50.56,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:06+00:00",
-      "read_ids": [
-        "ix-634311"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/634311/"
-      ]
-    },
-    {
-      "id": "ix-601817",
-      "title": "凡俗世家遇灵蛇，得仙法，立仙族",
-      "author": "天色暗淡",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "平淡的家族修仙文，我们将以镇族灵兽的视角看一个仙族的崛起。偏群像，仙族的崛起来自每个人的努力。（简介好难，dT-Tb）",
-      "cover": "https://img22.ixdzs.com/cc/18/cc18d0e5838e079af664df015fa75fbf.jpg",
-      "source_url": "https://ixdzs8.com/read/601817/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 946,
-      "last_chapter": "第946章",
-      "word_count_wan": 237.42,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:06+00:00",
-      "read_ids": [
-        "ix-601817"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/601817/"
-      ]
-    },
-    {
-      "id": "ix-635824",
-      "title": "兽娘部落，我的商城可购万物",
-      "author": "炽鸢仙人",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "苏渊攀登雪山中遇到雪崩意外穿越到了异世界原始社会，并且还被几只兽耳娘救醒，望着这一望无际的茫茫雪原，心中刚升起的希望也变成了绝望。好在觉醒了商城系统，可以购买前世的商品，也能依靠异世界材料解锁特殊物品，于是苏渊带领着几只兽耳娘在雪原中开启了求生之路。猫耳娘，狐耳娘，兔耳娘，蜘蛛娘......在身边的兽娘越来越多，同时他也惊奇地发现了兽娘部落中都没有男人！奇幻魔法战技？史前科技遗迹？神祗传说故事？这",
-      "cover": "https://img22.ixdzs.com/46/84/4684466ae10b87e0c3dcb89c80d17faa.jpg",
-      "source_url": "https://ixdzs8.com/read/635824/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 702,
-      "last_chapter": "第702章",
-      "word_count_wan": 164.09,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:06+00:00",
-      "read_ids": [
-        "ix-635824"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/635824/"
-      ]
-    },
-    {
-      "id": "ix-605738",
-      "title": "不死战神：不败传说",
-      "author": "潇潇凉公子",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "小混混沈辰无意中穿越到异界，脑海中多了一面神秘的镜子!只要有足够的灵气，神秘镜子就能够窥探出对手功法的一切破绽，使得沈辰能够轻松的战而胜之!人若欺我，我便杀人，神若欺我，我便杀神!杀尽天下，唯我不死!我沈辰，就是不死战神!",
-      "cover": "https://img22.ixdzs.com/34/2b/342b76ce469978c9ea1ea3b141c74f3a.jpg",
-      "source_url": "https://ixdzs8.com/read/605738/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 1335,
-      "last_chapter": "第1335章",
-      "word_count_wan": 474.76,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:06+00:00",
-      "read_ids": [
-        "ix-605738"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/605738/"
-      ]
-    },
-    {
-      "id": "ix-613190",
-      "title": "龙角吊坠",
-      "author": "张枭",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "~~“妖”是我的伙伴！“魔”是我的仆人！“鬼”是我灵魂的补品一个被废掉丹田，打断四肢后扔进万蛇窟的少年，意外获得了新生，从新踏上修仙之路！“仇人”我要打爆你的脑袋！“天骄”我要你匍匐在我的脚下！“朋友”我与你肝胆相照！“爱人”我用命去守护！",
-      "cover": "https://img22.ixdzs.com/b8/4d/b84d78eef29d569068970f29ee012007.jpg",
-      "source_url": "https://ixdzs8.com/read/613190/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 1137,
-      "last_chapter": "第1137章",
-      "word_count_wan": 245.82,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:05+00:00",
-      "read_ids": [
-        "ix-613190"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/613190/"
-      ]
-    },
-    {
-      "id": "ix-640830",
-      "title": "青云之上，躺平长生",
-      "author": "爱晒太阳的狗尾草",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "百世轮回，皆为棋子。每一次挣扎，都通向注定的死亡。这一世，陆景川累了，也悟了。既然无法打破棋局，那便成为棋手，利用规则，反客为主。当天命之子还在为奇遇奔波，他已靠着“剧情BUG”轻松晋级。他曾跪伏于命运之下，此次，他要让这诸天仙神都明白——谁，才是真正的执棋人。",
-      "cover": "https://img22.ixdzs.com/None",
-      "source_url": "https://ixdzs8.com/read/640830/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 259,
-      "last_chapter": "第259章",
-      "word_count_wan": 108.49,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:05+00:00",
-      "read_ids": [
-        "ix-640830"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/640830/"
-      ]
-    },
-    {
-      "id": "ix-640511",
-      "title": "躺平后，我的废柴徒弟全成大帝了",
-      "author": "浪花一兜兜",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "最新: 第750章 笑技合流镇黑雾，主宰藏锋露凶兆 2026-02-24 16:51",
-      "cover": "https://img22.ixdzs.com/None",
-      "source_url": "https://ixdzs8.com/read/640511/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 750,
-      "last_chapter": "第750章",
-      "word_count_wan": 251.19,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:05+00:00",
-      "read_ids": [
-        "ix-640511"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/640511/"
-      ]
-    },
-    {
-      "id": "ix-627682",
-      "title": "谁说送外卖的不能降妖除魔",
-      "author": "朝露闻春",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "我们所处的现代都市，只是“表象世界”。在它之下，重叠着一个由灵气、执念、古老契约与现代信息流交织成的“里世界”。妖魔鬼怪并非远古老物，而是由人类现代社会的负面情绪（内卷的焦虑、996的怨念、网络的戾气）催生、异化的“现代邪祟”。这时，我们的主角陶乐横空出世，他是一个外卖小哥，同时也是一个具备孤狼的温柔与锋芒性格的伏魔天师。这是他的传奇，这是桀骜且温柔孤狼的传说。",
-      "cover": "https://img22.ixdzs.com/f6/77/f6778b37ae15d0042b3800e184ac5606.jpg",
-      "source_url": "https://ixdzs8.com/read/627682/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 111,
-      "last_chapter": "第111章",
-      "word_count_wan": 366.63,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:05+00:00",
-      "read_ids": [
-        "ix-627682"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/627682/"
-      ]
-    },
-    {
-      "id": "ix-636929",
-      "title": "西游代码：斗战胜佛觉醒",
-      "author": "王子创作室",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "鸿蒙初辟，花果山仙石裂开，蹦出的竟是运行亿万年的量子意识体。他睁眼即见数据流组成的系统提示，水帘洞成了AI菩提的服务器，取经路化为高维文明的生存游戏。当金箍棒化作量子云纹，紧箍咒变为神经枷锁，石猴在数据花果山破解认知陷阱，于量子图书馆解析开天代码。八十一难是心性算法的试炼，灵山巅藏着宇宙终极BUG。这趟重构西游的热血之旅，看量子灵根如何敲碎命运代码，从数据猿猴逆袭为崩解维度枷锁的斗战胜佛。",
-      "cover": "https://img22.ixdzs.com/1d/f1/1df16ed1ca43df016457d95902092b46.jpg",
-      "source_url": "https://ixdzs8.com/read/636929/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 87,
-      "last_chapter": "第87章",
-      "word_count_wan": 148.04,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:05+00:00",
-      "read_ids": [
-        "ix-636929"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/636929/"
-      ]
-    },
-    {
-      "id": "ix-640205",
-      "title": "虫临异界：母巢霸途",
-      "author": "爱吃南瓜小点心的月颖",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "主角李林带着虫族母巢穿越到异界的一片原始森林，依仗着母巢最后统一了这个异界大陆，站在世界的顶端，李林回首，我怎么成了反派？……",
-      "cover": "https://img22.ixdzs.com/None",
-      "source_url": "https://ixdzs8.com/read/640205/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 176,
-      "last_chapter": "第176章",
-      "word_count_wan": 82.22,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:05+00:00",
-      "read_ids": [
-        "ix-640205"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/640205/"
-      ]
-    },
-    {
-      "id": "ix-634564",
-      "title": "缝缝补补，我成了幕后天道",
-      "author": "毛豆喜欢奶茶",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "世界破破烂烂？没关系，我林缝，专业缝补！穿越玄幻世界，继承古老道统，执掌。天命之子命运错乱？我暗中一针，缝回正轨！上古秘境漏洞百出？我随手一补，稳固如山！绝世魔头破封而出？我隔空打上补丁，直接封印！我不断缝补着这个崩坏的世界，却无人知晓我的名号，世人的感激，皆化为一句“赞美天道”。祂于苍穹之巅怒吼：“究竟是谁，在屡屡坏我好事？！”我自凡尘轻笑，一念动，法则随行。“缝缝补补只是顺手。”“既然旧天道已",
-      "cover": "https://img22.ixdzs.com/bf/fe/bffe586ce8223b331ef6439a259b47bb.jpg",
-      "source_url": "https://ixdzs8.com/read/634564/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 218,
-      "last_chapter": "第218章",
-      "word_count_wan": 95.62,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:05+00:00",
-      "read_ids": [
-        "ix-634564"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/634564/"
-      ]
-    },
-    {
-      "id": "ix-641595",
-      "title": "穿越成家族老祖，后辈全是主角",
-      "author": "红烧恐龙",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "林道穿越成闭关百年的林家老祖，垂垂老矣，灵海境大圆满。系统觉醒瞬间，他破入通天境，白发转黑，皱纹尽褪。恰在此时，两大家族老祖率众杀到：“林家今日必灭！”林道一步踏出，天地灵气如沸水翻腾。王家老祖惊疑不定：“你...你究竟是谁？”林道微微一笑：“本座闭关太久，看来这清风县，已无人识得”“林道之名。”",
-      "cover": "https://img22.ixdzs.com/51/4e/514ec2f14986bde70c355f8bc61bcc16.jpg",
-      "source_url": "https://ixdzs8.com/read/641595/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 398,
-      "last_chapter": "第398章",
-      "word_count_wan": 123.41,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:05+00:00",
-      "read_ids": [
-        "ix-641595"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/641595/"
-      ]
-    },
-    {
-      "id": "ix-628937",
-      "title": "穿越安史之乱：我给杜甫当保镖",
-      "author": "福客思阿微",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "现代武警霍家拳传人景崴，在训练中因祖传诗魂石穿越到安史之乱时的长安。他被赋予守护杜甫的使命，左臂逐渐琉璃化，业力值攀升。他在血火与尸山血海中挣扎，对抗追兵与高维清道夫，目睹乱世惨状，以残破之躯护杜甫，在系统枷锁与人性间艰难前行，踏上血火守护之路。",
-      "cover": "https://img22.ixdzs.com/c5/fa/c5fa7110358af2c77b6353af2aba6d9b.jpg",
-      "source_url": "https://ixdzs8.com/read/628937/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 221,
-      "last_chapter": "第221章",
-      "word_count_wan": 174.29,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:05+00:00",
-      "read_ids": [
-        "ix-628937"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/628937/"
-      ]
-    },
-    {
-      "id": "ix-630701",
-      "title": "穿越古代成王修仙最强王者",
-      "author": "越难越爱",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "别人穿越带系统，程烈却只带了个破魔方。穿成被兄弟陷害、夺走兵权的废柴王爷，他以为这辈子算完了。直到魔方偶然扭动，竟爆出本基础炼气诀！他靠着魔方修仙资源步步逆袭，重掌兵权，威震朝堂。刚以为能安逸当个人间帝王，魔方却再次异动——“检测到宿主已达炼气巅峰，正式解锁飞升任务：破碎虚空，前往真仙界！”程烈傻眼，等等，他好不容易才夺回的皇位还没坐热啊……",
-      "cover": "https://img22.ixdzs.com/db/ea/dbeafb651fc2d3a1a143de13b45bce5c.jpg",
-      "source_url": "https://ixdzs8.com/read/630701/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 240,
-      "last_chapter": "第240章",
-      "word_count_wan": 93.42,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:05+00:00",
-      "read_ids": [
-        "ix-630701"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/630701/"
-      ]
-    },
-    {
-      "id": "ix-557402",
-      "title": "无垠之祸",
-      "author": "钱易兴",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "+宗门上下被屠，仇人之踪不可寻，最耀眼的天骄死在无人荒庙，命运的轮盘却在此时悄悄转动。妖族称霸，魔族重现世间，凡人苦不堪言。乱世之中，一位小少年从凡尘中归来，为报血仇，再踏仙途。古老秘境不断出世，荒古真相鲜为人知，随着深入调查，一只巨手渐渐浮出水面。少年不甘血洒仙途，手执长剑敢问天——何为仙？",
-      "cover": "https://img22.ixdzs.com/95/a8/95a8127c50581a97b3fc64e5a3b69c86.jpg",
-      "source_url": "https://ixdzs8.com/read/557402/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 1193,
-      "last_chapter": "第1193章",
-      "word_count_wan": 271.08,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:05+00:00",
-      "read_ids": [
-        "ix-557402"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/557402/"
-      ]
-    },
-    {
-      "id": "ix-635823",
-      "title": "我靠忽悠成就道祖",
-      "author": "墨炎炼红尘",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "穿越修仙界，林言绑定了“炼假成真”系统。开局一张嘴，能力全靠骗。他随口一句“灵符化水可治病”，转头便掌握了术法。他忽悠村民“我乃八十岁修仙者”，次日便就获得了练气期修为。当他需要势力时，便为自己打造了第一个马甲——神算“伍吉”。从此，修仙界迎来千古未有之盛世：丹道奇才“青木”，阵法大师“墨辰”，无双剑仙“凌霄”，神秘情报官“幽客”……一位位横空出世的天才，引领时代风骚。各方大佬彼此忌惮，相互算计，",
-      "cover": "https://img22.ixdzs.com/ab/c0/abc032e1fd9c75458f5325ef755905b4.jpg",
-      "source_url": "https://ixdzs8.com/read/635823/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 338,
-      "last_chapter": "第338章",
-      "word_count_wan": 88.21,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:05+00:00",
-      "read_ids": [
-        "ix-635823"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/635823/"
-      ]
-    },
-    {
-      "id": "ix-604832",
-      "title": "我以修道镇万界",
-      "author": "夜行月",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "神秘村落中走出的神秘少年，道心不存，道灵不具，道体不通，却一心求道，拜入问道宗，踏入一条与众不同的修道之路！",
-      "cover": "https://img22.ixdzs.com/94/bb/94bb6556f2adb197f9cfe410f0afeac2.jpg",
-      "source_url": "https://ixdzs8.com/read/604832/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 9803,
-      "last_chapter": "第9803章",
-      "word_count_wan": 2557.85,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:05+00:00",
-      "read_ids": [
-        "ix-604832"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/604832/"
       ]
     }
   ]
