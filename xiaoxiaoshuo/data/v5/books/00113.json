@@ -1,6 +1,81 @@
 {
   "books": [
     {
+      "id": "ext-b33eb983c7860e3645e0",
+      "title": "第126章 故地",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204391.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 126,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b33eb983c7860e3645e0",
+        "ext-4907776488746506104"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204391.html"
+      ]
+    },
+    {
+      "id": "ext-f456e17c626e0cfb3352",
+      "title": "第125章 交融",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204390.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 125,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f456e17c626e0cfb3352",
+        "ext-8750906667275462594"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204390.html"
+      ]
+    },
+    {
+      "id": "ext-dad3e0a128a6d2037554",
+      "title": "第124章 了结",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204389.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 124,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-dad3e0a128a6d2037554",
+        "ext-6868346140411286124"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204389.html"
+      ]
+    },
+    {
       "id": "ext-060c529930f6c7ea6337",
       "title": "第123章 冒进",
       "author": "",
@@ -4923,81 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book4/10549/index.html"
-      ]
-    },
-    {
-      "id": "ext-919655709465b15b4b5c",
-      "title": "[英]汤姆-贝克: 黑暗之地5：黑色赌局",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6890/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:36+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-919655709465b15b4b5c",
-        "ext-4966929918575592142"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6890/index.html"
-      ]
-    },
-    {
-      "id": "ext-8ad734c09b20d87a2e45",
-      "title": "[英]汤姆-贝克: 黑暗之地4：时间诅咒",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6889/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:36+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-8ad734c09b20d87a2e45",
-        "ext-5827841301836740840"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6889/index.html"
-      ]
-    },
-    {
-      "id": "ext-b4f60cc6057f1fe01693",
-      "title": "[英]汤姆-贝克: 黑暗之地3：暗夜陷阱",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6888/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:36+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b4f60cc6057f1fe01693",
-        "ext-4193978460403945554"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6888/index.html"
       ]
     }
   ]

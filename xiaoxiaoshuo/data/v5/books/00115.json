@@ -1,6 +1,81 @@
 {
   "books": [
     {
+      "id": "ext-eb87e087042e83b8cad4",
+      "title": "梁朝辉: 摩托日记",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-03-989.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-eb87e087042e83b8cad4",
+        "ext-3183550841365282187"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-03-989.html"
+      ]
+    },
+    {
+      "id": "ext-fd19f733fa622dd45068",
+      "title": "格非: 褐色鸟群",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2012/11-08-8313.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-fd19f733fa622dd45068",
+        "ext-9040320318425333377"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2012/11-08-8313.html"
+      ]
+    },
+    {
+      "id": "ext-318dc68c5c93f5b6d1fe",
+      "title": "林白: 猫的激情时代",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2012/03-16-7036.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-318dc68c5c93f5b6d1fe",
+        "ext-183839775252192624"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2012/03-16-7036.html"
+      ]
+    },
+    {
       "id": "ext-0e773a5709f351e20e1b",
       "title": "林白: 内心的故乡",
       "author": "",
@@ -4965,81 +5040,6 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/956302"
-      ]
-    },
-    {
-      "id": "ext-1d0bca3a97b26f99b603",
-      "title": "又林的短篇集 又林",
-      "author": "一念茫然",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2025/12/24/11/41/0182abaa96b04a28b4eab2e466135434_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/953899",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1d0bca3a97b26f99b603",
-        "ext-7297345667666365569"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/953899"
-      ]
-    },
-    {
-      "id": "ext-8bca590e7d748735b646",
-      "title": "00后生活 幻界王",
-      "author": "一念茫然",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2025/12/24/11/41/0182abaa96b04a28b4eab2e466135434_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/955903",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-8bca590e7d748735b646",
-        "ext-3948922053129434547"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/955903"
-      ]
-    },
-    {
-      "id": "ext-a46f8139c448ab9d359e",
-      "title": "神通魔法大乱斗：天空游记 光明殿",
-      "author": "两仪",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2021/07/01/11/50/50f8640a164048af828d6fa708ea5c95_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/1042666",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:55+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a46f8139c448ab9d359e",
-        "ext-3797555685489346382"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/1042666"
       ]
     }
   ]
