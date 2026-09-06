@@ -1,7 +1,7 @@
 {
   "version": 14,
-  "generated_at": "2026-09-06T12:37:40+00:00",
-  "total": 25265,
+  "generated_at": "2026-09-06T12:56:23+00:00",
+  "total": 25256,
   "shard_size": 200,
   "shards": [
     {
@@ -510,12 +510,12 @@
     },
     {
       "file": "books/00127.json",
-      "count": 65
+      "count": 56
     }
   ],
   "source_counts": {
     "泡书吧小说网": 2132,
-    "乐文小说": 2061,
+    "乐文小说": 2052,
     "和图书": 1400,
     "飘天文学": 996,
     "一七小说": 2052,
@@ -675,14 +675,14 @@
       "name": "AAAKS小说",
       "host": "aaaks.com",
       "pages_this_run": 80,
-      "successful_pages": 80,
-      "failed_pages": 0,
-      "books_found": 80,
-      "books_added": 80,
-      "toc_written": 80,
+      "successful_pages": 0,
+      "failed_pages": 80,
+      "books_found": 0,
+      "books_added": 0,
+      "toc_written": 0,
       "books_seen_total": 2070,
-      "remaining_queue": 20112,
-      "seen_pages": 2480,
+      "remaining_queue": 20032,
+      "seen_pages": 2560,
       "done": false,
       "blocked": false,
       "needs_adapter": false
@@ -737,7 +737,7 @@
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "ipaoshubaxs.net",
+  "last_published_source": "aaaks.com",
   "id_scheme": "stable-v4-aliases",
   "metadata_sanitized": true,
   "text_only": true
