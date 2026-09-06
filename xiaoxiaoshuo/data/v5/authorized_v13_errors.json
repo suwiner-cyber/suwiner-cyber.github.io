@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T12:32:04+00:00",
+  "generated_at": "2026-09-06T12:33:43+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -3756,6 +3756,12 @@
       "source": "飘天文学",
       "url": "https://www.piaotia.com/newmessage.php?tosys=1&title=傲世九重天更新不及时！",
       "error": "'ascii' codec can't encode characters in position 34-44: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-06T12:33:24+00:00",
+      "source": "和图书",
+      "url": "https://m.hetushu.com/author/%E5%94%90%E5%AE%B6%E4%B8%89%E5%B0%91-2.html",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }
