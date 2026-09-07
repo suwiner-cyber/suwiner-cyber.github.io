@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-6f5395b42717d5b1f362",
+      "title": "第223章 为往圣继绝学26",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/dby81/459631.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 223,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:57+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-6f5395b42717d5b1f362",
+        "ext-5160320885487007783"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/dby81/459631.html"
+      ]
+    },
+    {
       "id": "ext-5a4e7b7ce601101c313a",
       "title": "第222章 为往圣继绝学25",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/dby79/458224.html"
-      ]
-    },
-    {
-      "id": "ext-99e3d3d5bda3c01db7fa",
-      "title": "第42章 君臣录",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dby79/458223.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 42,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:56+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-99e3d3d5bda3c01db7fa",
-        "ext-1986615096049417842"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dby79/458223.html"
       ]
     }
   ]

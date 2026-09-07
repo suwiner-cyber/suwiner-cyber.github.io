@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-2d08fa6a0df73113e0de",
+      "title": "第一百八十七章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463033.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2d08fa6a0df73113e0de",
+        "ext-800680418043056270"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463033.html"
+      ]
+    },
+    {
       "id": "ext-b0b6445b86b90e3d361b",
       "title": "第一百八十一章",
       "author": "",
@@ -5309,31 +5334,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/lmm04/464161.html"
-      ]
-    },
-    {
-      "id": "ext-b3c325c78d30ffff071e",
-      "title": "第111章 if线",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/lmm04/464160.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 111,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:48+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b3c325c78d30ffff071e",
-        "ext-8891605348999245334"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/lmm04/464160.html"
       ]
     }
   ]

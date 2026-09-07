@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-1bc5b2f8f27855122765",
+      "title": "第四十章 真凶",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450448.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1bc5b2f8f27855122765",
+        "ext-5007371131478790722"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450448.html"
+      ]
+    },
+    {
       "id": "ext-dac631c3850068602150",
       "title": "第四十章 幼年时",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450146.html"
-      ]
-    },
-    {
-      "id": "ext-f6e5e03d57c2441acdca",
-      "title": "第五十七章 劫掠",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450287.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f6e5e03d57c2441acdca",
-        "ext-3977532520467723258"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450287.html"
       ]
     }
   ]
