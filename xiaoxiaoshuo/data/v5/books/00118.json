@@ -1,6 +1,481 @@
 {
   "books": [
     {
+      "id": "ext-c49bd71c9f3a99fc407b",
+      "title": "凯丝·莱克斯: 看，死亡的颜色",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10089/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c49bd71c9f3a99fc407b",
+        "ext-8165190132462470076"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10089/index.html"
+      ]
+    },
+    {
+      "id": "ext-2efaec1f72662164b4b9",
+      "title": "凯丝·莱克斯: 十字架上的骷髅",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10088/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2efaec1f72662164b4b9",
+        "ext-7589205318897851691"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10088/index.html"
+      ]
+    },
+    {
+      "id": "ext-971052cf4103bd7931fc",
+      "title": "余以键: 纸上的姐妹",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10670/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-971052cf4103bd7931fc",
+        "ext-6004544490336413874"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10670/index.html"
+      ]
+    },
+    {
+      "id": "ext-ac9fad41920c8e702aaa",
+      "title": "余以键: 死刑之后",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10654/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ac9fad41920c8e702aaa",
+        "ext-1865927847269762788"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10654/index.html"
+      ]
+    },
+    {
+      "id": "ext-0cc60b7194c4234aa4ac",
+      "title": "九把刀: 都市恐怖病系列·狼嚎",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/7346/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-0cc60b7194c4234aa4ac",
+        "ext-1568260080571355512"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/7346/index.html"
+      ]
+    },
+    {
+      "id": "ext-d12158f0a3f448f888de",
+      "title": "九把刀: 都市恐怖病系列·影子",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/7345/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d12158f0a3f448f888de",
+        "ext-7445299631464093281"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/7345/index.html"
+      ]
+    },
+    {
+      "id": "ext-ac772603fcfd7a2b5770",
+      "title": "九把刀: 都市恐怖病系列·异梦",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/7354/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ac772603fcfd7a2b5770",
+        "ext-7494475009518223428"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/7354/index.html"
+      ]
+    },
+    {
+      "id": "ext-858f3537662d05ffbbe3",
+      "title": "九把刀: 都市恐怖病系列·冰箱",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/7352/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-858f3537662d05ffbbe3",
+        "ext-4423717991405377838"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/7352/index.html"
+      ]
+    },
+    {
+      "id": "ext-f3d73607d4db482d6e81",
+      "title": "九把刀: 楼下的房客",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/7351/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f3d73607d4db482d6e81",
+        "ext-6050861192303683218"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/7351/index.html"
+      ]
+    },
+    {
+      "id": "ext-6db252760b52a070c91e",
+      "title": "一度苍穹: 诡魅湘西·赶尸日记",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10549/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-6db252760b52a070c91e",
+        "ext-8835371411005480110"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10549/index.html"
+      ]
+    },
+    {
+      "id": "ext-919655709465b15b4b5c",
+      "title": "[英]汤姆-贝克: 黑暗之地5：黑色赌局",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6890/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-919655709465b15b4b5c",
+        "ext-4966929918575592142"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6890/index.html"
+      ]
+    },
+    {
+      "id": "ext-8ad734c09b20d87a2e45",
+      "title": "[英]汤姆-贝克: 黑暗之地4：时间诅咒",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6889/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8ad734c09b20d87a2e45",
+        "ext-5827841301836740840"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6889/index.html"
+      ]
+    },
+    {
+      "id": "ext-b4f60cc6057f1fe01693",
+      "title": "[英]汤姆-贝克: 黑暗之地3：暗夜陷阱",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6888/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b4f60cc6057f1fe01693",
+        "ext-4193978460403945554"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6888/index.html"
+      ]
+    },
+    {
+      "id": "ext-13dccd78174a95e22ab1",
+      "title": "[英]汤姆-贝克: 黑暗之地2：生命之血",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6887/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-13dccd78174a95e22ab1",
+        "ext-6793170806146678182"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6887/index.html"
+      ]
+    },
+    {
+      "id": "ext-9d525e9b97b2777481f1",
+      "title": "[英]汤姆-贝克: 黑暗之地1：神秘失踪",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6886/index.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9d525e9b97b2777481f1",
+        "ext-8241745872739615936"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6886/index.html"
+      ]
+    },
+    {
+      "id": "ext-5eab9d518c0f71f9799c",
+      "title": "黄易: 文明之秘",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/sf/201103/2396.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-5eab9d518c0f71f9799c",
+        "ext-2545086639492025463"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/sf/201103/2396.html"
+      ]
+    },
+    {
+      "id": "ext-dda394a7628c6043f7d4",
+      "title": "田中芳树: 战场夜想曲",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/world/201104/2638.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-dda394a7628c6043f7d4",
+        "ext-3585400529121572347"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/world/201104/2638.html"
+      ]
+    },
+    {
+      "id": "ext-35555d6d289f789b7fdf",
+      "title": "菲利普·普尔曼(philip pullman): 黄金罗盘(《黑质三部曲》之一)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/xunhuan/200805/566.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:34+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-35555d6d289f789b7fdf",
+        "ext-3174728826615612054"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/xunhuan/200805/566.html"
+      ]
+    },
+    {
+      "id": "ext-72314047d7600ab15a05",
+      "title": "[美]斯蒂芬妮·梅尔: 布里坦纳第二次短暂生命",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/xunhuan/201101/1118.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:34+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-72314047d7600ab15a05",
+        "ext-2937515298080693746"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/xunhuan/201101/1118.html"
+      ]
+    },
+    {
       "id": "ext-5b7f60c71c360f3a836d",
       "title": "桐华: 解忧曲",
       "author": "",
@@ -4523,481 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/01-16-1165.html"
-      ]
-    },
-    {
-      "id": "ext-a5811235bb5c056acca5",
-      "title": "乐小米(纪伟娜): 你是谁的浅唇我是谁的眉",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1170.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a5811235bb5c056acca5",
-        "ext-3310237356133145652"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-16-1170.html"
-      ]
-    },
-    {
-      "id": "ext-7b39f754c6577262b8d0",
-      "title": "乐小米(纪伟娜): 你听，你听，风，过境无声",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1189.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7b39f754c6577262b8d0",
-        "ext-2366594470777172112"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-16-1189.html"
-      ]
-    },
-    {
-      "id": "ext-d2cfdbe710594a2abbb3",
-      "title": "乐小米(纪伟娜): 今生都不哭",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1136.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d2cfdbe710594a2abbb3",
-        "ext-2124755589220989452"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-16-1136.html"
-      ]
-    },
-    {
-      "id": "ext-d7f126e774291a12208c",
-      "title": "乐小米(纪伟娜): 事关韩小宇的似水流年",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1172.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d7f126e774291a12208c",
-        "ext-1137231931444877464"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-16-1172.html"
-      ]
-    },
-    {
-      "id": "ext-57a2c8d35388e8bef94d",
-      "title": "乐小米(纪伟娜): 乐乐，我只是害怕你会哭",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1144.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-57a2c8d35388e8bef94d",
-        "ext-4372653033938180639"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-16-1144.html"
-      ]
-    },
-    {
-      "id": "ext-9ca0a6e7f50aecf39cc2",
-      "title": "乐小米(纪伟娜): 为谁落翼而来",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1154.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-9ca0a6e7f50aecf39cc2",
-        "ext-5401176684146857871"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-16-1154.html"
-      ]
-    },
-    {
-      "id": "ext-d5de5e550785af188111",
-      "title": "乐小米(纪伟娜): 一笑倾城",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1149.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d5de5e550785af188111",
-        "ext-5066646280128972611"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-16-1149.html"
-      ]
-    },
-    {
-      "id": "ext-1fcf4c156dba347b332a",
-      "title": "乐小米(纪伟娜): 一生难安",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1171.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1fcf4c156dba347b332a",
-        "ext-703920848391501552"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-16-1171.html"
-      ]
-    },
-    {
-      "id": "ext-9d5bce93d5b02f97c5b2",
-      "title": "乐小米(纪伟娜): 1999，2003，幸福走过街",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1137.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-9d5bce93d5b02f97c5b2",
-        "ext-8397176601952123867"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-16-1137.html"
-      ]
-    },
-    {
-      "id": "ext-a02cef827682e32502a1",
-      "title": "严明: 我的码头",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-03-995.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a02cef827682e32502a1",
-        "ext-3379139492298453272"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-03-995.html"
-      ]
-    },
-    {
-      "id": "ext-f62fdcead29b3b50e811",
-      "title": "不详: 魔兽小说短篇：诅咒之路",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/02-27-1755.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f62fdcead29b3b50e811",
-        "ext-8775226437165988048"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/02-27-1755.html"
-      ]
-    },
-    {
-      "id": "ext-1d66d07c82fee40018c9",
-      "title": "不详: 宽慰",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/files/little/2009/10-14-945.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1d66d07c82fee40018c9",
-        "ext-7151023210563654928"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2009/10-14-945.html"
-      ]
-    },
-    {
-      "id": "ext-43892a68bf720a00af6c",
-      "title": "redlover 译: 病房里的窗户",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2010/03-04-973.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-43892a68bf720a00af6c",
-        "ext-5350728312659298169"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2010/03-04-973.html"
-      ]
-    },
-    {
-      "id": "ext-e14aeeb7601a22909a62",
-      "title": "[美]弗雷德里克·布朗: 乡村别墅杀人案",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2009/08-05-825.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e14aeeb7601a22909a62",
-        "ext-2324348760394651812"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2009/08-05-825.html"
-      ]
-    },
-    {
-      "id": "ext-8ba8367904e8dd6d0649",
-      "title": "[法]帕特里克·莫迪亚诺: 陌路人",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/11-02-4248.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-8ba8367904e8dd6d0649",
-        "ext-6599147629124310284"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/11-02-4248.html"
-      ]
-    },
-    {
-      "id": "ext-9b0512fcf28a9fcf5ff7",
-      "title": "[法]帕特里克·莫迪亚诺: 夜巡",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/11-02-4249.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-9b0512fcf28a9fcf5ff7",
-        "ext-8801727972684594631"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/11-02-4249.html"
-      ]
-    },
-    {
-      "id": "ext-43d5ae969734304f623c",
-      "title": "E.B.怀特: 阳光与黑暗",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-24-1298.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-43d5ae969734304f623c",
-        "ext-8191325646352260810"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-24-1298.html"
-      ]
-    },
-    {
-      "id": "ext-1b51145646f611b45647",
-      "title": ": 魔兽官方短篇小说：流沙之战",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/02-27-1754.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1b51145646f611b45647",
-        "ext-7318357197482701001"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/02-27-1754.html"
-      ]
-    },
-    {
-      "id": "ext-05d1ba3eb04fc864839a",
-      "title": ": 郭敬明经典语录",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-23-1270.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-05d1ba3eb04fc864839a",
-        "ext-5077835614066789908"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-23-1270.html"
       ]
     }
   ]
