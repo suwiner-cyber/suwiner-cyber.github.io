@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T18:29:55+00:00",
+  "generated_at": "2026-09-07T18:32:32+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -6312,6 +6312,24 @@
       "source": "AAAKS小说",
       "url": "https://www.aaaks.com/book/2125294/",
       "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-07T18:30:46+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=56279",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-07T18:30:57+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=51642",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-07T18:31:52+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/newmessage.php?tosys=1&title=天地霸气诀更新不及时！",
+      "error": "'ascii' codec can't encode characters in position 34-44: ordinal not in range(128)"
     }
   ]
 }
