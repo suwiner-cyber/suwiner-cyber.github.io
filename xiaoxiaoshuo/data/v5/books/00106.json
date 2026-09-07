@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-52aedfee22f3bec95bff",
+      "title": "第九章 寒门",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450098.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-52aedfee22f3bec95bff",
+        "ext-6669118485548736217"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450098.html"
+      ]
+    },
+    {
+      "id": "ext-b2daa20279439cd96ba9",
+      "title": "第九十章 不怪县主",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450320.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b2daa20279439cd96ba9",
+        "ext-3311881098932424044"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450320.html"
+      ]
+    },
+    {
       "id": "ext-cf4782e996a965062d1a",
       "title": "第九十四章 贺礼",
       "author": "",
@@ -4981,56 +5031,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/ttcbuzhu/48181.html"
-      ]
-    },
-    {
-      "id": "ext-6842a390ed2a56ec3a0d",
-      "title": "第50章 藏不住",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/ttcbuzhu/48180.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 50,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:06+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-6842a390ed2a56ec3a0d",
-        "ext-3780178844969927610"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/ttcbuzhu/48180.html"
-      ]
-    },
-    {
-      "id": "ext-08545acb025bfd1c2785",
-      "title": "第4章 偷偷",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/ttcbuzhu/48134.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:06+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-08545acb025bfd1c2785",
-        "ext-7901829743493009680"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/ttcbuzhu/48134.html"
       ]
     }
   ]

@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-b6741468cce3687abb50",
+      "title": "第118章 签文",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/xinpin/450032.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 118,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:18+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b6741468cce3687abb50",
+        "ext-8083385686441817485"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/xinpin/450032.html"
+      ]
+    },
+    {
+      "id": "ext-aeba1d35e24c054b4abb",
+      "title": "第117章 梦境",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/xinpin/450031.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 117,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:18+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-aeba1d35e24c054b4abb",
+        "ext-3699119573092971253"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/xinpin/450031.html"
+      ]
+    },
+    {
       "id": "ext-939d8638b29bb1aa87b4",
       "title": "第116章 中邪",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/jianchuqiao/445600.html"
-      ]
-    },
-    {
-      "id": "ext-04c3b6ab6baf734fe5ab",
-      "title": "第90章 慕家殇(上)",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/jianchuqiao/445599.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 90,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:15+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-04c3b6ab6baf734fe5ab",
-        "ext-4612290806291916193"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/jianchuqiao/445599.html"
-      ]
-    },
-    {
-      "id": "ext-c3fde974cf238eafebc6",
-      "title": "第8章 无支祁(上)",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/jianchuqiao/445519.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 8,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:15+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c3fde974cf238eafebc6",
-        "ext-9188326218259405235"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/jianchuqiao/445519.html"
       ]
     }
   ]
