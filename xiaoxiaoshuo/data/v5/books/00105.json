@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-e364a69b0fdf0b244e6f",
+      "title": "第54章 一语成谶",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/10669/356269.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 54,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:03+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e364a69b0fdf0b244e6f",
+        "ext-4646100507889360117"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10669/356269.html"
+      ]
+    },
+    {
+      "id": "ext-fdf715b7f2bb2d0da4f3",
+      "title": "第53章 水草",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/10669/356268.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:03+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-fdf715b7f2bb2d0da4f3",
+        "ext-7415968343757218829"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10669/356268.html"
+      ]
+    },
+    {
       "id": "ext-712c94dcca72d7b5280b",
       "title": "第52章 官人好比天上月",
       "author": "",
@@ -5089,56 +5139,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/qy_jlwxs/35559.html"
-      ]
-    },
-    {
-      "id": "ext-b8f713011f0dbb21cc61",
-      "title": "第29章 29号登机口",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/qy_jlwxs/35586.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 29,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:59+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b8f713011f0dbb21cc61",
-        "ext-7088377780399572394"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/qy_jlwxs/35586.html"
-      ]
-    },
-    {
-      "id": "ext-fe671662fc23154a21c9",
-      "title": "第28章 28号登机口",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/qy_jlwxs/35585.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 28,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:59+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-fe671662fc23154a21c9",
-        "ext-5626992869950146162"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/qy_jlwxs/35585.html"
       ]
     }
   ]

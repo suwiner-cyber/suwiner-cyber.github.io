@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-c7bcd2477e11c04b81d0",
+      "title": "番外四：梁成敏",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204404.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c7bcd2477e11c04b81d0",
+        "ext-3891132716872841308"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204404.html"
+      ]
+    },
+    {
+      "id": "ext-eb65b33b188c50360d22",
+      "title": "番外十：念桃",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204410.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-eb65b33b188c50360d22",
+        "ext-5106445046278636601"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204410.html"
+      ]
+    },
+    {
       "id": "ext-c5f45abbd5518130bc5a",
       "title": "番外十四：念桃",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2012/11-09-8352.html"
-      ]
-    },
-    {
-      "id": "ext-789cc95f1317c3d5b93b",
-      "title": "芥川龙之介: 竹林中",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2012/11-08-8312.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-789cc95f1317c3d5b93b",
-        "ext-2541073740358369868"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2012/11-08-8312.html"
-      ]
-    },
-    {
-      "id": "ext-c117656b61186b4223a9",
-      "title": "艾萨克·阿西莫夫: 旅行者2号的孤寂旅程",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2012/02-05-6436.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c117656b61186b4223a9",
-        "ext-3168437962597665395"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2012/02-05-6436.html"
       ]
     }
   ]
