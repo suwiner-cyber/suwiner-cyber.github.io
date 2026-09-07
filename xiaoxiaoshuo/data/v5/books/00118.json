@@ -1,6 +1,81 @@
 {
   "books": [
     {
+      "id": "ext-828f11672a68c4bc5e56",
+      "title": "第109章 霜冻",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204373.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 109,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-828f11672a68c4bc5e56",
+        "ext-8543590633896496303"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204373.html"
+      ]
+    },
+    {
+      "id": "ext-cee621a975b47f784f2e",
+      "title": "第108章 伤城",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204372.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 108,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-cee621a975b47f784f2e",
+        "ext-6974370212167562024"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204372.html"
+      ]
+    },
+    {
+      "id": "ext-57320bf2e192d01b60f9",
+      "title": "第107章 心淡",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204371.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 107,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-57320bf2e192d01b60f9",
+        "ext-7838218306181404731"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204371.html"
+      ]
+    },
+    {
       "id": "ext-c81f617b6abaa74b0102",
       "title": "第106章 云里",
       "author": "",
@@ -4923,81 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2009/08-04-817.html"
-      ]
-    },
-    {
-      "id": "ext-b5aa34432176e16d01c8",
-      "title": "覃雄: 我的旧年代",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2009/08-04-822.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b5aa34432176e16d01c8",
-        "ext-3782029727587250010"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2009/08-04-822.html"
-      ]
-    },
-    {
-      "id": "ext-bd34bb148274dbb4891a",
-      "title": "西村寿行: 高昂的代价",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-20-1236.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-bd34bb148274dbb4891a",
-        "ext-5885668122973749559"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-20-1236.html"
-      ]
-    },
-    {
-      "id": "ext-4efc83e1a9c2668ed8b8",
-      "title": "西村寿行: 赤鯱",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-20-1235.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-4efc83e1a9c2668ed8b8",
-        "ext-5339080515411939538"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-20-1235.html"
       ]
     }
   ]
