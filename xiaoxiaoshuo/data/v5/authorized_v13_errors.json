@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T00:38:21+00:00",
+  "generated_at": "2026-09-07T00:40:04+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -4728,6 +4728,12 @@
       "source": "AAAKS小说",
       "url": "https://www.aaaks.com/book/1839246/",
       "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-07T00:38:36+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=428269",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }

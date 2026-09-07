@@ -1,6 +1,81 @@
 {
   "books": [
     {
+      "id": "ext-31a619a85e4fbb323986",
+      "title": "艾未未: 所有人问所有人",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-03-994.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-31a619a85e4fbb323986",
+        "ext-4736521163380178190"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-03-994.html"
+      ]
+    },
+    {
+      "id": "ext-895d5acaaf227b7f873b",
+      "title": "老王子: 合唱",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-03-997.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-895d5acaaf227b7f873b",
+        "ext-1433184216139730002"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-03-997.html"
+      ]
+    },
+    {
+      "id": "ext-d550889633906ecdaf5b",
+      "title": "罗永浩: 秋菊男的故事",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-03-986.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d550889633906ecdaf5b",
+        "ext-900370518362326601"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-03-986.html"
+      ]
+    },
+    {
       "id": "ext-4205582f9ad29f106923",
       "title": "约翰·麦克纳尔蒂: 被漏掉的女士",
       "author": "",
@@ -4965,81 +5040,6 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/869700"
-      ]
-    },
-    {
-      "id": "ext-83366c789d2e0b5312d4",
-      "title": "一不小心和电竞大神同居了 既白公子",
-      "author": "夏至吖",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2026/05/18/14/14/094293b8429f43a6b2929b34dda24821_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/973367",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:21+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-83366c789d2e0b5312d4",
-        "ext-580203364860359377"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/973367"
-      ]
-    },
-    {
-      "id": "ext-b177fdd8e70d12f5fa3a",
-      "title": "一不小心占据校草心尖 拾月微雨",
-      "author": "湖藻",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2019/07/12/12/17/b685145643c6475eaa43be4d2ed7b006_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/833251",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:21+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b177fdd8e70d12f5fa3a",
-        "ext-1184350841536975670"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/833251"
-      ]
-    },
-    {
-      "id": "ext-0a01fc76f3a4f16786d9",
-      "title": "闪婚后，时爷你撩到犯规了 七月十一",
-      "author": "小胖丫丫",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2022/12/19/11/16/551bc014a38a47d691855c54c43a4853.jpg",
-      "source_url": "https://www.tadu.com/book/892336",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:18+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-0a01fc76f3a4f16786d9",
-        "ext-5731652556723242401"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/892336"
       ]
     }
   ]

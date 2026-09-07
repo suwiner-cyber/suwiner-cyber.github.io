@@ -1,6 +1,81 @@
 {
   "books": [
     {
+      "id": "ext-d25aaf67aef56d881bff",
+      "title": "第101章 碾伯所",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65139.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 101,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d25aaf67aef56d881bff",
+        "ext-1516882353839085851"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65139.html"
+      ]
+    },
+    {
+      "id": "ext-246a953df6082556699e",
+      "title": "第100章 冯大虎",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65138.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 100,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-246a953df6082556699e",
+        "ext-4154493763456194847"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65138.html"
+      ]
+    },
+    {
+      "id": "ext-80f65ae75182d3ec4d23",
+      "title": "第9章 不卖",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204271.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-80f65ae75182d3ec4d23",
+        "ext-7828929487703134730"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204271.html"
+      ]
+    },
+    {
       "id": "ext-f99209a8b3e36bd47408",
       "title": "第99章 相撞",
       "author": "",
@@ -4923,81 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book4/8655/index.html"
-      ]
-    },
-    {
-      "id": "ext-c7787ba903bbffd882a7",
-      "title": "蔡骏: 夜半笛声",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book4/8658/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:36+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c7787ba903bbffd882a7",
-        "ext-3716669036335155175"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/8658/index.html"
-      ]
-    },
-    {
-      "id": "ext-6fedd51d365eba2fa3da",
-      "title": "蔡骏: 地狱的第19层",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/book3/6977/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:36+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-6fedd51d365eba2fa3da",
-        "ext-2913245506882481120"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6977/index.html"
-      ]
-    },
-    {
-      "id": "ext-7bf17f6f2d3adc789ade",
-      "title": "蔡骏: 地狱变",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book4/8661/index.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:36+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7bf17f6f2d3adc789ade",
-        "ext-7368921966330304958"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/8661/index.html"
       ]
     }
   ]
