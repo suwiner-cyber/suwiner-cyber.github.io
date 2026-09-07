@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-96affe494f23a8e5144d",
-      "title": "第104章 小木屋",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/phbfshce/473581.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 104,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:45+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-96affe494f23a8e5144d",
-        "ext-4524522955778122716"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/phbfshce/473581.html"
-      ]
-    },
-    {
       "id": "ext-39c571c3b90c121f6265",
       "title": "第103章 两颗脑袋就凑得越近",
       "author": "",
@@ -7467,6 +7442,46 @@
         "https://www.kanunu8.com/book7/75chyriji/463390.html",
         "https://www.kanunu8.com/book7/datangpizhuji/481675.html",
         "https://www.kanunu8.com/book7/hxshn92/485232.html"
+      ]
+    },
+    {
+      "id": "ext-75070993133aa512a407",
+      "title": "第117章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171873.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171873.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/38049.html",
+        "https://www.kanunu8.com/book7/75chyriji/463389.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481674.html",
+        "https://www.kanunu8.com/book7/hxshn92/485231.html"
+      ],
+      "read_ids": [
+        "ext-75070993133aa512a407",
+        "ext-3103327934327916961",
+        "ext-c5f2efbf6929594cd5f5",
+        "ext-2d253bb1d565142c3497",
+        "ext-57b71a97b77e4e83a5d2",
+        "ext-e923932feddf04339ba4"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171873.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/38049.html",
+        "https://www.kanunu8.com/book7/75chyriji/463389.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481674.html",
+        "https://www.kanunu8.com/book7/hxshn92/485231.html"
       ]
     }
   ]

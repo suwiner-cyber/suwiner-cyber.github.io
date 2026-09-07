@@ -1,49 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-25c685106cc79b0c9b17",
-      "title": "第21章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/lmm04/464070.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:47+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/lmm04/464070.html",
-        "https://www.kanunu8.com/book7/75chyriji/463293.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481576.html",
-        "https://www.kanunu8.com/book7/hxshn92/485134.html",
-        "https://www.kanunu8.com/book5/yiouchun/80303.html",
-        "https://www.kanunu8.com/book7/jinxiefang/449762.html"
-      ],
-      "read_ids": [
-        "ext-25c685106cc79b0c9b17",
-        "ext-5009506871480510338",
-        "ext-7afd933cd1d01999e49d",
-        "ext-fdfe58bf4cb56c745106",
-        "ext-d0b4eb3e8513ec3e52ff",
-        "ext-e050614e7e0c5242066d",
-        "ext-0b3a5e831cc23a8a563c"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/lmm04/464070.html",
-        "https://www.kanunu8.com/book7/75chyriji/463293.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481576.html",
-        "https://www.kanunu8.com/book7/hxshn92/485134.html",
-        "https://www.kanunu8.com/book5/yiouchun/80303.html",
-        "https://www.kanunu8.com/book7/jinxiefang/449762.html"
-      ]
-    },
-    {
       "id": "ext-49de40d81ddf164ca401",
       "title": "第20章",
       "author": "",
@@ -5244,6 +5201,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/phbfshce/473582.html"
+      ]
+    },
+    {
+      "id": "ext-96affe494f23a8e5144d",
+      "title": "第104章 小木屋",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/phbfshce/473581.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 104,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:45+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-96affe494f23a8e5144d",
+        "ext-4524522955778122716"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/phbfshce/473581.html"
       ]
     }
   ]

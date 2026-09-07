@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-f30a39e9d924a70fe7bd",
-      "title": "第11章 消息",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65049.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 11,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f30a39e9d924a70fe7bd",
-        "ext-4855452823819101992"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65049.html"
-      ]
-    },
-    {
       "id": "ext-a6f320481abd21b71837",
       "title": "第119章 驿站",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2012/09-06-8135.html"
+      ]
+    },
+    {
+      "id": "ext-8627558fb7627bf5d5f8",
+      "title": "阿尔贝.加缪: 阿尔及尔之夏——献给贾克· 额尔功",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2012/09-06-8136.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8627558fb7627bf5d5f8",
+        "ext-6803130482161147607"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2012/09-06-8136.html"
       ]
     }
   ]
