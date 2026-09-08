@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T12:34:31+00:00",
+  "generated_at": "2026-09-08T12:36:18+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -7950,6 +7950,24 @@
       "source": "塔读文学",
       "url": "https://www.tadu.com/space/author/531912",
       "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-08T12:34:57+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=17920",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-08T12:35:46+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=408674",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-08T12:35:49+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/newmessage.php?tosys=1&title=不良之年少轻狂更新不及时！",
+      "error": "'ascii' codec can't encode characters in position 34-46: ordinal not in range(128)"
     }
   ]
 }
