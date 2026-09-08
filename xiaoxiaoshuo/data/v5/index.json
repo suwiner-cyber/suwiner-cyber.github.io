@@ -1,6 +1,6 @@
 {
   "version": 14,
-  "generated_at": "2026-09-08T06:40:22+00:00",
+  "generated_at": "2026-09-08T06:58:58+00:00",
   "total": 28209,
   "shard_size": 200,
   "shards": [
@@ -741,8 +741,8 @@
       "books_added": 0,
       "toc_written": 0,
       "books_seen_total": 2070,
-      "remaining_queue": 19552,
-      "seen_pages": 3040,
+      "remaining_queue": 19472,
+      "seen_pages": 3120,
       "done": false,
       "blocked": false,
       "needs_adapter": false
@@ -797,7 +797,7 @@
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "ipaoshubaxs.net",
+  "last_published_source": "aaaks.com",
   "id_scheme": "stable-v4-aliases",
   "metadata_sanitized": true,
   "text_only": true
