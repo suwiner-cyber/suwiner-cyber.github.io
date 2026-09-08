@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T13:02:56+00:00",
+  "generated_at": "2026-09-08T13:07:27+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -8532,6 +8532,18 @@
       "source": "AAAKS小说",
       "url": "https://www.aaaks.com/book/1756447/",
       "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-08T13:03:11+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/504189",
+      "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-08T13:03:12+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/515893",
+      "error": "HTTP Error 404: "
     }
   ]
 }
