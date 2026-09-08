@@ -1,12 +1,12 @@
 {
   "version": 13,
-  "generated_at": "2026-09-08T07:06:37+00:00",
-  "total_books": 28321,
+  "generated_at": "2026-09-08T07:11:12+00:00",
+  "total_books": 28273,
   "source_counts": {
-    "努努书坊": 7388,
+    "言情小说吧": 1984,
+    "努努书坊": 7310,
     "塔读文学": 358,
     "爱下电子书": 3984,
-    "言情小说吧": 1954,
     "泡书吧小说网": 2821,
     "乐文小说": 2818,
     "和图书": 1719,
@@ -18,20 +18,20 @@
   "all_done": false,
   "continue_needed": true,
   "unresolved_sources": [
-    "努努书坊"
+    "言情小说吧"
   ],
   "sources": [
     {
-      "name": "努努书坊",
-      "host": "kanunu8.com",
+      "name": "言情小说吧",
+      "host": "xs8.cn",
       "pages_this_run": 80,
       "successful_pages": 80,
       "failed_pages": 0,
-      "books_found": 80,
-      "books_added": 80,
-      "toc_written": 80,
-      "books_seen_total": 2717,
-      "remaining_queue": 10924,
+      "books_found": 35,
+      "books_added": 35,
+      "toc_written": 10,
+      "books_seen_total": 1894,
+      "remaining_queue": 59383,
       "seen_pages": 3040,
       "done": false,
       "blocked": false,
