@@ -1,6 +1,68 @@
 {
   "books": [
     {
+      "id": "ext-441918d144a393c2f9e7",
+      "title": "神霄东来",
+      "author": "步蟾宫",
+      "kind": "仙侠小说 字数：105.48万字 天外神霄客，万界逐星流，紫气东来时，世宇别春秋",
+      "status": "",
+      "intro": "天外神霄客，万界逐星流，紫气东来时，世宇别春秋。",
+      "cover": "",
+      "source_url": "https://www.hetushu.com/book/10710/index.html",
+      "source_host": "hetushu.com",
+      "source_name": "和图书",
+      "media": "text",
+      "chapter_count": 341,
+      "last_chapter": "第341章 灵音摄心；飞驰救援",
+      "detail_complete": true,
+      "indexed_at": "2026-08-30T01:03:56+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-441918d144a393c2f9e7",
+        "ext-1e2600e1d81c180efd67"
+      ],
+      "read_sources": [
+        "https://www.hetushu.com/book/10710/index.html"
+      ],
+      "source_names": [
+        "和图书"
+      ],
+      "sources": [
+        "https://www.hetushu.com/book/10710/index.html"
+      ]
+    },
+    {
+      "id": "ext-1dfab996337d92be9d4d",
+      "title": "市井之徒的仙城",
+      "author": "南中僰",
+      "kind": "仙侠小说 字数：82.68万字 万丈红尘，未必不能修行；嬉笑怒骂，岂知就非豪杰？",
+      "status": "",
+      "intro": "万丈红尘，未必不能修行；嬉笑怒骂，岂知就非豪杰？ 要什么霸业？图什么千秋？我只管守住我的小城！ 还有我的柴米油盐酱醋茶。",
+      "cover": "",
+      "source_url": "https://www.hetushu.com/book/10712/index.html",
+      "source_host": "hetushu.com",
+      "source_name": "和图书",
+      "media": "text",
+      "chapter_count": 227,
+      "last_chapter": "第四十六章 贺货郎",
+      "detail_complete": true,
+      "indexed_at": "2026-08-30T01:03:55+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1dfab996337d92be9d4d",
+        "ext-d80e9feb420178f728c9"
+      ],
+      "read_sources": [
+        "https://www.hetushu.com/book/10712/index.html"
+      ],
+      "source_names": [
+        "和图书"
+      ],
+      "sources": [
+        "https://www.hetushu.com/book/10712/index.html"
+      ]
+    },
+    {
       "id": "ext-bc353e6427a9f85f2a33",
       "title": "我在修仙界万古长青",
       "author": "快餐店",
@@ -5931,65 +5993,6 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/999911"
-      ]
-    },
-    {
-      "id": "ext-8b1493a685e976e195b8",
-      "title": "书库",
-      "author": "",
-      "kind": "不限 古代言情 现代言情 短篇 玄幻言情 科幻空间 游戏竞技 仙侠奇缘 轻小说",
-      "status": "连载中",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.1qxs.com/all/0_7_0_2_0_1.html",
-      "source_host": "www.1qxs.com",
-      "source_name": "一七小说",
-      "media": "text",
-      "chapter_count": 20,
-      "last_chapter": "抗日之金陵屠狼",
-      "detail_complete": true,
-      "indexed_at": "2026-08-29T22:53:17+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-8b1493a685e976e195b8",
-        "ext-ca5e5d1a3a2a7ebc7c0e",
-        "ext-7e479dfb6cb4c851f183"
-      ],
-      "read_sources": [
-        "https://www.1qxs.com/all/0_7_0_2_0_1.html",
-        "https://www.1qxs.com/all/1_0_0_2_0_1.html"
-      ],
-      "sources": [
-        "https://www.1qxs.com/all/0_7_0_2_0_1.html",
-        "https://www.1qxs.com/all/1_0_0_2_0_1.html"
-      ],
-      "source_names": [
-        "一七小说"
-      ]
-    },
-    {
-      "id": "ext-18be20ebba3a2be84c6f",
-      "title": "宠妻入骨",
-      "author": "",
-      "kind": "",
-      "status": "已完结",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.zwxiaoshuo.com/book-34048.html",
-      "source_host": "www.zwxiaoshuo.com",
-      "source_name": "滋味小说网",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T15:03:33+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-18be20ebba3a2be84c6f",
-        "ext-8224059184381418097"
-      ],
-      "read_sources": [
-        "https://www.zwxiaoshuo.com/book-34048.html"
       ]
     }
   ]

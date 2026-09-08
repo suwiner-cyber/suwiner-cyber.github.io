@@ -1,6 +1,65 @@
 {
   "books": [
     {
+      "id": "ext-8b1493a685e976e195b8",
+      "title": "书库",
+      "author": "",
+      "kind": "不限 古代言情 现代言情 短篇 玄幻言情 科幻空间 游戏竞技 仙侠奇缘 轻小说",
+      "status": "连载中",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.1qxs.com/all/0_7_0_2_0_1.html",
+      "source_host": "www.1qxs.com",
+      "source_name": "一七小说",
+      "media": "text",
+      "chapter_count": 20,
+      "last_chapter": "抗日之金陵屠狼",
+      "detail_complete": true,
+      "indexed_at": "2026-08-29T22:53:17+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8b1493a685e976e195b8",
+        "ext-ca5e5d1a3a2a7ebc7c0e",
+        "ext-7e479dfb6cb4c851f183"
+      ],
+      "read_sources": [
+        "https://www.1qxs.com/all/0_7_0_2_0_1.html",
+        "https://www.1qxs.com/all/1_0_0_2_0_1.html"
+      ],
+      "sources": [
+        "https://www.1qxs.com/all/0_7_0_2_0_1.html",
+        "https://www.1qxs.com/all/1_0_0_2_0_1.html"
+      ],
+      "source_names": [
+        "一七小说"
+      ]
+    },
+    {
+      "id": "ext-18be20ebba3a2be84c6f",
+      "title": "宠妻入骨",
+      "author": "",
+      "kind": "",
+      "status": "已完结",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.zwxiaoshuo.com/book-34048.html",
+      "source_host": "www.zwxiaoshuo.com",
+      "source_name": "滋味小说网",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T15:03:33+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-18be20ebba3a2be84c6f",
+        "ext-8224059184381418097"
+      ],
+      "read_sources": [
+        "https://www.zwxiaoshuo.com/book-34048.html"
+      ]
+    },
+    {
       "id": "ext-c68604cbc4e11849bf21",
       "title": "贬妻为妾",
       "author": "",
@@ -4948,56 +5007,6 @@
       ],
       "read_sources": [
         "https://www.1qxs.com/xs_1/93982.html"
-      ]
-    },
-    {
-      "id": "ext-53b4a71d787b53d07659",
-      "title": "梦回大明春",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.1qxs.com/xs_1/14135.html",
-      "source_host": "www.1qxs.com",
-      "source_name": "一七小说",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T15:02:15+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-53b4a71d787b53d07659",
-        "ext-9002597813121209757"
-      ],
-      "read_sources": [
-        "https://www.1qxs.com/xs_1/14135.html"
-      ]
-    },
-    {
-      "id": "ext-6d66b524594d5c727599",
-      "title": "日月：永历1656",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.1qxs.com/xs_1/96984.html",
-      "source_host": "www.1qxs.com",
-      "source_name": "一七小说",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T15:02:15+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-6d66b524594d5c727599",
-        "ext-4960055696765165437"
-      ],
-      "read_sources": [
-        "https://www.1qxs.com/xs_1/96984.html"
       ]
     }
   ]

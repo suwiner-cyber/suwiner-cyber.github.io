@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-abc4067b85cd4a131023",
+      "title": "第2章 办公室恋情",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/shjshdyshchli/450585.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 2,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:13+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-abc4067b85cd4a131023",
+        "ext-2507597367150143824"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/shjshdyshchli/450585.html"
+      ]
+    },
+    {
+      "id": "ext-8f556637791a0bedbe09",
+      "title": "第29章 最喜欢的学生",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/shjshdyshchli/450612.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 29,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:13+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8f556637791a0bedbe09",
+        "ext-1669291472885841620"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/shjshdyshchli/450612.html"
+      ]
+    },
+    {
       "id": "ext-a0597666cdc5d31fbec3",
       "title": "第28章 一直走下去",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/tianjieyese/451998.html"
-      ]
-    },
-    {
-      "id": "ext-785a6f16fdc26530c81d",
-      "title": "第42章 礼物",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/tianjieyese/451997.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:10+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-785a6f16fdc26530c81d",
-        "ext-2360814515805322646"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/tianjieyese/451997.html"
-      ]
-    },
-    {
-      "id": "ext-b7f0c548e57df4a90b53",
-      "title": "第41章 礼物",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/tianjieyese/451996.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:10+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b7f0c548e57df4a90b53",
-        "ext-4845125438249528930"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/tianjieyese/451996.html"
       ]
     }
   ]
