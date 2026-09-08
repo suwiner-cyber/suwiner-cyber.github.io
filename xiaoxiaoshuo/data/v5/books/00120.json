@@ -1,37 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-2c2a4c01832a68d05af2",
-      "title": "第七十六章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/462922.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462922.html",
-        "https://www.kanunu8.com/book7/dby67/470017.html"
-      ],
-      "read_ids": [
-        "ext-2c2a4c01832a68d05af2",
-        "ext-8478508118451350518",
-        "ext-89dc6e91543f4607f2de"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462922.html",
-        "https://www.kanunu8.com/book7/dby67/470017.html"
-      ]
-    },
-    {
       "id": "ext-deb4113988144cd3de10",
       "title": "第七十八章",
       "author": "",
@@ -5550,6 +5519,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/463212.html"
+      ]
+    },
+    {
+      "id": "ext-703667eb0dd6822e256b",
+      "title": "番外七十七",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463216.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-703667eb0dd6822e256b",
+        "ext-7200711964724855465"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463216.html"
       ]
     }
   ]
