@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-12b9e2ddcf16f20be964",
+      "title": "第10章 坠落的童星10",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/dby82/459678.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 10,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:58+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-12b9e2ddcf16f20be964",
+        "ext-3680695224157546318"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/dby82/459678.html"
+      ]
+    },
+    {
       "id": "ext-5cbf82b4dcef3d357803",
       "title": "第109章 妈妈我捡垃圾养你啊11",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/dby81/459571.html"
-      ]
-    },
-    {
-      "id": "ext-49913edc984ecfbf219a",
-      "title": "第162章 逍遥酒仙12",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dby81/459570.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 162,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-49913edc984ecfbf219a",
-        "ext-1030746630584445072"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dby81/459570.html"
       ]
     }
   ]

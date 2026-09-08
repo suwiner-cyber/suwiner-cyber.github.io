@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-fb0b4dc390a6bf583ccb",
+      "title": "第84章 争抢",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/tianjieyese/452038.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:11+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-fb0b4dc390a6bf583ccb",
+        "ext-7736983410146355160"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/tianjieyese/452038.html"
+      ]
+    },
+    {
       "id": "ext-9194b5c2fba945713636",
       "title": "第83章 争抢",
       "author": "",
@@ -4982,31 +5007,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450248.html"
-      ]
-    },
-    {
-      "id": "ext-e0c0427f967cf813efd7",
-      "title": "第十八章 小世子",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450166.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e0c0427f967cf813efd7",
-        "ext-3473218809054914533"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450166.html"
       ]
     }
   ]

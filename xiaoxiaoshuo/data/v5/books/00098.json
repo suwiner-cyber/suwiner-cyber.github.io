@@ -1,6 +1,37 @@
 {
   "books": [
     {
+      "id": "ext-e919f0815b4bd66df3ca",
+      "title": "现代都市小说",
+      "author": "",
+      "kind": "武侠小说",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/dushi/",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": true,
+      "indexed_at": "2026-08-30T03:12:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e919f0815b4bd66df3ca",
+        "ext-71219e35c690c5b84f16"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/dushi/"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/dushi/"
+      ]
+    },
+    {
       "id": "ext-29b21b21c5879ebf98fa",
       "title": "校园小说",
       "author": "",
@@ -6387,37 +6418,6 @@
       "read_ids": [
         "ext-23abf99d9c25f3a6c6b3",
         "ext-60ad39538845e0256f1e"
-      ]
-    },
-    {
-      "id": "ext-af7a71633f74c2611fa3",
-      "title": "抗战：血战湘江后，我直进太行",
-      "author": "镂空的书创作，作品抗战：血战湘江后，我直进太行章章动人，乐文小说为你第一时间提供",
-      "kind": "首页 > 都市言情 > 抗战：血战湘江后，我直进太行 > 抗战：血战湘江后，我直",
-      "status": "连载中",
-      "intro": "《抗战：血战湘江后，我直进太行》为作者镂空的书创作，作品抗战：血战湘江后，我直进太行章章动人，乐文小说为你第一时间提供镂空的书精心编写原创抗战：血战湘江后，我直进太行及无弹窗抗战：血战湘江后，我直进太行全文免费阅读、TXT下载。 简介:关于抗战：血战湘江后，我直进太行：血战湘江后，重伤醒来的陈正阳收拢溃兵，解救被俘重伤红军战士！一路声势浩大，为中央部队吸引敌军火力，带兵直插太行！陈正阳一路鏖战，杀鬼子，战国党，斗美帝，百战成诗………【本故事纯属虚构，如有雷同，全是巧合！各位看官，把您的智慧留在这里就好了，请勿携带！】",
-      "cover": "https://img.ilwxs.com/438691/346143.jpg",
-      "source_url": "https://www.ilwxs.com/shu/438691/",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/shu/438691/"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/shu/438691/"
-      ],
-      "media": "text",
-      "chapter_count": 601,
-      "last_chapter": "第434章 咱不亏",
-      "detail_complete": true,
-      "indexed_at": "2026-08-30T02:55:09+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-af7a71633f74c2611fa3",
-        "ext-ae2fc537f1c635c797b6"
       ]
     }
   ]

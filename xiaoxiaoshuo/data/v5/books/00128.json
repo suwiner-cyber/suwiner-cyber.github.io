@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-d91b6336556dad0b6533",
+      "title": "流潋紫: 鸭架粥",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2012/05-07-7704.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d91b6336556dad0b6533",
+        "ext-8995318116132229004"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2012/05-07-7704.html"
+      ]
+    },
+    {
       "id": "ext-4e77080b0a9ece029d81",
       "title": "流潋紫: 如是今日，愿不再相见",
       "author": "",
@@ -5015,31 +5040,6 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/982327"
-      ]
-    },
-    {
-      "id": "ext-5e1ead0c9f7bd16141c3",
-      "title": "毒妃狠猖狂：妖孽皇叔有点宠 桑菜",
-      "author": "北枝寒",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2020/08/06/10/18/578394dd37024158b252ecf5b1cb002d_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/841513",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:14+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-5e1ead0c9f7bd16141c3",
-        "ext-8071076243587729480"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/841513"
       ]
     }
   ]

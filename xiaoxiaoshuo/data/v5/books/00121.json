@@ -1,6 +1,37 @@
 {
   "books": [
     {
+      "id": "ext-c817a0ff8538df6fdedc",
+      "title": "第八十六章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/462932.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462932.html",
+        "https://www.kanunu8.com/book7/dby67/470027.html"
+      ],
+      "read_ids": [
+        "ext-c817a0ff8538df6fdedc",
+        "ext-5624671618357047584",
+        "ext-aadb32528bd5a16975b4"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462932.html",
+        "https://www.kanunu8.com/book7/dby67/470027.html"
+      ]
+    },
+    {
       "id": "ext-fe500938acf9f7040784",
       "title": "第八十八章",
       "author": "",
@@ -5885,31 +5916,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/463181.html"
-      ]
-    },
-    {
-      "id": "ext-1612f75eae589a3172cc",
-      "title": "番外四十九",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/463188.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1612f75eae589a3172cc",
-        "ext-2486504986546979121"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/463188.html"
       ]
     }
   ]

@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-a69e5f61b82994e9c764",
+      "title": "第59章 藏不住",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/ttcbuzhu/48189.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 59,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:06+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a69e5f61b82994e9c764",
+        "ext-6146452224129213466"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/ttcbuzhu/48189.html"
+      ]
+    },
+    {
       "id": "ext-486ae9985a28c07d1498",
       "title": "第58章 藏不住",
       "author": "",
@@ -5120,31 +5145,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/dbsbfding/436715.html"
-      ]
-    },
-    {
-      "id": "ext-d18dcd86fabd5d0de550",
-      "title": "第四十七章 祸起",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dbsbfding/436719.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:01+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d18dcd86fabd5d0de550",
-        "ext-7056159253394268977"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dbsbfding/436719.html"
       ]
     }
   ]

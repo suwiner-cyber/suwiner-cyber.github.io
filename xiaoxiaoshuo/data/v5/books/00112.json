@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-022eec6128666cb1d467",
+      "title": "第二十一章 方向",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450353.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-022eec6128666cb1d467",
+        "ext-521064156664920585"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450353.html"
+      ]
+    },
+    {
       "id": "ext-5c8a383067204f82da44",
       "title": "第二十一章 孩子",
       "author": "",
@@ -5006,31 +5031,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/ttcbuzhu/48135.html"
-      ]
-    },
-    {
-      "id": "ext-a69e5f61b82994e9c764",
-      "title": "第59章 藏不住",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/ttcbuzhu/48189.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 59,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:06+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a69e5f61b82994e9c764",
-        "ext-6146452224129213466"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/ttcbuzhu/48189.html"
       ]
     }
   ]
