@@ -1,56 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-7cc468574eb6542599d4",
-      "title": "刘恒: 狗日的粮食",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2012/11-08-8338.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7cc468574eb6542599d4",
-        "ext-1472836605651221994"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2012/11-08-8338.html"
-      ]
-    },
-    {
-      "id": "ext-75d3880cfd1718f300ce",
-      "title": "刘军: 穿过天空你的手",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2009/08-04-820.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-75d3880cfd1718f300ce",
-        "ext-5123079456735564911"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2009/08-04-820.html"
-      ]
-    },
-    {
       "id": "ext-3a21d7b6969bba952052",
       "title": "冯唐: 把历史熬成一碗皮蛋瘦肉粥",
       "author": "",
@@ -5040,6 +4990,62 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/570930"
+      ]
+    },
+    {
+      "id": "ext-ee39137318d5b0fa399b",
+      "title": "9 味结膳缘 伊岛甫",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.tadu.com/book/892778",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:04+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ee39137318d5b0fa399b",
+        "ext-27189221220284827"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/892778"
+      ]
+    },
+    {
+      "id": "ext-8aa9d78da24470d50d23",
+      "title": "港娱先锋 许宝文",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2025/05/06/22/59/6876695361d14c89a6063f3627e6004e_276_200.jpg",
+      "source_url": "http://www.tadu.com/book/1024572",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:55:54+00:00",
+      "catalog_only": false,
+      "sources": [
+        "http://www.tadu.com/book/1024572",
+        "https://www.tadu.com/book/1024572"
+      ],
+      "read_ids": [
+        "ext-8aa9d78da24470d50d23",
+        "ext-7323399136200185933",
+        "ext-c1810085eb8e4c581d2b"
+      ],
+      "read_sources": [
+        "http://www.tadu.com/book/1024572",
+        "https://www.tadu.com/book/1024572"
       ]
     }
   ]
