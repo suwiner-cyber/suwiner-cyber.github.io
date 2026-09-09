@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T07:04:21+00:00",
+  "generated_at": "2026-09-09T07:06:09+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -10638,6 +10638,18 @@
       "source": "塔读文学",
       "url": "https://www.tadu.com/space/author/450333",
       "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-09T07:05:04+00:00",
+      "source": "努努书坊",
+      "url": "https://www.kanunu8.com/book/3428.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-09T07:05:04+00:00",
+      "source": "努努书坊",
+      "url": "https://www.kanunu8.com/book/3422.html",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }
