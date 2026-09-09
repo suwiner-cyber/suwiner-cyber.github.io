@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-67d3602d8caad0d55604",
+      "title": "第三十二章 义庄",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450121.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-67d3602d8caad0d55604",
+        "ext-5765193260826677466"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450121.html"
+      ]
+    },
+    {
+      "id": "ext-071d2f7992d9f1c02f02",
+      "title": "第三十九章 钓鱼",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450447.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-071d2f7992d9f1c02f02",
+        "ext-4353015611422661797"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450447.html"
+      ]
+    },
+    {
       "id": "ext-76f9112cf12a0aab82df",
       "title": "第三十九章 遗信",
       "author": "",
@@ -4987,56 +5037,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book4/10669/356224.html"
-      ]
-    },
-    {
-      "id": "ext-fe27f7ba7cbab5b30125",
-      "title": "第99章 阿宝",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book4/10669/356315.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:03+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-fe27f7ba7cbab5b30125",
-        "ext-3767840593929819751"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10669/356315.html"
-      ]
-    },
-    {
-      "id": "ext-64224bb95859caff3c04",
-      "title": "第98章 夜的阴谋",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book4/10669/356314.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 98,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:03+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-64224bb95859caff3c04",
-        "ext-3542857493717080298"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10669/356314.html"
       ]
     }
   ]

@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-a3d4c8e1dfdf998e9196",
+      "title": "第19章 卑劣",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/shjshdyshchli/450602.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:13+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a3d4c8e1dfdf998e9196",
+        "ext-2562128057187895633"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/shjshdyshchli/450602.html"
+      ]
+    },
+    {
+      "id": "ext-3bb8f14b945722a96ccf",
+      "title": "第18章 洁白菱角",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/shjshdyshchli/450601.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 18,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:13+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3bb8f14b945722a96ccf",
+        "ext-5530591593656628697"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/shjshdyshchli/450601.html"
+      ]
+    },
+    {
       "id": "ext-01f266600b86e9661b2e",
       "title": "第17章 就是今天！",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/tianjieyese/451987.html"
-      ]
-    },
-    {
-      "id": "ext-c1a86b83d9fb107f832a",
-      "title": "第31章 寻常",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/tianjieyese/451986.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:10+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c1a86b83d9fb107f832a",
-        "ext-9051586434051291928"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/tianjieyese/451986.html"
-      ]
-    },
-    {
-      "id": "ext-9fc481d5258d7fe46500",
-      "title": "第30章 寻常",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/tianjieyese/451985.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:10+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-9fc481d5258d7fe46500",
-        "ext-1867507259545650312"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/tianjieyese/451985.html"
       ]
     }
   ]

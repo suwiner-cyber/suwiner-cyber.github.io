@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-df6c16e77263d10fad0e",
+      "title": "番外九十五",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463234.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-df6c16e77263d10fad0e",
+        "ext-8393318726307445505"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463234.html"
+      ]
+    },
+    {
+      "id": "ext-fceacf13796309c05798",
+      "title": "番外九十二",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463231.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-fceacf13796309c05798",
+        "ext-3170088342169656977"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463231.html"
+      ]
+    },
+    {
       "id": "ext-fe3dc7887f7a8da2d897",
       "title": "番外九十九",
       "author": "",
@@ -5395,56 +5445,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/phbfshce/473542.html"
-      ]
-    },
-    {
-      "id": "ext-c52a2e2c23b0360338ad",
-      "title": "第64章 电锯惊魂夜（二）",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/phbfshce/473541.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 64,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:45+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c52a2e2c23b0360338ad",
-        "ext-992846652684391483"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/phbfshce/473541.html"
-      ]
-    },
-    {
-      "id": "ext-4eba426a99f3e073aaed",
-      "title": "第63章 电锯惊魂夜（一）",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/phbfshce/473540.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 63,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:45+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-4eba426a99f3e073aaed",
-        "ext-4432731918018537837"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/phbfshce/473540.html"
       ]
     }
   ]

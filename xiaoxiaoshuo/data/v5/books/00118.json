@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-a697d6803e5eed61b7e5",
+      "title": "43、回归",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/jinlin/460511.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:19+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a697d6803e5eed61b7e5",
+        "ext-8098089289697124361"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/jinlin/460511.html"
+      ]
+    },
+    {
+      "id": "ext-89cf5c254963840e365b",
+      "title": "42、热带综合症",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/jinlin/460510.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:19+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-89cf5c254963840e365b",
+        "ext-464447829627381412"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/jinlin/460510.html"
+      ]
+    },
+    {
       "id": "ext-6380578d1ea740800da4",
       "title": "41、远赴异乡",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/rongcuolv/450838.html"
-      ]
-    },
-    {
-      "id": "ext-92e0afa9dc8eac32704c",
-      "title": "第53章 精英分子",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/rongcuolv/450837.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 53,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:17+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-92e0afa9dc8eac32704c",
-        "ext-3662484694785841783"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/rongcuolv/450837.html"
-      ]
-    },
-    {
-      "id": "ext-afc3e95253ed52c86f81",
-      "title": "第52章 不共戴天",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/rongcuolv/450836.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 52,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:17+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-afc3e95253ed52c86f81",
-        "ext-412621565413377487"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/rongcuolv/450836.html"
       ]
     }
   ]
