@@ -1,7 +1,7 @@
 {
   "version": 14,
-  "generated_at": "2026-09-09T00:36:09+00:00",
-  "total": 29083,
+  "generated_at": "2026-09-09T00:38:06+00:00",
+  "total": 29132,
   "shard_size": 200,
   "shards": [
     {
@@ -586,10 +586,11 @@
     },
     {
       "file": "books/00146.json",
-      "count": 83
+      "count": 132
     }
   ],
   "source_counts": {
+    "一七小说": 2574,
     "滋味小说网": 2569,
     "言情小说吧": 2026,
     "努努书坊": 7436,
@@ -599,7 +600,6 @@
     "乐文小说": 2684,
     "和图书": 1778,
     "飘天文学": 1026,
-    "一七小说": 2525,
     "AAAKS小说": 2008
   },
   "source_status": [
@@ -689,12 +689,12 @@
       "pages_this_run": 80,
       "successful_pages": 80,
       "failed_pages": 0,
-      "books_found": 55,
-      "books_added": 47,
-      "toc_written": 55,
-      "books_seen_total": 2344,
-      "remaining_queue": 10423,
-      "seen_pages": 3280,
+      "books_found": 51,
+      "books_added": 49,
+      "toc_written": 51,
+      "books_seen_total": 2395,
+      "remaining_queue": 10584,
+      "seen_pages": 3360,
       "done": false,
       "blocked": false,
       "needs_adapter": false
@@ -813,7 +813,7 @@
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "69shuba.com",
+  "last_published_source": "1qxs.com",
   "id_scheme": "stable-v4-aliases",
   "metadata_sanitized": true,
   "text_only": true
