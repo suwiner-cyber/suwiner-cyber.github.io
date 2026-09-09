@@ -1,7 +1,7 @@
 {
   "version": 14,
-  "generated_at": "2026-09-09T06:37:04+00:00",
-  "total": 29530,
+  "generated_at": "2026-09-09T06:38:33+00:00",
+  "total": 29590,
   "shard_size": 200,
   "shards": [
     {
@@ -594,10 +594,11 @@
     },
     {
       "file": "books/00148.json",
-      "count": 130
+      "count": 190
     }
   ],
   "source_counts": {
+    "乐文小说": 2796,
     "和图书": 1863,
     "飘天文学": 1034,
     "一七小说": 2624,
@@ -607,7 +608,6 @@
     "塔读文学": 366,
     "爱下电子书": 4060,
     "泡书吧小说网": 2676,
-    "乐文小说": 2736,
     "AAAKS小说": 2008
   },
   "source_status": [
@@ -727,14 +727,14 @@
       "name": "乐文小说",
       "host": "ilwxs.com",
       "pages_this_run": 80,
-      "successful_pages": 68,
-      "failed_pages": 12,
-      "books_found": 54,
-      "books_added": 54,
-      "toc_written": 54,
-      "books_seen_total": 2987,
-      "remaining_queue": 9264,
-      "seen_pages": 3360,
+      "successful_pages": 71,
+      "failed_pages": 9,
+      "books_found": 60,
+      "books_added": 60,
+      "toc_written": 60,
+      "books_seen_total": 3047,
+      "remaining_queue": 9725,
+      "seen_pages": 3440,
       "done": false,
       "blocked": false,
       "needs_adapter": false
@@ -821,7 +821,7 @@
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "hetushu.com",
+  "last_published_source": "ilwxs.com",
   "id_scheme": "stable-v4-aliases",
   "metadata_sanitized": true,
   "text_only": true
