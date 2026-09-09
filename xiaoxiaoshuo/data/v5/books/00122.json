@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-2dd82c3e6b4e93013848",
+      "title": "第32章 寻常",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/tianjieyese/451987.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:10+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2dd82c3e6b4e93013848",
+        "ext-5579856895454157083"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/tianjieyese/451987.html"
+      ]
+    },
+    {
       "id": "ext-c1a86b83d9fb107f832a",
       "title": "第31章 寻常",
       "author": "",
@@ -4982,31 +5007,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450397.html"
-      ]
-    },
-    {
-      "id": "ext-360ca925e868372f9c85",
-      "title": "第六十五章 变色",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450213.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-360ca925e868372f9c85",
-        "ext-7724181461171528358"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450213.html"
       ]
     }
   ]

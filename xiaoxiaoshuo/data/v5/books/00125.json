@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-2c2253c1f8e17690ac72",
+      "title": "第9章 寂静的敲门声",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/10669/356224.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 9,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:03+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2c2253c1f8e17690ac72",
+        "ext-6999966239105377684"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10669/356224.html"
+      ]
+    },
+    {
       "id": "ext-fe27f7ba7cbab5b30125",
       "title": "第99章 阿宝",
       "author": "",
@@ -5114,31 +5139,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/qy_jlwxs/35632.html"
-      ]
-    },
-    {
-      "id": "ext-975ef664aa4db713bb8a",
-      "title": "第74章 74号登机口",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/qy_jlwxs/35631.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 74,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:59+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-975ef664aa4db713bb8a",
-        "ext-5022701528265465835"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/qy_jlwxs/35631.html"
       ]
     }
   ]

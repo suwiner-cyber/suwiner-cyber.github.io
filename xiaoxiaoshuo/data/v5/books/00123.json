@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-360ca925e868372f9c85",
+      "title": "第六十五章 变色",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450213.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-360ca925e868372f9c85",
+        "ext-7724181461171528358"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450213.html"
+      ]
+    },
+    {
       "id": "ext-b1e99cb02f596b2fdda0",
       "title": "第六十二章 纸条",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450262.html"
-      ]
-    },
-    {
-      "id": "ext-7cce6012b56533f4ae05",
-      "title": "第三十二章 千佛洞",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450440.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7cce6012b56533f4ae05",
-        "ext-5175684469274249354"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450440.html"
       ]
     }
   ]

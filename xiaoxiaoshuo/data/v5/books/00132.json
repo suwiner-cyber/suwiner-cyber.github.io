@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-3a4b957c8764f4ba27ba",
+      "title": "搬家奇谈",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481795.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:50+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3a4b957c8764f4ba27ba",
+        "ext-2013863582962544223"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qianyaobaimei/481795.html"
+      ]
+    },
+    {
       "id": "ext-cc4f78c051c7b9d3c887",
       "title": "排骨的预兆",
       "author": "",
@@ -5471,40 +5496,6 @@
         "https://www.kanunu8.com/book7/75chyriji/462873.html",
         "https://www.kanunu8.com/book7/dby67/469969.html",
         "https://www.kanunu8.com/book5/2j15ri/113952.html"
-      ]
-    },
-    {
-      "id": "ext-3612121f3e9dfaee9f78",
-      "title": "第二十一章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/462867.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462867.html",
-        "https://www.kanunu8.com/book7/dby67/469963.html",
-        "https://www.kanunu8.com/book5/2j15ri/113946.html"
-      ],
-      "read_ids": [
-        "ext-3612121f3e9dfaee9f78",
-        "ext-497062189447810116",
-        "ext-ee38f7c388c0ff95839e",
-        "ext-93b819477a304c4fabbc"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462867.html",
-        "https://www.kanunu8.com/book7/dby67/469963.html",
-        "https://www.kanunu8.com/book5/2j15ri/113946.html"
       ]
     }
   ]

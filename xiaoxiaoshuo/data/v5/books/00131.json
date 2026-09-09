@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-c7dd7f323124c9f67823",
+      "title": "第2章 荻阳怎么办",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/hxshn91/484992.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 2,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:54+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c7dd7f323124c9f67823",
+        "ext-7348275243748645739"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/hxshn91/484992.html"
+      ]
+    },
+    {
       "id": "ext-f11876c93c5f2c65cca6",
       "title": "第29章 造孽",
       "author": "",
@@ -5357,31 +5382,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qianyaobaimei/481843.html"
-      ]
-    },
-    {
-      "id": "ext-3a4b957c8764f4ba27ba",
-      "title": "搬家奇谈",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481795.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:50+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-3a4b957c8764f4ba27ba",
-        "ext-2013863582962544223"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qianyaobaimei/481795.html"
       ]
     }
   ]

@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-661e551e65e6611d10c8",
+      "title": "44、两垄花田",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/jinlin/460512.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:19+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-661e551e65e6611d10c8",
+        "ext-9046731786737633384"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/jinlin/460512.html"
+      ]
+    },
+    {
       "id": "ext-a697d6803e5eed61b7e5",
       "title": "43、回归",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/rongcuolv/450839.html"
-      ]
-    },
-    {
-      "id": "ext-72fb1ce16a699f3ebcd8",
-      "title": "第54章 软禁计划",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/rongcuolv/450838.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 54,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:17+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-72fb1ce16a699f3ebcd8",
-        "ext-8596127792416055609"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/rongcuolv/450838.html"
       ]
     }
   ]

@@ -1,6 +1,40 @@
 {
   "books": [
     {
+      "id": "ext-3612121f3e9dfaee9f78",
+      "title": "第二十一章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/462867.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462867.html",
+        "https://www.kanunu8.com/book7/dby67/469963.html",
+        "https://www.kanunu8.com/book5/2j15ri/113946.html"
+      ],
+      "read_ids": [
+        "ext-3612121f3e9dfaee9f78",
+        "ext-497062189447810116",
+        "ext-ee38f7c388c0ff95839e",
+        "ext-93b819477a304c4fabbc"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462867.html",
+        "https://www.kanunu8.com/book7/dby67/469963.html",
+        "https://www.kanunu8.com/book5/2j15ri/113946.html"
+      ]
+    },
+    {
       "id": "ext-6729d405b24428678fd2",
       "title": "第九章",
       "author": "",
@@ -5690,31 +5724,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/463235.html"
-      ]
-    },
-    {
-      "id": "ext-f45ea5f57563296862e3",
-      "title": "番外九十八",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/463237.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f45ea5f57563296862e3",
-        "ext-3139140329556731694"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/463237.html"
       ]
     }
   ]

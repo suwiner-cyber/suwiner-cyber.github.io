@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-ecbe701d312a8bcaedda",
+      "title": "乐小米: 如果百褶裙偷偷哭泣",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2008/06-16-733.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ecbe701d312a8bcaedda",
+        "ext-4390649267216411797"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2008/06-16-733.html"
+      ]
+    },
+    {
       "id": "ext-b0be826b55281b7ecf94",
       "title": "乐小米(纪伟娜): 静望，是一生的美丽",
       "author": "",
@@ -5018,30 +5043,6 @@
       ],
       "read_sources": [
         "https://ixdzs8.com/read/634581/"
-      ]
-    },
-    {
-      "id": "ix-641079",
-      "title": "宗门药童竟是小师兄的心尖宠",
-      "author": "构世界呆子",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "洛安安下班回家的途中被迎面而来的小车撞了个满怀，睁眼醒来的时候发现自己穿越到了一个听都没有听过的大陆！这个世界人均修仙大能，而她却是谁都能来捏一捏的软柿子(??;)，更倒霉的是她就要被继母卖给一个老头！没办法她只能逃命……对这个世界一无所知的她来到了一个宗门，连外门弟子都混不上，为了在这个大陆活命只能做个照顾药田的小药童！每天不是在送药材就是在送药材的路上，干干活，吃吃瓜，本想着这辈子会这样咸鱼的",
-      "cover": "https://img22.ixdzs.com/a1/b5/a1b5fb9091032ddc39380ef75cf435f5.jpg",
-      "source_url": "https://ixdzs8.com/read/641079/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 286,
-      "last_chapter": "第286章",
-      "word_count_wan": 81.78,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:20+00:00",
-      "read_ids": [
-        "ix-641079"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/641079/"
       ]
     }
   ]

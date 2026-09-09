@@ -1,6 +1,58 @@
 {
   "books": [
     {
+      "id": "ext-ecc9d0a5cbb168cbc219",
+      "title": "第53章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171809.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171809.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/37985.html",
+        "https://www.kanunu8.com/book7/lmm04/464102.html",
+        "https://www.kanunu8.com/book7/75chyriji/463325.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481608.html",
+        "https://www.kanunu8.com/book7/hxshn92/485166.html",
+        "https://www.kanunu8.com/book5/yiouchun/80335.html",
+        "https://www.kanunu8.com/book7/jinxiefang/449794.html",
+        "https://www.kanunu8.com/book7/jinxiefang/449796.html"
+      ],
+      "read_ids": [
+        "ext-ecc9d0a5cbb168cbc219",
+        "ext-3862950000731782178",
+        "ext-0f29c616b52e4eb1da79",
+        "ext-9c76835dbb8535017873",
+        "ext-8da59095816410481485",
+        "ext-8f618e27b9c62ea85a9a",
+        "ext-1c9207d68e8f40b52421",
+        "ext-16af21ee5779cab803e9",
+        "ext-a9e2030497f93f298cbe",
+        "ext-50be0f1da24f1ec4820f"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171809.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/37985.html",
+        "https://www.kanunu8.com/book7/lmm04/464102.html",
+        "https://www.kanunu8.com/book7/75chyriji/463325.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481608.html",
+        "https://www.kanunu8.com/book7/hxshn92/485166.html",
+        "https://www.kanunu8.com/book5/yiouchun/80335.html",
+        "https://www.kanunu8.com/book7/jinxiefang/449794.html",
+        "https://www.kanunu8.com/book7/jinxiefang/449796.html"
+      ]
+    },
+    {
       "id": "ext-3466402fa2e185c2068c",
       "title": "第52章",
       "author": "",
@@ -6680,31 +6732,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/laojiumen/416875.html"
-      ]
-    },
-    {
-      "id": "ext-a0037247c45c352b0bc3",
-      "title": "第七章 女尸",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/laojiumen/416851.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:41+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a0037247c45c352b0bc3",
-        "ext-3105746612048177078"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/laojiumen/416851.html"
       ]
     }
   ]
