@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-581ee7ff046005c6a872",
+      "title": "文山樵人: 盗墓迷津",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/terrorist/201103/1920.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:31+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-581ee7ff046005c6a872",
+        "ext-8830511863994624451"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/terrorist/201103/1920.html"
+      ]
+    },
+    {
+      "id": "ext-fa45fa4c03417e7b3224",
+      "title": ": 撒冷作品集",
+      "author": "",
+      "kind": "",
+      "status": "已完结",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/writer/1384.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:31+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-fa45fa4c03417e7b3224",
+        "ext-4722636532868155865"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/writer/1384.html"
+      ]
+    },
+    {
       "id": "ext-0c95021565f4b3cdfc0d",
       "title": "黄珍(易拉罐): 《天使只为星夜哭》番外",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/03-08-1902.html"
-      ]
-    },
-    {
-      "id": "ext-b8b9d531bec0c09ff481",
-      "title": "阿阁主人: 梅兰佳话",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/old/2011/2504.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:29+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b8b9d531bec0c09ff481",
-        "ext-1765685656786430583"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/old/2011/2504.html"
-      ]
-    },
-    {
-      "id": "ext-0f241b343e73a2521460",
-      "title": "醒世居士: 八段锦",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/old/2011/2441.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:29+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-0f241b343e73a2521460",
-        "ext-8594879335521458935"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/old/2011/2441.html"
       ]
     }
   ]
