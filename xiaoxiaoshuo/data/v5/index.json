@@ -1,7 +1,7 @@
 {
   "version": 14,
-  "generated_at": "2026-09-09T12:41:38+00:00",
-  "total": 29980,
+  "generated_at": "2026-09-09T13:00:15+00:00",
+  "total": 29977,
   "shard_size": 200,
   "shards": [
     {
@@ -602,12 +602,12 @@
     },
     {
       "file": "books/00150.json",
-      "count": 180
+      "count": 177
     }
   ],
   "source_counts": {
     "泡书吧小说网": 2756,
-    "乐文小说": 2848,
+    "乐文小说": 2845,
     "和图书": 1905,
     "飘天文学": 1040,
     "一七小说": 2682,
@@ -773,8 +773,8 @@
       "books_added": 0,
       "toc_written": 0,
       "books_seen_total": 2070,
-      "remaining_queue": 19152,
-      "seen_pages": 3440,
+      "remaining_queue": 19072,
+      "seen_pages": 3520,
       "done": false,
       "blocked": false,
       "needs_adapter": false
@@ -829,7 +829,7 @@
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "ipaoshubaxs.net",
+  "last_published_source": "aaaks.com",
   "id_scheme": "stable-v4-aliases",
   "metadata_sanitized": true,
   "text_only": true
