@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T01:26:55+00:00",
+  "generated_at": "2026-09-10T07:26:07+00:00",
   "errors": [
     {
       "time": "2026-09-02T01:11:34+00:00",
@@ -11438,6 +11438,13 @@
       "url": "https://www.1qxs.com/xs_1/91310/1.html",
       "stage": "chapter",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-10T07:21:08+00:00",
+      "book": "翻译官(我们的翻译官)",
+      "url": "https://www.kanunu8.com/files/dushi/201103/72827.html",
+      "stage": "chapter",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }
