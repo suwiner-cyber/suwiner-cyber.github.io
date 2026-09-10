@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T01:03:45+00:00",
+  "generated_at": "2026-09-10T01:05:44+00:00",
   "errors": [
     {
       "time": "2026-08-30T00:55:03+00:00",
@@ -12858,6 +12858,12 @@
       "source": "AAAKS小说",
       "url": "https://www.aaaks.com/book/132391/",
       "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-10T01:05:17+00:00",
+      "source": "努努书坊",
+      "url": "https://www.kanunu8.com/book4/10388/index.html",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }
