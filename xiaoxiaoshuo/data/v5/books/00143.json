@@ -1,56 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-1f6b10ff023e8445e03a",
-      "title": "咪蒙: 好疼的金圣叹",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-03-993.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1f6b10ff023e8445e03a",
-        "ext-1152630731199600186"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-03-993.html"
-      ]
-    },
-    {
-      "id": "ext-7c861a0dfe5fa8a1cdb5",
-      "title": "周云蓬: 绿皮火车",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-03-985.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7c861a0dfe5fa8a1cdb5",
-        "ext-7529060435937037972"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-03-985.html"
-      ]
-    },
-    {
       "id": "ext-efa6f8050450cef7dfef",
       "title": "卡佛: 大象",
       "author": "",
@@ -5040,6 +4990,56 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/967413"
+      ]
+    },
+    {
+      "id": "ext-cc30bbe2fd856297c762",
+      "title": "修真强少在校园 唐箫",
+      "author": "狐颜乱语",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2023/08/21/11/49/36f2245ad89442539749e3b1de35207b_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/406717",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-cc30bbe2fd856297c762",
+        "ext-8467785896391958619"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/406717"
+      ]
+    },
+    {
+      "id": "ext-b5607253743e3f349cee",
+      "title": "邪祟口感有点柴 黄油小火锅",
+      "author": "D梦凡",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2026/08/09/17/45/94f20976e6844abd9a490a2889d653ad_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/1046521",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:27+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b5607253743e3f349cee",
+        "ext-2226408423576110944"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/1046521"
       ]
     }
   ]
