@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-cee43526895db7c7e22b",
+      "title": "第2章 小轩窗，半面妆",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/xingguanghaian/457273.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 2,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:12+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-cee43526895db7c7e22b",
+        "ext-3723081145017548504"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/xingguanghaian/457273.html"
+      ]
+    },
+    {
+      "id": "ext-d3ee6d7b9ebed307f720",
+      "title": "第29章 微雨过，小荷翻",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/xingguanghaian/457300.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 29,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:12+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d3ee6d7b9ebed307f720",
+        "ext-7909280156481614955"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/xingguanghaian/457300.html"
+      ]
+    },
+    {
       "id": "ext-184e0c0f406e92a7f0a0",
       "title": "第28章 夏日长，梦觉浅",
       "author": "",
@@ -4957,56 +5007,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450456.html"
-      ]
-    },
-    {
-      "id": "ext-ab31759f00d194e9dc67",
-      "title": "第四十八章 殒命",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450196.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ab31759f00d194e9dc67",
-        "ext-1650556261000426397"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450196.html"
-      ]
-    },
-    {
-      "id": "ext-9a75021518f7f55d8239",
-      "title": "第四十八章 尸身",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450380.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-9a75021518f7f55d8239",
-        "ext-7892760847476800792"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450380.html"
       ]
     }
   ]

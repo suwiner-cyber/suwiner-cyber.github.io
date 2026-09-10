@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-c9ebef7a2ea141925d9e",
+      "title": "阿成: 灯会",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/little/2011/09-11-3488.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c9ebef7a2ea141925d9e",
+        "ext-7923844472435662315"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/09-11-3488.html"
+      ]
+    },
+    {
+      "id": "ext-5f407da9df630c734012",
+      "title": "阿成: 戒台寺",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/little/2011/09-11-3486.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-5f407da9df630c734012",
+        "ext-6088637240462814649"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/09-11-3486.html"
+      ]
+    },
+    {
       "id": "ext-e650d2e3b6db51fe1cf1",
       "title": "阿成: 刘先生",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/dushi/201107/3230.html"
-      ]
-    },
-    {
-      "id": "ext-d37f631fb88ed02251fe",
-      "title": "苏小懒: 全世爱",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/dushi/201107/3229.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d37f631fb88ed02251fe",
-        "ext-7192410526892875012"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/dushi/201107/3229.html"
-      ]
-    },
-    {
-      "id": "ext-7ec90e991e656c7da351",
-      "title": "缪娟: 我的波塞冬",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/dushi/201103/1834.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7ec90e991e656c7da351",
-        "ext-4354192583968976630"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/dushi/201103/1834.html"
       ]
     }
   ]
