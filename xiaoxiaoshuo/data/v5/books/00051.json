@@ -1,6 +1,229 @@
 {
   "books": [
     {
+      "id": "ext-bd1004adb438fe1332fa",
+      "title": "吸血鬼维多利奥",
+      "author": "安妮·赖斯 发布时间：2011-01-31 维多利奥是五百年前意大利某贵族的儿子",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/xunhuan/201101/1367.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 4,
+      "last_chapter": "第三章",
+      "detail_complete": true,
+      "indexed_at": "2026-09-05T00:52:41+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-bd1004adb438fe1332fa",
+        "ext-fac98c376b898844323a",
+        "ext-6793673867251897883"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/xunhuan/201101/1367.html"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/xunhuan/201101/1367.html"
+      ]
+    },
+    {
+      "id": "ext-a0186cc7a3154bd5fe16",
+      "title": "潘多拉",
+      "author": "安妮·赖斯 发布时间：2011-01-31 在你离开后，我坐在咖啡馆里，仅仅不到",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/xunhuan/201101/1365.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 3,
+      "last_chapter": "第二章：潘多拉的故事",
+      "detail_complete": true,
+      "indexed_at": "2026-09-05T00:52:40+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a0186cc7a3154bd5fe16",
+        "ext-9f18115f18d0c6dd6243",
+        "ext-5508074342854328352"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/xunhuan/201101/1365.html"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/xunhuan/201101/1365.html"
+      ]
+    },
+    {
+      "id": "ext-5de40e10e779289d9d31",
+      "title": "血和黄金",
+      "author": "安妮·赖斯 发布时间：2011-01-31 他叫塞纳。在远古的诗歌语言中有个更长",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/xunhuan/201101/1364.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 11,
+      "last_chapter": "第十章",
+      "detail_complete": true,
+      "indexed_at": "2026-09-05T00:52:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-5de40e10e779289d9d31",
+        "ext-18850391c1403e58e01a",
+        "ext-4284815335391917403"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/xunhuan/201101/1364.html"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/xunhuan/201101/1364.html"
+      ]
+    },
+    {
+      "id": "ext-d5e1da014968be51230b",
+      "title": "布莱克伍德庄园",
+      "author": "安妮·赖斯 发布时间：2011-01-31 《布莱克伍德庄园》是安妮·赖斯多年来",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/xunhuan/201101/1363.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 6,
+      "last_chapter": "第五章",
+      "detail_complete": true,
+      "indexed_at": "2026-09-05T00:52:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d5e1da014968be51230b",
+        "ext-fcc4dd7401fdb267270c",
+        "ext-8405019009609889825"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/xunhuan/201101/1363.html"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/xunhuan/201101/1363.html"
+      ]
+    },
+    {
+      "id": "ext-6f92b3ed7223ad30b0da",
+      "title": "吸血鬼德古拉",
+      "author": "布莱姆-斯托克 发布时间：2011-02-24 德库拉伯爵为了教会免受外族的侵略",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/world/201102/1637.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/world/201102/1637.html"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/world/201102/1637.html"
+      ],
+      "media": "text",
+      "chapter_count": 20,
+      "last_chapter": "第二十章",
+      "detail_complete": true,
+      "indexed_at": "2026-09-05T00:52:37+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-6f92b3ed7223ad30b0da",
+        "ext-a01fbf749c13e8dd9b34"
+      ]
+    },
+    {
+      "id": "ext-ab8f3b2e705465ab4b81",
+      "title": "吸血鬼阿曼德",
+      "author": "安妮·赖斯 发布时间：2011-01-31 阿曼德出生于15世纪后期沙俄的基辅的",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/xunhuan/201101/1362.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 26,
+      "last_chapter": "第二十五章",
+      "detail_complete": true,
+      "indexed_at": "2026-09-05T00:52:36+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ab8f3b2e705465ab4b81",
+        "ext-6d4eca60518b7ab1e636",
+        "ext-914985012193532738"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/xunhuan/201101/1362.html"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/xunhuan/201101/1362.html"
+      ]
+    },
+    {
+      "id": "ext-523f430e0019eb19c6cc",
+      "title": "肉体窃贼",
+      "author": "安妮·赖斯 发布时间：2011-01-30 《肉体窃贼》描述了痛苦中的吸血鬼莱斯",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/xunhuan/201101/1361.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 30,
+      "last_chapter": "第三十一章",
+      "detail_complete": true,
+      "indexed_at": "2026-09-05T00:52:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-523f430e0019eb19c6cc",
+        "ext-de03e42be7fb6cb9f5bd",
+        "ext-288316334682191868"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/xunhuan/201101/1361.html"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/xunhuan/201101/1361.html"
+      ]
+    },
+    {
       "id": "ext-1a63eac50f6d69f83a01",
       "title": "历史学家",
       "author": "伊丽莎白·科斯托娃 发布时间：2011-10-01 伊丽莎白·科斯托娃作品集 内",
@@ -6034,231 +6257,6 @@
       "read_ids": [
         "ext-01da19bd2f450bea43e2",
         "ext-df84662a6d5be1ecb14e"
-      ]
-    },
-    {
-      "id": "ext-7381198659afcea1a792",
-      "title": "我都还没开始，你们好感度就爆了",
-      "author": "新生旋律旋律新生创作，作品我都还没开始，你们好感度就爆了章章动人，泡书吧小说网为",
-      "kind": "首页 > 历史军事 > 我都还没开始，你们好感度就爆了 > 我都还没开始，你们好",
-      "status": "连载中",
-      "intro": "《我都还没开始，你们好感度就爆了》为作者新生旋律旋律新生创作，作品我都还没开始，你们好感度就爆了章章动人，泡书吧小说网为你第一时间提供新生旋律旋律新生精心编写原创我都还没开始，你们好感度就爆了及无弹窗我都还没开始，你们好感度就爆了全文免费阅读、TXT下载。 简介:关于我都还没开始，你们好感度就爆了：穿越大秦的赵辰，开局撬燕丹墙角，耗时两年半让焱妃好感度满百，金手指激活。从此一切都变了，所有见到赵辰的人好感度猛然暴涨。这让他感到很奇怪，同时也得知自己大秦长公子的身份，自认为他们都是因为自己的身份才会如此。殊不知！一切都是天道发布任务系统，只有在他身上才能触发任务的原因。焱妃：小辰弟弟，今天有什么事需要姐姐做吗？不论什么事姐姐都答应哦，包括……月神：修炼是不可能修炼了，只有在公子身边多做任务才是王道。弄玉：公子，妾为你抚琴。雪女：公子，今天想看妾身穿什么跳舞呢？晓梦：今天也该轮到我了吧！嬴政：终于可以接任务了，额滴额滴都是额滴，任务来，长生来。东皇太一：在接不到任务，怕是要退位让贤了，要不要学学焱妃和月神了？……直到九州大陆融合，各大帝国以及上界的仙神发现，想要从赵辰身上接取任务，不仅有好感度限制，美女去更容易成功。于是，赵辰身边各色美女越来越多……",
-      "cover": "https://img.ipaoshubaxs.net/418948/334121.jpg",
-      "source_url": "https://www.ipaoshubaxs.net/418948/",
-      "source_host": "ipaoshubaxs.net",
-      "source_name": "泡书吧小说网",
-      "source_names": [
-        "泡书吧小说网"
-      ],
-      "sources": [
-        "https://www.ipaoshubaxs.net/418948/"
-      ],
-      "read_sources": [
-        "https://www.ipaoshubaxs.net/418948/"
-      ],
-      "media": "text",
-      "chapter_count": 1162,
-      "last_chapter": "第1028章 五十枚蟠桃的震撼",
-      "detail_complete": true,
-      "indexed_at": "2026-09-05T00:40:44+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7381198659afcea1a792",
-        "ext-c71834a26bd25e31dc66"
-      ]
-    },
-    {
-      "id": "ext-3b69cf184ca2be71c828",
-      "title": "逼我下乡？科研军嫂搬空你全家 作者: 茴茴猫",
-      "author": "茴茴猫 关于逼我下乡？科研军嫂搬空你全家： [军婚+年代+大佬+打脸+1v1]雷",
-      "kind": "首页 > 其他类型 > 逼我下乡？科研军嫂搬空你全家 逼我下乡？科研军嫂搬空你全",
-      "status": "连载中",
-      "intro": "关于逼我下乡？科研军嫂搬空你全家： [军婚+年代+大佬+打脸+1v1]雷空双系异能大佬夏黎刚结束末世，成为执掌新世界天眼系统的开国将军准备好好养老，只是小憩一下就穿了。穿越后，她面临两个选择：——要么嫁给一个让她结婚后让着小三的自以为是妈宝男，要么下乡去穷乡僻壤的地方当知青。夏黎：拳头硬了！就这样的小白脸，我一拳能打一个加强连！努力为首长爹官复原职，成为首长爹最贴心的米虫小棉袄好好养老他不香吗？可是努力着，努力着，夏黎回头一看。嗯？我这军职怎么比我首长爹还高了？南岛一大队来了位漂亮新知青，小姑娘一身痞气，听说一脚就能把人踹骨折，思想不正，和她亲近绝对会倒霉！不久后……队员们挑着扁担，挥汗如雨的为甘蔗地浇水。夏黎靠着玻璃瓶子、注射器弄出自动水泵浇地。村民们多用了一点蜡烛，心疼得心绞痛。夏梨用一点儿盐和碳粉做成干电池，用上免费电灯。队员们：不行！！！夏黎必须得好好亲近！夏黎：谢邀，已被特招入伍，目前在“国家队”。——海军陆战队最冷漠、禁欲，无人敢亲近的军官陆定远，第一次见未来媳妇，她在和人贩子买孩子（误）。第二次见媳妇，她在黑市倒买倒卖（误）。第三次见媳妇，她在帮特务修无线电发射台（误）。陆定远：……后来：真香！",
-      "cover": "",
-      "source_url": "https://www.ipaoshubaxs.net/book/157404.html",
-      "source_host": "ipaoshubaxs.net",
-      "source_name": "泡书吧小说网",
-      "source_names": [
-        "泡书吧小说网",
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ipaoshubaxs.net/book/157404.html",
-        "https://www.ilwxs.com/info-114428.html"
-      ],
-      "read_sources": [
-        "https://www.ipaoshubaxs.net/book/157404.html",
-        "https://www.ilwxs.com/info-114428.html"
-      ],
-      "media": "text",
-      "chapter_count": 10,
-      "last_chapter": "第3924章 她可真看热闹的不怕事大啊！！",
-      "detail_complete": true,
-      "indexed_at": "2026-09-05T00:40:43+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-3b69cf184ca2be71c828",
-        "ext-ed4f37533862571ebe9c",
-        "ext-32e7b2a0e67dd31e0307"
-      ]
-    },
-    {
-      "id": "ext-24c0c34b3be8ef284134",
-      "title": "逼我下乡？科研军嫂搬空你全家",
-      "author": "茴茴猫创作，作品逼我下乡？科研军嫂搬空你全家章章动人，泡书吧小说网为你第一时间提",
-      "kind": "首页 > 其他类型 > 逼我下乡？科研军嫂搬空你全家 > 逼我下乡？科研军嫂搬空",
-      "status": "连载中",
-      "intro": "《逼我下乡？科研军嫂搬空你全家》为作者茴茴猫创作，作品逼我下乡？科研军嫂搬空你全家章章动人，泡书吧小说网为你第一时间提供茴茴猫精心编写原创逼我下乡？科研军嫂搬空你全家及无弹窗逼我下乡？科研军嫂搬空你全家全文免费阅读、TXT下载。 简介:关于逼我下乡？科研军嫂搬空你全家：[军婚+年代+大佬+打脸+1v1]雷空双系异能大佬夏黎刚结束末世，成为执掌新世界天眼系统的开国将军准备好好养老，只是小憩一下就穿了。穿越后，她面临两个选择：——要么嫁给一个让她结婚后让着小三的自以为是妈宝男，要么下乡去穷乡僻壤的地方当知青。夏黎：拳头硬了！就这样的小白脸，我一拳能打一个加强连！努力为首长爹官复原职，成为首长爹最贴心的米虫小棉袄好好养老他不香吗？可是努力着，努力着，夏黎回头一看。嗯？我这军职怎么比我首长爹还高了？南岛一大队来了位漂亮新知青，小姑娘一身痞气，听说一脚就能把人踹骨折，思想不正，和她亲近绝对会倒霉！不久后……队员们挑着扁担，挥汗如雨的为甘蔗地浇水。夏黎靠着玻璃瓶子、注射器弄出自动水泵浇地。村民们多用了一点蜡烛，心疼得心绞痛。夏梨用一点儿盐和碳粉做成干电池，用上免费电灯。队员们：不行！！！夏黎必须得好好亲近！夏黎：谢邀，已被特招入伍，目前在“国家队”。——海军陆战队最冷漠、禁欲，无人敢亲近的军官陆定远，第一次见未来媳妇，她在和人贩子买孩子（误）。第二次见媳妇，她在黑市倒买倒卖（误）。第三次见媳妇，她在帮特务修无线电发射台（误）。陆定远：……后来：真香！",
-      "cover": "https://img.ipaoshubaxs.net/157404/205240.jpg",
-      "source_url": "https://www.ipaoshubaxs.net/157404/",
-      "source_host": "ipaoshubaxs.net",
-      "source_name": "泡书吧小说网",
-      "source_names": [
-        "泡书吧小说网"
-      ],
-      "sources": [
-        "https://www.ipaoshubaxs.net/157404/"
-      ],
-      "read_sources": [
-        "https://www.ipaoshubaxs.net/157404/"
-      ],
-      "media": "text",
-      "chapter_count": 3920,
-      "last_chapter": "第3921章 谁这么有创意？",
-      "detail_complete": true,
-      "indexed_at": "2026-09-05T00:40:41+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-24c0c34b3be8ef284134",
-        "ext-a74be1783f36b86e169e"
-      ]
-    },
-    {
-      "id": "ext-8e38f005d39558a97141",
-      "title": "玄学大佬回京后，被世子爷宠疯了",
-      "author": "雅痞酒中仙创作，作品玄学大佬回京后，被世子爷宠疯了章章动人，乐文小说为你第一时间",
-      "kind": "首页 > 其他类型 > 玄学大佬回京后，被世子爷宠疯了 > 玄学大佬回京后，被世",
-      "status": "连载中",
-      "intro": "《玄学大佬回京后，被世子爷宠疯了》为作者雅痞酒中仙创作，作品玄学大佬回京后，被世子爷宠疯了章章动人，乐文小说为你第一时间提供雅痞酒中仙精心编写原创玄学大佬回京后，被世子爷宠疯了及无弹窗玄学大佬回京后，被世子爷宠疯了全文免费阅读、TXT下载。 简介:关于玄学大佬回京后，被世子爷宠疯了：背负血海深仇的江婉鱼刚入京，就被京都贵女们视为眼中钉。然，本该出生高贵的她，却被众人疯传是个会些旁门左道的乡野村姑，任谁都想骑在她头上作威作福。不曾想，她看着柔弱可欺，却有卜吉凶、断生死、送灵往生的一身大本事！瞧着她名气越来越大，又在贵人面前露了脸，有人嫉妒得红了眼。京都贵女：“想凭皮囊一步登天，也不怕登高摔重！后宅多的是磨人手段！”玄门中人：“不过会些下不入流的手段，哪能和国师弟子相提并论！”京都权贵：“不过是个小女子，即便会点手段又如何，难不成还能掀起什么风浪？”……面对流言蜚语，江婉鱼笑得张扬：“宅斗只会影响我复仇的速度，女子又如何？只要我想，定让这京都变了天！”薛寻之：“对对对！夫人说的都对，只要夫人不提和离，我愿做夫人手中利刃！”",
-      "cover": "https://img.ilwxs.com/443498/349865.jpg",
-      "source_url": "https://www.ilwxs.com/shu/443498/",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/shu/443498/"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/shu/443498/"
-      ],
-      "media": "text",
-      "chapter_count": 218,
-      "last_chapter": "第一百二十一章 消息倒灵通的很",
-      "detail_complete": true,
-      "indexed_at": "2026-09-05T00:40:27+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-8e38f005d39558a97141",
-        "ext-ddad2ce63e80fac3ee68"
-      ]
-    },
-    {
-      "id": "ext-be7b5d72cecdddfdd06c",
-      "title": "重生何雨柱，心狠手辣屠尽院内狗",
-      "author": "染血芳华创作，作品重生何雨柱，心狠手辣屠尽院内狗章章动人，乐文小说为你第一时间提",
-      "kind": "首页 > 网游动漫 > 重生何雨柱，心狠手辣屠尽院内狗 > 重生何雨柱，心狠手辣",
-      "status": "已完结",
-      "intro": "《重生何雨柱，心狠手辣屠尽院内狗》为作者染血芳华创作，作品重生何雨柱，心狠手辣屠尽院内狗章章动人，乐文小说为你第一时间提供染血芳华精心编写原创重生何雨柱，心狠手辣屠尽院内狗及无弹窗重生何雨柱，心狠手辣屠尽院内狗全文免费阅读、TXT下载。 简介:关于重生何雨柱，心狠手辣屠尽院内狗：［四合院+狼烟北平+骆驼祥子+亮剑+光荣时代+芝麻胡同+正阳门下小女人+正阳门下+血色浪漫+一人之下＋港综］老了的何雨柱在被赶出家门后！终于大彻大悟！一把菜刀送贾家全部下了地狱！自己也在自首的时候死在了警车前来的途中！再次醒来发现自己竟然回到了九岁的时候！这时，娘亲正要临盆这时，老爹还没远走保府九岁的何雨柱在空间种田系统的帮助下救下了正在难产的娘亲！从此，九岁的何雨柱在家人幸福圆满的情况下疯狂整顿四合院中的满院禽兽！刺刀二次灭贾家满门粪桶淹死易中海有仇不隔夜且看何雨柱重活一世如何恣意人生！",
-      "cover": "https://img.ilwxs.com/376717/302636.jpg",
-      "source_url": "https://www.ilwxs.com/shu/376717/",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/shu/376717/"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/shu/376717/"
-      ],
-      "media": "text",
-      "chapter_count": 1417,
-      "last_chapter": "第692章 耀眼的金辉之中",
-      "detail_complete": true,
-      "indexed_at": "2026-09-05T00:40:26+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-be7b5d72cecdddfdd06c",
-        "ext-90ca380e98c2ee244c4a"
-      ]
-    },
-    {
-      "id": "ext-b353578e68061c8b3b87",
-      "title": "港片：蒋天生不当人，我狂虐方婷 作者: 法兰西蜗牛1998",
-      "author": "法兰西蜗牛1998 关于港片：蒋天生不当人，我狂虐方婷： 李泽俊穿越到了港片世界",
-      "kind": "首页 > 其他类型 > 港片：蒋天生不当人，我狂虐方婷 港片：蒋天生不当人，我狂",
-      "status": "连载中",
-      "intro": "关于港片：蒋天生不当人，我狂虐方婷： 李泽俊穿越到了港片世界，成了洪兴红棍。惨遭同门背叛后，他流亡异地。心灰意冷之际激活了最强地下枭雄系统。猛龙过江，王者归来！凝望着无尽大海，杀意跃然眉间。港岛江湖又将陷入无尽的杀戮之中……",
-      "cover": "",
-      "source_url": "https://www.ilwxs.com/info-425594.html",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说",
-        "泡书吧小说网"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/info-425594.html",
-        "https://www.ipaoshubaxs.net/book/423164.html"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/info-425594.html",
-        "https://www.ipaoshubaxs.net/book/423164.html"
-      ],
-      "media": "text",
-      "chapter_count": 10,
-      "last_chapter": "第1088章 王建军得手悄然完成复仇！",
-      "detail_complete": true,
-      "indexed_at": "2026-09-05T00:40:25+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b353578e68061c8b3b87",
-        "ext-88b38c83a0bf34972160",
-        "ext-13f68d5db17d55e1073f"
-      ]
-    },
-    {
-      "id": "ext-000c416f24b5469cb12d",
-      "title": "港片：蒋天生不当人，我狂虐方婷",
-      "author": "法兰西蜗牛1998创作，作品港片：蒋天生不当人，我狂虐方婷章章动人，乐文小说为你",
-      "kind": "首页 > 其他类型 > 港片：蒋天生不当人，我狂虐方婷 > 港片：蒋天生不当人，",
-      "status": "连载中",
-      "intro": "《港片：蒋天生不当人，我狂虐方婷》为作者法兰西蜗牛1998创作，作品港片：蒋天生不当人，我狂虐方婷章章动人，乐文小说为你第一时间提供法兰西蜗牛1998精心编写原创港片：蒋天生不当人，我狂虐方婷及无弹窗港片：蒋天生不当人，我狂虐方婷全文免费阅读、TXT下载。 简介:关于港片：蒋天生不当人，我狂虐方婷：李泽俊穿越到了港片世界，成了洪兴红棍。惨遭同门背叛后，他流亡异地。心灰意冷之际激活了最强地下枭雄系统。猛龙过江，王者归来！凝望着无尽大海，杀意跃然眉间。港岛江湖又将陷入无尽的杀戮之中……",
-      "cover": "https://img.ilwxs.com/425594/337027.jpg",
-      "source_url": "https://www.ilwxs.com/shu/425594/",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/shu/425594/"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/shu/425594/"
-      ],
-      "media": "text",
-      "chapter_count": 1208,
-      "last_chapter": "第1085章 浩南受罚暂退江湖纷争！",
-      "detail_complete": true,
-      "indexed_at": "2026-09-05T00:40:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-000c416f24b5469cb12d",
-        "ext-3af91adec573bd1524bd"
       ]
     }
   ]
