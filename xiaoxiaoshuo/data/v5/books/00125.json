@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-3ea639b1f802d68bdced",
+      "title": "第81章 崭新",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/tianjieyese/452035.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:11+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3ea639b1f802d68bdced",
+        "ext-387347746067726356"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/tianjieyese/452035.html"
+      ]
+    },
+    {
       "id": "ext-79be9c33ad33d0f73811",
       "title": "第80章 崭新",
       "author": "",
@@ -4982,31 +5007,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450350.html"
-      ]
-    },
-    {
-      "id": "ext-e7f8ac7988ac3ca53594",
-      "title": "第十五章 隐秘",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450245.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e7f8ac7988ac3ca53594",
-        "ext-8337187979422290591"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450245.html"
       ]
     }
   ]

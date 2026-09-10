@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-e8c420912e53cdd067f4",
+      "title": "第30章 坠落的童星30",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/dby82/459698.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 30,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:58+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e8c420912e53cdd067f4",
+        "ext-6022193087072565425"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/dby82/459698.html"
+      ]
+    },
+    {
       "id": "ext-93ff5b3894b6809429aa",
       "title": "第2章 坠落的童星2",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/dby82/459776.html"
-      ]
-    },
-    {
-      "id": "ext-566636a2c2e245d5b4e7",
-      "title": "第107章 妈妈我捡垃圾养你啊9",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dby82/459775.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 107,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:58+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-566636a2c2e245d5b4e7",
-        "ext-7127738006991859756"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dby82/459775.html"
       ]
     }
   ]

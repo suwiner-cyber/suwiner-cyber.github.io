@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-ddca7f51f67524c91676",
+      "title": "第12章 孟春杀(中)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/jianchuqiao/445523.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 12,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:15+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ddca7f51f67524c91676",
+        "ext-4573476074076845557"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/jianchuqiao/445523.html"
+      ]
+    },
+    {
       "id": "ext-69953ce3680957e71f47",
       "title": "第129章 此生绝(四)",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/tianjieyese/452036.html"
-      ]
-    },
-    {
-      "id": "ext-3ea639b1f802d68bdced",
-      "title": "第81章 崭新",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/tianjieyese/452035.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:11+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-3ea639b1f802d68bdced",
-        "ext-387347746067726356"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/tianjieyese/452035.html"
       ]
     }
   ]

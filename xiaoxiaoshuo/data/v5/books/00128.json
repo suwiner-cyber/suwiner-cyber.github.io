@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-880c74b784c31ab19a41",
+      "title": "第56章 藏不住",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/ttcbuzhu/48186.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 56,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:06+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-880c74b784c31ab19a41",
+        "ext-9218464299789367255"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/ttcbuzhu/48186.html"
+      ]
+    },
+    {
       "id": "ext-6b454d2ccc5f874bcd81",
       "title": "第55章 藏不住",
       "author": "",
@@ -5120,31 +5145,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/dbsbfding/436682.html"
-      ]
-    },
-    {
-      "id": "ext-a709b20d14ed691e6dfc",
-      "title": "第十四章 车祸",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dbsbfding/436686.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:01+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a709b20d14ed691e6dfc",
-        "ext-6977808950396595855"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dbsbfding/436686.html"
       ]
     }
   ]

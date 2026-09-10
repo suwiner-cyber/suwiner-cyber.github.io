@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-e7f8ac7988ac3ca53594",
+      "title": "第十五章 隐秘",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450245.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e7f8ac7988ac3ca53594",
+        "ext-8337187979422290591"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450245.html"
+      ]
+    },
+    {
       "id": "ext-f7d91b50462497c947e8",
       "title": "第十五章 落单",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450169.html"
-      ]
-    },
-    {
-      "id": "ext-73c12e9f19336b5e2a10",
-      "title": "第二十一章 丧钟",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450429.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-73c12e9f19336b5e2a10",
-        "ext-5400931296780363101"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450429.html"
       ]
     }
   ]

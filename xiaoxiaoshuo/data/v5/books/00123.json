@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-4b2123570fc4ba6da317",
+      "title": "第96章 天妖蛊(中)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/jianchuqiao/445741.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 96,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:15+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4b2123570fc4ba6da317",
+        "ext-2485813425062304273"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/jianchuqiao/445741.html"
+      ]
+    },
+    {
       "id": "ext-5277599b8f9a47cf81c1",
       "title": "第95章 天妖蛊(上)",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/jianchuqiao/445635.html"
-      ]
-    },
-    {
-      "id": "ext-ddca7f51f67524c91676",
-      "title": "第12章 孟春杀(中)",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/jianchuqiao/445523.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 12,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:15+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ddca7f51f67524c91676",
-        "ext-4573476074076845557"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/jianchuqiao/445523.html"
       ]
     }
   ]

@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-1e4506e42a6497cafa3b",
+      "title": "第80章 判决（1）",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/hxshn91/485070.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 80,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:54+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1e4506e42a6497cafa3b",
+        "ext-5414559505270940402"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/hxshn91/485070.html"
+      ]
+    },
+    {
       "id": "ext-2542dd4f86374e53750b",
       "title": "第7章 手电筒与无人机",
       "author": "",
@@ -5357,31 +5382,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qianyaobaimei/481868.html"
-      ]
-    },
-    {
-      "id": "ext-86ba948446938c53bfb0",
-      "title": "防护栏事件",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481807.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:50+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-86ba948446938c53bfb0",
-        "ext-6558707311300930637"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qianyaobaimei/481807.html"
       ]
     }
   ]

@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-86ba948446938c53bfb0",
+      "title": "防护栏事件",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481807.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:50+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-86ba948446938c53bfb0",
+        "ext-6558707311300930637"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qianyaobaimei/481807.html"
+      ]
+    },
+    {
       "id": "ext-c8ce19a6eb37a069add8",
       "title": "长白山之旅",
       "author": "",
@@ -5279,37 +5304,6 @@
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/462931.html",
         "https://www.kanunu8.com/book7/dby67/470026.html"
-      ]
-    },
-    {
-      "id": "ext-936c57e907b529fb3e2a",
-      "title": "第八十二章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/462928.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462928.html",
-        "https://www.kanunu8.com/book7/dby67/470023.html"
-      ],
-      "read_ids": [
-        "ext-936c57e907b529fb3e2a",
-        "ext-6129186347845917503",
-        "ext-a612e2faf07778336d78"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462928.html",
-        "https://www.kanunu8.com/book7/dby67/470023.html"
       ]
     }
   ]
