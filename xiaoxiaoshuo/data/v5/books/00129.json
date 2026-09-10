@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-8ab4ee7fe58747dd00d3",
+      "title": "第120章 Starlight Haven",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/xingguanghaian/457391.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 120,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:12+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8ab4ee7fe58747dd00d3",
+        "ext-8254661592700285464"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/xingguanghaian/457391.html"
+      ]
+    },
+    {
+      "id": "ext-d0a88429dcaff473b160",
+      "title": "第11章 梅子黄，日日晴",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/xingguanghaian/457282.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 11,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:12+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d0a88429dcaff473b160",
+        "ext-8515557579704733378"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/xingguanghaian/457282.html"
+      ]
+    },
+    {
       "id": "ext-be3cd12c2a3519cd17fe",
       "title": "第119章 Starlight Haven",
       "author": "",
@@ -4957,56 +5007,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450379.html"
-      ]
-    },
-    {
-      "id": "ext-3a3021197aeec13de4e8",
-      "title": "第四十一章 静夜",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450130.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-3a3021197aeec13de4e8",
-        "ext-1669361448282172834"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450130.html"
-      ]
-    },
-    {
-      "id": "ext-e07ee81a97e95e74cd20",
-      "title": "第四十一章 雪末安息香",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450271.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e07ee81a97e95e74cd20",
-        "ext-1418379488324370520"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450271.html"
       ]
     }
   ]

@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-246a953df6082556699e",
+      "title": "第100章 冯大虎",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65138.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 100,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-246a953df6082556699e",
+        "ext-4154493763456194847"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65138.html"
+      ]
+    },
+    {
+      "id": "ext-80f65ae75182d3ec4d23",
+      "title": "第9章 不卖",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204271.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-80f65ae75182d3ec4d23",
+        "ext-7828929487703134730"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204271.html"
+      ]
+    },
+    {
       "id": "ext-f99209a8b3e36bd47408",
       "title": "第99章 相撞",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/01-20-1233.html"
-      ]
-    },
-    {
-      "id": "ext-dc29dae2b2ae561357de",
-      "title": "西村寿行: 同魔鬼周旋的情侣",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-20-1237.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-dc29dae2b2ae561357de",
-        "ext-5491918596440364636"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-20-1237.html"
-      ]
-    },
-    {
-      "id": "ext-7b7c3f6f248fc4780c55",
-      "title": "西村寿行: 光的鳞片",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-20-1234.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7b7c3f6f248fc4780c55",
-        "ext-7930514077557032659"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-20-1234.html"
       ]
     }
   ]
