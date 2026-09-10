@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-adadd53a5787720b8c0f",
+      "title": "番外九十一",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463230.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-adadd53a5787720b8c0f",
+        "ext-1237695197710147913"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463230.html"
+      ]
+    },
+    {
+      "id": "ext-bf91fec2c39f78240d9f",
+      "title": "番外九十",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463229.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-bf91fec2c39f78240d9f",
+        "ext-5677039610023239335"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463229.html"
+      ]
+    },
+    {
       "id": "ext-ceccd3ccdc00709b7bec",
       "title": "番外九",
       "author": "",
@@ -5395,56 +5445,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/phbfshce/473537.html"
-      ]
-    },
-    {
-      "id": "ext-a31f18566fbfdc925ce9",
-      "title": "第5章 你还卖不卖？",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/phbfshce/473482.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 5,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:45+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a31f18566fbfdc925ce9",
-        "ext-8999820431366244568"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/phbfshce/473482.html"
-      ]
-    },
-    {
-      "id": "ext-e9f0132785c76fdb78e6",
-      "title": "第59章 好吃爱吃",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/phbfshce/473536.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 59,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:45+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e9f0132785c76fdb78e6",
-        "ext-5255112830349360180"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/phbfshce/473536.html"
       ]
     }
   ]

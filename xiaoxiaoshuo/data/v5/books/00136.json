@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-a31f18566fbfdc925ce9",
+      "title": "第5章 你还卖不卖？",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/phbfshce/473482.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 5,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:45+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a31f18566fbfdc925ce9",
+        "ext-8999820431366244568"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/phbfshce/473482.html"
+      ]
+    },
+    {
+      "id": "ext-e9f0132785c76fdb78e6",
+      "title": "第59章 好吃爱吃",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/phbfshce/473536.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 59,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:45+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e9f0132785c76fdb78e6",
+        "ext-5255112830349360180"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/phbfshce/473536.html"
+      ]
+    },
+    {
       "id": "ext-3721738e1907b8f14276",
       "title": "第58章 喜提升职！",
       "author": "",
@@ -6145,104 +6195,6 @@
         "https://www.kanunu8.com/book7/hxshn92/485162.html",
         "https://www.kanunu8.com/book5/yiouchun/80331.html",
         "https://www.kanunu8.com/book7/jinxiefang/449790.html"
-      ]
-    },
-    {
-      "id": "ext-72a4489fc874e12074ea",
-      "title": "第48章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171804.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171804.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/37980.html",
-        "https://www.kanunu8.com/book7/lmm04/464097.html",
-        "https://www.kanunu8.com/book7/75chyriji/463320.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481603.html",
-        "https://www.kanunu8.com/book7/hxshn92/485161.html",
-        "https://www.kanunu8.com/book5/yiouchun/80330.html",
-        "https://www.kanunu8.com/book7/jinxiefang/449789.html"
-      ],
-      "read_ids": [
-        "ext-72a4489fc874e12074ea",
-        "ext-2710023188421772898",
-        "ext-ea3fd06191ada3739452",
-        "ext-6086389a44e8611591c5",
-        "ext-ae6cf3be3bf58b77a3a4",
-        "ext-d60b3cd81726488c12f8",
-        "ext-aa087aa0e4ca20e7e8b1",
-        "ext-974576dd5c48f67904a8",
-        "ext-21d0a725de9a989ea0c8"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171804.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/37980.html",
-        "https://www.kanunu8.com/book7/lmm04/464097.html",
-        "https://www.kanunu8.com/book7/75chyriji/463320.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481603.html",
-        "https://www.kanunu8.com/book7/hxshn92/485161.html",
-        "https://www.kanunu8.com/book5/yiouchun/80330.html",
-        "https://www.kanunu8.com/book7/jinxiefang/449789.html"
-      ]
-    },
-    {
-      "id": "ext-21512778f80a97533e28",
-      "title": "第47章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171803.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171803.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/37979.html",
-        "https://www.kanunu8.com/book7/lmm04/464096.html",
-        "https://www.kanunu8.com/book7/75chyriji/463319.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481602.html",
-        "https://www.kanunu8.com/book7/hxshn92/485160.html",
-        "https://www.kanunu8.com/book5/yiouchun/80329.html",
-        "https://www.kanunu8.com/book7/jinxiefang/449788.html"
-      ],
-      "read_ids": [
-        "ext-21512778f80a97533e28",
-        "ext-8667666984734083793",
-        "ext-c958b8eeae0b68fa61d5",
-        "ext-edbabd552d1d4324bf6c",
-        "ext-03c2dfd9fc7db9857ed6",
-        "ext-0b308bd95009fd58702e",
-        "ext-9adc2021d684479c0010",
-        "ext-e1905a1ee174b2967ebb",
-        "ext-5f6b50a8536f240ff340"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171803.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/37979.html",
-        "https://www.kanunu8.com/book7/lmm04/464096.html",
-        "https://www.kanunu8.com/book7/75chyriji/463319.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481602.html",
-        "https://www.kanunu8.com/book7/hxshn92/485160.html",
-        "https://www.kanunu8.com/book5/yiouchun/80329.html",
-        "https://www.kanunu8.com/book7/jinxiefang/449788.html"
       ]
     }
   ]

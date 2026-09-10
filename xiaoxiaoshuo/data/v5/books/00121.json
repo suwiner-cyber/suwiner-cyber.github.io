@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-4c1abe8607be60bf26ee",
+      "title": "第3章 春祭(中)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/jianchuqiao/445514.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 3,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:15+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4c1abe8607be60bf26ee",
+        "ext-5155725029891085494"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/jianchuqiao/445514.html"
+      ]
+    },
+    {
+      "id": "ext-75853f15b107467e7ead",
+      "title": "第39章 风过岭(四)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/jianchuqiao/445549.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 39,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:15+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-75853f15b107467e7ead",
+        "ext-3883168511152719317"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/jianchuqiao/445549.html"
+      ]
+    },
+    {
       "id": "ext-963e07e983c8fd04de2b",
       "title": "第38章 风过岭(三)",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/shjshdyshchli/450598.html"
-      ]
-    },
-    {
-      "id": "ext-f075815d0634b5fbf1a3",
-      "title": "第14章 老板，你要对我做什么",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/shjshdyshchli/450597.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 14,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:13+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f075815d0634b5fbf1a3",
-        "ext-6610388466056312142"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/shjshdyshchli/450597.html"
-      ]
-    },
-    {
-      "id": "ext-053db58cb9a12ddaa100",
-      "title": "第13章 像太阳一样明亮",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/shjshdyshchli/450596.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 13,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:13+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-053db58cb9a12ddaa100",
-        "ext-6197986067901063161"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/shjshdyshchli/450596.html"
       ]
     }
   ]
