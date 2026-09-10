@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-09-10T18:57:51+00:00",
+  "generated_at": "2026-09-10T19:00:28+00:00",
   "errors": [
-    {
-      "time": "2026-08-30T06:25:59+00:00",
-      "source": "一七小说",
-      "url": "https://www.1qxs.com/xs_1/91596.html",
-      "error": "HTTP Error 502: Bad Gateway"
-    },
     {
       "time": "2026-08-30T06:26:12+00:00",
       "source": "一七小说",
@@ -15000,6 +14994,12 @@
       "source": "AAAKS小说",
       "url": "https://www.aaaks.com/book/1823267483/",
       "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-10T18:58:13+00:00",
+      "source": "爱下电子书",
+      "url": "https://ixdzs8.com/read//p.html",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }
