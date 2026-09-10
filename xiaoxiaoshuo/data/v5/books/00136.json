@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-86c8fb0c418fc3e0c009",
-      "title": "第60章 上工(3)",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/hxshn91/485050.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 60,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:54+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-86c8fb0c418fc3e0c009",
-        "ext-9211375600809834405"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/hxshn91/485050.html"
-      ]
-    },
-    {
       "id": "ext-d8ebb004e2c40ff7d2bb",
       "title": "第5章 城门依然推不开",
       "author": "",
@@ -5382,6 +5357,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qianyaobaimei/481815.html"
+      ]
+    },
+    {
+      "id": "ext-1dd6c947c05035b69d9a",
+      "title": "离家出走",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481853.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:50+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1dd6c947c05035b69d9a",
+        "ext-2342731861188845495"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qianyaobaimei/481853.html"
       ]
     }
   ]

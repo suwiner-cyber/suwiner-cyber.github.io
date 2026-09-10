@@ -1,52 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-c01fc749dcb4c55e6e26",
-      "title": "第84章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171840.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171840.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/38016.html",
-        "https://www.kanunu8.com/book7/lmm04/464133.html",
-        "https://www.kanunu8.com/book7/75chyriji/463356.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481640.html",
-        "https://www.kanunu8.com/book7/hxshn92/485198.html",
-        "https://www.kanunu8.com/book5/yiouchun/80366.html"
-      ],
-      "read_ids": [
-        "ext-c01fc749dcb4c55e6e26",
-        "ext-2082971811138168373",
-        "ext-fa4b3a37e6197cfaa214",
-        "ext-b54045bc2ec64886469a",
-        "ext-55ce005a901e3281cf44",
-        "ext-a3719d1f287fa79737c8",
-        "ext-98519c3e28cf27716fbf",
-        "ext-a7c3817355defe8be27d"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171840.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/38016.html",
-        "https://www.kanunu8.com/book7/lmm04/464133.html",
-        "https://www.kanunu8.com/book7/75chyriji/463356.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481640.html",
-        "https://www.kanunu8.com/book7/hxshn92/485198.html",
-        "https://www.kanunu8.com/book5/yiouchun/80366.html"
-      ]
-    },
-    {
       "id": "ext-5fbfc39c2751864d931b",
       "title": "第83章",
       "author": "",
@@ -7434,6 +7388,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/laojiumen/416809.html"
+      ]
+    },
+    {
+      "id": "ext-21d1d58b5f16f88fe6b3",
+      "title": "第二章 六字人生",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/laojiumen/416846.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:41+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-21d1d58b5f16f88fe6b3",
+        "ext-3823954387803532126"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/laojiumen/416846.html"
       ]
     }
   ]

@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-21d1d58b5f16f88fe6b3",
-      "title": "第二章 六字人生",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/laojiumen/416846.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:41+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-21d1d58b5f16f88fe6b3",
-        "ext-3823954387803532126"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/laojiumen/416846.html"
-      ]
-    },
-    {
       "id": "ext-783e9f2bdd441e8411b5",
       "title": "第二十章 花签子",
       "author": "",
@@ -5004,6 +4979,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65274.html"
+      ]
+    },
+    {
+      "id": "ext-5c4dfebf83343e92bee6",
+      "title": "第235章 纷乱",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65273.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 235,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-5c4dfebf83343e92bee6",
+        "ext-5502228432513385485"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65273.html"
       ]
     }
   ]

@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-69b996422b4c8bae5425",
-      "title": "第96章 人就是这样一步步烂掉的",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/phbfshce/473573.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 96,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:45+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-69b996422b4c8bae5425",
-        "ext-2139988163411709166"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/phbfshce/473573.html"
-      ]
-    },
-    {
       "id": "ext-87958871809e2d7091d1",
       "title": "第95章 请客",
       "author": "",
@@ -5370,6 +5345,52 @@
         "https://www.kanunu8.com/book7/datangpizhuji/481641.html",
         "https://www.kanunu8.com/book7/hxshn92/485199.html",
         "https://www.kanunu8.com/book5/yiouchun/80367.html"
+      ]
+    },
+    {
+      "id": "ext-c01fc749dcb4c55e6e26",
+      "title": "第84章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171840.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171840.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/38016.html",
+        "https://www.kanunu8.com/book7/lmm04/464133.html",
+        "https://www.kanunu8.com/book7/75chyriji/463356.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481640.html",
+        "https://www.kanunu8.com/book7/hxshn92/485198.html",
+        "https://www.kanunu8.com/book5/yiouchun/80366.html"
+      ],
+      "read_ids": [
+        "ext-c01fc749dcb4c55e6e26",
+        "ext-2082971811138168373",
+        "ext-fa4b3a37e6197cfaa214",
+        "ext-b54045bc2ec64886469a",
+        "ext-55ce005a901e3281cf44",
+        "ext-a3719d1f287fa79737c8",
+        "ext-98519c3e28cf27716fbf",
+        "ext-a7c3817355defe8be27d"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171840.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/38016.html",
+        "https://www.kanunu8.com/book7/lmm04/464133.html",
+        "https://www.kanunu8.com/book7/75chyriji/463356.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481640.html",
+        "https://www.kanunu8.com/book7/hxshn92/485198.html",
+        "https://www.kanunu8.com/book5/yiouchun/80366.html"
       ]
     }
   ]

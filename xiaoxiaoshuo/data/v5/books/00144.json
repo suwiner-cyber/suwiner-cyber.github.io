@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-859311c324ba4f705736",
-      "title": "第54章 绽放",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/gnbk26/204317.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 48,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:38+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-859311c324ba4f705736",
-        "ext-7495465128428885693"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/gnbk26/204317.html"
-      ]
-    },
-    {
       "id": "ext-8a2e20dfa27b029a8d72",
       "title": "第53章 兵荒马乱，不战自败",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2012/03-15-7034.html"
+      ]
+    },
+    {
+      "id": "ext-ffba4dc85bfe3687a59c",
+      "title": "威廉·福克纳: 纪念爱米丽的一朵玫瑰花",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2012/09-29-8203.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ffba4dc85bfe3687a59c",
+        "ext-1497870987259307294"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2012/09-29-8203.html"
       ]
     }
   ]
