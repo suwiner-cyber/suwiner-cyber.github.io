@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-09-11T12:33:57+00:00",
+  "generated_at": "2026-09-11T12:35:32+00:00",
   "errors": [
-    {
-      "time": "2026-09-02T06:57:27+00:00",
-      "source": "言情小说吧",
-      "url": "https://www.xs8.cn/bookrecommend/sq48e204f9b6316de9",
-      "error": "HTTP Error 404: Not Found"
-    },
     {
       "time": "2026-09-02T06:57:29+00:00",
       "source": "言情小说吧",
@@ -15000,6 +14994,12 @@
       "source": "AAAKS小说",
       "url": "https://www.aaaks.com/book/1465136946/",
       "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-11T12:35:18+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/newmessage.php?tosys=1&title=神墓更新不及时！",
+      "error": "'ascii' codec can't encode characters in position 34-41: ordinal not in range(128)"
     }
   ]
 }
