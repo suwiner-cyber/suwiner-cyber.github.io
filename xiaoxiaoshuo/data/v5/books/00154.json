@@ -1,56 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-8999d887cbce96d5ae3f",
-      "title": "第11章 装傻",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/gnbk26/204273.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:38+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-8999d887cbce96d5ae3f",
-        "ext-8034924078154269184"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/gnbk26/204273.html"
-      ]
-    },
-    {
-      "id": "ext-534d2b1446baa1c540ec",
-      "title": "第119章 想念",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/gnbk26/204384.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 119,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:38+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-534d2b1446baa1c540ec",
-        "ext-1726881069280043847"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/gnbk26/204384.html"
-      ]
-    },
-    {
       "id": "ext-ad3d5dabed596efa4657",
       "title": "第118章 较劲",
       "author": "",
@@ -4998,6 +4948,56 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/01-16-1157.html"
+      ]
+    },
+    {
+      "id": "ext-564286ccb9db677010c1",
+      "title": "乐小米(纪伟娜): 有没有人闻过你的香",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1148.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-564286ccb9db677010c1",
+        "ext-223928972104178654"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-16-1148.html"
+      ]
+    },
+    {
+      "id": "ext-7eccb3ffd50844f0bc5d",
+      "title": "乐小米(纪伟娜): 最初的端阳夕木",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1145.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-7eccb3ffd50844f0bc5d",
+        "ext-443244682160410991"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-16-1145.html"
       ]
     }
   ]

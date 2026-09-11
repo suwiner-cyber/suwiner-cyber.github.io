@@ -1,68 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-da6669ac397cdcc09083",
-      "title": "第七十五章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/462921.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462921.html",
-        "https://www.kanunu8.com/book7/dby67/470016.html"
-      ],
-      "read_ids": [
-        "ext-da6669ac397cdcc09083",
-        "ext-6433553910135017306",
-        "ext-6215d1bc426f9cedeafc"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462921.html",
-        "https://www.kanunu8.com/book7/dby67/470016.html"
-      ]
-    },
-    {
-      "id": "ext-44fd41d0d2e20d69e66d",
-      "title": "第七十二章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/462918.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462918.html",
-        "https://www.kanunu8.com/book7/dby67/470013.html"
-      ],
-      "read_ids": [
-        "ext-44fd41d0d2e20d69e66d",
-        "ext-1121255072914434866",
-        "ext-175cdec1e2967ef1be8d"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462918.html",
-        "https://www.kanunu8.com/book7/dby67/470013.html"
-      ]
-    },
-    {
       "id": "ext-09306448f6b1c2beb05f",
       "title": "第七十九章",
       "author": "",
@@ -5538,6 +5476,62 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/463210.html"
+      ]
+    },
+    {
+      "id": "ext-1ad16b56e0164bb07f9d",
+      "title": "番外七十",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463209.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1ad16b56e0164bb07f9d",
+        "ext-7419394488055670283"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463209.html"
+      ]
+    },
+    {
+      "id": "ext-852766e937959f780bb9",
+      "title": "番外七",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463146.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463146.html",
+        "https://www.kanunu8.com/book5/qy_jlwxs/35641.html"
+      ],
+      "read_ids": [
+        "ext-852766e937959f780bb9",
+        "ext-4560463303073981156",
+        "ext-de222c18cd2d6ec3834d"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463146.html",
+        "https://www.kanunu8.com/book5/qy_jlwxs/35641.html"
       ]
     }
   ]
