@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-09-11T18:30:27+00:00",
+  "generated_at": "2026-09-11T18:31:58+00:00",
   "errors": [
-    {
-      "time": "2026-09-03T12:36:58+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/林笑笑.html",
-      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
-    },
     {
       "time": "2026-09-03T12:36:59+00:00",
       "source": "乐文小说",
@@ -15000,6 +14994,12 @@
       "source": "塔读文学",
       "url": "https://www.tadu.com/space/author/442335",
       "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-11T18:31:42+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=425426",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }
