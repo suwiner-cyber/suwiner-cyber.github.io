@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T19:28:19+00:00",
+  "generated_at": "2026-09-11T01:29:57+00:00",
   "errors": [
     {
       "time": "2026-09-02T01:11:34+00:00",
@@ -11807,6 +11807,13 @@
       "time": "2026-09-10T19:22:18+00:00",
       "book": "长相思(全集)",
       "url": "https://www.kanunu8.com/book5/changxiangsi2/202317.html",
+      "stage": "chapter",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-11T01:26:30+00:00",
+      "book": "文城",
+      "url": "https://www.kanunu8.com/book5/wencheng/101.html",
       "stage": "chapter",
       "error": "HTTP Error 404: Not Found"
     }
