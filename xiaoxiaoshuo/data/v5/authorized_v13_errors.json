@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-09-11T19:02:10+00:00",
+  "generated_at": "2026-09-11T19:05:23+00:00",
   "errors": [
-    {
-      "time": "2026-09-04T12:37:17+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/凉爽爽.html",
-      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
-    },
     {
       "time": "2026-09-04T12:37:18+00:00",
       "source": "乐文小说",
@@ -15000,6 +14994,12 @@
       "source": "塔读文学",
       "url": "https://www.tadu.com/space/author/506251",
       "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-11T19:03:57+00:00",
+      "source": "言情小说吧",
+      "url": "https://www.xs8.cn/bqx/qbxapexaiq",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }
