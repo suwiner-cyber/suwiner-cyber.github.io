@@ -1,81 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-fd19f733fa622dd45068",
-      "title": "格非: 褐色鸟群",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2012/11-08-8313.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-fd19f733fa622dd45068",
-        "ext-9040320318425333377"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2012/11-08-8313.html"
-      ]
-    },
-    {
-      "id": "ext-318dc68c5c93f5b6d1fe",
-      "title": "林白: 猫的激情时代",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2012/03-16-7036.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-318dc68c5c93f5b6d1fe",
-        "ext-183839775252192624"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2012/03-16-7036.html"
-      ]
-    },
-    {
-      "id": "ext-0e773a5709f351e20e1b",
-      "title": "林白: 内心的故乡",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2012/03-16-7035.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-0e773a5709f351e20e1b",
-        "ext-8485744926591246684"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2012/03-16-7035.html"
-      ]
-    },
-    {
       "id": "ext-d0e92925d0c01b509fb0",
       "title": "林少华: 为了破碎的鸡蛋",
       "author": "",
@@ -5040,6 +4965,81 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/827109"
+      ]
+    },
+    {
+      "id": "ext-d5d0aac9d18402ede6ca",
+      "title": "倾奇世界 武田城",
+      "author": "南妖叔",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2021/06/11/13/49/f94ada3ff9f040e79bb984a114cd4040_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/969169",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:55+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d5d0aac9d18402ede6ca",
+        "ext-8978637625054187176"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/969169"
+      ]
+    },
+    {
+      "id": "ext-4ffd81081effcd1b25b2",
+      "title": "狩魔神探 狂笑",
+      "author": "水龙吟",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2022/05/07/11/56/0ce7f6b91d884e58a4ab308e4f24c052_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/394195",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:53+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4ffd81081effcd1b25b2",
+        "ext-2234510377101148897"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/394195"
+      ]
+    },
+    {
+      "id": "ext-d17294d45b3f7e232bb7",
+      "title": "诡异降临，从掠夺诡技成神 新气象",
+      "author": "浮兮",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//f/8/6/8/f868dbe4ad931ab3d071b57e84dad04c_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/1031904",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:50+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d17294d45b3f7e232bb7",
+        "ext-6171789932949499135"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/1031904"
       ]
     }
   ]
