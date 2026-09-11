@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-7dd6b213f0da16f3721e",
+      "title": "第24章 如此巧合",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/mangjia/450716.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 24,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:16+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-7dd6b213f0da16f3721e",
+        "ext-7357668310193330958"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/mangjia/450716.html"
+      ]
+    },
+    {
+      "id": "ext-1954fe57a2ab0225bebf",
+      "title": "第23章 后继有人",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/mangjia/450715.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 23,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:16+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1954fe57a2ab0225bebf",
+        "ext-7260125904187693072"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/mangjia/450715.html"
+      ]
+    },
+    {
       "id": "ext-d9b8a091535656492274",
       "title": "第22章 并不相配",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/jianchuqiao/445655.html"
-      ]
-    },
-    {
-      "id": "ext-ee095a80cc79c8fc50b8",
-      "title": "第14章 溯荒印(上)",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/jianchuqiao/445525.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 14,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:15+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ee095a80cc79c8fc50b8",
-        "ext-7521120809073333050"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/jianchuqiao/445525.html"
-      ]
-    },
-    {
-      "id": "ext-31e1c097067810e3c38b",
-      "title": "第149章 索妖盘(下)",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/jianchuqiao/445654.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 149,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:15+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-31e1c097067810e3c38b",
-        "ext-7265576003626720110"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/jianchuqiao/445654.html"
       ]
     }
   ]

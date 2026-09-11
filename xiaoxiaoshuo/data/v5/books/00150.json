@@ -1,6 +1,80 @@
 {
   "books": [
     {
+      "id": "ext-1708ba5f4c858b484da4",
+      "title": "番外四",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171924.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171924.html",
+        "https://www.kanunu8.com/book7/75chyriji/463143.html",
+        "https://www.kanunu8.com/book5/qy_jlwxs/35638.html",
+        "https://www.kanunu8.com/book7/shjshdyshchli/450620.html"
+      ],
+      "read_ids": [
+        "ext-1708ba5f4c858b484da4",
+        "ext-8352739142713002033",
+        "ext-d08995408e8a1977a49f",
+        "ext-ffb63b68bac9a8f25087",
+        "ext-d5936d78724fd57464b1"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171924.html",
+        "https://www.kanunu8.com/book7/75chyriji/463143.html",
+        "https://www.kanunu8.com/book5/qy_jlwxs/35638.html",
+        "https://www.kanunu8.com/book7/shjshdyshchli/450620.html"
+      ]
+    },
+    {
+      "id": "ext-cf338faa8da916fbc1c3",
+      "title": "番外五",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171925.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171925.html",
+        "https://www.kanunu8.com/book7/75chyriji/463144.html",
+        "https://www.kanunu8.com/book5/qy_jlwxs/35639.html",
+        "https://www.kanunu8.com/book7/shjshdyshchli/450621.html"
+      ],
+      "read_ids": [
+        "ext-cf338faa8da916fbc1c3",
+        "ext-8602695362261440182",
+        "ext-852580acf8c807e57168",
+        "ext-fac24ad93d5a37baf086",
+        "ext-f607886d68d031028fe6"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171925.html",
+        "https://www.kanunu8.com/book7/75chyriji/463144.html",
+        "https://www.kanunu8.com/book5/qy_jlwxs/35639.html",
+        "https://www.kanunu8.com/book7/shjshdyshchli/450621.html"
+      ]
+    },
+    {
       "id": "ext-0e1cc569d21c0c694308",
       "title": "番外二",
       "author": "",
@@ -4990,56 +5064,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65314.html"
-      ]
-    },
-    {
-      "id": "ext-386570c4b431c7aacdb9",
-      "title": "第275章 训子",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65313.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 275,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-386570c4b431c7aacdb9",
-        "ext-1705422275983852637"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65313.html"
-      ]
-    },
-    {
-      "id": "ext-4d04d7ac56fc35de19dd",
-      "title": "第274章 瞩目",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65312.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 274,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-4d04d7ac56fc35de19dd",
-        "ext-3669920061055142366"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65312.html"
       ]
     }
   ]
