@@ -1,6 +1,81 @@
 {
   "books": [
     {
+      "id": "ext-5eab9d518c0f71f9799c",
+      "title": "黄易: 文明之秘",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/sf/201103/2396.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-5eab9d518c0f71f9799c",
+        "ext-2545086639492025463"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/sf/201103/2396.html"
+      ]
+    },
+    {
+      "id": "ext-dda394a7628c6043f7d4",
+      "title": "田中芳树: 战场夜想曲",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/world/201104/2638.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:35+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-dda394a7628c6043f7d4",
+        "ext-3585400529121572347"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/world/201104/2638.html"
+      ]
+    },
+    {
+      "id": "ext-35555d6d289f789b7fdf",
+      "title": "菲利普·普尔曼(philip pullman): 黄金罗盘(《黑质三部曲》之一)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/xunhuan/200805/566.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:34+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-35555d6d289f789b7fdf",
+        "ext-3174728826615612054"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/xunhuan/200805/566.html"
+      ]
+    },
+    {
       "id": "ext-72314047d7600ab15a05",
       "title": "[美]斯蒂芬妮·梅尔: 布里坦纳第二次短暂生命",
       "author": "",
@@ -4923,81 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/11-02-4248.html"
-      ]
-    },
-    {
-      "id": "ext-9b0512fcf28a9fcf5ff7",
-      "title": "[法]帕特里克·莫迪亚诺: 夜巡",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/11-02-4249.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-9b0512fcf28a9fcf5ff7",
-        "ext-8801727972684594631"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/11-02-4249.html"
-      ]
-    },
-    {
-      "id": "ext-43d5ae969734304f623c",
-      "title": "E.B.怀特: 阳光与黑暗",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-24-1298.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-43d5ae969734304f623c",
-        "ext-8191325646352260810"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-24-1298.html"
-      ]
-    },
-    {
-      "id": "ext-1b51145646f611b45647",
-      "title": ": 魔兽官方短篇小说：流沙之战",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/02-27-1754.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1b51145646f611b45647",
-        "ext-7318357197482701001"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/02-27-1754.html"
       ]
     }
   ]
