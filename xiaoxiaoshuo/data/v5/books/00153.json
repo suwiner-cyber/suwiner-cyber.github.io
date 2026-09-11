@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-c117656b61186b4223a9",
-      "title": "艾萨克·阿西莫夫: 旅行者2号的孤寂旅程",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2012/02-05-6436.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c117656b61186b4223a9",
-        "ext-3168437962597665395"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2012/02-05-6436.html"
-      ]
-    },
-    {
       "id": "ext-af9775dadd3d3acdde0c",
       "title": "艾萨克·巴谢维斯·辛格: 市场街的斯宾诺莎",
       "author": "",
@@ -5040,6 +5015,31 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/1032228"
+      ]
+    },
+    {
+      "id": "ext-d3e05c872eaabaf9af12",
+      "title": "偏执少年有点凶 赐江山",
+      "author": "湖藻",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2019/07/12/12/17/b685145643c6475eaa43be4d2ed7b006_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/869700",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:21+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d3e05c872eaabaf9af12",
+        "ext-1377555490759456378"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/869700"
       ]
     }
   ]
