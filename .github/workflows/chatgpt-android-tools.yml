@@ -1,0 +1,34 @@
+name: ChatGPT Android build tools
+
+on:
+  push:
+    branches:
+      - chatgpt-edgeone-v2-build
+    paths:
+      - '.github/workflows/chatgpt-android-tools.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  tools:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download pinned public Android build tools
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p tools
+          curl -fL --retry 3 -o tools/apktool.jar https://github.com/iBotPeaches/Apktool/releases/download/v2.12.1/apktool_2.12.1.jar
+          curl -fL --retry 3 -o tools/r8.jar https://dl.google.com/dl/android/maven2/com/android/tools/r8/8.10.21/r8-8.10.21.jar
+          curl -fL --retry 3 -o tools/android.jar https://repo.maven.apache.org/maven2/com/google/android/android/4.1.1.4/android-4.1.1.4.jar
+          curl -fL --retry 3 -o tools/apksig.jar https://dl.google.com/dl/android/maven2/com/android/tools/build/apksig/8.7.3/apksig-8.7.3.jar
+          sha256sum tools/* > tools/SHA256SUMS.txt
+          java -jar tools/apktool.jar --version
+          java -cp tools/r8.jar com.android.tools.r8.D8 --version
+      - uses: actions/upload-artifact@v4
+        with:
+          name: android-build-tools
+          path: tools/
+          retention-days: 1
