@@ -22,13 +22,17 @@ jobs:
           mkdir -p tools
           curl -fL --retry 3 -o tools/apktool.jar https://github.com/iBotPeaches/Apktool/releases/download/v2.12.1/apktool_2.12.1.jar
           curl -fL --retry 3 -o tools/r8.jar https://dl.google.com/dl/android/maven2/com/android/tools/r8/8.10.21/r8-8.10.21.jar
-          curl -fL --retry 3 -o tools/android.jar https://repo.maven.apache.org/maven2/com/google/android/android/4.1.1.4/android-4.1.1.4.jar
           curl -fL --retry 3 -o tools/apksig.jar https://dl.google.com/dl/android/maven2/com/android/tools/build/apksig/8.7.3/apksig-8.7.3.jar
+          curl -fL --retry 3 -o tools/ecj.jar https://repo.maven.apache.org/maven2/org/eclipse/jdt/ecj/3.38.0/ecj-3.38.0.jar
+          curl -fL --retry 3 -o tools/json.jar https://repo.maven.apache.org/maven2/org/json/json/20240303/json-20240303.jar
+          curl -fL --retry 3 -o /tmp/platform.zip https://dl.google.com/android/repository/platform-35-ext15_r01.zip
+          unzip -q /tmp/platform.zip -d /tmp/platform
+          cp "$(find /tmp/platform -name android.jar -print -quit)" tools/android.jar
           sha256sum tools/* > tools/SHA256SUMS.txt
           java -jar tools/apktool.jar --version
           java -cp tools/r8.jar com.android.tools.r8.D8 --version
       - uses: actions/upload-artifact@v4
         with:
-          name: android-build-tools
+          name: android-build-tools-modern
           path: tools/
           retention-days: 1
