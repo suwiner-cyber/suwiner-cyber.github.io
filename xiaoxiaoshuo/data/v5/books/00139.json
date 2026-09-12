@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-f1d818d484f73bbbd1ca",
+      "title": "第51章 夫人今夜可出过门？",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/houmen/452537.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 51,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:21+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f1d818d484f73bbbd1ca",
+        "ext-472839292413823475"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/houmen/452537.html"
+      ]
+    },
+    {
       "id": "ext-3640c707c08d20d7b594",
       "title": "第50章 回府！",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/xinpin/449929.html"
-      ]
-    },
-    {
-      "id": "ext-9bb204b1a68804c4bada",
-      "title": "第14章 道谢",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/xinpin/449928.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:18+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-9bb204b1a68804c4bada",
-        "ext-1630493916330979844"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/xinpin/449928.html"
       ]
     }
   ]

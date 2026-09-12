@@ -1,6 +1,37 @@
 {
   "books": [
     {
+      "id": "ext-6065cedfcb8fe0576259",
+      "title": "第172章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/datangpizhuji/481727.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 154,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:52+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/datangpizhuji/481727.html",
+        "https://www.kanunu8.com/book7/hxshn92/485287.html"
+      ],
+      "read_ids": [
+        "ext-6065cedfcb8fe0576259",
+        "ext-7459388956150620954",
+        "ext-19343284b1574677b493"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/datangpizhuji/481727.html",
+        "https://www.kanunu8.com/book7/hxshn92/485287.html"
+      ]
+    },
+    {
       "id": "ext-24e8fc350fdb79fc507a",
       "title": "鼓惑人心",
       "author": "",
@@ -5207,37 +5238,6 @@
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/462911.html",
         "https://www.kanunu8.com/book7/dby67/470006.html"
-      ]
-    },
-    {
-      "id": "ext-01c25267ba76a0c9e11b",
-      "title": "第六十二章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/462908.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462908.html",
-        "https://www.kanunu8.com/book7/dby67/470003.html"
-      ],
-      "read_ids": [
-        "ext-01c25267ba76a0c9e11b",
-        "ext-2565687893279071349",
-        "ext-ce8520116ddeeef22873"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462908.html",
-        "https://www.kanunu8.com/book7/dby67/470003.html"
       ]
     }
   ]

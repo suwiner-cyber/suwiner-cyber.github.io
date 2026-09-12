@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-2cc91db3324207a2b778",
+      "title": "第265章 牵线",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65303.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 265,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2cc91db3324207a2b778",
+        "ext-5678397176243882712"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65303.html"
+      ]
+    },
+    {
       "id": "ext-3cdde75676dd0da4b358",
       "title": "第264章 出头",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/gnbk26/204348.html"
-      ]
-    },
-    {
-      "id": "ext-81e61a66d7950db4ed5c",
-      "title": "第84章 就这样吧",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/gnbk26/204347.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 84,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:38+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-81e61a66d7950db4ed5c",
-        "ext-5609681030867770675"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/gnbk26/204347.html"
       ]
     }
   ]

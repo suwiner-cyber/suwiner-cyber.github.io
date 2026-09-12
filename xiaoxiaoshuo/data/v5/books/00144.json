@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-f1fcee16e61c56682f20",
+      "title": "第十六章 重逢",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450424.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f1fcee16e61c56682f20",
+        "ext-8463129808910984886"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450424.html"
+      ]
+    },
+    {
       "id": "ext-77da6dea5c11fe190053",
       "title": "第十六章 血砚台",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450431.html"
-      ]
-    },
-    {
-      "id": "ext-719a8a2d4b563fbb7fe2",
-      "title": "第二十七章 药渣",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450175.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-719a8a2d4b563fbb7fe2",
-        "ext-922068847388002157"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450175.html"
       ]
     }
   ]

@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-9195784c2c95b58533e9",
+      "title": "第90章 包饺子大赛",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/hxshn91/485080.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 90,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:54+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9195784c2c95b58533e9",
+        "ext-3875674697884137010"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/hxshn91/485080.html"
+      ]
+    },
+    {
       "id": "ext-443d070583716b8419f2",
       "title": "第8章 仙人开了天眼",
       "author": "",
@@ -5351,37 +5376,6 @@
       "read_sources": [
         "https://www.kanunu8.com/book7/datangpizhuji/481728.html",
         "https://www.kanunu8.com/book7/hxshn92/485288.html"
-      ]
-    },
-    {
-      "id": "ext-6065cedfcb8fe0576259",
-      "title": "第172章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/datangpizhuji/481727.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 154,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:52+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/datangpizhuji/481727.html",
-        "https://www.kanunu8.com/book7/hxshn92/485287.html"
-      ],
-      "read_ids": [
-        "ext-6065cedfcb8fe0576259",
-        "ext-7459388956150620954",
-        "ext-19343284b1574677b493"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/datangpizhuji/481727.html",
-        "https://www.kanunu8.com/book7/hxshn92/485287.html"
       ]
     }
   ]
