@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-8d797a904970eeba43c5",
+      "title": "第33章 倔驴的魅力",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204295.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 33,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8d797a904970eeba43c5",
+        "ext-9057787764256409826"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204295.html"
+      ]
+    },
+    {
+      "id": "ext-db418e1788541d45fcaf",
+      "title": "第32章 若无其事",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204294.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 32,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-db418e1788541d45fcaf",
+        "ext-8958633531778021844"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204294.html"
+      ]
+    },
+    {
       "id": "ext-6a554a76b5a8b10732ab",
       "title": "第31章 薄情的人",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/01-24-1300.html"
-      ]
-    },
-    {
-      "id": "ext-ed5a1c99af1f8f3f906d",
-      "title": "伊恩·麦克尤恩: 玩具娃娃",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-24-1303.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ed5a1c99af1f8f3f906d",
-        "ext-136910431032640764"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-24-1303.html"
-      ]
-    },
-    {
-      "id": "ext-739eb8b11cdf8ac4ebd2",
-      "title": "伊恩·麦克尤恩: 猫",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-24-1301.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-739eb8b11cdf8ac4ebd2",
-        "ext-2115880420054883733"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-24-1301.html"
       ]
     }
   ]
