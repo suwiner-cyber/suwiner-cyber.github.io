@@ -1,77 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-30456633262fe3ef645c",
-      "title": "第30章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171786.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171786.html",
-        "https://www.kanunu8.com/book7/lmm04/464079.html",
-        "https://www.kanunu8.com/book7/75chyriji/463302.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481585.html",
-        "https://www.kanunu8.com/book7/hxshn92/485143.html",
-        "https://www.kanunu8.com/book5/yiouchun/80312.html",
-        "https://www.kanunu8.com/book7/jinxiefang/449771.html"
-      ],
-      "read_ids": [
-        "ext-30456633262fe3ef645c",
-        "ext-1914995586832370135",
-        "ext-13b9b7356168cfd667c3",
-        "ext-1470690555f0d021b616",
-        "ext-dc5e51e33e22bf7db3db",
-        "ext-1c17476ccd7493674602",
-        "ext-844c504298c6a2581d95",
-        "ext-5159a799d46a8c6d4873"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171786.html",
-        "https://www.kanunu8.com/book7/lmm04/464079.html",
-        "https://www.kanunu8.com/book7/75chyriji/463302.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481585.html",
-        "https://www.kanunu8.com/book7/hxshn92/485143.html",
-        "https://www.kanunu8.com/book5/yiouchun/80312.html",
-        "https://www.kanunu8.com/book7/jinxiefang/449771.html"
-      ]
-    },
-    {
-      "id": "ext-d565b68898256fccc4f0",
-      "title": "第2章 落魄男人",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171758z.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 2,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d565b68898256fccc4f0",
-        "ext-6499263744728108167"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171758z.html"
-      ]
-    },
-    {
       "id": "ext-ceefa0f57c299069aac2",
       "title": "第29章",
       "author": "",
@@ -6198,6 +6127,56 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65122.html"
+      ]
+    },
+    {
+      "id": "ext-9d1e2f9ecbb330d283b4",
+      "title": "第83章 骚扰",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65121.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 83,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9d1e2f9ecbb330d283b4",
+        "ext-7260871480134141247"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65121.html"
+      ]
+    },
+    {
+      "id": "ext-cf43645e70cf482a35c6",
+      "title": "第82章 开战",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65120.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 82,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-cf43645e70cf482a35c6",
+        "ext-6967290368494540571"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65120.html"
       ]
     }
   ]
