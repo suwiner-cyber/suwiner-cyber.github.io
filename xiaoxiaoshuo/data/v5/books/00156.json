@@ -1,6 +1,55 @@
 {
   "books": [
     {
+      "id": "ext-618697b2d8213e2f683f",
+      "title": "第65章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171821.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171821.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/37997.html",
+        "https://www.kanunu8.com/book7/lmm04/464114.html",
+        "https://www.kanunu8.com/book7/75chyriji/463337.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481621.html",
+        "https://www.kanunu8.com/book7/hxshn92/485178.html",
+        "https://www.kanunu8.com/book5/yiouchun/80347.html",
+        "https://www.kanunu8.com/book7/jinxiefang/449808.html"
+      ],
+      "read_ids": [
+        "ext-618697b2d8213e2f683f",
+        "ext-754142083018131514",
+        "ext-3055a5cf55c59680f44d",
+        "ext-00e34c1cce448197f534",
+        "ext-75640b250a4d75a56c5c",
+        "ext-ada70f2e4af1fa31b2a8",
+        "ext-c2ac9e764f9dfbd387d0",
+        "ext-dc65de9a282cce9f5c9b",
+        "ext-6bcdd0e0badd0a189682"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171821.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/37997.html",
+        "https://www.kanunu8.com/book7/lmm04/464114.html",
+        "https://www.kanunu8.com/book7/75chyriji/463337.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481621.html",
+        "https://www.kanunu8.com/book7/hxshn92/485178.html",
+        "https://www.kanunu8.com/book5/yiouchun/80347.html",
+        "https://www.kanunu8.com/book7/jinxiefang/449808.html"
+      ]
+    },
+    {
       "id": "ext-7a64903ec8930bb2c7e5",
       "title": "第64章",
       "author": "",
@@ -6971,31 +7020,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/laojiumen/416865.html"
-      ]
-    },
-    {
-      "id": "ext-19606e960640fab7ed4b",
-      "title": "第九章 龙骨随葬",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/laojiumen/416816.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:41+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-19606e960640fab7ed4b",
-        "ext-95799943187059285"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/laojiumen/416816.html"
       ]
     }
   ]
