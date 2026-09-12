@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-2fe1db5e03fb94c838ce",
+      "title": "第3章 再遇",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/tianjieyese/451958.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:10+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2fe1db5e03fb94c838ce",
+        "ext-5238542155493178778"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/tianjieyese/451958.html"
+      ]
+    },
+    {
+      "id": "ext-f6377d8dc7d29cfb1ef6",
+      "title": "第39章 北京",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/tianjieyese/451994.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:10+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f6377d8dc7d29cfb1ef6",
+        "ext-5864496142030729276"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/tianjieyese/451994.html"
+      ]
+    },
+    {
       "id": "ext-757c608ebf549c8ff15c",
       "title": "第38章 北京",
       "author": "",
@@ -4957,56 +5007,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450294.html"
-      ]
-    },
-    {
-      "id": "ext-82e131cf1d571832120e",
-      "title": "第六十六章 道歉",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450296.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-82e131cf1d571832120e",
-        "ext-983699924852738245"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450296.html"
-      ]
-    },
-    {
-      "id": "ext-b1e34cf5ede803ab98a7",
-      "title": "第六十六章 救命稻草",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450398.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b1e34cf5ede803ab98a7",
-        "ext-5144734844816573628"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450398.html"
       ]
     }
   ]
