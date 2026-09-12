@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-ab3ca19fe7753301da01",
+      "title": "第2章 前梦",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/plk_zheyao/37934.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:43+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ab3ca19fe7753301da01",
+        "ext-8343729143768457960"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/plk_zheyao/37934.html"
+      ]
+    },
+    {
       "id": "ext-5efc84eba2f29396cc59",
       "title": "第29章 无题",
       "author": "",
@@ -7721,31 +7746,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zhuyu/171933.html"
-      ]
-    },
-    {
-      "id": "ext-cdc3c2f46ad082657a6a",
-      "title": "番外：妹妹",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171932.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-cdc3c2f46ad082657a6a",
-        "ext-1089626176224126599"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171932.html"
       ]
     }
   ]

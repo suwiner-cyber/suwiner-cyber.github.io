@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-c520ba615a88f87d7bf2",
+      "title": "第28章 乡试",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/xinpin/449942.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:18+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c520ba615a88f87d7bf2",
+        "ext-6616809386716817208"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/xinpin/449942.html"
+      ]
+    },
+    {
       "id": "ext-fe7c328ecc2067c8c2aa",
       "title": "第27章 赐婚",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/mangjia/450721.html"
-      ]
-    },
-    {
-      "id": "ext-274c66abfd17caa22fa3",
-      "title": "第28章 多多做梦",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/mangjia/450720.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 28,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:16+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-274c66abfd17caa22fa3",
-        "ext-3040545641666424030"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/mangjia/450720.html"
       ]
     }
   ]

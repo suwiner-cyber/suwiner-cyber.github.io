@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-6853442d058f41fff542",
+      "title": "番外-后续5",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/dby67/470128.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:55+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-6853442d058f41fff542",
+        "ext-3939566335350956511"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/dby67/470128.html"
+      ]
+    },
+    {
       "id": "ext-1a93c8fb4b77375c0ff6",
       "title": "番外-后续4",
       "author": "",
@@ -5261,37 +5286,6 @@
       "read_sources": [
         "https://www.kanunu8.com/book7/datangpizhuji/481743.html",
         "https://www.kanunu8.com/book7/hxshn92/485303.html"
-      ]
-    },
-    {
-      "id": "ext-e1667d597a0ed27c61e3",
-      "title": "第187章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/datangpizhuji/481742.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 154,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:52+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/datangpizhuji/481742.html",
-        "https://www.kanunu8.com/book7/hxshn92/485302.html"
-      ],
-      "read_ids": [
-        "ext-e1667d597a0ed27c61e3",
-        "ext-7217898018164293641",
-        "ext-915ca6a72c1b5bb40268"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/datangpizhuji/481742.html",
-        "https://www.kanunu8.com/book7/hxshn92/485302.html"
       ]
     }
   ]

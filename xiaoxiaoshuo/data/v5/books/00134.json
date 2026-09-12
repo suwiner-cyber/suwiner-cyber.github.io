@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-01344ec2add12860d98c",
+      "title": "第22章 愿意跟我出去吗？",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/dianqie/456654.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 22,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-01344ec2add12860d98c",
+        "ext-8188047699573623394"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/dianqie/456654.html"
+      ]
+    },
+    {
       "id": "ext-9fcc0ccd2f818d9e87a9",
       "title": "第21章 小孩子带伴儿",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/houmen/452552.html"
-      ]
-    },
-    {
-      "id": "ext-ada0d17cacbdac86ccb7",
-      "title": "第65章 他就这么好骗么",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/houmen/452551.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 65,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:21+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ada0d17cacbdac86ccb7",
-        "ext-7587270309677362853"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/houmen/452551.html"
       ]
     }
   ]

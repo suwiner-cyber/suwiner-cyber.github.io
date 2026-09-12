@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-49c6688d26521d261161",
+      "title": "第118章 Starlight Haven",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/xingguanghaian/457389.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 118,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:12+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-49c6688d26521d261161",
+        "ext-8318593910635586611"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/xingguanghaian/457389.html"
+      ]
+    },
+    {
       "id": "ext-735787930641bbff6b69",
       "title": "第117章 Starlight Haven",
       "author": "",
@@ -4982,31 +5007,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450449.html"
-      ]
-    },
-    {
-      "id": "ext-c25e83a81f8ae0786ca1",
-      "title": "第四十一章 烈焰",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450189.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c25e83a81f8ae0786ca1",
-        "ext-2026791259334096524"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450189.html"
       ]
     }
   ]

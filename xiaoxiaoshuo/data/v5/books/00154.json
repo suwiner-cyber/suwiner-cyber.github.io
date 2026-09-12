@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-cdc3c2f46ad082657a6a",
+      "title": "番外：妹妹",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171932.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-cdc3c2f46ad082657a6a",
+        "ext-1089626176224126599"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171932.html"
+      ]
+    },
+    {
       "id": "ext-94a63921dc6eb1ba0399",
       "title": "番外：公孙篇 3",
       "author": "",
@@ -5039,31 +5064,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65065.html"
-      ]
-    },
-    {
-      "id": "ext-a9fd5fa9da0617dc3ff9",
-      "title": "第279章 花露",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65317.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 279,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a9fd5fa9da0617dc3ff9",
-        "ext-1403857665201143084"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65317.html"
       ]
     }
   ]

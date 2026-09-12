@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-a431a83c7e0960e3008d",
+      "title": "50、实名举报信",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/xywwngbgan/472043.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:46+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a431a83c7e0960e3008d",
+        "ext-7003066244082217440"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/xywwngbgan/472043.html"
+      ]
+    },
+    {
       "id": "ext-d3bc863d7e91c9defcba",
       "title": "4、身体里钻进了一条毛茸茸的小狗",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/plk_zheyao/37962.html"
-      ]
-    },
-    {
-      "id": "ext-ab3ca19fe7753301da01",
-      "title": "第2章 前梦",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/plk_zheyao/37934.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:43+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ab3ca19fe7753301da01",
-        "ext-8343729143768457960"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/plk_zheyao/37934.html"
       ]
     }
   ]

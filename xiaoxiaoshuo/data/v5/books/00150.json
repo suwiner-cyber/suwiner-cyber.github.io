@@ -1,6 +1,43 @@
 {
   "books": [
     {
+      "id": "ext-562ce14019574f3df4fc",
+      "title": "第十四章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/462860.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462860.html",
+        "https://www.kanunu8.com/book7/dby67/469956.html",
+        "https://www.kanunu8.com/book5/2j15ri/113939.html",
+        "https://www.kanunu8.com/book5/ycxwuzuo/101294.html"
+      ],
+      "read_ids": [
+        "ext-562ce14019574f3df4fc",
+        "ext-5544468833803105258",
+        "ext-91cb0b6a4c14da147cff",
+        "ext-c941442f016438841d6f",
+        "ext-d4eb39c0952a02dbefcf"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462860.html",
+        "https://www.kanunu8.com/book7/dby67/469956.html",
+        "https://www.kanunu8.com/book5/2j15ri/113939.html",
+        "https://www.kanunu8.com/book5/ycxwuzuo/101294.html"
+      ]
+    },
+    {
       "id": "ext-bd492f32917b97f01727",
       "title": "第十六章",
       "author": "",
@@ -5981,37 +6018,6 @@
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/463022.html",
         "https://www.kanunu8.com/book7/dby67/470119.html"
-      ]
-    },
-    {
-      "id": "ext-6f1dfea028762f6cb305",
-      "title": "第一百七十八章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/463024.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/75chyriji/463024.html",
-        "https://www.kanunu8.com/book7/dby67/470121.html"
-      ],
-      "read_ids": [
-        "ext-6f1dfea028762f6cb305",
-        "ext-5667450325956059333",
-        "ext-35d661dc44641f9511ac"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/463024.html",
-        "https://www.kanunu8.com/book7/dby67/470121.html"
       ]
     }
   ]

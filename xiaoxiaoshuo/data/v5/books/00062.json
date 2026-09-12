@@ -1,6 +1,38 @@
 {
   "books": [
     {
+      "id": "ext-8e675265fd82dbe7fb99",
+      "title": "我的灵魂在古代(完本)",
+      "author": "半个灵魂 发布时间：2008-05-29 她一岁，他四岁——当她终于长出牙齿，迫",
+      "kind": "",
+      "status": "已完结",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/yuanchuang/200805/541.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 58,
+      "last_chapter": "第六十章",
+      "detail_complete": true,
+      "indexed_at": "2026-09-05T06:49:31+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8e675265fd82dbe7fb99",
+        "ext-3dd8de7bf5d592454e84",
+        "ext-5190236139775572403"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/yuanchuang/200805/541.html"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/yuanchuang/200805/541.html"
+      ]
+    },
+    {
       "id": "ext-74ddbc26caffa1f122fa",
       "title": "数据侠客行[txt全文]",
       "author": "七尺居士 发布时间：2008-06-02 天下风云出我辈，一入江湖岁月催；皇图霸",
@@ -6272,37 +6304,6 @@
       "read_ids": [
         "ext-b67dbadb746e594cd625",
         "ext-e71905202cc18852c837"
-      ]
-    },
-    {
-      "id": "ext-0c1f94b591911614c446",
-      "title": "侯府宠媳作者:玻璃猪",
-      "author": "玻璃猪全文在线阅读,侯府宠媳作者:玻璃猪TXT_爱看书 爱看书 www.aaak",
-      "kind": "",
-      "status": "已完结",
-      "intro": "日更选手，每天6千往上，入坑不亏为阅读体验不防盗，感谢宝子们支持正版。盗文吃泡面没调料包下本开：火葬场《囚宠（狗血）》求收藏~文案下拉本文文案威远侯府的混世魔王世子裴承赫终于要娶妻了，娶的是门不当户不..",
-      "cover": "https://img.aaaks.com/files/article/image/75/75966/75966s.jpg",
-      "source_url": "https://www.aaaks.com/book/2194935666/",
-      "source_host": "aaaks.com",
-      "source_name": "AAAKS小说",
-      "source_names": [
-        "AAAKS小说"
-      ],
-      "sources": [
-        "https://www.aaaks.com/book/2194935666/"
-      ],
-      "read_sources": [
-        "https://www.aaaks.com/book/2194935666/"
-      ],
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": true,
-      "indexed_at": "2026-09-05T06:36:58+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-0c1f94b591911614c446",
-        "ext-5a2760e9c1e4608e1527"
       ]
     }
   ]

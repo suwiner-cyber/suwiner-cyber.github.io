@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-c25e83a81f8ae0786ca1",
+      "title": "第四十一章 烈焰",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450189.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c25e83a81f8ae0786ca1",
+        "ext-2026791259334096524"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450189.html"
+      ]
+    },
+    {
       "id": "ext-c85421f4921a4ff7f196",
       "title": "第四十一章 家丑",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450074.html"
-      ]
-    },
-    {
-      "id": "ext-a4f34e624ebacd268dc7",
-      "title": "第二十二章 瞬息",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450111.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a4f34e624ebacd268dc7",
-        "ext-5377899118498166863"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450111.html"
       ]
     }
   ]

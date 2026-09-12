@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-ada0d17cacbdac86ccb7",
+      "title": "第65章 他就这么好骗么",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/houmen/452551.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 65,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:21+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ada0d17cacbdac86ccb7",
+        "ext-7587270309677362853"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/houmen/452551.html"
+      ]
+    },
+    {
       "id": "ext-1d02b51b50f791f98eac",
       "title": "第64章 李蔺仪",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/xinpin/449943.html"
-      ]
-    },
-    {
-      "id": "ext-c520ba615a88f87d7bf2",
-      "title": "第28章 乡试",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/xinpin/449942.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:18+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c520ba615a88f87d7bf2",
-        "ext-6616809386716817208"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/xinpin/449942.html"
       ]
     }
   ]
