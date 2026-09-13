@@ -1,6 +1,68 @@
 {
   "books": [
     {
+      "id": "ext-e579b8175af88ceca5fc",
+      "title": "第15章 他护犊子",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171771.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 15,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e579b8175af88ceca5fc",
+        "ext-2518493567819415209"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171771.html"
+      ]
+    },
+    {
+      "id": "ext-8ab4464242b39237be4e",
+      "title": "第159章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171915.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171915.html",
+        "https://www.kanunu8.com/book7/75chyriji/463431.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481714.html",
+        "https://www.kanunu8.com/book7/hxshn92/485273.html"
+      ],
+      "read_ids": [
+        "ext-8ab4464242b39237be4e",
+        "ext-9121026833509030095",
+        "ext-cdfc960cfdc910829c24",
+        "ext-d15f18d7cf86fea6597d",
+        "ext-a5844338d97d28741d87"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171915.html",
+        "https://www.kanunu8.com/book7/75chyriji/463431.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481714.html",
+        "https://www.kanunu8.com/book7/hxshn92/485273.html"
+      ]
+    },
+    {
       "id": "ext-c4e51b7c754ea89c33cd",
       "title": "第158章",
       "author": "",
@@ -5896,56 +5958,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65102.html"
-      ]
-    },
-    {
-      "id": "ext-64447c04731cecfca71d",
-      "title": "第63章 操持",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65101.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 63,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-64447c04731cecfca71d",
-        "ext-5432820922796581640"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65101.html"
-      ]
-    },
-    {
-      "id": "ext-7298be3890ae7aeb0d3c",
-      "title": "第62章 庄浪卫",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65100.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 62,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7298be3890ae7aeb0d3c",
-        "ext-468519135434779813"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65100.html"
       ]
     }
   ]
