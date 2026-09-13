@@ -1,6 +1,62 @@
 {
   "books": [
     {
+      "id": "ext-eaf2af99e0080e851559",
+      "title": "第235章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/hxshn92/485350.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 172,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:53+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-eaf2af99e0080e851559",
+        "ext-5744821891680077925"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/hxshn92/485350.html"
+      ]
+    },
+    {
+      "id": "ext-3b34e5edafbc40205715",
+      "title": "第61章 番外",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/datangpizhuji/481616.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 18,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:52+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/datangpizhuji/481616.html",
+        "https://www.kanunu8.com/book7/dby81/459469.html"
+      ],
+      "read_ids": [
+        "ext-3b34e5edafbc40205715",
+        "ext-2956354176120529637",
+        "ext-6272c3d3506e7c3445c3"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/datangpizhuji/481616.html",
+        "https://www.kanunu8.com/book7/dby81/459469.html"
+      ]
+    },
+    {
       "id": "ext-7d1631187aa5b873e4b3",
       "title": "第234章",
       "author": "",
@@ -5326,56 +5382,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/463119.html"
-      ]
-    },
-    {
-      "id": "ext-97f8a0fb267d1839137d",
-      "title": "结局二(41)",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/463118.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-97f8a0fb267d1839137d",
-        "ext-392336655695831086"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/463118.html"
-      ]
-    },
-    {
-      "id": "ext-024299171feb555a0081",
-      "title": "结局二(40)",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/463117.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-024299171feb555a0081",
-        "ext-8022627424971553142"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/463117.html"
       ]
     }
   ]
