@@ -1,6 +1,86 @@
 {
   "books": [
     {
+      "id": "ext-81fcfe8423c8878da20e",
+      "title": "第143章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171899.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171899.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/38075.html",
+        "https://www.kanunu8.com/book7/75chyriji/463415.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481701.html",
+        "https://www.kanunu8.com/book7/hxshn92/485257.html"
+      ],
+      "read_ids": [
+        "ext-81fcfe8423c8878da20e",
+        "ext-1023250392921074767",
+        "ext-bd55417f98846a4959b2",
+        "ext-e3a4b93e3d49d6e96619",
+        "ext-92daab19b64011390f88",
+        "ext-14b036d436cf1b63e130"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171899.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/38075.html",
+        "https://www.kanunu8.com/book7/75chyriji/463415.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481701.html",
+        "https://www.kanunu8.com/book7/hxshn92/485257.html"
+      ]
+    },
+    {
+      "id": "ext-c76508495cddd4c300ff",
+      "title": "第142章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171898.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171898.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/38074.html",
+        "https://www.kanunu8.com/book7/75chyriji/463414.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481700.html",
+        "https://www.kanunu8.com/book7/hxshn92/485256.html"
+      ],
+      "read_ids": [
+        "ext-c76508495cddd4c300ff",
+        "ext-8105807676915478588",
+        "ext-8f1541a96108ceae5500",
+        "ext-14badc1cdb0e3a15d571",
+        "ext-22989625651b09b83e5e",
+        "ext-4f339b69df0a9a225a98"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171898.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/38074.html",
+        "https://www.kanunu8.com/book7/75chyriji/463414.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481700.html",
+        "https://www.kanunu8.com/book7/hxshn92/485256.html"
+      ]
+    },
+    {
       "id": "ext-17f2accfcba040dbc2c3",
       "title": "第141章",
       "author": "",
@@ -5653,56 +5733,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65086.html"
-      ]
-    },
-    {
-      "id": "ext-4597fa435edf4e22aac9",
-      "title": "第47章 困惑",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65085.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 47,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-4597fa435edf4e22aac9",
-        "ext-4906511262733204648"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65085.html"
-      ]
-    },
-    {
-      "id": "ext-c02725821785e79a4b1f",
-      "title": "第46章 玉成",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65084.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 46,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c02725821785e79a4b1f",
-        "ext-5828999836536511948"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65084.html"
       ]
     }
   ]
