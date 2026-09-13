@@ -1,102 +1,6 @@
 {
-  "generated_at": "2026-09-13T18:32:25+00:00",
+  "generated_at": "2026-09-13T18:33:46+00:00",
   "errors": [
-    {
-      "time": "2026-09-08T12:58:44+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1948796/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-08T12:58:57+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1901034/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-08T12:59:11+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1886766/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-08T12:59:25+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1846096/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-08T12:59:39+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1809891/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-08T12:59:53+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1809892/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-08T13:00:06+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1756447/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-08T13:03:11+00:00",
-      "source": "塔读文学",
-      "url": "https://www.tadu.com/space/author/504189",
-      "error": "HTTP Error 404: "
-    },
-    {
-      "time": "2026-09-08T13:03:12+00:00",
-      "source": "塔读文学",
-      "url": "https://www.tadu.com/space/author/515893",
-      "error": "HTTP Error 404: "
-    },
-    {
-      "time": "2026-09-08T18:33:22+00:00",
-      "source": "飘天文学",
-      "url": "https://www.piaotia.com/userinfo.php?id=395754",
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "time": "2026-09-08T18:36:03+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/青铜穗.html",
-      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-08T18:36:12+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/夏声声.html",
-      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-08T18:36:25+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/寂寞的清泉.html",
-      "error": "'ascii' codec can't encode characters in position 12-16: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-08T18:36:26+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/非10.html",
-      "error": "'ascii' codec can't encode character '\\u975e' in position 12: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-08T18:36:27+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/席祯.html",
-      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-08T18:36:28+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/马里奥吃鸡胸肉.html",
-      "error": "'ascii' codec can't encode characters in position 12-18: ordinal not in range(128)"
-    },
     {
       "time": "2026-09-08T18:36:39+00:00",
       "source": "乐文小说",
@@ -15000,6 +14904,102 @@
       "source": "AAAKS小说",
       "url": "https://www.aaaks.com/book/1715245/",
       "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-13T18:32:52+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/田隶.html",
+      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-13T18:32:53+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/白龙非龙.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-13T18:32:54+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/孙浩.html",
+      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-13T18:33:03+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/寻找失落的爱情.html",
+      "error": "'ascii' codec can't encode characters in position 12-18: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-13T18:33:05+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/煮不熟的生菜.html",
+      "error": "'ascii' codec can't encode characters in position 12-17: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-13T18:33:06+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/花萌轩.html",
+      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-13T18:33:07+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/沈湖.html",
+      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-13T18:33:08+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/青青孖妗.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-13T18:33:12+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/姚颖怡.html",
+      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-13T18:33:13+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/弹剑听禅.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-13T18:33:14+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/星梦辰缘.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-13T18:33:16+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/今晚的风儿甚是喧嚣.html",
+      "error": "'ascii' codec can't encode characters in position 12-20: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-13T18:33:18+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/换花.html",
+      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-13T18:33:20+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/李神龙.html",
+      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-13T18:33:35+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/大肉丸.html",
+      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-13T18:33:38+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/山峰.html",
+      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
     }
   ]
 }
