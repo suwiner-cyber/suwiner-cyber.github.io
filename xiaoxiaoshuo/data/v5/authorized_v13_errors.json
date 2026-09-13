@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-09-13T00:36:21+00:00",
+  "generated_at": "2026-09-13T00:37:56+00:00",
   "errors": [
-    {
-      "time": "2026-09-07T12:55:03+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/304213803/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-07T12:55:17+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/304213804/",
-      "error": "Remote end closed connection without response"
-    },
     {
       "time": "2026-09-07T12:55:30+00:00",
       "source": "AAAKS小说",
@@ -15000,6 +14988,18 @@
       "source": "AAAKS小说",
       "url": "https://www.aaaks.com/book/1938867/",
       "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-13T00:37:13+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=423999",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-13T00:37:23+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/newmessage.php?tosys=1&title=官居一品更新不及时！",
+      "error": "'ascii' codec can't encode characters in position 34-43: ordinal not in range(128)"
     }
   ]
 }
