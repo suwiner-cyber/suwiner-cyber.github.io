@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-840a93b715924178be91",
+      "title": "第14章 被照顾的夜晚",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204276.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 14,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-840a93b715924178be91",
+        "ext-1012678839561922216"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204276.html"
+      ]
+    },
+    {
+      "id": "ext-e3a86c5ba2416fce578c",
+      "title": "第13章 心被挠了一下",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204275.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 13,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e3a86c5ba2416fce578c",
+        "ext-4165054283753818491"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204275.html"
+      ]
+    },
+    {
       "id": "ext-50a5ab2c62986a0a37f2",
       "title": "第134章 早春晴朗",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/01-16-1178.html"
-      ]
-    },
-    {
-      "id": "ext-3b64648d5a30c57259e8",
-      "title": "乐小米(纪伟娜): 茱罗记",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1176.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-3b64648d5a30c57259e8",
-        "ext-8445850598706645471"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-16-1176.html"
-      ]
-    },
-    {
-      "id": "ext-a66a2f093ef5cf63c17c",
-      "title": "乐小米(纪伟娜): 若我离去，后会无期",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1164.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a66a2f093ef5cf63c17c",
-        "ext-5071043925983718930"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-16-1164.html"
       ]
     }
   ]
