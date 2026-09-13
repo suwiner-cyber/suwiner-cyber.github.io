@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-9fc481d5258d7fe46500",
+      "title": "第30章 寻常",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/tianjieyese/451985.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:10+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9fc481d5258d7fe46500",
+        "ext-1867507259545650312"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/tianjieyese/451985.html"
+      ]
+    },
+    {
+      "id": "ext-dfcb0b487fa4372ef864",
+      "title": "第2章 初遇",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/tianjieyese/451957.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:10+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-dfcb0b487fa4372ef864",
+        "ext-7081635312411900416"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/tianjieyese/451957.html"
+      ]
+    },
+    {
       "id": "ext-da62758c56863680ed30",
       "title": "第29章 他们",
       "author": "",
@@ -4957,56 +5007,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450210.html"
-      ]
-    },
-    {
-      "id": "ext-1c20319f05e7f2862efc",
-      "title": "第六十二章 回城",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450292.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1c20319f05e7f2862efc",
-        "ext-5612019526134939441"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450292.html"
-      ]
-    },
-    {
-      "id": "ext-8de44d005f29dcc06d69",
-      "title": "第六十二章 一箭双雕",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450394.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-8de44d005f29dcc06d69",
-        "ext-4936173227030829551"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450394.html"
       ]
     }
   ]

@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-053b8a85aa33ca18e1e7",
+      "title": "第1章 落雨之城",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204263.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-053b8a85aa33ca18e1e7",
+        "ext-9868637967508354"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204263.html"
+      ]
+    },
+    {
+      "id": "ext-dc763a60321e57d64524",
+      "title": "第19章 给我滚回家",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204281.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 19,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-dc763a60321e57d64524",
+        "ext-2994476614895203753"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204281.html"
+      ]
+    },
+    {
       "id": "ext-ac6195131df15996c5f8",
       "title": "第18章 我的学生我自己教",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/01-16-1147.html"
-      ]
-    },
-    {
-      "id": "ext-b53181e281e3d6ef289d",
-      "title": "乐小米(纪伟娜): 走失在春暖花开处",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1146.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b53181e281e3d6ef289d",
-        "ext-805551025965507861"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-16-1146.html"
-      ]
-    },
-    {
-      "id": "ext-645f9e316e1c836193f9",
-      "title": "乐小米(纪伟娜): 谁若常欢喜，我也舒展颜",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1182.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-645f9e316e1c836193f9",
-        "ext-7478749613775208464"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-16-1182.html"
       ]
     }
   ]

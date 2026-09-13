@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-09-13T06:36:01+00:00",
+  "generated_at": "2026-09-13T06:37:36+00:00",
   "errors": [
-    {
-      "time": "2026-09-08T00:53:24+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/734569029/",
-      "error": "Remote end closed connection without response"
-    },
     {
       "time": "2026-09-08T00:53:38+00:00",
       "source": "AAAKS小说",
@@ -15000,6 +14994,12 @@
       "source": "AAAKS小说",
       "url": "https://www.aaaks.com/book/955284953/",
       "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-13T06:37:22+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=12753",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }

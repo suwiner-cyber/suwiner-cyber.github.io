@@ -1,6 +1,62 @@
 {
   "books": [
     {
+      "id": "ext-a4fb922245fcfc3af188",
+      "title": "引子",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/laojiumen/416807.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:41+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/laojiumen/416807.html",
+        "https://www.kanunu8.com/book7/dbsbfding/436672.html"
+      ],
+      "read_ids": [
+        "ext-a4fb922245fcfc3af188",
+        "ext-4230205869113214535",
+        "ext-6c2b3a82cf01d2d370a5"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/laojiumen/416807.html",
+        "https://www.kanunu8.com/book7/dbsbfding/436672.html"
+      ]
+    },
+    {
+      "id": "ext-edb744f74ded9e257087",
+      "title": "南派三叔作品集",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/writer/852.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:41+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-edb744f74ded9e257087",
+        "ext-4173208318732347410"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/writer/852.html"
+      ]
+    },
+    {
       "id": "ext-d5012d7aa75855f0d34b",
       "title": "九门回忆·吴家碎碎念",
       "author": "",
@@ -4948,56 +5004,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65239.html"
-      ]
-    },
-    {
-      "id": "ext-3a1469107fe8291d32e2",
-      "title": "第200章 问诊",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65238.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 200,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-3a1469107fe8291d32e2",
-        "ext-1744606903702124211"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65238.html"
-      ]
-    },
-    {
-      "id": "ext-d38ac4f2b128743a9d19",
-      "title": "第1章 碧云庵",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65039.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d38ac4f2b128743a9d19",
-        "ext-3412933548624639399"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65039.html"
       ]
     }
   ]

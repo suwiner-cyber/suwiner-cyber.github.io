@@ -1,6 +1,80 @@
 {
   "books": [
     {
+      "id": "ext-c73aa1acc13613817120",
+      "title": "第4章 梦见了她",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171760z.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 4,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c73aa1acc13613817120",
+        "ext-559311592261103109"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171760z.html"
+      ]
+    },
+    {
+      "id": "ext-b0fe89de34504729ed72",
+      "title": "第49章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171805.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171805.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/37981.html",
+        "https://www.kanunu8.com/book7/lmm04/464098.html",
+        "https://www.kanunu8.com/book7/75chyriji/463321.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481604.html",
+        "https://www.kanunu8.com/book7/hxshn92/485162.html",
+        "https://www.kanunu8.com/book5/yiouchun/80331.html",
+        "https://www.kanunu8.com/book7/jinxiefang/449790.html"
+      ],
+      "read_ids": [
+        "ext-b0fe89de34504729ed72",
+        "ext-6241820685465010611",
+        "ext-8d1120adb82500389585",
+        "ext-ee84f6d6f7b2b352510f",
+        "ext-63f2d3264810ef53bf0f",
+        "ext-b8306c26dddc16bad6cf",
+        "ext-6dc68e0418e8fed3999e",
+        "ext-5efae7cf84f1aecbb133",
+        "ext-1c2474fe97ed1ee9e0a2"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171805.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/37981.html",
+        "https://www.kanunu8.com/book7/lmm04/464098.html",
+        "https://www.kanunu8.com/book7/75chyriji/463321.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481604.html",
+        "https://www.kanunu8.com/book7/hxshn92/485162.html",
+        "https://www.kanunu8.com/book5/yiouchun/80331.html",
+        "https://www.kanunu8.com/book7/jinxiefang/449790.html"
+      ]
+    },
+    {
       "id": "ext-72a4489fc874e12074ea",
       "title": "第48章",
       "author": "",
@@ -6559,62 +6633,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/laojiumen/416845.html"
-      ]
-    },
-    {
-      "id": "ext-a4fb922245fcfc3af188",
-      "title": "引子",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/laojiumen/416807.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:41+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/laojiumen/416807.html",
-        "https://www.kanunu8.com/book7/dbsbfding/436672.html"
-      ],
-      "read_ids": [
-        "ext-a4fb922245fcfc3af188",
-        "ext-4230205869113214535",
-        "ext-6c2b3a82cf01d2d370a5"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/laojiumen/416807.html",
-        "https://www.kanunu8.com/book7/dbsbfding/436672.html"
-      ]
-    },
-    {
-      "id": "ext-edb744f74ded9e257087",
-      "title": "南派三叔作品集",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/files/writer/852.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:41+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-edb744f74ded9e257087",
-        "ext-4173208318732347410"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/writer/852.html"
       ]
     }
   ]
