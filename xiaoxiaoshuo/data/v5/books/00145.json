@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-7f9aa6af3d641c02cb1d",
+      "title": "万历明君",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.1qxs.com/img/default.png",
+      "source_url": "https://www.1qxs.com/xs_1/84131.html",
+      "source_host": "www.1qxs.com",
+      "source_name": "一七小说",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T15:02:13+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-7f9aa6af3d641c02cb1d",
+        "ext-6958340388002611437"
+      ],
+      "read_sources": [
+        "https://www.1qxs.com/xs_1/84131.html"
+      ]
+    },
+    {
+      "id": "ext-cce07fbb306f4b0b8e4c",
+      "title": "蒸汽侠客行",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.1qxs.com/xs_1/93798.html",
+      "source_host": "www.1qxs.com",
+      "source_name": "一七小说",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T15:02:11+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-cce07fbb306f4b0b8e4c",
+        "ext-7561625413714973686"
+      ],
+      "read_sources": [
+        "https://www.1qxs.com/xs_1/93798.html"
+      ]
+    },
+    {
       "id": "ext-fdb494904358d59826fe",
       "title": "你一美警，老想着回东方干啥玩意",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/dianqie/456683.html"
-      ]
-    },
-    {
-      "id": "ext-cb2be49f1e4f53f6f8d4",
-      "title": "第50章 我有一辈子的时间证明给你看",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dianqie/456682.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 50,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:25+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-cb2be49f1e4f53f6f8d4",
-        "ext-39171443885900514"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dianqie/456682.html"
-      ]
-    },
-    {
-      "id": "ext-e042e347ed13ec7e10ae",
-      "title": "第49章 只要你说，只要我有",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dianqie/456681.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 49,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:25+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e042e347ed13ec7e10ae",
-        "ext-4984829531881140415"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dianqie/456681.html"
       ]
     }
   ]
