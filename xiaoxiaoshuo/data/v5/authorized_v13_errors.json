@@ -1,24 +1,6 @@
 {
-  "generated_at": "2026-09-14T06:36:32+00:00",
+  "generated_at": "2026-09-14T06:38:08+00:00",
   "errors": [
-    {
-      "time": "2026-09-09T01:09:38+00:00",
-      "source": "努努书坊",
-      "url": "https://www.kanunu8.com/files/terrorist/201102/1397.html",
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "time": "2026-09-09T01:10:13+00:00",
-      "source": "努努书坊",
-      "url": "https://www.kanunu8.com/book4/10598/",
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "time": "2026-09-09T01:10:14+00:00",
-      "source": "努努书坊",
-      "url": "https://www.kanunu8.com/book4/10599/",
-      "error": "HTTP Error 404: Not Found"
-    },
     {
       "time": "2026-09-09T01:10:14+00:00",
       "source": "努努书坊",
@@ -15000,6 +14982,24 @@
       "source": "AAAKS小说",
       "url": "https://www.aaaks.com/book/1455465496/",
       "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-14T06:36:57+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=385088",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-14T06:37:03+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=447230",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-14T06:37:54+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/newmessage.php?tosys=1&title=莽荒纪更新不及时！",
+      "error": "'ascii' codec can't encode characters in position 34-42: ordinal not in range(128)"
     }
   ]
 }
