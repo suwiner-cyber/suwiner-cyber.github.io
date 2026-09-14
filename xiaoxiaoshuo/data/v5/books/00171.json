@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-15f57da05b3b178d694f",
+      "title": "第12章 探听",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65050.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 12,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-15f57da05b3b178d694f",
+        "ext-8777282822584745346"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65050.html"
+      ]
+    },
+    {
+      "id": "ext-07abc5a960e2b1544850",
+      "title": "第129章 大比之年",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65167.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 129,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-07abc5a960e2b1544850",
+        "ext-7653932977863147754"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65167.html"
+      ]
+    },
+    {
       "id": "ext-a4e252318dd73086bf38",
       "title": "第128章 遗憾",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/01-03-1001.html"
-      ]
-    },
-    {
-      "id": "ext-8f18cc145918aae53d8e",
-      "title": "韩寒: 寒：十八禁",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-03-984.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-8f18cc145918aae53d8e",
-        "ext-9171640205952847377"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-03-984.html"
-      ]
-    },
-    {
-      "id": "ext-40e9d07559863c544ff8",
-      "title": "韩寒: 北京时间",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2012/04-03-7374.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-40e9d07559863c544ff8",
-        "ext-7275283250782497956"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2012/04-03-7374.html"
       ]
     }
   ]

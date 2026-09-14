@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-8f18cc145918aae53d8e",
+      "title": "韩寒: 寒：十八禁",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-03-984.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8f18cc145918aae53d8e",
+        "ext-9171640205952847377"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-03-984.html"
+      ]
+    },
+    {
+      "id": "ext-40e9d07559863c544ff8",
+      "title": "韩寒: 北京时间",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2012/04-03-7374.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-40e9d07559863c544ff8",
+        "ext-7275283250782497956"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2012/04-03-7374.html"
+      ]
+    },
+    {
       "id": "ext-1eaf2d6f6600b775f3c7",
       "title": "韩寒: 傻子",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/old/2011/2493.html"
-      ]
-    },
-    {
-      "id": "ext-31b34f2232c500a175cf",
-      "title": "陈一夫: 热钱风暴",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/dushi/201103/1894.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-31b34f2232c500a175cf",
-        "ext-3022427079033357578"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/dushi/201103/1894.html"
-      ]
-    },
-    {
-      "id": "ext-fe05770c53b3ca7b2346",
-      "title": "闫绍荣: 太阳底下最伟大的傻瓜",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/dushi/201106/2838.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-fe05770c53b3ca7b2346",
-        "ext-7358389023281041762"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/dushi/201106/2838.html"
       ]
     }
   ]
