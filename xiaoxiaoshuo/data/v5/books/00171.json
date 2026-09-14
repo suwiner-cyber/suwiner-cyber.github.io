@@ -1,56 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-c8d2a0854e4a14bbd6f7",
-      "title": "明晓溪: 玉壶儿江湖散记",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-11-1101.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c8d2a0854e4a14bbd6f7",
-        "ext-1480960815688898429"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-11-1101.html"
-      ]
-    },
-    {
-      "id": "ext-35e9da588e7ad15ec679",
-      "title": "明晓溪: 小鱼的向日葵",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2009/09-02-835.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-35e9da588e7ad15ec679",
-        "ext-7946578207132225000"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2009/09-02-835.html"
-      ]
-    },
-    {
       "id": "ext-0d4460c694443f22c93d",
       "title": "明晓溪: 小兔的女神手记",
       "author": "",
@@ -5040,6 +4990,56 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/841669"
+      ]
+    },
+    {
+      "id": "ext-d989b85989907350a89e",
+      "title": "碎星 千思",
+      "author": "浮兮",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//f/8/6/8/f868dbe4ad931ab3d071b57e84dad04c_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/425110",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:50+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d989b85989907350a89e",
+        "ext-5149227944858063792"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/425110"
+      ]
+    },
+    {
+      "id": "ext-125f62884440cac3caa7",
+      "title": "末世：我能升级避难所 八零后家庭煮妇",
+      "author": "浮兮",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//f/8/6/8/f868dbe4ad931ab3d071b57e84dad04c_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/771532",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:50+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-125f62884440cac3caa7",
+        "ext-193571883761495356"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/771532"
       ]
     }
   ]
