@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-d92b108ea1c460bc5321",
+      "title": "第215章 不虞",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65253.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 215,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d92b108ea1c460bc5321",
+        "ext-6862163385062928148"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65253.html"
+      ]
+    },
+    {
       "id": "ext-9c5d5e455ab5736dec78",
       "title": "第214章 说项",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/gnbk26/204297.html"
-      ]
-    },
-    {
-      "id": "ext-1373d06653242002423d",
-      "title": "第34章 我老板特别行",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/gnbk26/204296.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 34,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:38+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1373d06653242002423d",
-        "ext-4484887743765749217"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/gnbk26/204296.html"
       ]
     }
   ]

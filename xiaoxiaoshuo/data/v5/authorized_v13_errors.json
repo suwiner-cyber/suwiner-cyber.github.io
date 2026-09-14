@@ -1,24 +1,6 @@
 {
-  "generated_at": "2026-09-14T18:32:17+00:00",
+  "generated_at": "2026-09-14T18:33:50+00:00",
   "errors": [
-    {
-      "time": "2026-09-09T12:57:01+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1972272/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-09T12:57:15+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1971511/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-09T12:57:29+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1971076/",
-      "error": "Remote end closed connection without response"
-    },
     {
       "time": "2026-09-09T12:57:43+00:00",
       "source": "AAAKS小说",
@@ -15000,6 +14982,24 @@
       "source": "塔读文学",
       "url": "https://www.tadu.com/space/author/416828",
       "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-14T18:32:54+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=429667",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-14T18:32:56+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=430109",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-14T18:32:59+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/newmessage.php?tosys=1&title=移动藏经阁更新不及时！",
+      "error": "'ascii' codec can't encode characters in position 34-44: ordinal not in range(128)"
     }
   ]
 }

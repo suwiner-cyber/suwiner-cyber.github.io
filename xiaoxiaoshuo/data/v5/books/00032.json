@@ -1,6 +1,37 @@
 {
   "books": [
     {
+      "id": "ext-2b2ea36808098f33176d",
+      "title": "无赖天子",
+      "author": "龙人 发布时间：2012-02-08 龙人作品集 内容简介： 长安城。万人空巷，",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book3/6678/index.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/book3/6678/index.html"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6678/index.html"
+      ],
+      "media": "text",
+      "chapter_count": 159,
+      "last_chapter": "后记",
+      "detail_complete": true,
+      "indexed_at": "2026-09-10T13:09:37+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2b2ea36808098f33176d",
+        "ext-0e1f703fbace26c71513"
+      ]
+    },
+    {
       "id": "ext-2b8debcd5f80ae5df1bb",
       "title": "圣魔天子",
       "author": "龙人 发布时间：2012-02-08 龙人作品集 内容简介： 黑暗中，他点燃了一",
@@ -6181,37 +6212,6 @@
       "read_ids": [
         "ext-5dfbfff4086985d8364f",
         "ext-048b4f74ce2699afa6d2"
-      ]
-    },
-    {
-      "id": "ext-652529f3e9988015ca5d",
-      "title": "亮剑之老子是孔捷",
-      "author": "白担心",
-      "kind": "军事小说 字数：473.23万字 重生孔捷，日常怼怼李云龙，怼着怼着就名震晋西北",
-      "status": "",
-      "intro": "重生孔捷，日常怼怼李云龙，怼着怼着就名震晋西北了！ 属于晋西北铁三角之首孔捷的传奇，一展别样的亮剑精彩……",
-      "cover": "",
-      "source_url": "https://www.hetushu.com/book/8163/index.html",
-      "source_host": "hetushu.com",
-      "source_name": "和图书",
-      "source_names": [
-        "和图书"
-      ],
-      "sources": [
-        "https://www.hetushu.com/book/8163/index.html"
-      ],
-      "read_sources": [
-        "https://www.hetushu.com/book/8163/index.html"
-      ],
-      "media": "text",
-      "chapter_count": 1280,
-      "last_chapter": "第一千二百八十章 大结局（完）",
-      "detail_complete": true,
-      "indexed_at": "2026-09-10T12:37:29+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-652529f3e9988015ca5d",
-        "ext-1d8842691d3d7519b97a"
       ]
     }
   ]

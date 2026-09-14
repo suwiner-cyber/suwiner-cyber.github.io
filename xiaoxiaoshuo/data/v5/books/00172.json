@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-af3baca232af72865775",
+      "title": "第九章 斗鸡",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/laojiumen/416853.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:41+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-af3baca232af72865775",
+        "ext-5577268093876710765"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/laojiumen/416853.html"
+      ]
+    },
+    {
       "id": "ext-273794f2daf1c15072bb",
       "title": "第三章 甲東四墓",
       "author": "",
@@ -4979,31 +5004,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65254.html"
-      ]
-    },
-    {
-      "id": "ext-d92b108ea1c460bc5321",
-      "title": "第215章 不虞",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65253.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 215,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d92b108ea1c460bc5321",
-        "ext-6862163385062928148"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65253.html"
       ]
     }
   ]

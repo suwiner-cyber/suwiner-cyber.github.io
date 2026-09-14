@@ -1,6 +1,38 @@
 {
   "books": [
     {
+      "id": "ext-0810d73d962bf00e8ceb",
+      "title": "莎乐美",
+      "author": "奥斯卡·王尔德 发布时间：2013-03-19 奥斯卡·王尔德作品集 内容简介：",
+      "kind": "",
+      "status": "",
+      "intro": "《圣经》里枯燥而简单的故事，被王尔德的妙手挖掘出了最黑暗也最深刻的内涵。欲望的纠缠，畸恋的爆发，诡异的氛围，都被他在这短短的篇幅里发展到极致。而同时代的早夭天才画家比亚兹莱，亦称得上王尔德恶魔般作品最佳的诠释者。此次推出的《莎乐美》，算是不折不扣的合璧本。除王尔德的法文剧本外，本书还收入了王尔德的同性恋友人、亦是他因之遭祸的道格拉斯所译英文本，田汉先生于二十世纪初翻译的中文本，以及比亚兹莱为本书绘制的全部插图。封面采自目前最受欢迎的英文本设计，意在向这部黑色的宏大杰作致敬。",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10142/index.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 16,
+      "last_chapter": "第十四节",
+      "detail_complete": true,
+      "indexed_at": "2026-09-01T00:53:17+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-0810d73d962bf00e8ceb",
+        "ext-4c25d4344a9101509158",
+        "ext-4921173841143699281"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10142/index.html"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/book4/10142/index.html"
+      ]
+    },
+    {
       "id": "ext-b698990c25f55fed32dc",
       "title": "石榴之屋",
       "author": "奥斯卡·王尔德 发布时间：2013-03-19 奥斯卡·王尔德作品集 内容简介：",
@@ -6203,37 +6235,6 @@
       "read_ids": [
         "ext-b1c74a4439ea4232c895",
         "ext-a5f158cd56bf611de87d"
-      ]
-    },
-    {
-      "id": "ext-6ba533db9972b6b86a47",
-      "title": "斗破：萧玉她不想走剧本 作者: A7129热水壶",
-      "author": "A7129热水壶 关于斗破：萧玉她不想走剧本： 自嗨小说，懒得写简介。2-9章有",
-      "kind": "首页 > 其他类型 > 斗破：萧玉她不想走剧本 斗破：萧玉她不想走剧本 作者:",
-      "status": "连载中",
-      "intro": "关于斗破：萧玉她不想走剧本： 自嗨小说，懒得写简介。2-9章有毒点，可以跳过！大概就是变成萧玉在斗破中发生的故事。",
-      "cover": "",
-      "source_url": "https://www.ilwxs.com/info-76542.html",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/info-76542.html"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/info-76542.html"
-      ],
-      "media": "text",
-      "chapter_count": 10,
-      "last_chapter": "第二百四十三章 趁他病要他命",
-      "detail_complete": true,
-      "indexed_at": "2026-09-01T00:41:21+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-6ba533db9972b6b86a47",
-        "ext-1c62a18bdf287f499190"
       ]
     }
   ]
