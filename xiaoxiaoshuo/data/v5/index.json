@@ -1,7 +1,7 @@
 {
   "version": 14,
-  "generated_at": "2026-09-14T00:41:28+00:00",
-  "total": 36502,
+  "generated_at": "2026-09-14T00:43:01+00:00",
+  "total": 36543,
   "shard_size": 200,
   "shards": [
     {
@@ -734,10 +734,11 @@
     },
     {
       "file": "books/00183.json",
-      "count": 102
+      "count": 143
     }
   ],
   "source_counts": {
+    "泡书吧小说网": 3458,
     "乐文小说": 3542,
     "和图书": 2380,
     "飘天文学": 1101,
@@ -747,7 +748,6 @@
     "努努书坊": 8379,
     "塔读文学": 406,
     "爱下电子书": 4575,
-    "泡书吧小说网": 3417,
     "AAAKS小说": 2008
   },
   "source_status": [
@@ -883,14 +883,14 @@
       "name": "泡书吧小说网",
       "host": "ipaoshubaxs.net",
       "pages_this_run": 80,
-      "successful_pages": 68,
-      "failed_pages": 12,
-      "books_found": 53,
-      "books_added": 53,
-      "toc_written": 53,
-      "books_seen_total": 3882,
-      "remaining_queue": 17919,
-      "seen_pages": 4880,
+      "successful_pages": 66,
+      "failed_pages": 14,
+      "books_found": 47,
+      "books_added": 47,
+      "toc_written": 47,
+      "books_seen_total": 3929,
+      "remaining_queue": 18120,
+      "seen_pages": 4960,
       "done": false,
       "blocked": false,
       "needs_adapter": false
@@ -961,7 +961,7 @@
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "ilwxs.com",
+  "last_published_source": "ipaoshubaxs.net",
   "id_scheme": "stable-v4-aliases",
   "metadata_sanitized": true,
   "text_only": true
