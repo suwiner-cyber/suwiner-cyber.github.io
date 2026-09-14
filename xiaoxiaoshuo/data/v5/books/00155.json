@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-cf11f3cafa68007cfaca",
+      "title": "第九十二章 痕迹",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450322.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-cf11f3cafa68007cfaca",
+        "ext-8101238691868366240"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450322.html"
+      ]
+    },
+    {
       "id": "ext-b9839a887d3d1da13845",
       "title": "第九十九章 大梦",
       "author": "",
@@ -5006,31 +5031,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/ttcbuzhu/48176.html"
-      ]
-    },
-    {
-      "id": "ext-cee42729a82fcb0bff18",
-      "title": "第45章 藏不住",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/ttcbuzhu/48175.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 45,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:06+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-cee42729a82fcb0bff18",
-        "ext-5201717087566959799"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/ttcbuzhu/48175.html"
       ]
     }
   ]

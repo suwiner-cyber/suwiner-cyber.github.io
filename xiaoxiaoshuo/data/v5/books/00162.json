@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-8778667a963f9b095800",
+      "title": "第6章 这是饼干，可以吃的",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/hxshn91/484996.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 6,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:54+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8778667a963f9b095800",
+        "ext-5549812589254421751"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/hxshn91/484996.html"
+      ]
+    },
+    {
       "id": "ext-169a92583aec976f95df",
       "title": "第69章 超市与电影（2）",
       "author": "",
@@ -5357,31 +5382,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qianyaobaimei/481885.html"
-      ]
-    },
-    {
-      "id": "ext-883ba9e561a54ad777cc",
-      "title": "蚩尤殿",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481826.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:50+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-883ba9e561a54ad777cc",
-        "ext-28022135176475331"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qianyaobaimei/481826.html"
       ]
     }
   ]

@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-1327ac846101ed049f8f",
+      "title": "第149章 番外一",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/dby81/459557.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 149,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:57+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1327ac846101ed049f8f",
+        "ext-7681124890168352780"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/dby81/459557.html"
+      ]
+    },
+    {
       "id": "ext-bb63b7b56b639b075d81",
       "title": "第148章 民国旧影（完）",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/dby79/458424.html"
-      ]
-    },
-    {
-      "id": "ext-efbd14b9d8b96f3703f2",
-      "title": "第242章 误佛",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dby79/458423.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 242,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:56+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-efbd14b9d8b96f3703f2",
-        "ext-3739849729061062030"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dby79/458423.html"
       ]
     }
   ]

@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-9b84aa817ae66f2d30c7",
+      "title": "第112章 尝试",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/xinpin/450026.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 112,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:18+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9b84aa817ae66f2d30c7",
+        "ext-7052330424490183125"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/xinpin/450026.html"
+      ]
+    },
+    {
       "id": "ext-c62d940e105d2e3a8527",
       "title": "第111章 水晶",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/jianchuqiao/445595.html"
-      ]
-    },
-    {
-      "id": "ext-a0d8a51b8a5194790a9f",
-      "title": "第85章 小松门(中)",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/jianchuqiao/445594.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 85,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:15+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a0d8a51b8a5194790a9f",
-        "ext-3148191408268162134"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/jianchuqiao/445594.html"
       ]
     }
   ]
