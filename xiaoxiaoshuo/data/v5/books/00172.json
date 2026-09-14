@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-f081817d9b0ea30f8d33",
-      "title": "第100章 远行",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/gnbk26/204364.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 100,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:38+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f081817d9b0ea30f8d33",
-        "ext-1943229563488203273"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/gnbk26/204364.html"
-      ]
-    },
-    {
       "id": "ext-c7bcd2477e11c04b81d0",
       "title": "番外四：梁成敏",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/01-16-1152.html"
+      ]
+    },
+    {
+      "id": "ext-8866a72a91ef201826db",
+      "title": "乐小米(纪伟娜): 你看天使的干枯玫瑰",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1175.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8866a72a91ef201826db",
+        "ext-3287831537371461088"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-16-1175.html"
       ]
     }
   ]

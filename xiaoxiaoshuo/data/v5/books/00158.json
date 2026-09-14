@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-4de2b936decef23f85ec",
-      "title": "第57章 阿爹",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book4/10669/356272.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:03+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-4de2b936decef23f85ec",
-        "ext-8196111638875873456"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10669/356272.html"
-      ]
-    },
-    {
       "id": "ext-c0768d2b26b546a90f5a",
       "title": "第56章 神秘老头",
       "author": "",
@@ -5139,6 +5114,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/qy_jlwxs/35589.html"
+      ]
+    },
+    {
+      "id": "ext-d7cbb01e9d0306fee72b",
+      "title": "第31章 31号登机口",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/qy_jlwxs/35588.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 31,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:59+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d7cbb01e9d0306fee72b",
+        "ext-59249098584521082"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/qy_jlwxs/35588.html"
       ]
     }
   ]
