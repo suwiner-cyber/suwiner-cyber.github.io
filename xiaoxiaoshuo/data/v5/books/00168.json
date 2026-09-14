@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-4e676fcd60cfd9a83e45",
-      "title": "第一百九十一章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/463037.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-4e676fcd60cfd9a83e45",
-        "ext-5134461127060862449"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/463037.html"
-      ]
-    },
-    {
       "id": "ext-17a00bf5c6817b620334",
       "title": "第一百三十章",
       "author": "",
@@ -5589,6 +5564,49 @@
         "https://www.kanunu8.com/book7/hxshn92/485126.html",
         "https://www.kanunu8.com/book5/yiouchun/80295.html",
         "https://www.kanunu8.com/book7/loulingji/449833.html"
+      ]
+    },
+    {
+      "id": "ext-66008e16ce535703aa88",
+      "title": "第12章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/lmm04/464061.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:47+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/lmm04/464061.html",
+        "https://www.kanunu8.com/book7/75chyriji/463284.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481566.html",
+        "https://www.kanunu8.com/book7/hxshn92/485125.html",
+        "https://www.kanunu8.com/book5/yiouchun/80294.html",
+        "https://www.kanunu8.com/book7/loulingji/449832.html"
+      ],
+      "read_ids": [
+        "ext-66008e16ce535703aa88",
+        "ext-3519203516249392869",
+        "ext-1531320ce969f3ba1485",
+        "ext-bb05d1a866211ba36625",
+        "ext-b4636ace1c712ea9f1e0",
+        "ext-09fba6458d623c554237",
+        "ext-5209dc1d757cca331449"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/lmm04/464061.html",
+        "https://www.kanunu8.com/book7/75chyriji/463284.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481566.html",
+        "https://www.kanunu8.com/book7/hxshn92/485125.html",
+        "https://www.kanunu8.com/book5/yiouchun/80294.html",
+        "https://www.kanunu8.com/book7/loulingji/449832.html"
       ]
     }
   ]

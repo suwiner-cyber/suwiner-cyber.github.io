@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-52ef219b69c31883dfe2",
-      "title": "魔兽世界小说",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/files/xunhuan/201102/1502.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:22+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-52ef219b69c31883dfe2",
-        "ext-2555501358686005931"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/xunhuan/201102/1502.html"
-      ]
-    },
-    {
       "id": "ext-db984da0618a358a2225",
       "title": "辛夷坞作品集",
       "author": "",
@@ -4891,6 +4866,30 @@
       ],
       "read_sources": [
         "https://ixdzs8.com/read/618022/"
+      ]
+    },
+    {
+      "id": "ix-558010",
+      "title": "混沌霸天诀",
+      "author": "毕名",
+      "kind": "玄幻奇幻",
+      "status": "连载中",
+      "intro": "刘镇东，本是21世纪大夏国高材生，IQEQQQ都是牛人天天见那种高富帅，谁知一场雨中漫步，一雷劈落，直接穿越到了修真界，从一个小乞丐身上重生，一路逆袭人生，最终成就人生巅峰时刻！",
+      "cover": "https://img22.ixdzs.com/e3/9f/e39fdbb4e5e20da5e76e53226c26dcf3.jpg",
+      "source_url": "https://ixdzs8.com/read/558010/",
+      "source_host": "ixdzs8.com",
+      "source_name": "爱下电子书",
+      "media": "text",
+      "chapter_count": 3994,
+      "last_chapter": "第3994章",
+      "word_count_wan": 962.96,
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:52:09+00:00",
+      "read_ids": [
+        "ix-558010"
+      ],
+      "read_sources": [
+        "https://ixdzs8.com/read/558010/"
       ]
     }
   ]

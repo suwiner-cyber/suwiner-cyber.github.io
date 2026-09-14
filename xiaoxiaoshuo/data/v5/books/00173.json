@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-2196ed7cd31cb03e5992",
-      "title": "第109章 从前",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65147.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 109,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-2196ed7cd31cb03e5992",
-        "ext-1995528372164516739"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65147.html"
-      ]
-    },
-    {
       "id": "ext-6313bbcb7447b1a50206",
       "title": "第108章 直言",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/youth/201102/1748.html"
+      ]
+    },
+    {
+      "id": "ext-38558d6d854bc3402741",
+      "title": "赫塔·米勒: 托着摩卡杯的苍白男人",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2012/10-07-8223.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-38558d6d854bc3402741",
+        "ext-3885748682105385934"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2012/10-07-8223.html"
       ]
     }
   ]

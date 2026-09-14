@@ -1,46 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-8c701fab2be96af76ec7",
-      "title": "第106章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171862.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171862.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/38038.html",
-        "https://www.kanunu8.com/book7/75chyriji/463378.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481663.html",
-        "https://www.kanunu8.com/book7/hxshn92/485220.html"
-      ],
-      "read_ids": [
-        "ext-8c701fab2be96af76ec7",
-        "ext-14518390031574922",
-        "ext-390898e6e8c4a0a342c1",
-        "ext-a1e18df11855af1b421b",
-        "ext-240149b001fbd43f69c1",
-        "ext-37c94102552d54d0b1fd"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171862.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/38038.html",
-        "https://www.kanunu8.com/book7/75chyriji/463378.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481663.html",
-        "https://www.kanunu8.com/book7/hxshn92/485220.html"
-      ]
-    },
-    {
       "id": "ext-f635a4727ca29b44a5ab",
       "title": "第105章",
       "author": "",
@@ -5178,6 +5138,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65328.html"
+      ]
+    },
+    {
+      "id": "ext-740f5e0e41982a8f51d2",
+      "title": "第28章 狭路",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65066.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 28,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-740f5e0e41982a8f51d2",
+        "ext-406802839646911436"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65066.html"
       ]
     }
   ]

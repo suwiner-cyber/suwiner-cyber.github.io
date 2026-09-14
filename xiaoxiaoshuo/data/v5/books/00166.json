@@ -1,37 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-42473bf4f669e7d8738b",
-      "title": "第201章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/datangpizhuji/481757.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 199,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:52+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/datangpizhuji/481757.html",
-        "https://www.kanunu8.com/book7/hxshn92/485316.html"
-      ],
-      "read_ids": [
-        "ext-42473bf4f669e7d8738b",
-        "ext-7148658055104626564",
-        "ext-b57118eb338d674a5a9b"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/datangpizhuji/481757.html",
-        "https://www.kanunu8.com/book7/hxshn92/485316.html"
-      ]
-    },
-    {
       "id": "ext-93373b3d9fd3930537eb",
       "title": "第200章",
       "author": "",
@@ -5178,6 +5147,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/463087.html"
+      ]
+    },
+    {
+      "id": "ext-9781f8531152febf35ca",
+      "title": "结局二(1)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463078.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9781f8531152febf35ca",
+        "ext-8888792260523370080"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463078.html"
       ]
     }
   ]

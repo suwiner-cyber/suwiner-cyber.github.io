@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-7959531f4faec4a6fdb5",
-      "title": "第109章 江湖第一美人",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dby79/458290.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 109,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:56+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7959531f4faec4a6fdb5",
-        "ext-6527859380243654243"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dby79/458290.html"
-      ]
-    },
-    {
       "id": "ext-0294ac4ec4ffe3a5b4dd",
       "title": "第108章 江湖第一美人",
       "author": "",
@@ -5202,6 +5177,37 @@
       "read_sources": [
         "https://www.kanunu8.com/book7/datangpizhuji/481758.html",
         "https://www.kanunu8.com/book7/hxshn92/485317.html"
+      ]
+    },
+    {
+      "id": "ext-42473bf4f669e7d8738b",
+      "title": "第201章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/datangpizhuji/481757.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 199,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:52+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/datangpizhuji/481757.html",
+        "https://www.kanunu8.com/book7/hxshn92/485316.html"
+      ],
+      "read_ids": [
+        "ext-42473bf4f669e7d8738b",
+        "ext-7148658055104626564",
+        "ext-b57118eb338d674a5a9b"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/datangpizhuji/481757.html",
+        "https://www.kanunu8.com/book7/hxshn92/485316.html"
       ]
     }
   ]

@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-de0518cc247348b2117c",
-      "title": "第二十八章 是非事",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450360.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-de0518cc247348b2117c",
-        "ext-3990412927516626843"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450360.html"
-      ]
-    },
-    {
       "id": "ext-d141eafd7bbb917a4340",
       "title": "第二十八章 新人",
       "author": "",
@@ -5031,6 +5006,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/yegougutou/96783.html"
+      ]
+    },
+    {
+      "id": "ext-3983350d272552f24a82",
+      "title": "第11章 他转身进屋，轻轻吹起了口哨",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/yegougutou/96782.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 11,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:07+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3983350d272552f24a82",
+        "ext-5955557180569406401"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/yegougutou/96782.html"
       ]
     }
   ]
