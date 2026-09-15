@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-831086f44e248bd45bf2",
+      "title": "29、愤怒的乐章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/jinlin/460496.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:19+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-831086f44e248bd45bf2",
+        "ext-6612114490789016899"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/jinlin/460496.html"
+      ]
+    },
+    {
       "id": "ext-d8e45941cfa1b530007f",
       "title": "28、连锁反应",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/rongcuolv/450823.html"
-      ]
-    },
-    {
-      "id": "ext-67cb36df12b0e4749223",
-      "title": "第38章 广场惊魂",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/rongcuolv/450822.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 38,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:17+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-67cb36df12b0e4749223",
-        "ext-6444543880667723048"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/rongcuolv/450822.html"
       ]
     }
   ]

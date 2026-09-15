@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-9854d67d2840937e8d50",
+      "title": "第39章 公主万岁7",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/dby81/459447.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 39,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:57+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9854d67d2840937e8d50",
+        "ext-2248196374795135504"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/dby81/459447.html"
+      ]
+    },
+    {
       "id": "ext-b63223a4e1d69c71b427",
       "title": "第38章 公主万岁6",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/dby79/458274.html"
-      ]
-    },
-    {
-      "id": "ext-6ce4bcf36f63cb359c48",
-      "title": "第92章 弱国无外交。",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dby79/458273.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 92,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:56+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-6ce4bcf36f63cb359c48",
-        "ext-6731316964555752487"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dby79/458273.html"
       ]
     }
   ]

@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-e6791292da1bd230cd6f",
+      "title": "第16章 疏离",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/tianjieyese/451971.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:10+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e6791292da1bd230cd6f",
+        "ext-5275264510014516040"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/tianjieyese/451971.html"
+      ]
+    },
+    {
       "id": "ext-17543e8b1a20e4119cf3",
       "title": "第15章 靠近",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450156.html"
-      ]
-    },
-    {
-      "id": "ext-17b5e6805ceb7143b4dd",
-      "title": "第八章 纠葛",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450238.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-17b5e6805ceb7143b4dd",
-        "ext-8732110543314921716"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450238.html"
       ]
     }
   ]

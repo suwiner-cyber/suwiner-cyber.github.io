@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-7ae4edfda00c17750c7d",
+      "title": "第127章 光照",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204392.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 127,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-7ae4edfda00c17750c7d",
+        "ext-2955941704302186761"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204392.html"
+      ]
+    },
+    {
       "id": "ext-b33eb983c7860e3645e0",
       "title": "第126章 故地",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/01-16-1150.html"
-      ]
-    },
-    {
-      "id": "ext-05df28ca8f0b38e5ad24",
-      "title": "乐小米(纪伟娜): 温暖青城梦",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1161.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-05df28ca8f0b38e5ad24",
-        "ext-3952760616008607402"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-16-1161.html"
       ]
     }
   ]

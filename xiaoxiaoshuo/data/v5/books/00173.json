@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-9eb126af71408ee42337",
+      "title": "第49章 中转之道",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/phbfshce/473526.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 49,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:45+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9eb126af71408ee42337",
+        "ext-8009429850246731332"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/phbfshce/473526.html"
+      ]
+    },
+    {
       "id": "ext-ba5ce837c0ef5fb16b16",
       "title": "第48章 谢谢谢老板！",
       "author": "",
@@ -6482,52 +6507,6 @@
         "https://www.kanunu8.com/book7/hxshn92/485149.html",
         "https://www.kanunu8.com/book5/yiouchun/80318.html",
         "https://www.kanunu8.com/book7/jinxiefang/449777.html"
-      ]
-    },
-    {
-      "id": "ext-252ed4e3bc97f0ec1946",
-      "title": "第35章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171791.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171791.html",
-        "https://www.kanunu8.com/book7/lmm04/464084.html",
-        "https://www.kanunu8.com/book7/75chyriji/463307.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481590.html",
-        "https://www.kanunu8.com/book7/hxshn92/485148.html",
-        "https://www.kanunu8.com/book5/yiouchun/80317.html",
-        "https://www.kanunu8.com/book7/jinxiefang/449776.html"
-      ],
-      "read_ids": [
-        "ext-252ed4e3bc97f0ec1946",
-        "ext-8802126562897001436",
-        "ext-ad04c690d98cb55bbd5f",
-        "ext-af6bf89de181c222eb5d",
-        "ext-cfbc7a445e4b253c4497",
-        "ext-5f1c671a99c95a087b15",
-        "ext-077f30757ff88821a85d",
-        "ext-8be409c23fff467e25d2"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171791.html",
-        "https://www.kanunu8.com/book7/lmm04/464084.html",
-        "https://www.kanunu8.com/book7/75chyriji/463307.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481590.html",
-        "https://www.kanunu8.com/book7/hxshn92/485148.html",
-        "https://www.kanunu8.com/book5/yiouchun/80317.html",
-        "https://www.kanunu8.com/book7/jinxiefang/449776.html"
       ]
     }
   ]

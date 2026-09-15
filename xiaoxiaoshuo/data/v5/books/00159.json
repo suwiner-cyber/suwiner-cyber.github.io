@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-74c9793365a3a9fd8a1d",
+      "title": "第94章 疑无路，又一村",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/xingguanghaian/457365.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 94,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:12+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-74c9793365a3a9fd8a1d",
+        "ext-2663336611310004741"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/xingguanghaian/457365.html"
+      ]
+    },
+    {
       "id": "ext-766bcd730e625a82fb4a",
       "title": "第93章 悲寂寥，胜春潮",
       "author": "",
@@ -4982,31 +5007,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/tianjieyese/451972.html"
-      ]
-    },
-    {
-      "id": "ext-e6791292da1bd230cd6f",
-      "title": "第16章 疏离",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/tianjieyese/451971.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:10+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e6791292da1bd230cd6f",
-        "ext-5275264510014516040"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/tianjieyese/451971.html"
       ]
     }
   ]

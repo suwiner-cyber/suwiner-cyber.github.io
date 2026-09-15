@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-f18bba784cc04650d64d",
+      "title": "图南的肚皮舞",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481798.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:50+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f18bba784cc04650d64d",
+        "ext-4784746069896521975"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qianyaobaimei/481798.html"
+      ]
+    },
+    {
       "id": "ext-a1118d79752825ad1c7f",
       "title": "参考文献",
       "author": "",
@@ -5597,37 +5622,6 @@
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/462881.html",
         "https://www.kanunu8.com/book7/dby67/469977.html"
-      ]
-    },
-    {
-      "id": "ext-aed70dcc7c17a340e9ff",
-      "title": "第三十二章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/462878.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462878.html",
-        "https://www.kanunu8.com/book7/dby67/469974.html"
-      ],
-      "read_ids": [
-        "ext-aed70dcc7c17a340e9ff",
-        "ext-8136348388168849022",
-        "ext-777890804fc449a266cd"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462878.html",
-        "https://www.kanunu8.com/book7/dby67/469974.html"
       ]
     }
   ]

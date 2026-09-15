@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-eb6373d9fd20e70082e5",
+      "title": "番外三十",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463169.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-eb6373d9fd20e70082e5",
+        "ext-2483072999405556057"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463169.html"
+      ]
+    },
+    {
       "id": "ext-cfa42be4ec3545b6234a",
       "title": "番外七十四",
       "author": "",
@@ -5414,31 +5439,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/phbfshce/473481.html"
-      ]
-    },
-    {
-      "id": "ext-9eb126af71408ee42337",
-      "title": "第49章 中转之道",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/phbfshce/473526.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 49,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:45+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-9eb126af71408ee42337",
-        "ext-8009429850246731332"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/phbfshce/473526.html"
       ]
     }
   ]

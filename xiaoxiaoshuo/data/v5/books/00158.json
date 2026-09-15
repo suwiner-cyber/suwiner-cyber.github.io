@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-9289737612166e08c563",
+      "title": "第29章 不思故(一)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/jianchuqiao/445539.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 29,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:15+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9289737612166e08c563",
+        "ext-6010750574133751537"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/jianchuqiao/445539.html"
+      ]
+    },
+    {
       "id": "ext-eda071cdf3d0bb94f28c",
       "title": "第28章 封魔印(下)",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/xingguanghaian/457366.html"
-      ]
-    },
-    {
-      "id": "ext-74c9793365a3a9fd8a1d",
-      "title": "第94章 疑无路，又一村",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/xingguanghaian/457365.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 94,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:12+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-74c9793365a3a9fd8a1d",
-        "ext-2663336611310004741"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/xingguanghaian/457365.html"
       ]
     }
   ]

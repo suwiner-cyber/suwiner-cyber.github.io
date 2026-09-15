@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-00d589f089907e0cfb04",
+      "title": "第83章 背后的目光",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/10669/356299.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 83,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:03+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-00d589f089907e0cfb04",
+        "ext-7592139361415987855"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10669/356299.html"
+      ]
+    },
+    {
       "id": "ext-d0dd90b6f9b828cea4d4",
       "title": "第82章 见证",
       "author": "",
@@ -5114,31 +5139,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/qy_jlwxs/35616.html"
-      ]
-    },
-    {
-      "id": "ext-1737d0bf986ab2619c4e",
-      "title": "第58章 58号登机口",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/qy_jlwxs/35615.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 58,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:59+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1737d0bf986ab2619c4e",
-        "ext-2397011831991285285"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/qy_jlwxs/35615.html"
       ]
     }
   ]
