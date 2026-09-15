@@ -1,54 +1,6 @@
 {
-  "generated_at": "2026-09-15T18:33:59+00:00",
+  "generated_at": "2026-09-15T18:35:42+00:00",
   "errors": [
-    {
-      "time": "2026-09-10T12:54:32+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1502647110/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-10T12:54:45+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1472530945/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-10T12:54:59+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1406012890/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-10T12:55:13+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1330444189/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-10T12:55:27+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1212871357/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-10T12:55:41+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/986293964/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-10T12:55:55+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/896634196/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-10T12:56:09+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/799299344/",
-      "error": "Remote end closed connection without response"
-    },
     {
       "time": "2026-09-10T12:56:23+00:00",
       "source": "AAAKS小说",
@@ -15000,6 +14952,54 @@
       "source": "飘天文学",
       "url": "https://www.piaotia.com/userinfo.php?id=428253",
       "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-15T18:34:45+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/狂野萝卜.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T18:34:46+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/乔一水.html",
+      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T18:34:59+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/猎枪.html",
+      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T18:35:03+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/小小汪@.html",
+      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T18:35:04+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/暮色流光.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T18:35:07+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/九月微甜吖.html",
+      "error": "'ascii' codec can't encode characters in position 12-16: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T18:35:27+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/剑寒衫.html",
+      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T18:35:39+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/九燚.html",
+      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
     }
   ]
 }
