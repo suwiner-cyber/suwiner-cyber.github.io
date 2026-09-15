@@ -1,14 +1,14 @@
 {
   "version": 13,
-  "generated_at": "2026-09-15T18:56:32+00:00",
-  "total_books": 38722,
+  "generated_at": "2026-09-15T18:59:02+00:00",
+  "total_books": 38755,
   "source_counts": {
-    "泡书吧小说网": 4278,
+    "爱下电子书": 4809,
     "乐文小说": 4252,
+    "泡书吧小说网": 4278,
     "和图书": 2552,
     "飘天文学": 1120,
     "一七小说": 4051,
-    "爱下电子书": 4776,
     "滋味小说网": 4689,
     "言情小说吧": 2942,
     "努努书坊": 8717,
@@ -18,21 +18,21 @@
   "all_done": false,
   "continue_needed": true,
   "unresolved_sources": [
-    "九九藏书网"
+    "爱下电子书"
   ],
   "sources": [
     {
-      "name": "九九藏书网",
-      "host": "99csw.com",
-      "pages_this_run": 0,
-      "successful_pages": 0,
+      "name": "爱下电子书",
+      "host": "ixdzs8.com",
+      "pages_this_run": 80,
+      "successful_pages": 80,
       "failed_pages": 0,
-      "books_found": 0,
-      "books_added": 0,
-      "toc_written": 0,
-      "books_seen_total": 0,
-      "remaining_queue": 0,
-      "seen_pages": 2,
+      "books_found": 34,
+      "books_added": 33,
+      "toc_written": 34,
+      "books_seen_total": 3199,
+      "remaining_queue": 29681,
+      "seen_pages": 5520,
       "done": false,
       "blocked": false,
       "needs_adapter": false
