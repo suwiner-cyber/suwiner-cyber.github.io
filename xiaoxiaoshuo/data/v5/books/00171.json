@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-6091b335ce836f69fea8",
+      "title": "犀燃烛照",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481857.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:50+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-6091b335ce836f69fea8",
+        "ext-5477783128067764097"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qianyaobaimei/481857.html"
+      ]
+    },
+    {
       "id": "ext-4d0dd1290c848c467fa6",
       "title": "特邀嘉宾",
       "author": "",
@@ -5387,31 +5412,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/463071.html"
-      ]
-    },
-    {
-      "id": "ext-f8fe8e662d1d9c69c8c1",
-      "title": "第二百二十二章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/463068.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f8fe8e662d1d9c69c8c1",
-        "ext-2391922475188642299"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/463068.html"
       ]
     }
   ]

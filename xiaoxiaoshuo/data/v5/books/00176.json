@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-1832f3b8fb0d2a52fe90",
+      "title": "第二十二章 买死鸡",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/laojiumen/416866.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:41+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1832f3b8fb0d2a52fe90",
+        "ext-3631029869323367747"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/laojiumen/416866.html"
+      ]
+    },
+    {
       "id": "ext-723f0a99e936e574507d",
       "title": "第二十九章 虚冢壁画脸",
       "author": "",
@@ -4979,31 +5004,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65263.html"
-      ]
-    },
-    {
-      "id": "ext-eba52e49c674ee51b897",
-      "title": "第224章 请帖",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65262.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 224,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-eba52e49c674ee51b897",
-        "ext-7342649353090318022"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65262.html"
       ]
     }
   ]

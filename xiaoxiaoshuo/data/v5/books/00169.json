@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-143d28ff0e5b3285eea6",
+      "title": "第224章 帝落",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/dby79/458405.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 224,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:56+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-143d28ff0e5b3285eea6",
+        "ext-4067928703874142203"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/dby79/458405.html"
+      ]
+    },
+    {
       "id": "ext-a76b256c84d3d671cb6f",
       "title": "第223章 帝落",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/hxshn91/485042.html"
-      ]
-    },
-    {
-      "id": "ext-69244545f330091d7177",
-      "title": "第51章 原来站在台",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/hxshn91/485041.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 51,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:54+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-69244545f330091d7177",
-        "ext-8381332172293548645"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/hxshn91/485041.html"
       ]
     }
   ]

@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-22f6191320024687f049",
+      "title": "第100章 伤魂火(下)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/jianchuqiao/445607.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 100,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:15+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-22f6191320024687f049",
+        "ext-856331462246986798"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/jianchuqiao/445607.html"
+      ]
+    },
+    {
       "id": "ext-c56f574b92688abe3c39",
       "title": "灵希作品集",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/tianjieyese/452010.html"
-      ]
-    },
-    {
-      "id": "ext-538b77227a62c1ff7079",
-      "title": "第54章 利己",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/tianjieyese/452009.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:10+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-538b77227a62c1ff7079",
-        "ext-5729593836625671230"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/tianjieyese/452009.html"
       ]
     }
   ]

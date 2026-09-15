@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-a531a708acad648a4819",
+      "title": "第十一章 烟花光影",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450241.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a531a708acad648a4819",
+        "ext-4482891894451165906"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450241.html"
+      ]
+    },
+    {
       "id": "ext-d21033e78e7c1b0ee165",
       "title": "第十一章 检验",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450123.html"
-      ]
-    },
-    {
-      "id": "ext-e10fc477d576343dd2a7",
-      "title": "第三十四章 报应",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450442.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e10fc477d576343dd2a7",
-        "ext-4552267231158542692"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450442.html"
       ]
     }
   ]

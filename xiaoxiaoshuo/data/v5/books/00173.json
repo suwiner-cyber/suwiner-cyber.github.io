@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-32e3339800328c556e4b",
+      "title": "番外八十",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463219.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-32e3339800328c556e4b",
+        "ext-8030533205851692790"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463219.html"
+      ]
+    },
+    {
       "id": "ext-faadea2f6abfd33d76d2",
       "title": "番外八",
       "author": "",
@@ -5426,31 +5451,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/phbfshce/473565.html"
-      ]
-    },
-    {
-      "id": "ext-97662a8ecb60f286ad54",
-      "title": "第87章 上天了",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/phbfshce/473564.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 87,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:45+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-97662a8ecb60f286ad54",
-        "ext-2379471529086840291"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/phbfshce/473564.html"
       ]
     }
   ]

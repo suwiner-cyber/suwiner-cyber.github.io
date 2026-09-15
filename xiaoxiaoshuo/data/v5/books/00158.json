@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-01de44ffcd613216391c",
+      "title": "第8章 覆盖疗法",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/rongcuolv/450792.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 8,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:17+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-01de44ffcd613216391c",
+        "ext-3578968879595595486"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/rongcuolv/450792.html"
+      ]
+    },
+    {
       "id": "ext-6491a689dcc3faf14626",
       "title": "第7章 开始验货",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/jianchuqiao/445578.html"
-      ]
-    },
-    {
-      "id": "ext-97dc75345b2f1b45afe7",
-      "title": "第67章 嫁新郎(上)",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/jianchuqiao/445577.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 67,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:15+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-97dc75345b2f1b45afe7",
-        "ext-5106296969983079398"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/jianchuqiao/445577.html"
       ]
     }
   ]

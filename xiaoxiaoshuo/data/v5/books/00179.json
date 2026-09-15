@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-204a42d0c9fc13f6f414",
+      "title": "北山: 你们去卅城",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-03-996.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-204a42d0c9fc13f6f414",
+        "ext-1556757184380153931"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-03-996.html"
+      ]
+    },
+    {
       "id": "ext-7cc468574eb6542599d4",
       "title": "刘恒: 狗日的粮食",
       "author": "",
@@ -5033,31 +5058,6 @@
       "read_sources": [
         "http://www.tadu.com/book/908039",
         "https://www.tadu.com/book/908039"
-      ]
-    },
-    {
-      "id": "ext-b15586f99f54aeaa4a7a",
-      "title": "废柴狂后：魔君，别乱来 临柔",
-      "author": "北枝寒",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2020/08/06/10/18/578394dd37024158b252ecf5b1cb002d_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/535235",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:54:40+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b15586f99f54aeaa4a7a",
-        "ext-2128133051100884352"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/535235"
       ]
     }
   ]

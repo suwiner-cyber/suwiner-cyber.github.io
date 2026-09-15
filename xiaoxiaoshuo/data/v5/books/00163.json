@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-e10fc477d576343dd2a7",
+      "title": "第三十四章 报应",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450442.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e10fc477d576343dd2a7",
+        "ext-4552267231158542692"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450442.html"
+      ]
+    },
+    {
       "id": "ext-f1fff498e5db4c780ce0",
       "title": "第三十四章 屋顶",
       "author": "",
@@ -5006,31 +5031,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/ttcbuzhu/48158.html"
-      ]
-    },
-    {
-      "id": "ext-a50198271af1c53d80b2",
-      "title": "第27章 偷偷",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/ttcbuzhu/48157.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:06+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a50198271af1c53d80b2",
-        "ext-4906283362894143990"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/ttcbuzhu/48157.html"
       ]
     }
   ]
