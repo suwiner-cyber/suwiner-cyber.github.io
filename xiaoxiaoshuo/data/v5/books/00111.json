@@ -1,6 +1,38 @@
 {
   "books": [
     {
+      "id": "ext-f9b6187e6dbd2e1778b3",
+      "title": "蝴蝶媒",
+      "author": "南岳道人 发布时间：2011-04-15 正文 第01回 灵隐寺禅僧贻宝偈 苎萝",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2542.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 16,
+      "last_chapter": "第16回 六美共归金马客 众贤同隐苎萝山",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T18:49:24+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f9b6187e6dbd2e1778b3",
+        "ext-59942e04c93961e4536e",
+        "ext-5807234683663093279"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2542.html"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/old/2011/2542.html"
+      ]
+    },
+    {
       "id": "ext-cf9d4bdeb478f83b70bc",
       "title": "飞花艳想",
       "author": "樵云山人 发布时间：2011-04-15 正文 第一回 众英才花下谈心 第二回",
@@ -6273,37 +6305,6 @@
       "read_ids": [
         "ext-ead2ef118033ea599b44",
         "ext-b2a30d302543d3226ced"
-      ]
-    },
-    {
-      "id": "ext-0d4d8dfedd9351e386c8",
-      "title": "废土世界：从拾荒机器人开始 作者: 我是一只小陆仁",
-      "author": "我是一只小陆仁 关于废土世界：从拾荒机器人开始： 在这混乱的废土之上机械生命屠戮",
-      "kind": "首页 > 科幻小说 > 废土世界：从拾荒机器人开始 废土世界：从拾荒机器人开始",
-      "status": "连载中",
-      "intro": "关于废土世界：从拾荒机器人开始： 在这混乱的废土之上机械生命屠戮着残余的人类异种生物扩张着他们的领土灵能天赋浮现在仅存的火种之中突然醒于避难所的耿杰大脑里突然多出了一个神秘的机械师植入体凭借着能控制机械体的【机械师面板】他要为这片废土重新带来文明的曙光",
-      "cover": "",
-      "source_url": "https://www.ipaoshubaxs.net/book/117767.html",
-      "source_host": "ipaoshubaxs.net",
-      "source_name": "泡书吧小说网",
-      "source_names": [
-        "泡书吧小说网"
-      ],
-      "sources": [
-        "https://www.ipaoshubaxs.net/book/117767.html"
-      ],
-      "read_sources": [
-        "https://www.ipaoshubaxs.net/book/117767.html"
-      ],
-      "media": "text",
-      "chapter_count": 10,
-      "last_chapter": "第三百五十九章 计划",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T18:35:43+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-0d4d8dfedd9351e386c8",
-        "ext-fc5a541249e04e0ab7f6"
       ]
     }
   ]
