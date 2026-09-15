@@ -1,120 +1,6 @@
 {
-  "generated_at": "2026-09-15T06:40:06+00:00",
+  "generated_at": "2026-09-15T06:41:22+00:00",
   "errors": [
-    {
-      "time": "2026-09-10T00:57:44+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/132391/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-10T01:05:17+00:00",
-      "source": "努努书坊",
-      "url": "https://www.kanunu8.com/book4/10388/index.html",
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "time": "2026-09-10T06:37:34+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/莫晓梅老张.html",
-      "error": "'ascii' codec can't encode characters in position 12-16: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-10T06:37:35+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/我是愤怒.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-10T06:37:36+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/风起墨淇.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-10T06:37:38+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/浅水戏虾.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-10T06:37:40+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/土狗蛋儿.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-10T06:37:41+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/是空有呀.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-10T06:37:42+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/帷赫.html",
-      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-10T06:37:43+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/香烟有瘾.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-10T06:38:41+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/馅饼大叔.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-10T06:38:43+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/似水留年.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-10T06:39:08+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/五两.html",
-      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-10T06:39:10+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/年末.html",
-      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-10T06:39:16+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/寒梅惊雪.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-10T06:39:17+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/河东三十吼.html",
-      "error": "'ascii' codec can't encode characters in position 12-16: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-10T06:39:20+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/子恒.html",
-      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-10T06:39:22+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/青椒炒菠萝.html",
-      "error": "'ascii' codec can't encode characters in position 12-16: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-10T06:39:25+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/阿白吃.html",
-      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
-    },
     {
       "time": "2026-09-10T06:39:26+00:00",
       "source": "泡书吧小说网",
@@ -15000,6 +14886,120 @@
       "source": "乐文小说",
       "url": "https://www.ilwxs.com/author/追赶时间的小蜗牛.html",
       "error": "'ascii' codec can't encode characters in position 12-19: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T06:40:26+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/梦梦七柒.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T06:40:27+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/银小宝.html",
+      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T06:40:28+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/辞小尔.html",
+      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T06:40:29+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/璃华.html",
+      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T06:40:30+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/最白的乌鸦.html",
+      "error": "'ascii' codec can't encode characters in position 12-16: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T06:40:32+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/山野白糖.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T06:40:34+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/霍比特人你在哪.html",
+      "error": "'ascii' codec can't encode characters in position 12-18: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T06:40:36+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/缺爱的臭猪.html",
+      "error": "'ascii' codec can't encode characters in position 12-16: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T06:40:38+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/细细.html",
+      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T06:40:40+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/根正苗红.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T06:40:41+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/听辉.html",
+      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T06:40:43+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/燃引.html",
+      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T06:40:44+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/龙不相.html",
+      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T06:41:03+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/月光下看美人.html",
+      "error": "'ascii' codec can't encode characters in position 12-17: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T06:41:12+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/最爱下雨天.html",
+      "error": "'ascii' codec can't encode characters in position 12-16: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T06:41:15+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/宋武鸣123.html",
+      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T06:41:16+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/花尔.html",
+      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T06:41:19+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/公子兰.html",
+      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-15T06:41:20+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/墨月秋笙.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
     }
   ]
 }
