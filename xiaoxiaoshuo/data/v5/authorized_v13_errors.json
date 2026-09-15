@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-09-15T13:09:17+00:00",
+  "generated_at": "2026-09-15T13:13:48+00:00",
   "errors": [
-    {
-      "time": "2026-09-10T12:53:23+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1896759100/",
-      "error": "Remote end closed connection without response"
-    },
     {
       "time": "2026-09-10T12:53:37+00:00",
       "source": "AAAKS小说",
@@ -14999,6 +14993,12 @@
       "time": "2026-09-15T13:06:35+00:00",
       "source": "塔读文学",
       "url": "https://www.tadu.com/book/817562/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-15T13:13:04+00:00",
+      "source": "言情小说吧",
+      "url": "https://www.xs8.cn/book/21850530801474104",
       "error": "HTTP Error 404: Not Found"
     }
   ]
