@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-09-15T18:59:02+00:00",
+  "generated_at": "2026-09-15T19:03:25+00:00",
   "errors": [
-    {
-      "time": "2026-09-10T18:48:34+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1540296/",
-      "error": "Remote end closed connection without response"
-    },
     {
       "time": "2026-09-10T18:48:48+00:00",
       "source": "AAAKS小说",
@@ -15000,6 +14994,12 @@
       "source": "AAAKS小说",
       "url": "https://www.aaaks.com/book/4039348/",
       "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-15T18:59:32+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/book/861719/",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }
