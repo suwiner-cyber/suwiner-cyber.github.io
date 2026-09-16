@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-09-16T13:09:50+00:00",
+  "generated_at": "2026-09-16T13:14:27+00:00",
   "errors": [
-    {
-      "time": "2026-09-11T12:39:57+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/滕明理.html",
-      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-11T12:39:59+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/中下马笃.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
     {
       "time": "2026-09-11T12:41:05+00:00",
       "source": "AAAKS小说",
@@ -15000,6 +14988,18 @@
       "source": "塔读文学",
       "url": "https://www.tadu.com/space/author/152516",
       "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-16T13:13:29+00:00",
+      "source": "言情小说吧",
+      "url": "https://www.xs8.cn/book/6920131203790603",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-16T13:14:17+00:00",
+      "source": "言情小说吧",
+      "url": "https://www.xs8.cn/book/32614951703810807",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }
