@@ -1,30 +1,6 @@
 {
-  "generated_at": "2026-09-16T12:41:07+00:00",
+  "generated_at": "2026-09-16T12:42:43+00:00",
   "errors": [
-    {
-      "time": "2026-09-11T06:43:48+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/2183321/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-11T06:44:01+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/2115932/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-11T06:44:14+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/2115931/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-11T06:44:27+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/2115930/",
-      "error": "Remote end closed connection without response"
-    },
     {
       "time": "2026-09-11T06:44:40+00:00",
       "source": "AAAKS小说",
@@ -15000,6 +14976,30 @@
       "source": "乐文小说",
       "url": "https://www.ilwxs.com/author/大沧月.html",
       "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-16T12:41:48+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/任我笑.html",
+      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-16T12:41:53+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/太上布衣.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-16T12:41:59+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/小井.html",
+      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-16T12:42:29+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/辣味最爱.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
     }
   ]
 }
