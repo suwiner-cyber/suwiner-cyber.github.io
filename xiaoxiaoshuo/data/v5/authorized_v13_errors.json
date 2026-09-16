@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-09-16T19:02:56+00:00",
+  "generated_at": "2026-09-16T19:06:33+00:00",
   "errors": [
-    {
-      "time": "2026-09-11T18:36:09+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/中华田园牛.html",
-      "error": "'ascii' codec can't encode characters in position 12-16: ordinal not in range(128)"
-    },
     {
       "time": "2026-09-11T18:36:10+00:00",
       "source": "泡书吧小说网",
@@ -15000,6 +14994,12 @@
       "source": "塔读文学",
       "url": "https://www.tadu.com/space/author/424536",
       "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-16T19:04:18+00:00",
+      "source": "言情小说吧",
+      "url": "https://www.xs8.cn/book/7205664104926101",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }
