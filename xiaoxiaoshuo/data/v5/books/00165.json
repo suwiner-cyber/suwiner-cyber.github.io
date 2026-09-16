@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-db5f752730d79afa8565",
+      "title": "第60章 海上月，人间客",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/xingguanghaian/457331.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 60,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:12+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-db5f752730d79afa8565",
+        "ext-4533661114208300059"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/xingguanghaian/457331.html"
+      ]
+    },
+    {
       "id": "ext-7638fed270fbd44df6fb",
       "title": "第5章 小轩窗，半面妆",
       "author": "",
@@ -4982,31 +5007,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/heqinghaiyan/451299.html"
-      ]
-    },
-    {
-      "id": "ext-34e28b6cb1c2ed993938",
-      "title": "二十二、驾照教练",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/heqinghaiyan/451296.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:09+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-34e28b6cb1c2ed993938",
-        "ext-2144393585710031266"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/heqinghaiyan/451296.html"
       ]
     }
   ]

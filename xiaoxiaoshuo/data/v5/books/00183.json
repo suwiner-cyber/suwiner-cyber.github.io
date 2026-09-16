@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-bb20c1085aa2455a39b3",
+      "title": "番外六：梁成敏",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204406.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-bb20c1085aa2455a39b3",
+        "ext-5998718377833750141"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204406.html"
+      ]
+    },
+    {
       "id": "ext-4ef5e735468bedb6e2df",
       "title": "番外八：念桃",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/01-16-1154.html"
-      ]
-    },
-    {
-      "id": "ext-d5de5e550785af188111",
-      "title": "乐小米(纪伟娜): 一笑倾城",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1149.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d5de5e550785af188111",
-        "ext-5066646280128972611"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-16-1149.html"
       ]
     }
   ]

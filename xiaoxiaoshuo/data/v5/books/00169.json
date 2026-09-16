@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-7c8c743d52ff0db3144a",
+      "title": "第4章 校园古装女风波",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/10669/356219.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 4,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:03+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-7c8c743d52ff0db3144a",
+        "ext-1503944993023785163"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10669/356219.html"
+      ]
+    },
+    {
       "id": "ext-dd8d1b00e61a687029f0",
       "title": "第49章 浴缸",
       "author": "",
@@ -5114,31 +5139,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/qy_jlwxs/35582.html"
-      ]
-    },
-    {
-      "id": "ext-e4d0fd3b28cf8dcda1b3",
-      "title": "第24章 24号登机口",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/qy_jlwxs/35581.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 24,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:59+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e4d0fd3b28cf8dcda1b3",
-        "ext-9063607665671404573"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/qy_jlwxs/35581.html"
       ]
     }
   ]

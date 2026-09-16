@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-68325cdfdee025c3c85a",
+      "title": "第15章 能吃吗？",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/phbfshce/473492.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 15,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:45+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-68325cdfdee025c3c85a",
+        "ext-7543258247569491999"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/phbfshce/473492.html"
+      ]
+    },
+    {
       "id": "ext-6c89bf185f7631a731f8",
       "title": "第14章 你们俩昨晚是偷偷亲嘴了吗",
       "author": "",
@@ -6950,43 +6975,6 @@
         "https://www.kanunu8.com/book5/plk_zheyao/38083.html",
         "https://www.kanunu8.com/book7/75chyriji/463423.html",
         "https://www.kanunu8.com/book7/hxshn92/485265.html"
-      ]
-    },
-    {
-      "id": "ext-ea7b847ba5a427ed9753",
-      "title": "第150章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171906.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171906.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/38082.html",
-        "https://www.kanunu8.com/book7/75chyriji/463422.html",
-        "https://www.kanunu8.com/book7/hxshn92/485264.html"
-      ],
-      "read_ids": [
-        "ext-ea7b847ba5a427ed9753",
-        "ext-8463497588575599072",
-        "ext-def9d73e70ceccd9da67",
-        "ext-e26fef0c0c93467ff07d",
-        "ext-4ea56154fe1f7c856b53"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171906.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/38082.html",
-        "https://www.kanunu8.com/book7/75chyriji/463422.html",
-        "https://www.kanunu8.com/book7/hxshn92/485264.html"
       ]
     }
   ]

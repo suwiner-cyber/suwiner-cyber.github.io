@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-dbd590d3062dc70b340b",
+      "title": "第七十一章 决裂",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450403.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-dbd590d3062dc70b340b",
+        "ext-2443937538151829065"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450403.html"
+      ]
+    },
+    {
       "id": "ext-f0c1ee7a15e68fbdfe96",
       "title": "第一章 苦楝",
       "author": "",
@@ -5012,31 +5037,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book4/10669/356265.html"
-      ]
-    },
-    {
-      "id": "ext-7c8c743d52ff0db3144a",
-      "title": "第4章 校园古装女风波",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book4/10669/356219.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 4,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:03+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7c8c743d52ff0db3144a",
-        "ext-1503944993023785163"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10669/356219.html"
       ]
     }
   ]

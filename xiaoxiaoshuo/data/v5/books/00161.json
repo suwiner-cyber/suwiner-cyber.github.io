@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-61ce8a2124caac8b9274",
+      "title": "9. 坑爹",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/feiyingyouxi/456970.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:22+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-61ce8a2124caac8b9274",
+        "ext-8733276278838011859"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/feiyingyouxi/456970.html"
+      ]
+    },
+    {
       "id": "ext-9ac7195b273d425974cc",
       "title": "8. 找死不得",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/xinpin/450000.html"
-      ]
-    },
-    {
-      "id": "ext-56fc79d670a69a05522f",
-      "title": "第85章 失约",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/xinpin/449999.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:18+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-56fc79d670a69a05522f",
-        "ext-2217194010742248001"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/xinpin/449999.html"
       ]
     }
   ]

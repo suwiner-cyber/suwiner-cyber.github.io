@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-56fc79d670a69a05522f",
+      "title": "第85章 失约",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/xinpin/449999.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:18+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-56fc79d670a69a05522f",
+        "ext-2217194010742248001"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/xinpin/449999.html"
+      ]
+    },
+    {
       "id": "ext-827df68a1579ed64e277",
       "title": "第84章 阴阳",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/mangjia/450778.html"
-      ]
-    },
-    {
-      "id": "ext-24691878bb5d88a843f8",
-      "title": "第85章 两世元凶",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/mangjia/450777.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 85,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:16+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-24691878bb5d88a843f8",
-        "ext-3179276509365213149"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/mangjia/450777.html"
       ]
     }
   ]

@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-2ddd5a9821d73bfbb604",
+      "title": "结局二(54)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463131.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2ddd5a9821d73bfbb604",
+        "ext-4813914787410639615"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463131.html"
+      ]
+    },
+    {
       "id": "ext-1b4576522f33580e6864",
       "title": "结局二(53)",
       "author": "",
@@ -5831,37 +5856,6 @@
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/462987.html",
         "https://www.kanunu8.com/book7/dby67/470083.html"
-      ]
-    },
-    {
-      "id": "ext-887c7f855fe1771496cb",
-      "title": "第一百六十章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/463006.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/75chyriji/463006.html",
-        "https://www.kanunu8.com/book7/dby67/470103.html"
-      ],
-      "read_ids": [
-        "ext-887c7f855fe1771496cb",
-        "ext-3330461599209325276",
-        "ext-621146af66b42ade1ffb"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/463006.html",
-        "https://www.kanunu8.com/book7/dby67/470103.html"
       ]
     }
   ]
