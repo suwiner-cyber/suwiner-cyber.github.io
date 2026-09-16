@@ -1,6 +1,6 @@
 {
   "version": 14,
-  "generated_at": "2026-09-16T19:06:33+00:00",
+  "generated_at": "2026-09-16T19:08:18+00:00",
   "total": 40197,
   "shard_size": 200,
   "shards": [
@@ -925,12 +925,12 @@
       "pages_this_run": 80,
       "successful_pages": 80,
       "failed_pages": 0,
-      "books_found": 74,
-      "books_added": 74,
-      "toc_written": 58,
+      "books_found": 0,
+      "books_added": 0,
+      "toc_written": 0,
       "books_seen_total": 4993,
-      "remaining_queue": 33072,
-      "seen_pages": 5679,
+      "remaining_queue": 33537,
+      "seen_pages": 5759,
       "done": false,
       "blocked": false,
       "needs_adapter": false
@@ -1033,7 +1033,7 @@
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "xs8.cn",
+  "last_published_source": "zwxiaoshuo.com",
   "id_scheme": "stable-v4-aliases",
   "metadata_sanitized": true,
   "text_only": true
