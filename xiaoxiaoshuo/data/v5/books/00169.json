@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-a2825eaa8580770d71c6",
+      "title": "第九章 贺礼（上）",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450239.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a2825eaa8580770d71c6",
+        "ext-7676121997357105407"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450239.html"
+      ]
+    },
+    {
       "id": "ext-230ac7565ac9c5cfc088",
       "title": "第九章 祸端",
       "author": "",
@@ -5006,31 +5031,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/ttcbuzhu/48185.html"
-      ]
-    },
-    {
-      "id": "ext-95dc80688f411b5ac456",
-      "title": "第54章 藏不住",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/ttcbuzhu/48184.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 54,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:06+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-95dc80688f411b5ac456",
-        "ext-8712813738509537184"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/ttcbuzhu/48184.html"
       ]
     }
   ]

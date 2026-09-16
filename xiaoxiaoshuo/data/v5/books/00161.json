@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-f2ca1fbd259c58817b38",
+      "title": "醉金盏",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.1qxs.com/xs_1/87038.html",
+      "source_host": "www.1qxs.com",
+      "source_name": "一七小说",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T15:02:37+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f2ca1fbd259c58817b38",
+        "ext-2197695883921512319"
+      ],
+      "read_sources": [
+        "https://www.1qxs.com/xs_1/87038.html"
+      ]
+    },
+    {
       "id": "ext-164a653766a4d87b30f5",
       "title": "踏枝",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/mingfen/450565.html"
-      ]
-    },
-    {
-      "id": "ext-7bd6fd2a6088c69b9ca4",
-      "title": "Chapter 96 陈律礼看她笑，……",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/mingfen/450564.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7bd6fd2a6088c69b9ca4",
-        "ext-425542718725447120"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/mingfen/450564.html"
       ]
     }
   ]

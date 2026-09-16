@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-20456c12cabc80a0172a",
+      "title": "第251章 风波",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65289.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 251,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-20456c12cabc80a0172a",
+        "ext-1408021493731167439"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65289.html"
+      ]
+    },
+    {
       "id": "ext-68bacfe925f36ab85525",
       "title": "第250章 真相",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/gnbk26/204334.html"
-      ]
-    },
-    {
-      "id": "ext-787f739be3e6634fb750",
-      "title": "第70章 敦煌108",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/gnbk26/204333.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 70,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:38+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-787f739be3e6634fb750",
-        "ext-24724497431342249"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/gnbk26/204333.html"
       ]
     }
   ]

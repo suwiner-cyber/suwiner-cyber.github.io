@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-f9b347b3fdcf94533eb6",
+      "title": "第10章 目盲君",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/plk_zheyao/37942.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 10,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:43+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f9b347b3fdcf94533eb6",
+        "ext-4664647067175977312"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/plk_zheyao/37942.html"
+      ]
+    },
+    {
       "id": "ext-42640981e640e544bbb6",
       "title": "第9章 被迫同房",
       "author": "",
@@ -7706,31 +7731,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/laojiumen/416859.html"
-      ]
-    },
-    {
-      "id": "ext-a55f4853287154a07114",
-      "title": "第十五章 尸蛾",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/laojiumen/416822.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:41+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a55f4853287154a07114",
-        "ext-2569365173070612648"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/laojiumen/416822.html"
       ]
     }
   ]
