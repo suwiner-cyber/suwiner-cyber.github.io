@@ -1,56 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-0313fb3baa388131ff3b",
-      "title": "第13章 今日宜发财",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/phbfshce/473490.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 13,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:45+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-0313fb3baa388131ff3b",
-        "ext-7964297058300716567"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/phbfshce/473490.html"
-      ]
-    },
-    {
-      "id": "ext-5378c45499dbeded0b1b",
-      "title": "第137章 正文完结",
-      "author": "",
-      "kind": "",
-      "status": "已完结",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/phbfshce/473614.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 137,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:45+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-5378c45499dbeded0b1b",
-        "ext-2614416674765833085"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/phbfshce/473614.html"
-      ]
-    },
-    {
       "id": "ext-dda59eae1eb074720dc5",
       "title": "第136章 一些日常和后续",
       "author": "",
@@ -6987,6 +6937,86 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zhuyu/171770.html"
+      ]
+    },
+    {
+      "id": "ext-8fc3d9a72687461d692e",
+      "title": "第149章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171905.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171905.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/38081.html",
+        "https://www.kanunu8.com/book7/75chyriji/463421.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481707.html",
+        "https://www.kanunu8.com/book7/hxshn92/485263.html"
+      ],
+      "read_ids": [
+        "ext-8fc3d9a72687461d692e",
+        "ext-613622291901925626",
+        "ext-97ec3c8bad2dbd60eff8",
+        "ext-6bce0e4db471d28a0d5d",
+        "ext-2ff31551c08d21e47788",
+        "ext-a9045a95451a09b572bf"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171905.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/38081.html",
+        "https://www.kanunu8.com/book7/75chyriji/463421.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481707.html",
+        "https://www.kanunu8.com/book7/hxshn92/485263.html"
+      ]
+    },
+    {
+      "id": "ext-b3ed02ab0aecbbdd349a",
+      "title": "第148章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171904.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171904.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/38080.html",
+        "https://www.kanunu8.com/book7/75chyriji/463420.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481706.html",
+        "https://www.kanunu8.com/book7/hxshn92/485262.html"
+      ],
+      "read_ids": [
+        "ext-b3ed02ab0aecbbdd349a",
+        "ext-2472890951798942645",
+        "ext-77115f7ecb9861f4b563",
+        "ext-b650198263a9b57e4768",
+        "ext-91f88eb2563e0f74b278",
+        "ext-07af647e4577ee7dd270"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171904.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/38080.html",
+        "https://www.kanunu8.com/book7/75chyriji/463420.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481706.html",
+        "https://www.kanunu8.com/book7/hxshn92/485262.html"
       ]
     }
   ]
