@@ -1,9 +1,10 @@
 {
   "version": 14,
   "adapter_version": "14.2",
-  "generated_at": "2026-09-17T00:37:04+00:00",
-  "total_books": 40247,
+  "generated_at": "2026-09-17T00:38:57+00:00",
+  "total_books": 40267,
   "source_counts": {
+    "和图书": 2658,
     "飘天文学": 1122,
     "一七小说": 4331,
     "言情小说吧": 3243,
@@ -11,7 +12,6 @@
     "爱下电子书": 4913,
     "泡书吧小说网": 4489,
     "乐文小说": 4449,
-    "和图书": 2638,
     "滋味小说网": 4997,
     "努努书坊": 8841,
     "AAAKS小说": 2008
@@ -37,7 +37,7 @@
     "九九藏书网",
     "69书吧"
   ],
-  "last_published_source": "piaotia.com",
+  "last_published_source": "hetushu.com",
   "sources": [
     {
       "name": "爱下电子书",
@@ -237,12 +237,12 @@
       "pages_this_run": 80,
       "successful_pages": 80,
       "failed_pages": 0,
-      "books_found": 22,
-      "books_added": 22,
-      "toc_written": 22,
-      "books_seen_total": 2638,
-      "remaining_queue": 8864,
-      "seen_pages": 5840,
+      "books_found": 20,
+      "books_added": 20,
+      "toc_written": 20,
+      "books_seen_total": 2658,
+      "remaining_queue": 8936,
+      "seen_pages": 5920,
       "done": false,
       "blocked": false,
       "needs_adapter": false
