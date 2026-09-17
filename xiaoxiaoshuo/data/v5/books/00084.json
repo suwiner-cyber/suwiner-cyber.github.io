@@ -1,6 +1,38 @@
 {
   "books": [
     {
+      "id": "ext-e363f508a562d46cef50",
+      "title": "龙枪编年史",
+      "author": "玛格丽特·魏丝 崔西·西克曼 发布时间：2012-02-08 内容简介： 龙枪编",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6755/index.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 113,
+      "last_chapter": "终章二 雷斯林的道别",
+      "detail_complete": true,
+      "indexed_at": "2026-09-06T06:50:21+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e363f508a562d46cef50",
+        "ext-f356b01dad9bee03a4b0",
+        "ext-8971649075252064854"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6755/index.html"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/book3/6755/index.html"
+      ]
+    },
+    {
       "id": "ext-2b0b6b4b6ed8640ddfcf",
       "title": "黑暗之路四部曲",
       "author": "R·A·萨尔瓦多 发布时间：2012-02-08 R·A·萨尔瓦多作品集 内容简",
@@ -6238,37 +6270,6 @@
       "read_ids": [
         "ext-9305dd927037a94cb044",
         "ext-9339d6d9ba14598ea727"
-      ]
-    },
-    {
-      "id": "ext-496da39e97158d27136f",
-      "title": "《 爷爷的江湖 》",
-      "author": "风一名 最新更新： 第448章 黑袍惊现，毒蜂噬身 所谓功夫，往往是三招两式结束",
-      "kind": "武侠修真小说列表 《 爷爷的江湖 》 作者：风一名 最新更新： 第448章 黑袍",
-      "status": "已完结",
-      "intro": "所谓功夫，往往是三招两式结束战斗。真正的高手，只要出手，便取人性命。真正的杀招，动作简单直接，他不需要花里胡哨，花里胡哨的是表演。在这里，没有那些精彩的招数描述，也没有几十招打不完一场架的功夫对决。一",
-      "cover": "",
-      "source_url": "https://www.ipaoshubaxs.net/sort/2/6/",
-      "source_host": "ipaoshubaxs.net",
-      "source_name": "泡书吧小说网",
-      "source_names": [
-        "泡书吧小说网"
-      ],
-      "sources": [
-        "https://www.ipaoshubaxs.net/sort/2/6/"
-      ],
-      "read_sources": [
-        "https://www.ipaoshubaxs.net/sort/2/6/"
-      ],
-      "media": "text",
-      "chapter_count": 50,
-      "last_chapter": "第108章 宁安如梦 燕临108",
-      "detail_complete": true,
-      "indexed_at": "2026-09-06T06:37:34+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-496da39e97158d27136f",
-        "ext-4e9d3b00a95e93efa629"
       ]
     }
   ]

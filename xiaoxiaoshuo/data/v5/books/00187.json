@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-fc55515c9e5d41329452",
+      "title": "第3章 左俊杰",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65041.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 3,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-fc55515c9e5d41329452",
+        "ext-7149319157576095362"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65041.html"
+      ]
+    },
+    {
       "id": "ext-b59f01399f0b742ca146",
       "title": "第39章 改变",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65051.html"
-      ]
-    },
-    {
-      "id": "ext-bf951e7e5f91f82d4e26",
-      "title": "第139章 尊严",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65177.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 139,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-bf951e7e5f91f82d4e26",
-        "ext-3139794322453380545"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65177.html"
       ]
     }
   ]

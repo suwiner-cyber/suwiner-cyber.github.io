@@ -1,6 +1,38 @@
 {
   "books": [
     {
+      "id": "ext-a3c416cf793c9ca1bbf2",
+      "title": "符文之子（1）冬日之剑",
+      "author": "[韩]全民熙 发布时间：2011-06-17 “碧翠湖里有专门攻击小孩子的亡灵。",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/xunhuan/201106/3089.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 57,
+      "last_chapter": "第五十六节 冬霜剑消失",
+      "detail_complete": true,
+      "indexed_at": "2026-09-04T06:49:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a3c416cf793c9ca1bbf2",
+        "ext-c8159cb214f2533ac82c",
+        "ext-5028411844864261247"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/xunhuan/201106/3089.html"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/xunhuan/201106/3089.html"
+      ]
+    },
+    {
       "id": "ext-9d902fd1dc5fc09ca60a",
       "title": "风一样的少年2",
       "author": "[韩]韦炫羽 发布时间：2011-06-17 帅，真的是帅耶！我流着哈喇汁发誓这",
@@ -6254,37 +6286,6 @@
       "read_ids": [
         "ext-dcab18a174b2bdada17c",
         "ext-f919a91afb90011ef9a7"
-      ]
-    },
-    {
-      "id": "ext-c1ec8d75c7699c5df94f",
-      "title": "进化的四十六亿重奏 作者: 相位行者",
-      "author": "相位行者 关于进化的四十六亿重奏： 进化的四十六亿重奏是相位行者写的科幻未来类小",
-      "kind": "首页 > 科幻小说 > 进化的四十六亿重奏 进化的四十六亿重奏 作者: 相位行者",
-      "status": "已完结",
-      "intro": "关于进化的四十六亿重奏： 进化的四十六亿重奏是相位行者写的科幻未来类小说.......",
-      "cover": "",
-      "source_url": "https://www.ipaoshubaxs.net/book/13306.html",
-      "source_host": "ipaoshubaxs.net",
-      "source_name": "泡书吧小说网",
-      "source_names": [
-        "泡书吧小说网"
-      ],
-      "sources": [
-        "https://www.ipaoshubaxs.net/book/13306.html"
-      ],
-      "read_sources": [
-        "https://www.ipaoshubaxs.net/book/13306.html"
-      ],
-      "media": "text",
-      "chapter_count": 10,
-      "last_chapter": "第一百四十章 逃离",
-      "detail_complete": true,
-      "indexed_at": "2026-09-04T06:36:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c1ec8d75c7699c5df94f",
-        "ext-e193c4c273bb13c90b52"
       ]
     }
   ]
