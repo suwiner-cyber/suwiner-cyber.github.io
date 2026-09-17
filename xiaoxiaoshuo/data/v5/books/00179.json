@@ -1,6 +1,87 @@
 {
   "books": [
     {
+      "id": "ext-54cc0561e4cb353afa46",
+      "title": "马伯庸作品集",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/writer/6482.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:04+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-54cc0561e4cb353afa46",
+        "ext-1586269489405403123"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/writer/6482.html"
+      ]
+    },
+    {
+      "id": "ext-003c7c4f2f47ea0a4d5a",
+      "title": "自序",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/2j15ri/113924.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:04+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-003c7c4f2f47ea0a4d5a",
+        "ext-7532465038993534543"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/2j15ri/113924.html"
+      ]
+    },
+    {
+      "id": "ext-29d5f18f871a7cc90588",
+      "title": "尾声",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/2j15ri/113956.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:04+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book5/2j15ri/113956.html",
+        "https://www.kanunu8.com/book7/jianchuqiao/445751.html"
+      ],
+      "read_ids": [
+        "ext-29d5f18f871a7cc90588",
+        "ext-7570790167639390602",
+        "ext-44666d43c50476b7f911"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/2j15ri/113956.html",
+        "https://www.kanunu8.com/book7/jianchuqiao/445751.html"
+      ]
+    },
+    {
       "id": "ext-8d92a01767f58428302a",
       "title": "写在故事旁边",
       "author": "",
@@ -5064,81 +5145,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/qy_jlwxs/35566.html"
-      ]
-    },
-    {
-      "id": "ext-df3fd3d33d80431c6ffb",
-      "title": "第8章 8号登机口",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/qy_jlwxs/35565.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 8,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:59+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-df3fd3d33d80431c6ffb",
-        "ext-2624756391394035519"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/qy_jlwxs/35565.html"
-      ]
-    },
-    {
-      "id": "ext-b9b1aa0255ded26613eb",
-      "title": "第7章 7号登机口",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/qy_jlwxs/35564.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 7,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:59+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b9b1aa0255ded26613eb",
-        "ext-1401799178947417392"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/qy_jlwxs/35564.html"
-      ]
-    },
-    {
-      "id": "ext-4d1646423e01603c7648",
-      "title": "第77章 结局（下）",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/qy_jlwxs/35634.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 77,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:59+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-4d1646423e01603c7648",
-        "ext-4091469911104850433"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/qy_jlwxs/35634.html"
       ]
     }
   ]
