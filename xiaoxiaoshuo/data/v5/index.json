@@ -1,6 +1,6 @@
 {
   "version": 14,
-  "generated_at": "2026-09-17T12:34:30+00:00",
+  "generated_at": "2026-09-17T12:36:06+00:00",
   "total": 40783,
   "shard_size": 200,
   "shards": [
@@ -1015,14 +1015,14 @@
       "name": "飘天文学",
       "host": "piaotia.com",
       "pages_this_run": 80,
-      "successful_pages": 77,
-      "failed_pages": 3,
-      "books_found": 11,
-      "books_added": 11,
-      "toc_written": 11,
+      "successful_pages": 80,
+      "failed_pages": 0,
+      "books_found": 0,
+      "books_added": 0,
+      "toc_written": 0,
       "books_seen_total": 1424,
-      "remaining_queue": 25355,
-      "seen_pages": 6000,
+      "remaining_queue": 25968,
+      "seen_pages": 6080,
       "done": false,
       "blocked": false,
       "needs_adapter": false
@@ -1045,7 +1045,7 @@
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "1qxs.com",
+  "last_published_source": "piaotia.com",
   "id_scheme": "stable-v4-aliases",
   "metadata_sanitized": true,
   "text_only": true
