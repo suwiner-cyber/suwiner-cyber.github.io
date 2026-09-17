@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-09-17T13:07:06+00:00",
+  "generated_at": "2026-09-17T13:08:54+00:00",
   "errors": [
-    {
-      "time": "2026-09-12T06:50:53+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1685722/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-12T06:51:07+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1650211/",
-      "error": "Remote end closed connection without response"
-    },
     {
       "time": "2026-09-12T06:51:21+00:00",
       "source": "AAAKS小说",
@@ -15000,6 +14988,18 @@
       "source": "AAAKS小说",
       "url": "https://www.aaaks.com/book/1819126/",
       "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-17T13:07:26+00:00",
+      "source": "努努书坊",
+      "url": "https://www.kanunu8.com/files/9391.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-17T13:07:35+00:00",
+      "source": "努努书坊",
+      "url": "https://www.kanunu8.com/book4/10506/index.html",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }
