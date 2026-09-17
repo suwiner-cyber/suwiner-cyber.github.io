@@ -1,86 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-a01ff3da72aa691aed45",
-      "title": "第123章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171879.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171879.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/38055.html",
-        "https://www.kanunu8.com/book7/75chyriji/463395.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481681.html",
-        "https://www.kanunu8.com/book7/hxshn92/485237.html"
-      ],
-      "read_ids": [
-        "ext-a01ff3da72aa691aed45",
-        "ext-4184578369097126041",
-        "ext-5ebd24659b58e752750d",
-        "ext-7e576acabc8e2ce23ecb",
-        "ext-75bf2ff348826e1690bb",
-        "ext-6921107bf052bc5110c4"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171879.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/38055.html",
-        "https://www.kanunu8.com/book7/75chyriji/463395.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481681.html",
-        "https://www.kanunu8.com/book7/hxshn92/485237.html"
-      ]
-    },
-    {
-      "id": "ext-839be3272a982279e9f2",
-      "title": "第122章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171878.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171878.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/38054.html",
-        "https://www.kanunu8.com/book7/75chyriji/463394.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481680.html",
-        "https://www.kanunu8.com/book7/hxshn92/485236.html"
-      ],
-      "read_ids": [
-        "ext-839be3272a982279e9f2",
-        "ext-5584001681971336674",
-        "ext-8f5ddd42d6e32d500dd2",
-        "ext-7e910f1641fd66beb34b",
-        "ext-9240d95231efcda1f809",
-        "ext-f0f72a9b7507141e8e07"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171878.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/38054.html",
-        "https://www.kanunu8.com/book7/75chyriji/463394.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481680.html",
-        "https://www.kanunu8.com/book7/hxshn92/485236.html"
-      ]
-    },
-    {
       "id": "ext-e0e09aef72457fb1bb3a",
       "title": "第121章",
       "author": "",
@@ -5433,6 +5353,56 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65345.html"
+      ]
+    },
+    {
+      "id": "ext-4036dffc2ee73bac5e25",
+      "title": "第306章 静好",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65344.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 306,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4036dffc2ee73bac5e25",
+        "ext-7413156422842349176"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65344.html"
+      ]
+    },
+    {
+      "id": "ext-24a78616bce956d9b418",
+      "title": "第305章 谋划",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65343.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 305,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-24a78616bce956d9b418",
+        "ext-349088499038327986"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65343.html"
       ]
     }
   ]
