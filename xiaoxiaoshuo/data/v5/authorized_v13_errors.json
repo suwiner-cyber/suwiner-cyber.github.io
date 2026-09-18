@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-09-18T06:59:40+00:00",
+  "generated_at": "2026-09-18T07:02:19+00:00",
   "errors": [
-    {
-      "time": "2026-09-13T00:51:26+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/862514/",
-      "error": "Remote end closed connection without response"
-    },
     {
       "time": "2026-09-13T00:51:39+00:00",
       "source": "AAAKS小说",
@@ -15000,6 +14994,12 @@
       "source": "AAAKS小说",
       "url": "https://www.aaaks.com/book/2166639266/",
       "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-18T07:01:30+00:00",
+      "source": "爱下电子书",
+      "url": "https://ixdzs8.com/read/504568/p.html",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }
