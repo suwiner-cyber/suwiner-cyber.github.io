@@ -1,9 +1,10 @@
 {
   "version": 13,
-  "generated_at": "2026-09-18T19:01:59+00:00",
-  "total_books": 42497,
+  "generated_at": "2026-09-18T19:03:45+00:00",
+  "total_books": 42573,
   "source_counts": {
-    "塔读文学": 435,
+    "努努书坊": 9233,
+    "塔读文学": 433,
     "爱下电子书": 5208,
     "和图书": 2793,
     "滋味小说网": 4997,
@@ -12,26 +13,25 @@
     "飘天文学": 1150,
     "一七小说": 4711,
     "言情小说吧": 3676,
-    "努努书坊": 9155,
     "AAAKS小说": 2008
   },
   "all_done": false,
   "continue_needed": true,
   "unresolved_sources": [
-    "塔读文学"
+    "努努书坊"
   ],
   "sources": [
     {
-      "name": "塔读文学",
-      "host": "tadu.com",
+      "name": "努努书坊",
+      "host": "kanunu8.com",
       "pages_this_run": 80,
-      "successful_pages": 72,
-      "failed_pages": 8,
-      "books_found": 58,
-      "books_added": 58,
-      "toc_written": 58,
-      "books_seen_total": 5220,
-      "remaining_queue": 20370,
+      "successful_pages": 79,
+      "failed_pages": 1,
+      "books_found": 78,
+      "books_added": 78,
+      "toc_written": 78,
+      "books_seen_total": 4852,
+      "remaining_queue": 15002,
       "seen_pages": 6400,
       "done": false,
       "blocked": false,

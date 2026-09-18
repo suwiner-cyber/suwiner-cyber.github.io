@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-09-18T19:01:59+00:00",
+  "generated_at": "2026-09-18T19:03:45+00:00",
   "errors": [
-    {
-      "time": "2026-09-13T12:43:41+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1960494374/",
-      "error": "Remote end closed connection without response"
-    },
     {
       "time": "2026-09-13T12:43:54+00:00",
       "source": "AAAKS小说",
@@ -15000,6 +14994,12 @@
       "source": "塔读文学",
       "url": "https://www.tadu.com/space/author/323952",
       "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-18T19:02:19+00:00",
+      "source": "努努书坊",
+      "url": "https://www.kanunu8.com/book3/8038/index.html",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }
