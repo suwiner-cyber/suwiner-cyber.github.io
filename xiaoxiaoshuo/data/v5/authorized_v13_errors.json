@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-09-18T12:32:32+00:00",
+  "generated_at": "2026-09-18T12:34:07+00:00",
   "errors": [
-    {
-      "time": "2026-09-13T00:54:39+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/173655/",
-      "error": "Remote end closed connection without response"
-    },
     {
       "time": "2026-09-13T00:54:53+00:00",
       "source": "AAAKS小说",
@@ -14999,6 +14993,12 @@
       "time": "2026-09-18T07:15:14+00:00",
       "source": "言情小说吧",
       "url": "https://www.xs8.cn/bookrecommend/sqc03eb9e7179e6408",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-18T12:33:57+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=431627",
       "error": "HTTP Error 404: Not Found"
     }
   ]

@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-5565e67c844fe225a6b1",
+      "title": "桐华: 步步为营",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/yuanchuang/201102/1422.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:31+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-5565e67c844fe225a6b1",
+        "ext-1936501435721096561"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/yuanchuang/201102/1422.html"
+      ]
+    },
+    {
+      "id": "ext-581ee7ff046005c6a872",
+      "title": "文山樵人: 盗墓迷津",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/terrorist/201103/1920.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:31+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-581ee7ff046005c6a872",
+        "ext-8830511863994624451"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/terrorist/201103/1920.html"
+      ]
+    },
+    {
       "id": "ext-fa45fa4c03417e7b3224",
       "title": ": 撒冷作品集",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/02-19-1534.html"
-      ]
-    },
-    {
-      "id": "ext-57a4bef32d38eb5239a7",
-      "title": ": 《别动我的初恋1》试阅读",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/03-08-1902.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-57a4bef32d38eb5239a7",
-        "ext-427535725223391331"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/03-08-1902.html"
-      ]
-    },
-    {
-      "id": "ext-b8b9d531bec0c09ff481",
-      "title": "阿阁主人: 梅兰佳话",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/old/2011/2504.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:29+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b8b9d531bec0c09ff481",
-        "ext-1765685656786430583"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/old/2011/2504.html"
       ]
     }
   ]
