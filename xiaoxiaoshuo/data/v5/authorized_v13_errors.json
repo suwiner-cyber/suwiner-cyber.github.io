@@ -1,60 +1,6 @@
 {
-  "generated_at": "2026-09-18T07:08:27+00:00",
+  "generated_at": "2026-09-18T07:17:53+00:00",
   "errors": [
-    {
-      "time": "2026-09-13T00:52:35+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/535543/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-13T00:52:49+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/535544/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-13T00:53:03+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/173648/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-13T00:53:16+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/173649/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-13T00:53:30+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/173650/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-13T00:53:44+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/173651/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-13T00:53:58+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/173652/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-13T00:54:12+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/173653/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-13T00:54:25+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/173654/",
-      "error": "Remote end closed connection without response"
-    },
     {
       "time": "2026-09-13T00:54:39+00:00",
       "source": "AAAKS小说",
@@ -15000,6 +14946,60 @@
       "source": "塔读文学",
       "url": "https://www.tadu.com/space/author/495064",
       "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-18T07:11:08+00:00",
+      "source": "言情小说吧",
+      "url": "https://www.xs8.cn/bookquery/ycycqblwhvtu",
+      "error": "HTTP Error 504: Gateway Timeout"
+    },
+    {
+      "time": "2026-09-18T07:12:03+00:00",
+      "source": "言情小说吧",
+      "url": "https://www.xs8.cn/bookquery/zfsklwnjqbvx",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "time": "2026-09-18T07:12:55+00:00",
+      "source": "言情小说吧",
+      "url": "https://www.xs8.cn/bqx/skiqvxgtos",
+      "error": "HTTP Error 504: Gateway Timeout"
+    },
+    {
+      "time": "2026-09-18T07:13:59+00:00",
+      "source": "言情小说吧",
+      "url": "https://www.xs8.cn/bookrecommend/sq3141e84b4ad36397",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-18T07:14:08+00:00",
+      "source": "言情小说吧",
+      "url": "https://www.xs8.cn/bookrecommend/sq0300d09602ec9b85",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-18T07:14:16+00:00",
+      "source": "言情小说吧",
+      "url": "https://www.xs8.cn/bookrecommend/sq6506fa185b88187e",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-18T07:14:32+00:00",
+      "source": "言情小说吧",
+      "url": "https://www.xs8.cn/bookrecommend/sq77f7f2984bd0513e",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-18T07:15:13+00:00",
+      "source": "言情小说吧",
+      "url": "https://www.xs8.cn/bookrecommend/sqf2c8f7e69b28e9a5",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-18T07:15:14+00:00",
+      "source": "言情小说吧",
+      "url": "https://www.xs8.cn/bookrecommend/sqc03eb9e7179e6408",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }
