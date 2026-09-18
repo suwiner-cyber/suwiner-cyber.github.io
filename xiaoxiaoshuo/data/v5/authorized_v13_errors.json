@@ -1,36 +1,6 @@
 {
-  "generated_at": "2026-09-18T06:33:52+00:00",
+  "generated_at": "2026-09-18T06:35:29+00:00",
   "errors": [
-    {
-      "time": "2026-09-12T18:47:41+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/2120256/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-12T18:47:55+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/2119890/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-12T18:48:08+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/2087714/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-12T18:48:21+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/2087715/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-12T18:48:34+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/2073255/",
-      "error": "Remote end closed connection without response"
-    },
     {
       "time": "2026-09-12T18:48:47+00:00",
       "source": "AAAKS小说",
@@ -15000,6 +14970,36 @@
       "source": "塔读文学",
       "url": "https://www.tadu.com/space/author/345787",
       "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-18T06:34:50+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=367108",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-18T06:34:53+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=312531",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-18T06:34:55+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=179919",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-18T06:35:12+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=425200",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-18T06:35:21+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=174861",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }

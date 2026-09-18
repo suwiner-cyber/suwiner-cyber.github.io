@@ -1,9 +1,10 @@
 {
   "version": 14,
   "adapter_version": "14.2",
-  "generated_at": "2026-09-18T06:33:52+00:00",
-  "total_books": 41706,
+  "generated_at": "2026-09-18T06:35:29+00:00",
+  "total_books": 41711,
   "source_counts": {
+    "飘天文学": 1142,
     "一七小说": 4596,
     "言情小说吧": 3579,
     "努努书坊": 9014,
@@ -12,7 +13,6 @@
     "和图书": 2736,
     "泡书吧小说网": 4752,
     "乐文小说": 4714,
-    "飘天文学": 1137,
     "滋味小说网": 4997,
     "AAAKS小说": 2008
   },
@@ -37,7 +37,7 @@
     "九九藏书网",
     "69书吧"
   ],
-  "last_published_source": "1qxs.com",
+  "last_published_source": "piaotia.com",
   "sources": [
     {
       "name": "爱下电子书",
@@ -219,14 +219,14 @@
       "name": "飘天文学",
       "host": "piaotia.com",
       "pages_this_run": 80,
-      "successful_pages": 78,
-      "failed_pages": 2,
-      "books_found": 14,
-      "books_added": 14,
-      "toc_written": 14,
-      "books_seen_total": 1444,
-      "remaining_queue": 26096,
-      "seen_pages": 6240,
+      "successful_pages": 75,
+      "failed_pages": 5,
+      "books_found": 10,
+      "books_added": 10,
+      "toc_written": 10,
+      "books_seen_total": 1454,
+      "remaining_queue": 26204,
+      "seen_pages": 6320,
       "done": false,
       "blocked": false,
       "needs_adapter": false
