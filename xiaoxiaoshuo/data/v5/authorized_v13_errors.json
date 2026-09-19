@@ -1,24 +1,6 @@
 {
-  "generated_at": "2026-09-19T01:02:39+00:00",
+  "generated_at": "2026-09-19T01:06:32+00:00",
   "errors": [
-    {
-      "time": "2026-09-13T18:40:03+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/836050/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-13T18:40:16+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/836049/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-13T18:40:30+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/627119/",
-      "error": "Remote end closed connection without response"
-    },
     {
       "time": "2026-09-13T18:40:43+00:00",
       "source": "AAAKS小说",
@@ -15000,6 +14982,24 @@
       "source": "AAAKS小说",
       "url": "https://www.aaaks.com/book/300609289/",
       "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-19T01:06:29+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/419630",
+      "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-19T01:06:30+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/358267",
+      "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-19T01:06:31+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/322949",
+      "error": "HTTP Error 404: "
     }
   ]
 }
