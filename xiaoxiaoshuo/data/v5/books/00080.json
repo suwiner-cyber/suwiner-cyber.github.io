@@ -1,6 +1,37 @@
 {
   "books": [
     {
+      "id": "ext-bc1671029c19b1bddded",
+      "title": "秘书长3·大结局",
+      "author": "洪放 发布时间：2011-03-11 赵守春还是没有能捱到当书记的这一天。早晨上",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/chinese/201103/2036.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/chinese/201103/2036.html"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/chinese/201103/2036.html"
+      ],
+      "media": "text",
+      "chapter_count": 21,
+      "last_chapter": "第20节",
+      "detail_complete": true,
+      "indexed_at": "2026-09-08T13:08:03+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-bc1671029c19b1bddded",
+        "ext-9c74536e18b3e11a645d"
+      ]
+    },
+    {
       "id": "ext-d5a99c15bc725eaeac4a",
       "title": "秘书长2",
       "author": "洪放 发布时间：2011-03-11 “市委秘书长”无疑是特殊的职位，坐上这位置",
@@ -6304,37 +6335,6 @@
       "read_ids": [
         "ext-bc97c910ec92664b77de",
         "ext-ca65c564760830ff553d"
-      ]
-    },
-    {
-      "id": "ext-b94a3f6a7f3a0043957d",
-      "title": "霞浦高中推理纪事·涟",
-      "author": "名和行年",
-      "kind": "悬疑小说 字数：49.38万字 继《纪事》与《纪事异》之后，又一次日常推理的提笔",
-      "status": "",
-      "intro": "继《纪事》与《纪事异》之后，又一次日常推理的提笔。此次的取材不再仅限于校园，力图将生活中的点滴触动展现给读者。风雨如晦终有晴日，愿此笔能够获得些许思考和感悟。",
-      "cover": "",
-      "source_url": "https://www.hetushu.com/book/8978/index.html",
-      "source_host": "hetushu.com",
-      "source_name": "和图书",
-      "source_names": [
-        "和图书"
-      ],
-      "sources": [
-        "https://www.hetushu.com/book/8978/index.html"
-      ],
-      "read_sources": [
-        "https://www.hetushu.com/book/8978/index.html"
-      ],
-      "media": "text",
-      "chapter_count": 121,
-      "last_chapter": "第十五章 始也茶屋，终也茶屋",
-      "detail_complete": true,
-      "indexed_at": "2026-09-08T12:37:05+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b94a3f6a7f3a0043957d",
-        "ext-a317fabf27a39b34a5c7"
       ]
     }
   ]
