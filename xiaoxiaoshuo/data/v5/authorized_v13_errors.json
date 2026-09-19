@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-09-19T12:32:19+00:00",
+  "generated_at": "2026-09-19T12:33:58+00:00",
   "errors": [
-    {
-      "time": "2026-09-14T00:57:10+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1672722299/",
-      "error": "Remote end closed connection without response"
-    },
     {
       "time": "2026-09-14T00:57:23+00:00",
       "source": "AAAKS小说",
@@ -15000,6 +14994,12 @@
       "source": "塔读文学",
       "url": "https://www.tadu.com/space/author/489391",
       "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-19T12:33:55+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=425269",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }
