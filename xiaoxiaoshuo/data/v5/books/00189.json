@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-ce3a37610c43abf82542",
+      "title": "第65章 异动",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/xinpin/449979.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:18+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ce3a37610c43abf82542",
+        "ext-5826672133149976877"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/xinpin/449979.html"
+      ]
+    },
+    {
       "id": "ext-d3f5120ab56341affa32",
       "title": "第64章 长明",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/mangjia/450758.html"
-      ]
-    },
-    {
-      "id": "ext-db12836be2748300d1ac",
-      "title": "第65章 珠胎暗结",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/mangjia/450757.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 65,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:16+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-db12836be2748300d1ac",
-        "ext-1146474685438473112"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/mangjia/450757.html"
       ]
     }
   ]

@@ -1,6 +1,46 @@
 {
   "books": [
     {
+      "id": "ext-a71e50d08c847ef6ef3d",
+      "title": "第130章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171886.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171886.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/38062.html",
+        "https://www.kanunu8.com/book7/75chyriji/463402.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481688.html",
+        "https://www.kanunu8.com/book7/hxshn92/485244.html"
+      ],
+      "read_ids": [
+        "ext-a71e50d08c847ef6ef3d",
+        "ext-8313136732599587687",
+        "ext-d0238a22041fff1b854d",
+        "ext-6400728f44d3e7b1890c",
+        "ext-ba38c8545736a1280c52",
+        "ext-760a55c52d2671ab88a7"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171886.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/38062.html",
+        "https://www.kanunu8.com/book7/75chyriji/463402.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481688.html",
+        "https://www.kanunu8.com/book7/hxshn92/485244.html"
+      ]
+    },
+    {
       "id": "ext-80d8495e356a0783d37d",
       "title": "第12章 矫情男人",
       "author": "",
@@ -5498,31 +5538,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65073.html"
-      ]
-    },
-    {
-      "id": "ext-6649bb98cdbd465c57c8",
-      "title": "第34章 初见",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65072.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 34,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-6649bb98cdbd465c57c8",
-        "ext-8474234224111336734"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65072.html"
       ]
     }
   ]

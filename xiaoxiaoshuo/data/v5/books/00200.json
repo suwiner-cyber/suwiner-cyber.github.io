@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-e4516e8dac1e39f4ac04",
+      "title": "第39章 君臣录",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/dby79/458220.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 39,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:56+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e4516e8dac1e39f4ac04",
+        "ext-3070083398680148535"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/dby79/458220.html"
+      ]
+    },
+    {
       "id": "ext-cfdca3078254d6503753",
       "title": "第38章 君臣录",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/dby79/458315.html"
-      ]
-    },
-    {
-      "id": "ext-04f597f381d09ed255f9",
-      "title": "第133章 悠闲庶皇子",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dby79/458314.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 133,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:56+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-04f597f381d09ed255f9",
-        "ext-2959371614994441058"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dby79/458314.html"
       ]
     }
   ]

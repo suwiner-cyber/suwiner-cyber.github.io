@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-04f597f381d09ed255f9",
+      "title": "第133章 悠闲庶皇子",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/dby79/458314.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 133,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:56+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-04f597f381d09ed255f9",
+        "ext-2959371614994441058"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/dby79/458314.html"
+      ]
+    },
+    {
       "id": "ext-b60fdcc262dd624227d0",
       "title": "第132章 悠闲庶皇子",
       "author": "",
@@ -5015,37 +5040,6 @@
       "read_sources": [
         "https://www.kanunu8.com/book7/datangpizhuji/481786.html",
         "https://www.kanunu8.com/book7/hxshn92/485344.html"
-      ]
-    },
-    {
-      "id": "ext-a1d191ac333204626869",
-      "title": "第228章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/datangpizhuji/481785.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 220,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:52+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/datangpizhuji/481785.html",
-        "https://www.kanunu8.com/book7/hxshn92/485343.html"
-      ],
-      "read_ids": [
-        "ext-a1d191ac333204626869",
-        "ext-1606938075152866114",
-        "ext-fe5481284b89d26d28b2"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/datangpizhuji/481785.html",
-        "https://www.kanunu8.com/book7/hxshn92/485343.html"
       ]
     }
   ]

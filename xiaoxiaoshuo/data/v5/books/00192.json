@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-07c0c4df85a3529c276b",
+      "title": "第40章 晴日暖，绿荫幽",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/xingguanghaian/457311.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 40,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:12+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-07c0c4df85a3529c276b",
+        "ext-5588402102020015782"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/xingguanghaian/457311.html"
+      ]
+    },
+    {
       "id": "ext-ab1a56bc5ab79c56e760",
       "title": "第3章 小轩窗，半面妆",
       "author": "",
@@ -4982,31 +5007,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450192.html"
-      ]
-    },
-    {
-      "id": "ext-d57ea900d891e1a4e04e",
-      "title": "第四十四章 解药",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450133.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d57ea900d891e1a4e04e",
-        "ext-7617342545831815659"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450133.html"
       ]
     }
   ]

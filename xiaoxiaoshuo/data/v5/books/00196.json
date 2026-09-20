@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-1b751105be84d494cc4c",
+      "title": "第2章 监控录象",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/10669/356217.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 2,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:03+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1b751105be84d494cc4c",
+        "ext-8912205906844396149"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10669/356217.html"
+      ]
+    },
+    {
       "id": "ext-72a3737a32acf077205e",
       "title": "第29章 杭州怪小孩",
       "author": "",
@@ -5114,31 +5139,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/dby82/459760.html"
-      ]
-    },
-    {
-      "id": "ext-408a015ce591b18f7f0f",
-      "title": "第91章 末世人形兵器28",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dby82/459759.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 91,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:58+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-408a015ce591b18f7f0f",
-        "ext-5330380767023054212"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dby82/459759.html"
       ]
     }
   ]

@@ -1,6 +1,37 @@
 {
   "books": [
     {
+      "id": "ext-a1d191ac333204626869",
+      "title": "第228章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/datangpizhuji/481785.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 220,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:52+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/datangpizhuji/481785.html",
+        "https://www.kanunu8.com/book7/hxshn92/485343.html"
+      ],
+      "read_ids": [
+        "ext-a1d191ac333204626869",
+        "ext-1606938075152866114",
+        "ext-fe5481284b89d26d28b2"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/datangpizhuji/481785.html",
+        "https://www.kanunu8.com/book7/hxshn92/485343.html"
+      ]
+    },
+    {
       "id": "ext-3e37e5063262c9136dad",
       "title": "第227章",
       "author": "",
@@ -5309,31 +5340,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/463112.html"
-      ]
-    },
-    {
-      "id": "ext-618195563647614ec0d8",
-      "title": "结局二(34)",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/463111.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-618195563647614ec0d8",
-        "ext-6803644595185291346"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/463111.html"
       ]
     }
   ]

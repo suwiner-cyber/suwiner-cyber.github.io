@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-a71552ff134542690070",
+      "title": "12. 重，不重要",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/feiyingyouxi/456973.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:22+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a71552ff134542690070",
+        "ext-1824579288122638042"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/feiyingyouxi/456973.html"
+      ]
+    },
+    {
       "id": "ext-afed537f6bb79ed732b8",
       "title": "11. 土和屎",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/xinpin/449980.html"
-      ]
-    },
-    {
-      "id": "ext-ce3a37610c43abf82542",
-      "title": "第65章 异动",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/xinpin/449979.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:18+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ce3a37610c43abf82542",
-        "ext-5826672133149976877"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/xinpin/449979.html"
       ]
     }
   ]

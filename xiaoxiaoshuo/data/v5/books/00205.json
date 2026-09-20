@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-5d3570f298cb8008a9af",
+      "title": "第107章 if线",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/lmm04/464156.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 107,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:48+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-5d3570f298cb8008a9af",
+        "ext-3840329678954428297"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/lmm04/464156.html"
+      ]
+    },
+    {
       "id": "ext-d4a54c981145fbe65bbe",
       "title": "第106章 if线",
       "author": "",
@@ -5390,31 +5415,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/phbfshce/473597.html"
-      ]
-    },
-    {
-      "id": "ext-0112eebd0ee9664e4769",
-      "title": "第11章 好肮脏的手段！好阴险的男人！",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/phbfshce/473488.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 11,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:45+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-0112eebd0ee9664e4769",
-        "ext-7041182060495137488"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/phbfshce/473488.html"
       ]
     }
   ]

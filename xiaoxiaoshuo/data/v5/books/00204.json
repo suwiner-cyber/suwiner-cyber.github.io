@@ -1,6 +1,37 @@
 {
   "books": [
     {
+      "id": "ext-b4f0c93a4d9208296e2e",
+      "title": "第一百五十六章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463002.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463002.html",
+        "https://www.kanunu8.com/book7/dby67/470099.html"
+      ],
+      "read_ids": [
+        "ext-b4f0c93a4d9208296e2e",
+        "ext-3346926082753765499",
+        "ext-039617931a96a8544808"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463002.html",
+        "https://www.kanunu8.com/book7/dby67/470099.html"
+      ]
+    },
+    {
       "id": "ext-4b8b978954e31a506702",
       "title": "第一百五十八章",
       "author": "",
@@ -5291,31 +5322,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/lmm04/464157.html"
-      ]
-    },
-    {
-      "id": "ext-5d3570f298cb8008a9af",
-      "title": "第107章 if线",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/lmm04/464156.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 107,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:48+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-5d3570f298cb8008a9af",
-        "ext-3840329678954428297"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/lmm04/464156.html"
       ]
     }
   ]
