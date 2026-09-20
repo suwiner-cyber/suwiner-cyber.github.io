@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-09-20T18:29:55+00:00",
+  "generated_at": "2026-09-20T18:31:35+00:00",
   "errors": [
-    {
-      "time": "2026-09-15T12:54:26+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1616329257/",
-      "error": "Remote end closed connection without response"
-    },
     {
       "time": "2026-09-15T12:54:40+00:00",
       "source": "AAAKS小说",
@@ -14999,6 +14993,12 @@
       "time": "2026-09-20T13:01:56+00:00",
       "source": "爱下电子书",
       "url": "https://ixdzs8.com/read/23485/p.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-20T18:31:11+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=387591",
       "error": "HTTP Error 404: Not Found"
     }
   ]

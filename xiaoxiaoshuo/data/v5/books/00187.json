@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-6d66b524594d5c727599",
+      "title": "日月：永历1656",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.1qxs.com/xs_1/96984.html",
+      "source_host": "www.1qxs.com",
+      "source_name": "一七小说",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T15:02:15+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-6d66b524594d5c727599",
+        "ext-4960055696765165437"
+      ],
+      "read_sources": [
+        "https://www.1qxs.com/xs_1/96984.html"
+      ]
+    },
+    {
+      "id": "ext-3e0fcbf7ba07a27599de",
+      "title": "摄政大明",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.1qxs.com/img/default.png",
+      "source_url": "https://www.1qxs.com/xs_1/1773.html",
+      "source_host": "www.1qxs.com",
+      "source_name": "一七小说",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T15:02:15+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3e0fcbf7ba07a27599de",
+        "ext-1239078137712504597"
+      ],
+      "read_sources": [
+        "https://www.1qxs.com/xs_1/1773.html"
+      ]
+    },
+    {
       "id": "ext-e245636cf371eced7490",
       "title": "我在现代留过学",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/mingfen/450497.html"
-      ]
-    },
-    {
-      "id": "ext-27d2b5506d1c62832595",
-      "title": "Chapter 28:今晚拍的相片我看看",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/mingfen/450496.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-27d2b5506d1c62832595",
-        "ext-4789104213512404070"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/mingfen/450496.html"
-      ]
-    },
-    {
-      "id": "ext-37b51a6f520735795519",
-      "title": "Chapter 27:那一刻想吻她的念头",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/mingfen/450495.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-37b51a6f520735795519",
-        "ext-7530287003691752801"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/mingfen/450495.html"
       ]
     }
   ]

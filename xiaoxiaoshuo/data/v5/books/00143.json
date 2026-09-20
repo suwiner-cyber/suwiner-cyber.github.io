@@ -1,6 +1,102 @@
 {
   "books": [
     {
+      "id": "ext-9d21e48255438648fe52",
+      "title": "三国演义",
+      "author": "罗贯中 发布时间：2011-04-02 正文 第001回 宴桃园豪杰三结义 斩黄",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2447.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 120,
+      "last_chapter": "第120回 荐杜预老将献新谋 降孙皓三分归一统",
+      "detail_complete": true,
+      "indexed_at": "2026-09-03T00:54:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9d21e48255438648fe52",
+        "ext-6065e35c9c18cd3defeb",
+        "ext-1034552482044916375"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2447.html"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/old/2011/2447.html"
+      ]
+    },
+    {
+      "id": "ext-a0e7fb9a55dea77951d3",
+      "title": "西游记",
+      "author": "吴承恩 发布时间：2011-04-02 正文 第001回 灵根育孕源流出 心性修",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2448.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 100,
+      "last_chapter": "第100回 径回东土 五圣成真",
+      "detail_complete": true,
+      "indexed_at": "2026-09-03T00:54:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a0e7fb9a55dea77951d3",
+        "ext-d2abf9139f12370acff7",
+        "ext-2118346834110089066"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2448.html"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/old/2011/2448.html"
+      ]
+    },
+    {
+      "id": "ext-dd643bef6164a95ca734",
+      "title": "红楼梦",
+      "author": "曹雪芹 内容简介： 《红楼梦》主要描写一个美好世界的兴起、发展，和最后无可避免的",
+      "kind": "武侠小说",
+      "status": "",
+      "intro": "《红楼梦》主要描写一个美好世界的兴起、发展，和最后无可避免的悲剧性幻灭。小说创造了两个对比鲜明的世界，一为大观园以外的现实世界，一为大观园的理想世界，即第5回贾宝玉所梦见“太虚幻境”的人间投影。两个世界是肮脏堕落，和干净纯洁的强烈对比。大观园是贾宝玉和诸姊妹的干净土，把女儿们与外界隔绝，希望女儿们在里面过无忧无虑的逍遥日子，永远保持青春，不要出嫁，以免染上男人的龌龊气味。大观园所住男人只有贾宝玉一个，但他在园中跟一些女子有染。作者创造了大观园这个理想世界，希望它长驻人间；另一方面他又无情地写出，现实世界的力量不断摧残理想世界，直至它完全毁灭。从71回开始，作者已开始布置大观园理想世界的幻灭，73回绣春囊的出现，正象征大观园的开始堕落。曹雪芹原著的结局，是大观园清净世界的破灭，人物身份地位的颠倒。例如原有洁癖的妙玉，在原著结局中却沦落风尘，最为不堪。最爱干净的人物走到最龌龊的角落去，强烈的对照衬托了结局的悲惨。",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2449.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 120,
+      "last_chapter": "第一二零回 甄士隐详说太虚情 贾雨村归结红楼梦",
+      "detail_complete": true,
+      "indexed_at": "2026-09-03T00:54:37+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-dd643bef6164a95ca734",
+        "ext-ef6d02d9d7256bf36375",
+        "ext-161181650950831343"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2449.html"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/old/2011/2449.html"
+      ]
+    },
+    {
       "id": "ext-aa04c9c278dbf9b11909",
       "title": "听月楼",
       "author": "佚名 发布时间：2011-04-13 正文 第01回 月楼仙迹 艳妾专房 第02",
@@ -6143,99 +6239,6 @@
       "read_ids": [
         "ext-2a6e8be6b92fdebaea1e",
         "ext-3a771ac910360948a327"
-      ]
-    },
-    {
-      "id": "ext-4db71cd15b06d1ad9de1",
-      "title": "苟在青云峰当峰主 作者: 星河眺望者",
-      "author": "星河眺望者 关于苟在青云峰当峰主： ［苟道流+无敌流+弟子养成+幕后黑手+反套路",
-      "kind": "首页 > 玄幻魔法 > 苟在青云峰当峰主 苟在青云峰当峰主 作者: 星河眺望者",
-      "status": "连载中",
-      "intro": "关于苟在青云峰当峰主： ［苟道流+无敌流+弟子养成+幕后黑手+反套路+信息差］［非爽文］穿越修仙界，陈长生成了万众瞩目的圣子。可前世996过劳死的他，发誓这辈子绝不内卷！于是，在激活大道躺平系统后，他果断放弃圣子之位，找了个山头当咸鱼。种种菜，养养鱼，修为就跟坐火箭一样往上涨，这小日子不爽吗？可系统非逼他收徒！行吧，收就收。结果……大徒弟是重生女帝，满脑子复仇，天天琢磨着怎么把师尊当自己靠山。二徒弟是穿越老乡，自带残次品系统，坚信陈长生是他的老爷爷，整天想薅羊毛。三徒弟是重生道祖，总用一种前辈你藏得好深的眼神看陈长生。四徒弟是废柴流主角，以为是同情他才收他为徒的……看着这群身负大气运的问题儿童，陈长生只觉心累。我真的只想当个废物啊！求求你们别再脑补了，也别再惹是生非了，不然我一不小心……又把你们的敌人给秒了！",
-      "cover": "",
-      "source_url": "https://www.ipaoshubaxs.net/book/406561.html",
-      "source_host": "ipaoshubaxs.net",
-      "source_name": "泡书吧小说网",
-      "source_names": [
-        "泡书吧小说网"
-      ],
-      "sources": [
-        "https://www.ipaoshubaxs.net/book/406561.html"
-      ],
-      "read_sources": [
-        "https://www.ipaoshubaxs.net/book/406561.html"
-      ],
-      "media": "text",
-      "chapter_count": 10,
-      "last_chapter": "第44章 一指惊圣",
-      "detail_complete": true,
-      "indexed_at": "2026-09-03T00:41:46+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-4db71cd15b06d1ad9de1",
-        "ext-37e3c3415499c17764db"
-      ]
-    },
-    {
-      "id": "ext-815ce52b87616cdcc658",
-      "title": "长生修仙：开局和女魔头双修",
-      "author": "剑藏南山创作，作品长生修仙：开局和女魔头双修章章动人，乐文小说为你第一时间提供剑",
-      "kind": "首页 > 玄幻魔法 > 长生修仙：开局和女魔头双修 > 长生修仙：开局和女魔头双",
-      "status": "连载中",
-      "intro": "《长生修仙：开局和女魔头双修》为作者剑藏南山创作，作品长生修仙：开局和女魔头双修章章动人，乐文小说为你第一时间提供剑藏南山精心编写原创长生修仙：开局和女魔头双修及无弹窗长生修仙：开局和女魔头双修全文免费阅读、TXT下载。 简介:关于长生修仙：开局和女魔头双修：（长生+女魔头+女妖精+女富婆）开局融合长生道果，获得长生不老的能力。作为行走的唐僧肉，叶安决定苟一点。但是穿越第一天，女魔头就强闯了他的洞府......叶安：“穿越党什么时候才能站起来，气抖冷！”",
-      "cover": "https://img.ilwxs.com/81746/173092.jpg",
-      "source_url": "https://www.ilwxs.com/shu/81746/",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/shu/81746/"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/shu/81746/"
-      ],
-      "media": "text",
-      "chapter_count": 2300,
-      "last_chapter": "第2288章 混元落",
-      "detail_complete": true,
-      "indexed_at": "2026-09-03T00:41:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-815ce52b87616cdcc658",
-        "ext-6d1691067b35766946b2"
-      ]
-    },
-    {
-      "id": "ext-d90e7f2506ee697b7867",
-      "title": "双修魔尊，我以阴阳证帝位",
-      "author": "沙茶面创作，作品双修魔尊，我以阴阳证帝位章章动人，乐文小说为你第一时间提供沙茶面",
-      "kind": "首页 > 玄幻魔法 > 双修魔尊，我以阴阳证帝位 > 双修魔尊，我以阴阳证帝位章",
-      "status": "连载中",
-      "intro": "《双修魔尊，我以阴阳证帝位》为作者沙茶面创作，作品双修魔尊，我以阴阳证帝位章章动人，乐文小说为你第一时间提供沙茶面精心编写原创双修魔尊，我以阴阳证帝位及无弹窗双修魔尊，我以阴阳证帝位全文免费阅读、TXT下载。 简介:关于双修魔尊，我以阴阳证帝位：（无系统，多女主，亦正亦邪）拥有混沌圣体的方凌，自出生后就被各方势力争相抢夺，心脏、右眼、宝骨相继被人挖走……几经辗转，奄奄一息的方凌被好心人放到了一座古刹前。没人知道，这座古刹里其实隐居着五个绝世高手。他们隐居古刹数万年，镇压着魔祖的不灭之心。恰逢不灭之心暴动，五人无法镇压，只好铤而走险，将其植入婴儿体内。残缺的圣体和不灭之心奇迹融合，一尊绝世凶物由此诞生……",
-      "cover": "https://img.ilwxs.com/83012/174358.jpg",
-      "source_url": "https://www.ilwxs.com/shu/83012/",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/shu/83012/"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/shu/83012/"
-      ],
-      "media": "text",
-      "chapter_count": 2200,
-      "last_chapter": "第2191章 瑶池道场群仙毕",
-      "detail_complete": true,
-      "indexed_at": "2026-09-03T00:41:33+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d90e7f2506ee697b7867",
-        "ext-1405041f5cbc8df4af09"
       ]
     }
   ]
