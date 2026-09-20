@@ -1,6 +1,38 @@
 {
   "books": [
     {
+      "id": "ext-3c243bf1e30db99cde69",
+      "title": "亨利五世",
+      "author": "莎士比亚 发布时间：2013-05-06 莎士比亚作品集 内容简介： 这还得研究",
+      "kind": "",
+      "status": "",
+      "intro": "这还得研究研究。要是居然让它通过了，我们的一大半财产眼看就要送人了；因为那样的话，凡是那些一心敬神的信士身后捐献给教会的民间土地，就全都要给他们充公了；据他们的估计，这笔财产可以让国王足足供养十五个伯爵，一千五百个爵士，六千两百个绅士。还有，为了救济乞丐，以及那风烛残年、赤贫而失去劳动力的苦老头儿，满可以维持一百个赈济所。此外，还可以每年呈缴国库一千个金镑——这就是提案的内容。",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10359/index.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 7,
+      "last_chapter": "第五幕",
+      "detail_complete": true,
+      "indexed_at": "2026-08-31T12:37:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3c243bf1e30db99cde69",
+        "ext-b9bd722d6ee41b2ca1dc",
+        "ext-2503533735037095465"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10359/index.html"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/book4/10359/index.html"
+      ]
+    },
+    {
       "id": "ext-cfac5b1f44481f43d685",
       "title": "皆大欢喜",
       "author": "莎士比亚 发布时间：2013-05-06 莎士比亚作品集 内容简介： 亚当，我记",
@@ -6266,39 +6298,6 @@
       ],
       "cover_source": "source-page",
       "cover_updated_at": "2026-09-04T19:12:01+00:00"
-    },
-    {
-      "id": "ext-e2c66c80dae2682db86b",
-      "title": "道祖，我来自地球 作者: 乌山云雨",
-      "author": "乌山云雨 关于道祖，我来自地球： 一个虚拟游戏中的第一高手，意外穿越到高手如云的",
-      "kind": "首页 > 玄幻魔法 > 道祖，我来自地球 道祖，我来自地球 作者: 乌山云雨 关",
-      "status": "连载中",
-      "intro": "关于道祖，我来自地球： 一个虚拟游戏中的第一高手，意外穿越到高手如云的修炼世界，成为一名武道小菜鸟。不能再头铁了，真的会死人呢。他只想低调发育，苟到王者，稳健地走到人生巅峰，奈何实力却不允许他低调。莫法，挂逼的人生，太帅、太强、太牛批！二成功力同级无敌，四成功力越境碾压。“我不是铁憨憨。我真的很低调！你们为什么就不懂呢？唉……”",
-      "cover": "https://img.ipaoshubaxs.net/14943/75704.jpg",
-      "source_url": "https://www.ipaoshubaxs.net/book/14943.html",
-      "source_host": "ipaoshubaxs.net",
-      "source_name": "泡书吧小说网",
-      "source_names": [
-        "泡书吧小说网"
-      ],
-      "sources": [
-        "https://www.ipaoshubaxs.net/book/14943.html"
-      ],
-      "read_sources": [
-        "https://www.ipaoshubaxs.net/book/14943.html"
-      ],
-      "media": "text",
-      "chapter_count": 10,
-      "last_chapter": "第一千一百二十五章",
-      "detail_complete": true,
-      "indexed_at": "2026-08-31T12:25:01+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e2c66c80dae2682db86b",
-        "ext-30854a7020b8d9d8c05a"
-      ],
-      "cover_source": "source-page",
-      "cover_updated_at": "2026-09-04T19:12:02+00:00"
     }
   ]
 }
