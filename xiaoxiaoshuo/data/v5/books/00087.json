@@ -1,37 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-9b23c72c7a82fb63cc9f",
-      "title": "苍黄",
-      "author": "王跃文 发布时间：2011-03-31 乌柚县有两个刘星明：一个是人称“刘半间”",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/files/chinese/201103/2411.html",
-      "source_host": "kanunu8.com",
-      "source_name": "努努书坊",
-      "source_names": [
-        "努努书坊"
-      ],
-      "sources": [
-        "https://www.kanunu8.com/files/chinese/201103/2411.html"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/chinese/201103/2411.html"
-      ],
-      "media": "text",
-      "chapter_count": 50,
-      "last_chapter": "第四十九章",
-      "detail_complete": true,
-      "indexed_at": "2026-09-08T13:08:35+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-9b23c72c7a82fb63cc9f",
-        "ext-9786fd31814e7ca8d6c8"
-      ]
-    },
-    {
       "id": "ext-9869998a3959a3df70fe",
       "title": "国画[官场]",
       "author": "王跃文 发布时间：2011-03-31 朱怀镜本不过是荆都市里一个不起眼的小处长",
@@ -6350,6 +6319,36 @@
       "read_ids": [
         "ext-ab6eafcd585b9ccdc1c1",
         "ext-8eacda601edb081c5789"
+      ]
+    },
+    {
+      "id": "ext-52c9e26bece2eedb12e8",
+      "title": "听说我是盗墓贼",
+      "author": "缘非不可 类型 : 灵异小说 字数 : 83.17万字 本书目录 作品简介 第一",
+      "kind": "灵异小说 字数 : 83.17万字 本书目录 作品简介 第一章 口供 第二章 文",
+      "status": "",
+      "intro": "郑重声明：本故事发生在平行时空，其所有细节均属作者胡编乱造，如有雷同，呸，就没有雷同。 ———— 警察：来，你好好看看，这张照片眼熟不？ 主角：这、这是蜘蛛？抱歉，我对生物学一窍不通，什么品种还真看不出来。 警察：看不出来你磕巴什么？梅谦，你这个罪大恶极的盗墓贼，还不老实交代罪行？ 梅谦做梦也想不到，自己文抄+原创的盗墓小说，会被平行时空的古墓碰瓷。关键是身穿，他根本解释不出自己几年前在什么地方，这死局可怎么破？",
+      "cover": "",
+      "source_url": "https://m.hetushu.com/book/10637/index.html",
+      "source_host": "hetushu.com",
+      "source_name": "和图书",
+      "source_names": [
+        "和图书"
+      ],
+      "sources": [
+        "https://m.hetushu.com/book/10637/index.html"
+      ],
+      "read_sources": [
+        "https://m.hetushu.com/book/10637/index.html"
+      ],
+      "media": "text",
+      "chapter_count": 9,
+      "last_chapter": "第九章 意外",
+      "detail_complete": true,
+      "indexed_at": "2026-09-08T12:37:53+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-52c9e26bece2eedb12e8"
       ]
     }
   ]
