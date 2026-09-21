@@ -1,8 +1,9 @@
 {
   "version": 13,
-  "generated_at": "2026-09-21T00:43:48+00:00",
-  "total_books": 44653,
+  "generated_at": "2026-09-21T00:45:33+00:00",
+  "total_books": 44699,
   "source_counts": {
+    "泡书吧小说网": 5444,
     "乐文小说": 5378,
     "和图书": 2977,
     "飘天文学": 1198,
@@ -10,7 +11,6 @@
     "努努书坊": 9456,
     "塔读文学": 436,
     "爱下电子书": 5445,
-    "泡书吧小说网": 5386,
     "言情小说吧": 3818,
     "滋味小说网": 4997,
     "AAAKS小说": 2008
@@ -18,20 +18,20 @@
   "all_done": false,
   "continue_needed": true,
   "unresolved_sources": [
-    "乐文小说"
+    "泡书吧小说网"
   ],
   "sources": [
     {
-      "name": "乐文小说",
-      "host": "ilwxs.com",
+      "name": "泡书吧小说网",
+      "host": "ipaoshubaxs.net",
       "pages_this_run": 80,
-      "successful_pages": 67,
-      "failed_pages": 13,
-      "books_found": 54,
-      "books_added": 54,
-      "toc_written": 54,
-      "books_seen_total": 5372,
-      "remaining_queue": 18530,
+      "successful_pages": 70,
+      "failed_pages": 10,
+      "books_found": 58,
+      "books_added": 58,
+      "toc_written": 58,
+      "books_seen_total": 5440,
+      "remaining_queue": 22927,
       "seen_pages": 7200,
       "done": false,
       "blocked": false,
