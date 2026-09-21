@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-030c0669cd32e8c4f806",
+      "title": "芳明1128",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.1qxs.com/xs_1/93982.html",
+      "source_host": "www.1qxs.com",
+      "source_name": "一七小说",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T15:02:15+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-030c0669cd32e8c4f806",
+        "ext-7275086538827200355"
+      ],
+      "read_sources": [
+        "https://www.1qxs.com/xs_1/93982.html"
+      ]
+    },
+    {
       "id": "ext-53b4a71d787b53d07659",
       "title": "梦回大明春",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/mingfen/450498.html"
-      ]
-    },
-    {
-      "id": "ext-7c46758de4ec4147817a",
-      "title": "Chapter 2:小丢",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/mingfen/450470.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7c46758de4ec4147817a",
-        "ext-8938558886802693215"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/mingfen/450470.html"
       ]
     }
   ]
