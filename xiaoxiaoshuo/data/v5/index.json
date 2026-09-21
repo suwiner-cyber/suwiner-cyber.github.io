@@ -1,7 +1,7 @@
 {
   "version": 14,
-  "generated_at": "2026-09-21T13:03:20+00:00",
-  "total": 45192,
+  "generated_at": "2026-09-21T13:06:06+00:00",
+  "total": 45231,
   "shard_size": 200,
   "shards": [
     {
@@ -906,10 +906,15 @@
     },
     {
       "file": "books/00226.json",
-      "count": 192
+      "count": 200
+    },
+    {
+      "file": "books/00227.json",
+      "count": 31
     }
   ],
   "source_counts": {
+    "爱下电子书": 5560,
     "泡书吧小说网": 4565,
     "乐文小说": 4891,
     "和图书": 2960,
@@ -917,7 +922,6 @@
     "一七小说": 5240,
     "努努书坊": 9585,
     "塔读文学": 436,
-    "爱下电子书": 5521,
     "言情小说吧": 3782,
     "滋味小说网": 4994,
     "AAAKS小说": 2008
@@ -930,11 +934,11 @@
       "successful_pages": 80,
       "failed_pages": 0,
       "books_found": 49,
-      "books_added": 49,
+      "books_added": 48,
       "toc_written": 49,
-      "books_seen_total": 4272,
-      "remaining_queue": 34673,
-      "seen_pages": 7280,
+      "books_seen_total": 4321,
+      "remaining_queue": 34956,
+      "seen_pages": 7360,
       "done": false,
       "blocked": false,
       "needs_adapter": false
@@ -1133,7 +1137,7 @@
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "99csw.com",
+  "last_published_source": "ixdzs8.com",
   "id_scheme": "stable-v4-aliases",
   "metadata_sanitized": true,
   "text_only": true
