@@ -1,7 +1,7 @@
 {
   "version": 14,
-  "generated_at": "2026-09-21T00:40:14+00:00",
-  "total": 44575,
+  "generated_at": "2026-09-21T00:42:07+00:00",
+  "total": 44599,
   "shard_size": 200,
   "shards": [
     {
@@ -894,10 +894,11 @@
     },
     {
       "file": "books/00223.json",
-      "count": 175
+      "count": 199
     }
   ],
   "source_counts": {
+    "和图书": 2922,
     "飘天文学": 1198,
     "一七小说": 5152,
     "努努书坊": 9456,
@@ -905,7 +906,6 @@
     "爱下电子书": 5442,
     "泡书吧小说网": 4463,
     "乐文小说": 4746,
-    "和图书": 2898,
     "言情小说吧": 3782,
     "滋味小说网": 4994,
     "AAAKS小说": 2008
@@ -1109,19 +1109,19 @@
       "pages_this_run": 80,
       "successful_pages": 80,
       "failed_pages": 0,
-      "books_found": 20,
-      "books_added": 20,
-      "toc_written": 20,
-      "books_seen_total": 2954,
-      "remaining_queue": 9323,
-      "seen_pages": 7120,
+      "books_found": 24,
+      "books_added": 24,
+      "toc_written": 24,
+      "books_seen_total": 2978,
+      "remaining_queue": 9332,
+      "seen_pages": 7200,
       "done": false,
       "blocked": false,
       "needs_adapter": false
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "piaotia.com",
+  "last_published_source": "hetushu.com",
   "id_scheme": "stable-v4-aliases",
   "metadata_sanitized": true,
   "text_only": true
