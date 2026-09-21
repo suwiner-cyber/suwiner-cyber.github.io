@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-02a55ce4e3762b2f6d0a",
+      "title": "番外一百二十",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463259.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-02a55ce4e3762b2f6d0a",
+        "ext-7569985278561598137"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463259.html"
+      ]
+    },
+    {
       "id": "ext-f963f984159ee0f645b6",
       "title": "番外一百三十一",
       "author": "",
@@ -5408,31 +5433,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/phbfshce/473499.html"
-      ]
-    },
-    {
-      "id": "ext-feecbbd28bd15762a957",
-      "title": "第21章 嘻嘻，不嘻嘻",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/phbfshce/473498.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 21,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:45+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-feecbbd28bd15762a957",
-        "ext-3437161952038649887"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/phbfshce/473498.html"
       ]
     }
   ]

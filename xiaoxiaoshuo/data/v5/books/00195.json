@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-169ee0e72a3bc428a365",
+      "title": "六、狐貍眼睛",
+      "author": "",
+      "kind": "",
+      "status": "已完结",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/heqinghaiyan/451276.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:09+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-169ee0e72a3bc428a365",
+        "ext-3849490180500599434"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/heqinghaiyan/451276.html"
+      ]
+    },
+    {
       "id": "ext-bf4ad98c9334c729411d",
       "title": "八、吹枕头风",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450202.html"
-      ]
-    },
-    {
-      "id": "ext-18708e6898baa34019c9",
-      "title": "第五十六章 谜因",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450145.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-18708e6898baa34019c9",
-        "ext-5345478320776719995"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450145.html"
       ]
     }
   ]

@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-feecbbd28bd15762a957",
+      "title": "第21章 嘻嘻，不嘻嘻",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/phbfshce/473498.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 21,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:45+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-feecbbd28bd15762a957",
+        "ext-3437161952038649887"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/phbfshce/473498.html"
+      ]
+    },
+    {
       "id": "ext-2d29271f8ccace2ddac9",
       "title": "第20章 擒贼先擒王",
       "author": "",
@@ -6854,46 +6879,6 @@
         "https://www.kanunu8.com/book7/75chyriji/463430.html",
         "https://www.kanunu8.com/book7/datangpizhuji/481713.html",
         "https://www.kanunu8.com/book7/hxshn92/485272.html"
-      ]
-    },
-    {
-      "id": "ext-9f705a75e3b3835d66d7",
-      "title": "第157章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171913.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171913.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/38089.html",
-        "https://www.kanunu8.com/book7/75chyriji/463429.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481712.html",
-        "https://www.kanunu8.com/book7/hxshn92/485271.html"
-      ],
-      "read_ids": [
-        "ext-9f705a75e3b3835d66d7",
-        "ext-3167560651181645207",
-        "ext-954d5948821378944807",
-        "ext-ca1d69b69ca84b939f47",
-        "ext-966b43d1898d374f4c54",
-        "ext-f6ac1232ee1c078651ae"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171913.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/38089.html",
-        "https://www.kanunu8.com/book7/75chyriji/463429.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481712.html",
-        "https://www.kanunu8.com/book7/hxshn92/485271.html"
       ]
     }
   ]

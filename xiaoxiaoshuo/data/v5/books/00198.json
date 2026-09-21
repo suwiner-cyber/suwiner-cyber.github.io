@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-c0768d2b26b546a90f5a",
+      "title": "第56章 神秘老头",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/10669/356271.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 56,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:03+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c0768d2b26b546a90f5a",
+        "ext-5997259563717744430"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10669/356271.html"
+      ]
+    },
+    {
       "id": "ext-132228305a54ff66527b",
       "title": "第55章 飞越疯人院",
       "author": "",
@@ -5114,31 +5139,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/qy_jlwxs/35588.html"
-      ]
-    },
-    {
-      "id": "ext-f66b24588dc1f1e9a52d",
-      "title": "第30章 30号登机口",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/qy_jlwxs/35587.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 30,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:59+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f66b24588dc1f1e9a52d",
-        "ext-6022032362053844949"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/qy_jlwxs/35587.html"
       ]
     }
   ]

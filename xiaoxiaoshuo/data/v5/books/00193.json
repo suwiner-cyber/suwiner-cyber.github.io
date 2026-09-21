@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-eee6a2c1a32e06381286",
+      "title": "第217章 妖神降世(中)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/jianchuqiao/445718.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 217,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:15+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-eee6a2c1a32e06381286",
+        "ext-436660843547674431"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/jianchuqiao/445718.html"
+      ]
+    },
+    {
       "id": "ext-041abd650d3d48377c26",
       "title": "第216章 妖神降世(上)",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/xingguanghaian/457339.html"
-      ]
-    },
-    {
-      "id": "ext-63cf4a205b1bdf1c90ff",
-      "title": "第67章 千帆过，万木春",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/xingguanghaian/457338.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 67,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:12+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-63cf4a205b1bdf1c90ff",
-        "ext-7061213721436141202"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/xingguanghaian/457338.html"
       ]
     }
   ]
