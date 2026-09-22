@@ -1,30 +1,6 @@
 {
-  "generated_at": "2026-09-22T00:35:28+00:00",
+  "generated_at": "2026-09-22T00:37:07+00:00",
   "errors": [
-    {
-      "time": "2026-09-16T18:47:58+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/256594173/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-16T18:48:11+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/256594174/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-16T18:48:24+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/256594175/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-16T18:48:38+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/88115099/",
-      "error": "Remote end closed connection without response"
-    },
     {
       "time": "2026-09-16T18:48:51+00:00",
       "source": "AAAKS小说",
@@ -15000,6 +14976,30 @@
       "source": "AAAKS小说",
       "url": "https://www.aaaks.com/book/1786359/",
       "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:35:59+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=55117",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-22T00:36:00+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=176592",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-22T00:36:10+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=179135",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-22T00:36:50+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=432210",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }
