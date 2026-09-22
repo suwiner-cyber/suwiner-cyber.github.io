@@ -1,6 +1,38 @@
 {
   "books": [
     {
+      "id": "ext-2853ad608f81df0aa642",
+      "title": "高老头",
+      "author": "巴尔扎克 发布时间：2013-04-06 巴尔扎克作品集 内容简介： 巴尔扎克的",
+      "kind": "",
+      "status": "",
+      "intro": "巴尔扎克的创作是十九世纪法国现实主义的顶峰，他的小说分三大类即风俗研究、哲理研究和分析研究，本篇是早期的杰作，要描写的是私人生活，写主人公靠粮食买卖起家，养大女儿反而被女儿遗弃，在痛苦中死去，反映了资本主义社会金钱支配一切的规律。",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10165/index.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 7,
+      "last_chapter": "第六章 父亲的死",
+      "detail_complete": true,
+      "indexed_at": "2026-09-01T00:53:01+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2853ad608f81df0aa642",
+        "ext-d75c83a08abf871cf5c6",
+        "ext-5530099516163509279"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10165/index.html"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/book4/10165/index.html"
+      ]
+    },
+    {
       "id": "ext-3ce6aae1e7107818adf8",
       "title": "幽谷百合",
       "author": "巴尔扎克 发布时间：2013-04-06 巴尔扎克作品集 内容简介： “那里展现",
@@ -6205,39 +6237,6 @@
       ],
       "cover_source": "source-page",
       "cover_updated_at": "2026-09-05T07:27:11+00:00"
-    },
-    {
-      "id": "ext-0ba8af5a732f5cee76a8",
-      "title": "我扎的纸人超凶 作者: 虫下月半",
-      "author": "虫下月半 关于我扎的纸人超凶： 纸扎术，通阴阳，祭亡魂，请阎王。剪黄纸，编竹篾，",
-      "kind": "首页 > 其他类型 > 我扎的纸人超凶 我扎的纸人超凶 作者: 虫下月半 关于我",
-      "status": "连载中",
-      "intro": "关于我扎的纸人超凶： 纸扎术，通阴阳，祭亡魂，请阎王。剪黄纸，编竹篾，纸马行千里，纸人唤神灵。一笔点睛阎王现，威震八方万鬼藏！纸扎术传到陈默这里，已经是最后一代。本以为这样古老而神秘的行当，在现代社会早已没有用武之地，直到他遇到了......百年轮回开启，刽子手的刀，二皮匠的针，仵作的眼，四小阴门齐聚一堂。这些古老而神秘的行当并没有消失，而是以一种不为人知的方式秘密的传承下去。",
-      "cover": "https://img.ilwxs.com/87014/178351.jpg",
-      "source_url": "https://www.ilwxs.com/info-87014.html",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/info-87014.html"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/info-87014.html"
-      ],
-      "media": "text",
-      "chapter_count": 10,
-      "last_chapter": "第1278章 被困住的老人们",
-      "detail_complete": true,
-      "indexed_at": "2026-09-01T00:41:07+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-0ba8af5a732f5cee76a8",
-        "ext-e2d433df7ab8b0423da8"
-      ],
-      "cover_source": "source-page",
-      "cover_updated_at": "2026-09-05T07:27:12+00:00"
     }
   ]
 }

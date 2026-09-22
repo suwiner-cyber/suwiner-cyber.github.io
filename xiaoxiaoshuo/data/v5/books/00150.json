@@ -1,6 +1,38 @@
 {
   "books": [
     {
+      "id": "ext-ac010b1e9c15c9620e9a",
+      "title": "杨家将",
+      "author": "熊大木 发布时间：2011-03-15 杨家将是一部英雄传奇系列故事，以话本、戏",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2141.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 50,
+      "last_chapter": "第五十回 杨宗保平定西夏 十二妇得胜回朝",
+      "detail_complete": true,
+      "indexed_at": "2026-09-03T00:54:58+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ac010b1e9c15c9620e9a",
+        "ext-b66362e9c2dd5a6fae73",
+        "ext-8203281810492943080"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2141.html"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/old/2011/2141.html"
+      ]
+    },
+    {
       "id": "ext-e3b821890fbffca8118b",
       "title": "洗冤集录",
       "author": "宋慈 发布时间：2011-03-15 《洗冤集录》是中国古代法医学著作。南宋宋慈",
@@ -6222,37 +6254,6 @@
       "read_ids": [
         "ext-925f0c2b19a0480ccc3c",
         "ext-6f43b077d17930b9ff4e"
-      ]
-    },
-    {
-      "id": "ext-1e80fb66abb71f287dc7",
-      "title": "长生风华录",
-      "author": "幻倾卿创作，作品长生风华录章章动人，泡书吧小说网为你第一时间提供幻倾卿精心编写原",
-      "kind": "首页 > 玄幻魔法 > 长生风华录 > 长生风华录章节列表 妹纸们都在看： 斗罗",
-      "status": "连载中",
-      "intro": "《长生风华录》为作者幻倾卿创作，作品长生风华录章章动人，泡书吧小说网为你第一时间提供幻倾卿精心编写原创长生风华录及无弹窗长生风华录全文免费阅读、TXT下载。 简介:关于长生风华录：正经文案一：同混沌争天地，于上古万神共尊。古往今来无人敢称其名号，多有忌讳。但她始终记得，自己名玄九。长生不老，不死不灭，玄九自以为得天独厚，在经历了数亿年的天地轮回之后，她才发现，这分明……是个诅咒。——非正经文案二：玄九一觉醒来找到了低配版的降智司命，顺带着醋精火神，二缺风神，恋爱脑雨神拎出来一串，好不容易有个正经爱神，结果却是玩占卜比司命还称职。行吧，神格千千万，总有一个厉害的。等等，这位打住，老板腿部不缺挂件。某人：是你先动手的。玄九：我不是，我没有。——副女主组团打酱油。",
-      "cover": "https://img.ipaoshubaxs.net/20635/73493.jpg",
-      "source_url": "https://www.ipaoshubaxs.net/20635/",
-      "source_host": "ipaoshubaxs.net",
-      "source_name": "泡书吧小说网",
-      "source_names": [
-        "泡书吧小说网"
-      ],
-      "sources": [
-        "https://www.ipaoshubaxs.net/20635/"
-      ],
-      "read_sources": [
-        "https://www.ipaoshubaxs.net/20635/"
-      ],
-      "media": "text",
-      "chapter_count": 629,
-      "last_chapter": "第六百一十六章 仙女公主",
-      "detail_complete": true,
-      "indexed_at": "2026-09-03T00:42:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1e80fb66abb71f287dc7",
-        "ext-82f7463f5533e4ffe9e5"
       ]
     }
   ]
