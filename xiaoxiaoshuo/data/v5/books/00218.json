@@ -1,55 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-20db85aa99809817c7a7",
-      "title": "第57章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171813.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171813.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/37989.html",
-        "https://www.kanunu8.com/book7/lmm04/464106.html",
-        "https://www.kanunu8.com/book7/75chyriji/463329.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481612.html",
-        "https://www.kanunu8.com/book7/hxshn92/485170.html",
-        "https://www.kanunu8.com/book5/yiouchun/80339.html",
-        "https://www.kanunu8.com/book7/jinxiefang/449800.html"
-      ],
-      "read_ids": [
-        "ext-20db85aa99809817c7a7",
-        "ext-6663259843343075260",
-        "ext-b291a0b255e6f2a916da",
-        "ext-7214f8a8f53fbbfe034f",
-        "ext-b92a09ed2fe39e79c9a8",
-        "ext-5a5713a492166f88baba",
-        "ext-4fa72ae777bb3deff6bb",
-        "ext-e55af006beadb6a7ea4e",
-        "ext-e0863691129b4f4f5f2f"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171813.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/37989.html",
-        "https://www.kanunu8.com/book7/lmm04/464106.html",
-        "https://www.kanunu8.com/book7/75chyriji/463329.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481612.html",
-        "https://www.kanunu8.com/book7/hxshn92/485170.html",
-        "https://www.kanunu8.com/book5/yiouchun/80339.html",
-        "https://www.kanunu8.com/book7/jinxiefang/449800.html"
-      ]
-    },
-    {
       "id": "ext-9c750c44da1560ae8f58",
       "title": "第56章",
       "author": "",
@@ -6831,6 +6782,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/laojiumen/416842.html"
+      ]
+    },
+    {
+      "id": "ext-115ebeb4239259b8a879",
+      "title": "第三十二章 睡尸",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/laojiumen/416839.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:41+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-115ebeb4239259b8a879",
+        "ext-1869387171077064796"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/laojiumen/416839.html"
       ]
     }
   ]

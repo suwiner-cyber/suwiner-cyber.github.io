@@ -1,6 +1,38 @@
 {
   "books": [
     {
+      "id": "ext-e6317c901215f4d3b124",
+      "title": "弗兰肯斯坦",
+      "author": "玛丽·雪莱 内容简介： 《弗兰肯斯坦》又翻译成《科学怪人》、《活跳尸》。这个被称",
+      "kind": "武侠小说",
+      "status": "",
+      "intro": "《弗兰肯斯坦》又翻译成《科学怪人》、《活跳尸》。这个被称为活跳尸的故事多次被改编成戏剧、电影，拥有众多为之痴迷的读者和观众。小说主角弗兰肯斯坦是个热衷于生命起源的生物学家，他怀着犯罪心理频繁出没于藏尸间，尝试用不同尸体的各个部分拼凑成一个巨大人体，当这个怪物终于获得生命睁开眼睛时，弗兰肯斯坦被他的狰狞面目吓得弃他而逃，他却紧追不舍地向弗兰肯斯索要女伴、温暖和友情；接踵而至的更是一系列诡异的悬疑和命案……",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6459/index.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 30,
+      "last_chapter": "第24章(下)",
+      "detail_complete": true,
+      "indexed_at": "2026-09-06T19:00:37+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e6317c901215f4d3b124",
+        "ext-fdc70abfd823ee678044",
+        "ext-3905780660963128291"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6459/index.html"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/book3/6459/index.html"
+      ]
+    },
+    {
       "id": "ext-eb41a1e7aa4bfd0cf34c",
       "title": "你一生的故事",
       "author": "特德·姜 发布时间：2012-02-05 特德·姜作品集 内容简介： 特德姜１９",
@@ -6213,37 +6245,6 @@
       "read_ids": [
         "ext-d4f143a0e707a14ffd00",
         "ext-713aa744130262437f05"
-      ]
-    },
-    {
-      "id": "ext-0dfc23942101b41d75bb",
-      "title": "e轮回",
-      "author": "说不得大师",
-      "kind": "玄幻小说 字数：34.3万字 根据史料记载，在明朝“前夜”突然出现大面积消失，以",
-      "status": "",
-      "intro": "根据史料记载，在明朝“前夜”突然出现大面积消失，以前很多鼎鼎大名的教派大大小小数十个派系竟然一个个销声匿迹——这在中国史上也算是一宗无法破解的陈年旧案。 《轮回》，不是玄幻，不是修仙，不是都市，不是异能，如果一定要给他一个定位，那就是“探索”。就像《达·芬奇密码》一样，所不同的是，《达·芬奇密码》揭露的是：人如何变成神，而《轮回》所探索的是：中国历史失去的一页在哪里？",
-      "cover": "",
-      "source_url": "https://www.hetushu.com/book/8283/index.html",
-      "source_host": "hetushu.com",
-      "source_name": "和图书",
-      "source_names": [
-        "和图书"
-      ],
-      "sources": [
-        "https://www.hetushu.com/book/8283/index.html"
-      ],
-      "read_sources": [
-        "https://www.hetushu.com/book/8283/index.html"
-      ],
-      "media": "text",
-      "chapter_count": 75,
-      "last_chapter": "第75章 降魔学艺",
-      "detail_complete": true,
-      "indexed_at": "2026-09-06T18:29:48+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-0dfc23942101b41d75bb",
-        "ext-27788801c08a61a71c7d"
       ]
     }
   ]

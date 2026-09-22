@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-757c608ebf549c8ff15c",
-      "title": "第38章 北京",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/tianjieyese/451993.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:10+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-757c608ebf549c8ff15c",
-        "ext-7458247751455969950"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/tianjieyese/451993.html"
-      ]
-    },
-    {
       "id": "ext-7b7893f61325f4cdfff6",
       "title": "第37章 北京",
       "author": "",
@@ -5007,6 +4982,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450398.html"
+      ]
+    },
+    {
+      "id": "ext-98ffb53b4dd2115f0f6c",
+      "title": "第六十六章 入局",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450214.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-98ffb53b4dd2115f0f6c",
+        "ext-33965704287365418"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450214.html"
       ]
     }
   ]
