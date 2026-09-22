@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-aeb2b7f2a097933d15df",
+      "title": "第三十章 本能与经验的PK",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/laojiumen/416874.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:41+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-aeb2b7f2a097933d15df",
+        "ext-4981970582333040977"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/laojiumen/416874.html"
+      ]
+    },
+    {
       "id": "ext-d2be81f2b0355795f32c",
       "title": "第三十章 双面西王母",
       "author": "",
@@ -4979,31 +5004,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65251.html"
-      ]
-    },
-    {
-      "id": "ext-c5bfd162082d3544ace4",
-      "title": "第212章 节礼",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65250.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 212,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c5bfd162082d3544ace4",
-        "ext-1955815659510102768"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65250.html"
       ]
     }
   ]

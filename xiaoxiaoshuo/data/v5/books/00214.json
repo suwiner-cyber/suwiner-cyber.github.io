@@ -1,6 +1,52 @@
 {
   "books": [
     {
+      "id": "ext-87bc78065bde27d94520",
+      "title": "第61章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171817.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171817.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/37993.html",
+        "https://www.kanunu8.com/book7/lmm04/464110.html",
+        "https://www.kanunu8.com/book7/75chyriji/463333.html",
+        "https://www.kanunu8.com/book7/hxshn92/485174.html",
+        "https://www.kanunu8.com/book5/yiouchun/80343.html",
+        "https://www.kanunu8.com/book7/jinxiefang/449804.html"
+      ],
+      "read_ids": [
+        "ext-87bc78065bde27d94520",
+        "ext-6022273152142329317",
+        "ext-16f2dff3422cdd55efce",
+        "ext-77e19aa42efe088d1b94",
+        "ext-21226182de703f8fe68d",
+        "ext-f0868a9c0d7af6e231a9",
+        "ext-33ead0296300048a33e7",
+        "ext-55c9701827c3f25e4677"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171817.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/37993.html",
+        "https://www.kanunu8.com/book7/lmm04/464110.html",
+        "https://www.kanunu8.com/book7/75chyriji/463333.html",
+        "https://www.kanunu8.com/book7/hxshn92/485174.html",
+        "https://www.kanunu8.com/book5/yiouchun/80343.html",
+        "https://www.kanunu8.com/book7/jinxiefang/449804.html"
+      ]
+    },
+    {
       "id": "ext-97bff6994fc5648b13ec",
       "title": "第60章",
       "author": "",
@@ -6878,31 +6924,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/laojiumen/416847.html"
-      ]
-    },
-    {
-      "id": "ext-aeb2b7f2a097933d15df",
-      "title": "第三十章 本能与经验的PK",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/laojiumen/416874.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:41+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-aeb2b7f2a097933d15df",
-        "ext-4981970582333040977"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/laojiumen/416874.html"
       ]
     }
   ]

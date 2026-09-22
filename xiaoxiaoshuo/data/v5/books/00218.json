@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-aaf831d5fb428b3b0fe7",
+      "title": "伊恩·麦克尤恩: 成年人",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-24-1299.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-aaf831d5fb428b3b0fe7",
+        "ext-1937984525948441871"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-24-1299.html"
+      ]
+    },
+    {
       "id": "ext-f10acbc194a09e430a84",
       "title": "伊恩·麦克尤恩: 彼得其人",
       "author": "",
@@ -5019,30 +5044,6 @@
       ],
       "read_sources": [
         "https://ixdzs8.com/read/640852/"
-      ]
-    },
-    {
-      "id": "ix-634581",
-      "title": "家族修仙：不朽叶氏",
-      "author": "不会起名呀",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "蓝星叶凡尘，穿越修仙世界，成为叶氏仙族的族长。刚穿越，便天胡开局，父亲身死，家族面临灭族危机。关键时刻，小艾同学现身，衍化系统，助力叶凡尘破局，带领叶氏，成为最强家族。",
-      "cover": "https://img22.ixdzs.com/55/59/5559527585929ab3db7a0069cbc7ce5e.jpg",
-      "source_url": "https://ixdzs8.com/read/634581/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 420,
-      "last_chapter": "第420章",
-      "word_count_wan": 88.92,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:20+00:00",
-      "read_ids": [
-        "ix-634581"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/634581/"
       ]
     }
   ]

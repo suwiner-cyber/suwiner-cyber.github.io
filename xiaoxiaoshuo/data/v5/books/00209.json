@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-1984724f65e7be9544e7",
+      "title": "第3章 这座城从何而来？",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/hxshn91/484993.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 3,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:54+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1984724f65e7be9544e7",
+        "ext-101225719994953751"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/hxshn91/484993.html"
+      ]
+    },
+    {
       "id": "ext-97e187e334d29f642c56",
       "title": "第39章 清算",
       "author": "",
@@ -5357,31 +5382,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qianyaobaimei/481867.html"
-      ]
-    },
-    {
-      "id": "ext-716294908bc8ad5f0a67",
-      "title": "比邻而居",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481849.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:50+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-716294908bc8ad5f0a67",
-        "ext-6531925078238146719"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qianyaobaimei/481849.html"
       ]
     }
   ]
