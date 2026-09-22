@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-40ee72a8e044a8ae9f6a",
-      "title": "北极星疗养院",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481845.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:50+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-40ee72a8e044a8ae9f6a",
-        "ext-7854499835687499822"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qianyaobaimei/481845.html"
-      ]
-    },
-    {
       "id": "ext-cf72173624aafd289b3e",
       "title": "北冥有鱼",
       "author": "",
@@ -5634,6 +5609,37 @@
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/462885.html",
         "https://www.kanunu8.com/book7/dby67/469981.html"
+      ]
+    },
+    {
+      "id": "ext-02da956903bd43f0a108",
+      "title": "第三十三章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/462879.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462879.html",
+        "https://www.kanunu8.com/book7/dby67/469975.html"
+      ],
+      "read_ids": [
+        "ext-02da956903bd43f0a108",
+        "ext-3843379049418572639",
+        "ext-cde1c49992d3a92d1220"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462879.html",
+        "https://www.kanunu8.com/book7/dby67/469975.html"
       ]
     }
   ]

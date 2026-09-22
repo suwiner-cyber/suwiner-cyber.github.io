@@ -1,486 +1,6 @@
 {
-  "generated_at": "2026-09-22T00:42:09+00:00",
+  "generated_at": "2026-09-22T01:00:59+00:00",
   "errors": [
-    {
-      "time": "2026-09-16T19:04:18+00:00",
-      "source": "言情小说吧",
-      "url": "https://www.xs8.cn/book/7205664104926101",
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "time": "2026-09-17T00:39:19+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/空间定锚.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:39:23+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/拍云朵.html",
-      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:39:26+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/三个土包子.html",
-      "error": "'ascii' codec can't encode characters in position 12-16: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:39:27+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/河帆.html",
-      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:39:28+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/鱼有飞的梦.html",
-      "error": "'ascii' codec can't encode characters in position 12-16: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:39:31+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/我思故我菜.html",
-      "error": "'ascii' codec can't encode characters in position 12-16: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:39:33+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/荒野接线员.html",
-      "error": "'ascii' codec can't encode characters in position 12-16: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:39:35+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/道爷慈悲.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:39:36+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/娱天.html",
-      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:39:37+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/成港.html",
-      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:39:40+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/醇酒美人.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:39:42+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/那谁家的小谁.html",
-      "error": "'ascii' codec can't encode characters in position 12-17: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:39:45+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/叶向风.html",
-      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:39:46+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/柳升升.html",
-      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:39:48+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/凉拌宁.html",
-      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:39:50+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/森下统领.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:39:53+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/两块板砖.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:39:55+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/戌元初一.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:39:58+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/小糖子.html",
-      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:40:47+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/风沙中.html",
-      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:40:50+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/我爱吃猫片.html",
-      "error": "'ascii' codec can't encode characters in position 12-16: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:40:52+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/骷髅精灵.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:40:54+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/清酒半壶.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:40:56+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/七分无奈.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:40:58+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/依依兰兮.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:41:01+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/年华.html",
-      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:41:04+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/方想.html",
-      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:41:05+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/霏霏我心.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:41:07+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/七分黑椒.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T00:42:47+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/836134/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:43:01+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/363455/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:43:15+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/363456/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:43:29+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/363457/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:43:43+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/363458/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:43:57+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/363459/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:44:11+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/363460/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:44:25+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/363461/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:44:39+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/363462/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:44:52+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/363463/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:45:06+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/363464/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:45:20+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/author/%E6%99%AF%E5%B7%9D/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:45:34+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/2100827287/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:45:48+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1997147237/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:46:02+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1780823337/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:46:16+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1665115044/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:46:30+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1628369306/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:46:44+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1596077928/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:46:58+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1525398153/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:47:12+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1478324076/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:47:26+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1465018927/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:47:39+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1433894656/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:47:53+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1190530972/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:48:07+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1069506300/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:48:21+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1069506301/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:48:34+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/992840452/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:48:48+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/881959977/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:49:02+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/810409509/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:49:16+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/810409510/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:49:30+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/742936964/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:49:44+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/673567106/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:49:58+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/673567107/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:50:12+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/617105802/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:50:26+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/566125581/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:50:40+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/300622351/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:50:53+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/300622352/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:51:07+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/300622353/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:51:21+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/300622354/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:51:35+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/150430406/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:51:49+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/48596179/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:52:03+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/48596180/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:52:17+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/2209534/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:52:30+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/2209535/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:52:44+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/2209536/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:52:58+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/2209537/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:53:12+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/2197863/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:53:26+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/2188623/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:53:40+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/2184296/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:53:54+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/2183268/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T00:54:08+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/2181581/",
-      "error": "Remote end closed connection without response"
-    },
     {
       "time": "2026-09-17T00:54:22+00:00",
       "source": "AAAKS小说",
@@ -15000,6 +14520,486 @@
       "source": "泡书吧小说网",
       "url": "https://www.ipaoshubaxs.net/author/钓一只鱼.html",
       "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-22T00:42:43+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1753325/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:42:57+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1743724/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:43:11+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1742702/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:43:25+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1730326/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:43:39+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1710103/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:43:53+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1695537/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:44:07+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1695538/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:44:21+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1690123/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:44:35+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1638168/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:44:49+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1597486/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:45:02+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1597487/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:45:16+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1597488/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:45:30+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1597489/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:45:44+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1528522/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:45:57+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1528523/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:46:11+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1528524/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:46:25+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1528525/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:46:39+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1528526/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:46:52+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1528527/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:47:07+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1356032/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:47:21+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1356033/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:47:35+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1356034/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:47:49+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1356035/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:48:03+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1294419/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:48:17+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1294420/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:48:30+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1294421/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:48:44+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1294422/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:48:58+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1250056/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:49:12+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1205756/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:49:26+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1205757/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:49:39+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1205758/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:49:53+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1205759/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:50:07+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1160217/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:50:20+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1160218/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:50:34+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1160219/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:50:48+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1093217/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:51:02+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1093218/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:51:16+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1093219/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:51:30+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1093220/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:51:44+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1035480/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:51:58+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1035481/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:52:12+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1035482/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:52:26+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1035483/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:52:39+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1035484/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:52:53+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/972188/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:53:07+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/972189/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:53:21+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/904419/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:53:35+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/904420/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:53:48+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/904421/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:54:02+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/904422/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:54:16+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/904423/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:54:30+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/904424/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:54:43+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/826603/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:54:57+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/826604/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:55:11+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/826605/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:55:25+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/826606/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:55:39+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/826607/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:55:53+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/826608/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:56:07+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/653313/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:56:20+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/653314/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:56:35+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/653315/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:56:48+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/653316/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:57:02+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/653317/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:57:16+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/653318/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:57:30+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/653319/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:57:44+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/653320/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:57:57+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/author/%E6%8C%81%E5%89%91%E7%B4%AB%E8%A1%A3/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:58:11+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/2330920975/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:58:25+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/2033317117/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:58:39+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1937731839/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:58:52+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1781205942/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:59:06+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1630480451/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:59:20+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1597800778/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:59:34+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1597800777/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T00:59:48+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1555797722/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T01:00:02+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1518326570/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T01:00:16+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1497085609/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T01:00:30+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1461658867/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T01:00:44+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1229598202/",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T01:00:57+00:00",
+      "source": "AAAKS小说",
+      "url": "https://www.aaaks.com/book/1112900337/",
+      "error": "Remote end closed connection without response"
     }
   ]
 }
