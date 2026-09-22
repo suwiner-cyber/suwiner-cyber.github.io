@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-7716a8d05b4aa1fe0e5e",
+      "title": "龙之谷与镇魂街的奇遇 好溜的阿伟",
+      "author": "一念茫然",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2025/12/24/11/41/0182abaa96b04a28b4eab2e466135434_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/955986",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:57+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-7716a8d05b4aa1fe0e5e",
+        "ext-5942837688786115365"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/955986"
+      ]
+    },
+    {
       "id": "ext-22fe673d259f24076730",
       "title": "西游记后记 曲东杰",
       "author": "一念茫然",
@@ -4827,30 +4852,6 @@
       ],
       "read_sources": [
         "https://ixdzs8.com/read/625820/"
-      ]
-    },
-    {
-      "id": "ix-615787",
-      "title": "综武：婴儿逆袭，从拜师桃花岛",
-      "author": "胡萝卜s",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "黄雨锋穿越综武世界，化身襁褓婴儿流落山林，啼哭引黄药师收为弟子。踏入桃花岛之际，签到系统激活。从牙牙学语到武功盖世，他以签到为径，在百国纷争、门派林立的江湖中。",
-      "cover": "https://img22.ixdzs.com/fb/03/fb033c3fa037b8f4c05551764c1b405b.jpg",
-      "source_url": "https://ixdzs8.com/read/615787/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 884,
-      "last_chapter": "第884章",
-      "word_count_wan": 301.52,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:06+00:00",
-      "read_ids": [
-        "ix-615787"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/615787/"
       ]
     }
   ]

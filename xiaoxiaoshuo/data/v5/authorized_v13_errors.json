@@ -1,132 +1,6 @@
 {
-  "generated_at": "2026-09-22T07:03:28+00:00",
+  "generated_at": "2026-09-22T07:08:44+00:00",
   "errors": [
-    {
-      "time": "2026-09-17T06:59:42+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1572143/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T06:59:56+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1482170/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T07:00:10+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1312908/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T07:00:23+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1312909/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T07:00:37+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1276824/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T07:00:51+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1276825/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T07:01:05+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1228929/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-17T07:06:13+00:00",
-      "source": "塔读文学",
-      "url": "https://www.tadu.com/store/122-a-1-15-a-20-p-500-122",
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "time": "2026-09-17T07:09:59+00:00",
-      "source": "努努书坊",
-      "url": "https://www.kanunu8.com/zj/11142.html",
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "time": "2026-09-17T12:38:09+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/铭心路人.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T12:38:12+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/神魔星木瓜.html",
-      "error": "'ascii' codec can't encode characters in position 12-16: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T12:38:14+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/我有话要唠.html",
-      "error": "'ascii' codec can't encode characters in position 12-16: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T12:38:53+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/头很大的T君.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T12:38:57+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/吃番茄不长胖.html",
-      "error": "'ascii' codec can't encode characters in position 12-17: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T12:38:58+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/时光悠悠.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T12:39:14+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/树下揍猫.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T12:39:25+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/战西野.html",
-      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T12:39:28+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/八月初八.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T12:40:20+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/琥珀纽扣.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T12:40:42+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/肥猫警长.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-17T12:40:44+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/范氏之魂.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
     {
       "time": "2026-09-17T12:40:50+00:00",
       "source": "泡书吧小说网",
@@ -15000,6 +14874,132 @@
       "source": "AAAKS小说",
       "url": "https://www.aaaks.com/book/829242924/",
       "error": "Remote end closed connection without response"
+    },
+    {
+      "time": "2026-09-22T07:03:52+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/16960",
+      "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-22T07:03:56+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/9504",
+      "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-22T07:04:00+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/151740",
+      "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-22T07:04:02+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/48556",
+      "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-22T07:04:03+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/258589",
+      "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-22T07:04:04+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/6322",
+      "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-22T07:04:06+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/17000",
+      "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-22T07:04:10+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/532309",
+      "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-22T07:04:12+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/521673",
+      "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-22T07:04:14+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/408456",
+      "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-22T07:04:15+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/339405",
+      "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-22T07:04:17+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/380434",
+      "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-22T07:04:18+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/175109",
+      "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-22T07:04:21+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/174803",
+      "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-22T07:04:23+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/20065",
+      "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-22T07:04:27+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/339010",
+      "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-22T07:04:29+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/530997",
+      "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-22T07:04:31+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/330100",
+      "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-22T07:04:32+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/386080",
+      "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-22T07:04:33+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/332255",
+      "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-22T07:04:34+00:00",
+      "source": "塔读文学",
+      "url": "https://www.tadu.com/space/author/174805",
+      "error": "HTTP Error 404: "
     }
   ]
 }

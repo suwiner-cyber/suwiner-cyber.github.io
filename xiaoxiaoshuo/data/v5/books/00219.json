@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-d91b6336556dad0b6533",
+      "title": "流潋紫: 鸭架粥",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2012/05-07-7704.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d91b6336556dad0b6533",
+        "ext-8995318116132229004"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2012/05-07-7704.html"
+      ]
+    },
+    {
       "id": "ext-4e77080b0a9ece029d81",
       "title": "流潋紫: 如是今日，愿不再相见",
       "author": "",
@@ -5015,31 +5040,6 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/1038580"
-      ]
-    },
-    {
-      "id": "ext-7716a8d05b4aa1fe0e5e",
-      "title": "龙之谷与镇魂街的奇遇 好溜的阿伟",
-      "author": "一念茫然",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2025/12/24/11/41/0182abaa96b04a28b4eab2e466135434_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/955986",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7716a8d05b4aa1fe0e5e",
-        "ext-5942837688786115365"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/955986"
       ]
     }
   ]

@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-15e6b043b7850ba9d845",
+      "title": "第十八章 结案",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450107.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-15e6b043b7850ba9d845",
+        "ext-6223245176738628562"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450107.html"
+      ]
+    },
+    {
       "id": "ext-ac48fd25e2d1eac6a7f3",
       "title": "第十八章 火光",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450079.html"
-      ]
-    },
-    {
-      "id": "ext-ac48741836d0c85a8d5e",
-      "title": "第二十一章 父子",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450251.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ac48741836d0c85a8d5e",
-        "ext-3727585799019245053"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450251.html"
       ]
     }
   ]

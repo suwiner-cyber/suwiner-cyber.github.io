@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-8e79bc09fe13dc5c6b73",
+      "title": "首牢村的来信",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481796.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:50+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8e79bc09fe13dc5c6b73",
+        "ext-4950168445861601198"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qianyaobaimei/481796.html"
+      ]
+    },
+    {
       "id": "ext-0413d05faaf0cebb7696",
       "title": "颛顼高阳氏者",
       "author": "",
@@ -5249,37 +5274,6 @@
         "https://www.kanunu8.com/book7/dby67/469950.html",
         "https://www.kanunu8.com/book5/2j15ri/113933.html",
         "https://www.kanunu8.com/book5/ycxwuzuo/101288.html"
-      ]
-    },
-    {
-      "id": "ext-53ff7dd421039218e1cf",
-      "title": "第八十章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/462926.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462926.html",
-        "https://www.kanunu8.com/book7/dby67/470021.html"
-      ],
-      "read_ids": [
-        "ext-53ff7dd421039218e1cf",
-        "ext-4287721928579204750",
-        "ext-79898f306f2930ada9ce"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462926.html",
-        "https://www.kanunu8.com/book7/dby67/470021.html"
       ]
     }
   ]

@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-dbe20b56c6482d5121dc",
+      "title": "第86章 荣光",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/tianjieyese/452040.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:11+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-dbe20b56c6482d5121dc",
+        "ext-99711970957084819"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/tianjieyese/452040.html"
+      ]
+    },
+    {
       "id": "ext-142b0a2143f5803d0bb7",
       "title": "第85章 荣光",
       "author": "",
@@ -4982,31 +5007,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450070.html"
-      ]
-    },
-    {
-      "id": "ext-15e6b043b7850ba9d845",
-      "title": "第十八章 结案",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450107.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-15e6b043b7850ba9d845",
-        "ext-6223245176738628562"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450107.html"
       ]
     }
   ]

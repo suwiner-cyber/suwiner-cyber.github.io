@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-17971f38811825d2f744",
+      "title": "第46章 破例",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/houmen/452532.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:21+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-17971f38811825d2f744",
+        "ext-3635716571769251945"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/houmen/452532.html"
+      ]
+    },
+    {
       "id": "ext-16238c8fca25dbf8dd67",
       "title": "第45章 你怎么就不能乖一点",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/xinpin/450043.html"
-      ]
-    },
-    {
-      "id": "ext-4ef0d98c58e64e918792",
-      "title": "第128章 算账",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/xinpin/450042.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 128,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:18+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-4ef0d98c58e64e918792",
-        "ext-3261205315008894271"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/xinpin/450042.html"
       ]
     }
   ]
