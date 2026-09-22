@@ -1,7 +1,7 @@
 {
   "version": 14,
-  "generated_at": "2026-09-22T01:10:31+00:00",
-  "total": 45873,
+  "generated_at": "2026-09-22T01:13:43+00:00",
+  "total": 45868,
   "shard_size": 200,
   "shards": [
     {
@@ -922,11 +922,11 @@
     },
     {
       "file": "books/00230.json",
-      "count": 73
+      "count": 68
     }
   ],
   "source_counts": {
-    "努努书坊": 9807,
+    "努努书坊": 9802,
     "塔读文学": 444,
     "爱下电子书": 5630,
     "泡书吧小说网": 4595,
@@ -1013,8 +1013,8 @@
       "books_added": 0,
       "toc_written": 0,
       "books_seen_total": 4067,
-      "remaining_queue": 140993,
-      "seen_pages": 7360,
+      "remaining_queue": 140913,
+      "seen_pages": 7440,
       "done": false,
       "blocked": false,
       "needs_adapter": false
@@ -1149,7 +1149,7 @@
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "kanunu8.com",
+  "last_published_source": "xs8.cn",
   "id_scheme": "stable-v4-aliases",
   "metadata_sanitized": true,
   "text_only": true
