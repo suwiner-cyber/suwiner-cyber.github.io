@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-a9484322527f645671e7",
-      "title": "第25章 偷偷",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/ttcbuzhu/48155.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:06+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a9484322527f645671e7",
-        "ext-5195143323208377203"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/ttcbuzhu/48155.html"
-      ]
-    },
-    {
       "id": "ext-955ca384a80ff37cf81e",
       "title": "第24章 偷偷",
       "author": "",
@@ -5145,6 +5120,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/dbsbfding/436693.html"
+      ]
+    },
+    {
+      "id": "ext-0ce9259246c387e57fb3",
+      "title": "第九章 脱身",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/dbsbfding/436681.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:01+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-0ce9259246c387e57fb3",
+        "ext-575609494216280152"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/dbsbfding/436681.html"
       ]
     }
   ]
