@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-226cc417af01fd558bac",
+      "title": "第93章 年夜饭（2",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/hxshn91/485083.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 93,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:54+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-226cc417af01fd558bac",
+        "ext-621175535803219536"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/hxshn91/485083.html"
+      ]
+    },
+    {
       "id": "ext-116a02dabf267b005cab",
       "title": "第92章 年夜饭(1",
       "author": "",
@@ -5333,37 +5358,6 @@
       "read_sources": [
         "https://www.kanunu8.com/book7/datangpizhuji/481731.html",
         "https://www.kanunu8.com/book7/hxshn92/485291.html"
-      ]
-    },
-    {
-      "id": "ext-cc6acb636e7ecd81dada",
-      "title": "第175章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/datangpizhuji/481730.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 154,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:52+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/datangpizhuji/481730.html",
-        "https://www.kanunu8.com/book7/hxshn92/485290.html"
-      ],
-      "read_ids": [
-        "ext-cc6acb636e7ecd81dada",
-        "ext-9056938781831216004",
-        "ext-2d605cbd23b7abdde9bb"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/datangpizhuji/481730.html",
-        "https://www.kanunu8.com/book7/hxshn92/485290.html"
       ]
     }
   ]

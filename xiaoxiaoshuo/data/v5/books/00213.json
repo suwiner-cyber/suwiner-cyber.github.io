@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-ae28fe70ce761ded369a",
+      "title": "第11章 坠落的童星11",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/dby82/459679.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 11,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:58+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ae28fe70ce761ded369a",
+        "ext-403200164096072576"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/dby82/459679.html"
+      ]
+    },
+    {
       "id": "ext-d90bbc93006af256fb4f",
       "title": "第119章 妈妈我捡垃圾养你啊21",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/dby81/459581.html"
-      ]
-    },
-    {
-      "id": "ext-7b0df4b07ac164417eb9",
-      "title": "第172章 我真不想捧红他啊8",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dby81/459580.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 172,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7b0df4b07ac164417eb9",
-        "ext-6347997527869875345"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dby81/459580.html"
       ]
     }
   ]

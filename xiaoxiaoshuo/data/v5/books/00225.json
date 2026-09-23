@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-d996662c644a2b4da467",
+      "title": "约翰·高尔斯华绥: 质量",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2012/10-07-8221.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d996662c644a2b4da467",
+        "ext-5595628255255501069"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2012/10-07-8221.html"
+      ]
+    },
+    {
       "id": "ext-39e9f3844864e11345b4",
       "title": "石康: 看哪，这人",
       "author": "",
@@ -5015,31 +5040,6 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/800532"
-      ]
-    },
-    {
-      "id": "ext-dbb8c43169653f03bd5c",
-      "title": "毒宠战神狂妃 旧梦若有痕",
-      "author": "山雪别",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2023/05/31/22/13/a0f3262e719f49daa82bd3438bd61676.jpg",
-      "source_url": "https://www.tadu.com/book/560501",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:16+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-dbb8c43169653f03bd5c",
-        "ext-3602801164507694439"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/560501"
       ]
     }
   ]

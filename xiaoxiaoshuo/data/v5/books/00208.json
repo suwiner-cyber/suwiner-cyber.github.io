@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-7177f2dcabc87227b36d",
+      "title": "第十四章 密林",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450346.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-7177f2dcabc87227b36d",
+        "ext-2949748785124960444"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450346.html"
+      ]
+    },
+    {
       "id": "ext-45cd75fa38105de5a923",
       "title": "第十四章 变故",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450171.html"
-      ]
-    },
-    {
-      "id": "ext-91adab1119c46866b376",
-      "title": "第二十三章 好，我答应你",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450112.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-91adab1119c46866b376",
-        "ext-6171872531844753169"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450112.html"
       ]
     }
   ]

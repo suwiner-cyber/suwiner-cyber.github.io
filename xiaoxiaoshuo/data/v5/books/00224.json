@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-739889eac9c4decc6b69",
+      "title": "第85章 独行",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204348.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 48,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-739889eac9c4decc6b69",
+        "ext-1960627387155689895"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204348.html"
+      ]
+    },
+    {
       "id": "ext-81e61a66d7950db4ed5c",
       "title": "第84章 就这样吧",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/01-24-1284.html"
-      ]
-    },
-    {
-      "id": "ext-d996662c644a2b4da467",
-      "title": "约翰·高尔斯华绥: 质量",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2012/10-07-8221.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d996662c644a2b4da467",
-        "ext-5595628255255501069"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2012/10-07-8221.html"
       ]
     }
   ]

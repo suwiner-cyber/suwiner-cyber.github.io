@@ -1,6 +1,37 @@
 {
   "books": [
     {
+      "id": "ext-5e8a70d75692bf346c02",
+      "title": "第六十六章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/462912.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462912.html",
+        "https://www.kanunu8.com/book7/dby67/470007.html"
+      ],
+      "read_ids": [
+        "ext-5e8a70d75692bf346c02",
+        "ext-4934280900369579577",
+        "ext-ace8b124a9d3f46a59de"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462912.html",
+        "https://www.kanunu8.com/book7/dby67/470007.html"
+      ]
+    },
+    {
       "id": "ext-397ec97e740737caa673",
       "title": "第六十八章",
       "author": "",
@@ -5927,37 +5958,6 @@
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/462961.html",
         "https://www.kanunu8.com/book7/dby67/470057.html"
-      ]
-    },
-    {
-      "id": "ext-b73c12d3ec3cfe51916e",
-      "title": "第一百一十二章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/462958.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462958.html",
-        "https://www.kanunu8.com/book7/dby67/470054.html"
-      ],
-      "read_ids": [
-        "ext-b73c12d3ec3cfe51916e",
-        "ext-5513068847575715801",
-        "ext-083d926a0c170611bf60"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462958.html",
-        "https://www.kanunu8.com/book7/dby67/470054.html"
       ]
     }
   ]

@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-2f2fda5bb1b0172343b5",
+      "title": "老九门之棋局",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/laojiumen/416804.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:41+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2f2fda5bb1b0172343b5",
+        "ext-8527775252827119444"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/laojiumen/416804.html"
+      ]
+    },
+    {
       "id": "ext-46c202963c4b98f9f5d1",
       "title": "老九门之张大佛爷",
       "author": "",
@@ -4979,31 +5004,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65305.html"
-      ]
-    },
-    {
-      "id": "ext-270783d47990c7d339fc",
-      "title": "第266章 着落",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65304.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 266,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-270783d47990c7d339fc",
-        "ext-7207418487032902962"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65304.html"
       ]
     }
   ]
