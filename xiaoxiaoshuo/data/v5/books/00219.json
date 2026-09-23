@@ -1,65 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-04e138fb3dce048487b9",
-      "title": "第170章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/plk_zheyao/202593.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:43+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book5/plk_zheyao/202593.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481725.html",
-        "https://www.kanunu8.com/book7/hxshn92/485284.html"
-      ],
-      "read_ids": [
-        "ext-04e138fb3dce048487b9",
-        "ext-3535290472339075329",
-        "ext-eaa117b46ba149962741",
-        "ext-d35b2cafa17fa958a811"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/plk_zheyao/202593.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481725.html",
-        "https://www.kanunu8.com/book7/hxshn92/485284.html"
-      ]
-    },
-    {
-      "id": "ext-63d107973a543bc22b52",
-      "title": "第16章 魏侯之怒（中）",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/plk_zheyao/37948.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 16,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:43+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-63d107973a543bc22b52",
-        "ext-1331991801514403574"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/plk_zheyao/37948.html"
-      ]
-    },
-    {
       "id": "ext-c18e20f7ad965756f0a8",
       "title": "第169章",
       "author": "",
@@ -7797,6 +7738,56 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/laojiumen/416804.html"
+      ]
+    },
+    {
+      "id": "ext-46c202963c4b98f9f5d1",
+      "title": "老九门之张大佛爷",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/laojiumen/416795.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:41+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-46c202963c4b98f9f5d1",
+        "ext-6028560985054967950"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/laojiumen/416795.html"
+      ]
+    },
+    {
+      "id": "ext-a6b6b530791956b67e7c",
+      "title": "老九门之命运",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/laojiumen/416798.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:41+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a6b6b530791956b67e7c",
+        "ext-6057767237014434149"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/laojiumen/416798.html"
       ]
     }
   ]
