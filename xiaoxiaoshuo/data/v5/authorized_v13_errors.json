@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-09-23T00:33:44+00:00",
+  "generated_at": "2026-09-23T00:35:19+00:00",
   "errors": [
-    {
-      "time": "2026-09-18T00:40:52+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/青蚨散人.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-18T00:40:53+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/念念有渔.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
     {
       "time": "2026-09-18T00:40:55+00:00",
       "source": "泡书吧小说网",
@@ -15000,6 +14988,18 @@
       "source": "塔读文学",
       "url": "https://www.tadu.com/space/author/528560",
       "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-23T00:34:24+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=445428",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-23T00:34:25+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=445417",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }

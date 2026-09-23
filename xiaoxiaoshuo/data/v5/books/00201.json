@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-74e5c940d614cf6a035d",
+      "title": "第53章 打牌",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/xinpin/449967.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:18+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-74e5c940d614cf6a035d",
+        "ext-7196605747608017720"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/xinpin/449967.html"
+      ]
+    },
+    {
+      "id": "ext-8c8593cb5e75411250f6",
+      "title": "第52章 灵山",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/xinpin/449966.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:18+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8c8593cb5e75411250f6",
+        "ext-1630431265527712581"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/xinpin/449966.html"
+      ]
+    },
+    {
       "id": "ext-cb12b4abe1c5deca6528",
       "title": "第51章 纸鸢",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/mangjia/450746.html"
-      ]
-    },
-    {
-      "id": "ext-08b8c71bb01f856eef8f",
-      "title": "第53章 略有洁癖",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/mangjia/450745.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 53,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:16+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-08b8c71bb01f856eef8f",
-        "ext-3062797994066002128"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/mangjia/450745.html"
-      ]
-    },
-    {
-      "id": "ext-87468ba7bb9117cd0042",
-      "title": "第52章 出口恶气",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/mangjia/450744.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 52,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:16+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-87468ba7bb9117cd0042",
-        "ext-5696262753959287231"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/mangjia/450744.html"
       ]
     }
   ]
