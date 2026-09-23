@@ -1,7 +1,7 @@
 {
   "version": 14,
-  "generated_at": "2026-09-23T06:40:52+00:00",
-  "total": 47034,
+  "generated_at": "2026-09-23T06:42:37+00:00",
+  "total": 47036,
   "shard_size": 200,
   "shards": [
     {
@@ -946,11 +946,12 @@
     },
     {
       "file": "books/00236.json",
-      "count": 34
+      "count": 36
     }
   ],
   "source_counts": {
-    "一七小说": 5632,
+    "飘天文学": 1237,
+    "一七小说": 5631,
     "言情小说吧": 3809,
     "努努书坊": 10020,
     "塔读文学": 452,
@@ -958,7 +959,6 @@
     "泡书吧小说网": 4671,
     "乐文小说": 5196,
     "和图书": 3231,
-    "飘天文学": 1234,
     "滋味小说网": 4994,
     "AAAKS小说": 2008
   },
@@ -1145,12 +1145,12 @@
       "pages_this_run": 80,
       "successful_pages": 78,
       "failed_pages": 2,
-      "books_found": 3,
-      "books_added": 3,
-      "toc_written": 3,
-      "books_seen_total": 1639,
-      "remaining_queue": 26885,
-      "seen_pages": 7840,
+      "books_found": 6,
+      "books_added": 6,
+      "toc_written": 6,
+      "books_seen_total": 1645,
+      "remaining_queue": 26859,
+      "seen_pages": 7920,
       "done": false,
       "blocked": false,
       "needs_adapter": false
@@ -1173,7 +1173,7 @@
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "1qxs.com",
+  "last_published_source": "piaotia.com",
   "id_scheme": "stable-v4-aliases",
   "metadata_sanitized": true,
   "text_only": true

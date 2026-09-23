@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-a0534be51b5eecd8644b",
+      "title": "第38章 二更",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/houmen/452524.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:21+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a0534be51b5eecd8644b",
+        "ext-3767306677782327171"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/houmen/452524.html"
+      ]
+    },
+    {
+      "id": "ext-238378b940b486379fc0",
+      "title": "第37章 一更",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/houmen/452523.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:21+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-238378b940b486379fc0",
+        "ext-6026921547098933398"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/houmen/452523.html"
+      ]
+    },
+    {
       "id": "ext-3f896dd5b1516f33b0fc",
       "title": "第36章 今日补一回",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/xinpin/450034.html"
-      ]
-    },
-    {
-      "id": "ext-77708a56e4181b8c1723",
-      "title": "第11章 相看",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/xinpin/449925.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:18+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-77708a56e4181b8c1723",
-        "ext-5413584794704611381"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/xinpin/449925.html"
-      ]
-    },
-    {
-      "id": "ext-5d1ff9287e8fb3884f10",
-      "title": "第119章 桂花",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/xinpin/450033.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 119,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:18+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-5d1ff9287e8fb3884f10",
-        "ext-7925090530597141790"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/xinpin/450033.html"
       ]
     }
   ]
