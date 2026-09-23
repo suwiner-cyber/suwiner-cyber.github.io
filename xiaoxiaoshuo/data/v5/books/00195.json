@@ -1,6 +1,161 @@
 {
   "books": [
     {
+      "id": "ext-80322576a51b847cc953",
+      "title": "历史·军事",
+      "author": "",
+      "kind": "武侠小说",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/13.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 11,
+      "last_chapter": "纪连海",
+      "detail_complete": true,
+      "indexed_at": "2026-08-30T03:12:31+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-80322576a51b847cc953",
+        "ext-5099d2357fafb105af6f"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/13.html"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/13.html"
+      ]
+    },
+    {
+      "id": "ext-e919f0815b4bd66df3ca",
+      "title": "现代都市小说",
+      "author": "",
+      "kind": "武侠小说",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/dushi/",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": true,
+      "indexed_at": "2026-08-30T03:12:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e919f0815b4bd66df3ca",
+        "ext-71219e35c690c5b84f16"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/dushi/"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/dushi/"
+      ]
+    },
+    {
+      "id": "ext-29b21b21c5879ebf98fa",
+      "title": "校园小说",
+      "author": "",
+      "kind": "武侠小说",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/youth/",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": true,
+      "indexed_at": "2026-08-30T03:12:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-29b21b21c5879ebf98fa",
+        "ext-55d34a84c8f28c269023"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/youth/"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/youth/"
+      ]
+    },
+    {
+      "id": "ext-4fdf83c0705487b77bb0",
+      "title": "世界文学",
+      "author": "世界经典名",
+      "kind": "武侠小说",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/world/",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": true,
+      "indexed_at": "2026-08-30T03:12:27+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4fdf83c0705487b77bb0",
+        "ext-f9cc7555f69fd8de3ff0"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/world/"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/world/"
+      ]
+    },
+    {
+      "id": "ext-49835d2a4aac097723c3",
+      "title": "港台、海外华人文学",
+      "author": "",
+      "kind": "武侠小说",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/7.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 31,
+      "last_chapter": "鸡蛋中的银指环",
+      "detail_complete": true,
+      "indexed_at": "2026-08-30T03:12:26+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-49835d2a4aac097723c3",
+        "ext-9b39ba475d8e3acf04aa"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/7.html"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/7.html"
+      ]
+    },
+    {
       "id": "ext-ddc24e23cb3c1d6d9fc6",
       "title": "华文小说",
       "author": "凶犯(天狗原",
@@ -6335,161 +6490,6 @@
       "read_ids": [
         "ext-77a72969dc71a880b2b1",
         "ext-8077fe809bf60cb5c89a"
-      ]
-    },
-    {
-      "id": "ext-c64e153e57364266f593",
-      "title": "本诗仙拥兵百万，你让我自重？",
-      "author": "一头好人创作，作品本诗仙拥兵百万，你让我自重？章章动人，乐文小说为你第一时间提供",
-      "kind": "首页 > 历史军事 > 本诗仙拥兵百万，你让我自重？ > 本诗仙拥兵百万，你让我",
-      "status": "连载中",
-      "intro": "《本诗仙拥兵百万，你让我自重？》为作者一头好人创作，作品本诗仙拥兵百万，你让我自重？章章动人，乐文小说为你第一时间提供一头好人精心编写原创本诗仙拥兵百万，你让我自重？及无弹窗本诗仙拥兵百万，你让我自重？全文免费阅读、TXT下载。 简介:关于本诗仙拥兵百万，你让我自重？：二娘没想到吧，过期药让我更猛了！啥？你还要和兄长抢我驸马之位？给脸不要，抽你丫的！啊？你还要报仇？那你快着点，再晚......我皇上老丈人就喊我去登基了！本书又名、。",
-      "cover": "https://img.ilwxs.com/442330/348865.jpg",
-      "source_url": "https://www.ilwxs.com/shu/442330/",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/shu/442330/"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/shu/442330/"
-      ],
-      "media": "text",
-      "chapter_count": 706,
-      "last_chapter": "第577章 一个也杀不了！",
-      "detail_complete": true,
-      "indexed_at": "2026-08-30T02:55:04+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c64e153e57364266f593",
-        "ext-e5d5c55561d713f59194"
-      ]
-    },
-    {
-      "id": "ext-c706ec95b74c3bdcf87a",
-      "title": "妾若安好那还得了",
-      "author": "小羊羔白又白创作，作品妾若安好那还得了章章动人，乐文小说为你第一时间提供小羊羔白",
-      "kind": "首页 > 其他类型 > 妾若安好那还得了 > 妾若安好那还得了章节列表 妹纸们都",
-      "status": "连载中",
-      "intro": "《妾若安好那还得了》为作者小羊羔白又白创作，作品妾若安好那还得了章章动人，乐文小说为你第一时间提供小羊羔白又白精心编写原创妾若安好那还得了及无弹窗妾若安好那还得了全文免费阅读、TXT下载。 简介:关于妾若安好那还得了：她本是将门嫡女、家破人亡她不得不隐姓埋名、被迫为妾.她争的从来不是男人的宠爱、而是男人背后的如画江山、步步为营不过是为了帮为尽忠报国却被冤枉杀的父亲报仇雪恨、鸣冤平反！她可以一直隐姓埋名、她必须要让父亲和哥哥们青史留名、让害他们家破人亡的全都不得好死、永远丁哥在历史耻辱柱上！",
-      "cover": "https://img.ilwxs.com/350812/284420.jpg",
-      "source_url": "https://www.ilwxs.com/shu/350812/",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/shu/350812/"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/shu/350812/"
-      ],
-      "media": "text",
-      "chapter_count": 794,
-      "last_chapter": "第794章 缺口",
-      "detail_complete": true,
-      "indexed_at": "2026-08-30T02:55:01+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c706ec95b74c3bdcf87a",
-        "ext-0ea8f0a405b767d1e83b"
-      ]
-    },
-    {
-      "id": "ext-b2a5f9cca7e5eaa6a8d5",
-      "title": "权力巅峰",
-      "author": "任风萧创作，作品权力巅峰章章动人，乐文小说为你第一时间提供任风萧精心编写原创权力",
-      "kind": "首页 > 都市言情 > 权力巅峰 > 权力巅峰章节列表 妹纸们都在看： 御女天下",
-      "status": "连载中",
-      "intro": "《权力巅峰》为作者任风萧创作，作品权力巅峰章章动人，乐文小说为你第一时间提供任风萧精心编写原创权力巅峰及无弹窗权力巅峰全文免费阅读、TXT下载。 简介:关于权力巅峰：官场如战场，尔虞我诈，勾心斗角，可陆浩时刻谨记，做官就要做个好官，要有两颗心，一颗善心，一颗责任心。且看陆浩一个最偏远乡镇的基层公务员，如何在没有硝烟的权利游戏里一路绿灯，两袖清风，不畏权贵，官运亨通。",
-      "cover": "https://img.ilwxs.com/383320/307330.jpg",
-      "source_url": "https://www.ilwxs.com/shu/383320/",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/shu/383320/"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/shu/383320/"
-      ],
-      "media": "text",
-      "chapter_count": 2868,
-      "last_chapter": "第2771章 委婉拒绝",
-      "detail_complete": true,
-      "indexed_at": "2026-08-30T02:54:59+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b2a5f9cca7e5eaa6a8d5",
-        "ext-430c8c56403870dd4786"
-      ]
-    },
-    {
-      "id": "ext-d0e93563aae6f9bcbc63",
-      "title": "修仙从坊市小符师开始",
-      "author": "趁热创作，作品修仙从坊市小符师开始章章动人，乐文小说为你第一时间提供趁热精心编写",
-      "kind": "首页 > 其他类型 > 修仙从坊市小符师开始 > 修仙从坊市小符师开始章节列表",
-      "status": "连载中",
-      "intro": "《修仙从坊市小符师开始》为作者趁热创作，作品修仙从坊市小符师开始章章动人，乐文小说为你第一时间提供趁热精心编写原创修仙从坊市小符师开始及无弹窗修仙从坊市小符师开始全文免费阅读、TXT下载。 简介:关于修仙从坊市小符师开始：自古及今谁无死？唯仙者也！多少红颜佳人，多少风华绝代，到头尽成一场空。紫符仙缘助林修远制符、修仙、炼丹、御兽、纵剑……既到此走上一遭，但求修仙长生。修仙之路漫漫，林修远一手玉符，一手持剑，问鼎仙途。从坊市开始，一步一步谨小慎微，登筑基，凝紫府，结金丹，证元婴……羽化天仙！",
-      "cover": "https://img.ilwxs.com/125781/216723.jpg",
-      "source_url": "https://www.ilwxs.com/shu/125781/",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/shu/125781/"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/shu/125781/"
-      ],
-      "media": "text",
-      "chapter_count": 585,
-      "last_chapter": "第417章 这块蛋糕，可要分之？（中）",
-      "detail_complete": true,
-      "indexed_at": "2026-08-30T02:54:57+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d0e93563aae6f9bcbc63",
-        "ext-b15c18f2b001e3c23e37"
-      ]
-    },
-    {
-      "id": "ext-253f8ab675a0c30bf034",
-      "title": "云老二一家的传奇故事",
-      "author": "一道森冷的天苍茧创作，作品云老二一家的传奇故事章章动人，乐文小说为你第一时间提供",
-      "kind": "首页 > 其他类型 > 云老二一家的传奇故事 > 云老二一家的传奇故事章节列表",
-      "status": "连载中",
-      "intro": "《云老二一家的传奇故事》为作者一道森冷的天苍茧创作，作品云老二一家的传奇故事章章动人，乐文小说为你第一时间提供一道森冷的天苍茧精心编写原创云老二一家的传奇故事及无弹窗云老二一家的传奇故事全文免费阅读、TXT下载。 简介:关于云老二一家的传奇故事：净身出户怎么了，从小就不肯认命的云老二，完全放飞自我，穷的只剩儿子多多的他，百无禁忌的去了荒野安家后，坚持送儿子去读书，并通过自己的努力，当然也运气满满，搞笑多多，最后自己发家致了富，儿子科举成了功，一路走上人生巅峰。",
-      "cover": "https://img.ilwxs.com/399240/318539.jpg",
-      "source_url": "https://www.ilwxs.com/shu/399240/",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/shu/399240/"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/shu/399240/"
-      ],
-      "media": "text",
-      "chapter_count": 1157,
-      "last_chapter": "第1061章 也成了各方猎物",
-      "detail_complete": true,
-      "indexed_at": "2026-08-30T02:54:54+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-253f8ab675a0c30bf034",
-        "ext-c6d3d7df59f4aadeaeb2"
       ]
     }
   ]
