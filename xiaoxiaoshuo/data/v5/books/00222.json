@@ -1,6 +1,81 @@
 {
   "books": [
     {
+      "id": "ext-1a87d705add852fad854",
+      "title": "第22章 无题",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/plk_zheyao/37954.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:43+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1a87d705add852fad854",
+        "ext-4481201603207454620"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/plk_zheyao/37954.html"
+      ]
+    },
+    {
+      "id": "ext-e0614cf470f4d1de4a75",
+      "title": "第21章 月夜",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/plk_zheyao/37953.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:43+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e0614cf470f4d1de4a75",
+        "ext-6446033081430510428"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/plk_zheyao/37953.html"
+      ]
+    },
+    {
+      "id": "ext-c3df0f967f2c338eda44",
+      "title": "第20章 同居",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/plk_zheyao/37952.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:43+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c3df0f967f2c338eda44",
+        "ext-1702930497583365109"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/plk_zheyao/37952.html"
+      ]
+    },
+    {
       "id": "ext-b35b56d0ba93e70730bc",
       "title": "第1章 蛮蛮",
       "author": "",
@@ -7707,105 +7782,6 @@
         "https://www.kanunu8.com/book7/75chyriji/463141.html",
         "https://www.kanunu8.com/book5/qy_jlwxs/35636.html",
         "https://www.kanunu8.com/book7/shjshdyshchli/450618.html"
-      ]
-    },
-    {
-      "id": "ext-4bfb651645f784d63481",
-      "title": "番外三",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171923.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171923.html",
-        "https://www.kanunu8.com/book7/75chyriji/463142.html",
-        "https://www.kanunu8.com/book5/qy_jlwxs/35637.html",
-        "https://www.kanunu8.com/book7/shjshdyshchli/450619.html"
-      ],
-      "read_ids": [
-        "ext-4bfb651645f784d63481",
-        "ext-9125392722144160720",
-        "ext-0ebb62572f9399476dd4",
-        "ext-de2e1217da950d34c466",
-        "ext-ad0b5def8cc9f6d18387"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171923.html",
-        "https://www.kanunu8.com/book7/75chyriji/463142.html",
-        "https://www.kanunu8.com/book5/qy_jlwxs/35637.html",
-        "https://www.kanunu8.com/book7/shjshdyshchli/450619.html"
-      ]
-    },
-    {
-      "id": "ext-a802003b12ce4690b593",
-      "title": "番外一",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171921.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171921.html",
-        "https://www.kanunu8.com/book7/75chyriji/463140.html",
-        "https://www.kanunu8.com/book5/qy_jlwxs/35635.html",
-        "https://www.kanunu8.com/book7/shjshdyshchli/450617.html"
-      ],
-      "read_ids": [
-        "ext-a802003b12ce4690b593",
-        "ext-359987528099215737",
-        "ext-a29b820ef934c026eb15",
-        "ext-e7f07f6b09670570714e",
-        "ext-eed40007929df5a7411d"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171921.html",
-        "https://www.kanunu8.com/book7/75chyriji/463140.html",
-        "https://www.kanunu8.com/book5/qy_jlwxs/35635.html",
-        "https://www.kanunu8.com/book7/shjshdyshchli/450617.html"
-      ]
-    },
-    {
-      "id": "ext-7cd5b08be31b343bb679",
-      "title": "老九门短篇集2之对手",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/laojiumen/416803.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:41+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7cd5b08be31b343bb679",
-        "ext-5077413801948539099"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/laojiumen/416803.html"
       ]
     }
   ]
