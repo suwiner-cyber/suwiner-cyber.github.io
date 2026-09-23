@@ -1,7 +1,7 @@
 {
   "version": 14,
-  "generated_at": "2026-09-23T01:05:09+00:00",
-  "total": 46888,
+  "generated_at": "2026-09-23T01:06:56+00:00",
+  "total": 46965,
   "shard_size": 200,
   "shards": [
     {
@@ -942,18 +942,18 @@
     },
     {
       "file": "books/00235.json",
-      "count": 88
+      "count": 165
     }
   ],
   "source_counts": {
-    "塔读文学": 455,
+    "努努书坊": 10050,
+    "塔读文学": 452,
     "爱下电子书": 5787,
     "泡书吧小说网": 4671,
     "乐文小说": 5196,
     "和图书": 3231,
     "飘天文学": 1234,
     "一七小说": 5563,
-    "努努书坊": 9970,
     "言情小说吧": 3779,
     "滋味小说网": 4994,
     "AAAKS小说": 2008
@@ -997,12 +997,12 @@
       "pages_this_run": 80,
       "successful_pages": 80,
       "failed_pages": 0,
-      "books_found": 70,
-      "books_added": 70,
-      "toc_written": 70,
-      "books_seen_total": 5828,
-      "remaining_queue": 16463,
-      "seen_pages": 7680,
+      "books_found": 80,
+      "books_added": 80,
+      "toc_written": 80,
+      "books_seen_total": 5908,
+      "remaining_queue": 16383,
+      "seen_pages": 7760,
       "done": false,
       "blocked": false,
       "needs_adapter": false
@@ -1169,7 +1169,7 @@
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "tadu.com",
+  "last_published_source": "kanunu8.com",
   "id_scheme": "stable-v4-aliases",
   "metadata_sanitized": true,
   "text_only": true
