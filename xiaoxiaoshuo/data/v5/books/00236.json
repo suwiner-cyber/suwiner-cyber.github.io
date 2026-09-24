@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-e00299093b65038c0979",
-      "title": "番外三：梁成敏",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/gnbk26/204403.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:38+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e00299093b65038c0979",
-        "ext-8795949539330264272"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/gnbk26/204403.html"
-      ]
-    },
-    {
       "id": "ext-cf1abcc12cab0ba693f1",
       "title": "番外七：梁成敏",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/02-27-1755.html"
+      ]
+    },
+    {
+      "id": "ext-1d66d07c82fee40018c9",
+      "title": "不详: 宽慰",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/little/2009/10-14-945.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1d66d07c82fee40018c9",
+        "ext-7151023210563654928"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2009/10-14-945.html"
       ]
     }
   ]
