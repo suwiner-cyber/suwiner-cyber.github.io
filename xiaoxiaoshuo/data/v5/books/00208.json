@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-0f3400ddf94e5a419d34",
+      "title": "第31章 连着两夜",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/houmen/452517.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 31,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:21+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-0f3400ddf94e5a419d34",
+        "ext-6870920535498026109"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/houmen/452517.html"
+      ]
+    },
+    {
       "id": "ext-b3996ba9bd405276e25a",
       "title": "第30章 立威",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/xinpin/450028.html"
-      ]
-    },
-    {
-      "id": "ext-e8046592a88c2fc47f1c",
-      "title": "第113章 望潮",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/xinpin/450027.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 113,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:18+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e8046592a88c2fc47f1c",
-        "ext-5320348999363230773"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/xinpin/450027.html"
       ]
     }
   ]

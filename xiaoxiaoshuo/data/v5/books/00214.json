@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-5caf65f47264629fa73b",
+      "title": "第九十五章 生路",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450325.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-5caf65f47264629fa73b",
+        "ext-1226116845989918960"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450325.html"
+      ]
+    },
+    {
       "id": "ext-cf11f3cafa68007cfaca",
       "title": "第九十二章 痕迹",
       "author": "",
@@ -5006,31 +5031,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/ttcbuzhu/48177.html"
-      ]
-    },
-    {
-      "id": "ext-098249dba3c2a9f8ca2b",
-      "title": "第46章 藏不住",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/ttcbuzhu/48176.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 46,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:06+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-098249dba3c2a9f8ca2b",
-        "ext-6560506030980923772"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/ttcbuzhu/48176.html"
       ]
     }
   ]

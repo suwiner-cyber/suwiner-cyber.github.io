@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-f63dc177b43cb592a537",
+      "title": "第十二章 凶局",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450420.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f63dc177b43cb592a537",
+        "ext-4339691595647496310"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450420.html"
+      ]
+    },
+    {
       "id": "ext-267c2ee6042c4f42e7d1",
       "title": "第十九章 颍上",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450328.html"
-      ]
-    },
-    {
-      "id": "ext-5caf65f47264629fa73b",
-      "title": "第九十五章 生路",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450325.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-5caf65f47264629fa73b",
-        "ext-1226116845989918960"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450325.html"
       ]
     }
   ]

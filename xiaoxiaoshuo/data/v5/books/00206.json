@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-aa102d64b4b86f1bbc5a",
+      "title": "寻宝全世界",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.1qxs.com/xs_1/75469.html",
+      "source_host": "www.1qxs.com",
+      "source_name": "一七小说",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T15:02:56+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-aa102d64b4b86f1bbc5a",
+        "ext-3968883120504186528"
+      ],
+      "read_sources": [
+        "https://www.1qxs.com/xs_1/75469.html"
+      ]
+    },
+    {
       "id": "ext-161256da05b8644f99db",
       "title": "吃蘑菇后，我成了绝世古仙医",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/mingfen/450557.html"
-      ]
-    },
-    {
-      "id": "ext-b6c6aebcc66dcf1715b9",
-      "title": "Chapter 88:林语，我很爱你。",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/mingfen/450556.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:24+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b6c6aebcc66dcf1715b9",
-        "ext-1349376866853003282"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/mingfen/450556.html"
       ]
     }
   ]

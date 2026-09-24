@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-d989b85989907350a89e",
+      "title": "碎星 千思",
+      "author": "浮兮",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//f/8/6/8/f868dbe4ad931ab3d071b57e84dad04c_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/425110",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:50+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d989b85989907350a89e",
+        "ext-5149227944858063792"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/425110"
+      ]
+    },
+    {
       "id": "ext-125f62884440cac3caa7",
       "title": "末世：我能升级避难所 八零后家庭煮妇",
       "author": "浮兮",
@@ -4811,30 +4836,6 @@
       ],
       "read_sources": [
         "https://ixdzs8.com/read/605738/"
-      ]
-    },
-    {
-      "id": "ix-613190",
-      "title": "龙角吊坠",
-      "author": "张枭",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "~~“妖”是我的伙伴！“魔”是我的仆人！“鬼”是我灵魂的补品一个被废掉丹田，打断四肢后扔进万蛇窟的少年，意外获得了新生，从新踏上修仙之路！“仇人”我要打爆你的脑袋！“天骄”我要你匍匐在我的脚下！“朋友”我与你肝胆相照！“爱人”我用命去守护！",
-      "cover": "https://img22.ixdzs.com/b8/4d/b84d78eef29d569068970f29ee012007.jpg",
-      "source_url": "https://ixdzs8.com/read/613190/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 1137,
-      "last_chapter": "第1137章",
-      "word_count_wan": 245.82,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:05+00:00",
-      "read_ids": [
-        "ix-613190"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/613190/"
       ]
     }
   ]

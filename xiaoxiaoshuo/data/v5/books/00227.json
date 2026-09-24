@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-1987e14a598d4dc2e911",
+      "title": "第十一章 遗物",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/laojiumen/416855.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:41+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1987e14a598d4dc2e911",
+        "ext-6202510042328097299"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/laojiumen/416855.html"
+      ]
+    },
+    {
       "id": "ext-869319e20b15294ea906",
       "title": "第十一章 一月花开二月红",
       "author": "",
@@ -4979,31 +5004,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65282.html"
-      ]
-    },
-    {
-      "id": "ext-e1cc9d562e7040303b77",
-      "title": "第243章 落空",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65281.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 243,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e1cc9d562e7040303b77",
-        "ext-7504408762247198951"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65281.html"
       ]
     }
   ]

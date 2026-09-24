@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-cd6960139a7b0e9d2e97",
+      "title": "第八章 情报厅",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/dbsbfding/436680.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:01+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-cd6960139a7b0e9d2e97",
+        "ext-506522427959611634"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/dbsbfding/436680.html"
+      ]
+    },
+    {
       "id": "ext-a24675508857b476db38",
       "title": "第五章 保密局",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/dby82/459947.html"
-      ]
-    },
-    {
-      "id": "ext-b626c7d818060d65cec6",
-      "title": "第278章 从现代穿回民国33",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dby82/459946.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 278,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:58+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b626c7d818060d65cec6",
-        "ext-2744361914783934783"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dby82/459946.html"
       ]
     }
   ]

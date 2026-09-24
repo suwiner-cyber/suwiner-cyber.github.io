@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-24932abfc47cb8476fec",
+      "title": "第70章 超市与电影（3）",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/hxshn91/485060.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 70,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:54+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-24932abfc47cb8476fec",
+        "ext-8815288924307556210"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/hxshn91/485060.html"
+      ]
+    },
+    {
       "id": "ext-8778667a963f9b095800",
       "title": "第6章 这是饼干，可以吃的",
       "author": "",
@@ -5357,31 +5382,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qianyaobaimei/481800.html"
-      ]
-    },
-    {
-      "id": "ext-f789661bd478c1a588b9",
-      "title": "补天司",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481885.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:50+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f789661bd478c1a588b9",
-        "ext-6781732024925199645"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qianyaobaimei/481885.html"
       ]
     }
   ]

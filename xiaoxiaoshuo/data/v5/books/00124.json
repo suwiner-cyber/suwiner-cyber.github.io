@@ -1,6 +1,38 @@
 {
   "books": [
     {
+      "id": "ext-8d6822636227096da101",
+      "title": "魔戒之王(指环王)",
+      "author": "托尔金 发布时间：2008-05-29 托尔金的作品诠释了许多在善良与邪恶之间的",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/xunhuan/200805/561.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 82,
+      "last_chapter": "第19节 灰港岸(完)",
+      "detail_complete": true,
+      "indexed_at": "2026-09-06T13:05:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8d6822636227096da101",
+        "ext-848d33d561bc666c083c",
+        "ext-3540629424080762122"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/xunhuan/200805/561.html"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/xunhuan/200805/561.html"
+      ]
+    },
+    {
       "id": "ext-505d1de5c4f508ba4669",
       "title": "纳尼亚传奇1：狮子、女巫和衣橱",
       "author": "克利弗·S·刘易斯 发布时间：2008-05-29 《纳尼亚王国传奇》融神话、童",
@@ -6284,36 +6316,6 @@
       "catalog_only": false,
       "read_ids": [
         "ext-09574292512ed41ecfa7"
-      ]
-    },
-    {
-      "id": "ext-997f25f2c771984533d5",
-      "title": "天火大道",
-      "author": "唐家三少 类型 : 都市小说 字数 : 257.71万字 本书目录 作品简介 第",
-      "kind": "都市小说 字数 : 257.71万字 本书目录 作品简介 第一章 宙斯珠宝店 第",
-      "status": "",
-      "intro": "浩瀚的宇宙中，故事开始于新元时代的天火星。这里有新纪元最先进的高科技，也有千万年沉淀下来的最顶级的人类文明。 天火大道是一条长达两千零四十八米的街道，漫长的街道上有着数之不尽的店铺，但其中有那么一百六十八家显得格外的不同。 这些店铺的主人，拥有着常人难以想象的过去，在过去的某一个时段，这些店主的名字如同雷霆与闪电一般响彻在世间，他们是活生生的传奇与神话。 但如今，他们隐藏起非凡的力量，褪下耀眼的外表，隐居在这条热闹非凡的天火大道上。 而这样一条隐藏着这些强者的传奇之路，更是一条充满着科技魅力的贵族大道。 这里不允许任何车辆和机器人通行，哪怕是机甲都不行，甚至那些巡逻的警察，都必须用步行这种最古老的方式来表示其敬意。 而我们的故事正是从这条神奇的大道上开始，绰号宙斯的前佣兵之王蓝绝，因为意外身亡的妻子而隐居在这天火大道。 他的店铺叫做“宙斯珠宝店。” 而他，在这天火大道，被称为独一无二的“珠宝师”。 唐家三少全新力作，融合了异能，机甲等潮流元素，不会让任何一名读者失望的精彩之作。",
-      "cover": "",
-      "source_url": "https://m.hetushu.com/book/2145/index.html",
-      "source_host": "hetushu.com",
-      "source_name": "和图书",
-      "source_names": [
-        "和图书"
-      ],
-      "sources": [
-        "https://m.hetushu.com/book/2145/index.html"
-      ],
-      "read_sources": [
-        "https://m.hetushu.com/book/2145/index.html"
-      ],
-      "media": "text",
-      "chapter_count": 9,
-      "last_chapter": "第九章 四神君",
-      "detail_complete": true,
-      "indexed_at": "2026-09-06T12:32:54+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-997f25f2c771984533d5"
       ]
     }
   ]
