@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-09-24T01:09:33+00:00",
+  "generated_at": "2026-09-24T01:18:03+00:00",
   "errors": [
-    {
-      "time": "2026-09-19T00:55:02+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/2006299056/",
-      "error": "Remote end closed connection without response"
-    },
     {
       "time": "2026-09-19T00:55:16+00:00",
       "source": "AAAKS小说",
@@ -15000,6 +14994,12 @@
       "source": "塔读文学",
       "url": "https://www.tadu.com/space/author/532254",
       "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-09-24T01:16:30+00:00",
+      "source": "言情小说吧",
+      "url": "https://www.xs8.cn/bookquery/peenurjdlwkg",
+      "error": "HTTP Error 504: Gateway Timeout"
     }
   ]
 }
