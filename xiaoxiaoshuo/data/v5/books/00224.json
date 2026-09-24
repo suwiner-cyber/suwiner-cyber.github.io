@@ -1,74 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-8c6f86cd6a780d82c247",
-      "title": "第五十一章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/462897.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462897.html",
-        "https://www.kanunu8.com/book7/dby67/469993.html"
-      ],
-      "read_ids": [
-        "ext-8c6f86cd6a780d82c247",
-        "ext-4287207489265221148",
-        "ext-03aabe4d3c76ec652b93"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462897.html",
-        "https://www.kanunu8.com/book7/dby67/469993.html"
-      ]
-    },
-    {
-      "id": "ext-902d25fb19fb0102cf29",
-      "title": "第二章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/462848.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462848.html",
-        "https://www.kanunu8.com/book7/dby67/469944.html",
-        "https://www.kanunu8.com/book5/2j15ri/113927.html",
-        "https://www.kanunu8.com/book5/ycxwuzuo/101282.html"
-      ],
-      "read_ids": [
-        "ext-902d25fb19fb0102cf29",
-        "ext-8207774409019772452",
-        "ext-e898c0bb4bf177026dd0",
-        "ext-2858d26bc2d51e88de5d",
-        "ext-379027d1c6944ba49fc2"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462848.html",
-        "https://www.kanunu8.com/book7/dby67/469944.html",
-        "https://www.kanunu8.com/book5/2j15ri/113927.html",
-        "https://www.kanunu8.com/book5/ycxwuzuo/101282.html"
-      ]
-    },
-    {
       "id": "ext-5ce08446df44a7f3414b",
       "title": "第二百零四章",
       "author": "",
@@ -5814,6 +5746,56 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/463207.html"
+      ]
+    },
+    {
+      "id": "ext-230bc14c9ca4692334f1",
+      "title": "番外六十五",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463204.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-230bc14c9ca4692334f1",
+        "ext-5589518671098181939"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463204.html"
+      ]
+    },
+    {
+      "id": "ext-922720b2242b35c82e94",
+      "title": "番外六十二",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463201.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-922720b2242b35c82e94",
+        "ext-5373246270489250842"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463201.html"
       ]
     }
   ]

@@ -1,56 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-953288344df729c6360c",
-      "title": "网游之我成了僵尸之主 元一",
-      "author": "命给你行不行",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2023/07/07/11/11/b772781809574cebb5fc4e1134946810_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/736054",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:43+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-953288344df729c6360c",
-        "ext-132845011701097851"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/736054"
-      ]
-    },
-    {
-      "id": "ext-5949ca0e5bb4c0f186e3",
-      "title": "真人moba之我创造了王者人物 观山月",
-      "author": "命给你行不行",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2023/07/07/11/11/b772781809574cebb5fc4e1134946810_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/780408",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:43+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-5949ca0e5bb4c0f186e3",
-        "ext-2522380163745513032"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/780408"
-      ]
-    },
-    {
       "id": "ext-58f11ccc21d75b3c3057",
       "title": "我在神话三国当领主 华山和尚",
       "author": "命给你行不行",
@@ -4832,6 +4782,54 @@
       ],
       "read_sources": [
         "https://ixdzs8.com/read/627682/"
+      ]
+    },
+    {
+      "id": "ix-636929",
+      "title": "西游代码：斗战胜佛觉醒",
+      "author": "王子创作室",
+      "kind": "玄幻奇幻",
+      "status": "连载中",
+      "intro": "鸿蒙初辟，花果山仙石裂开，蹦出的竟是运行亿万年的量子意识体。他睁眼即见数据流组成的系统提示，水帘洞成了AI菩提的服务器，取经路化为高维文明的生存游戏。当金箍棒化作量子云纹，紧箍咒变为神经枷锁，石猴在数据花果山破解认知陷阱，于量子图书馆解析开天代码。八十一难是心性算法的试炼，灵山巅藏着宇宙终极BUG。这趟重构西游的热血之旅，看量子灵根如何敲碎命运代码，从数据猿猴逆袭为崩解维度枷锁的斗战胜佛。",
+      "cover": "https://img22.ixdzs.com/1d/f1/1df16ed1ca43df016457d95902092b46.jpg",
+      "source_url": "https://ixdzs8.com/read/636929/",
+      "source_host": "ixdzs8.com",
+      "source_name": "爱下电子书",
+      "media": "text",
+      "chapter_count": 87,
+      "last_chapter": "第87章",
+      "word_count_wan": 148.04,
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:52:05+00:00",
+      "read_ids": [
+        "ix-636929"
+      ],
+      "read_sources": [
+        "https://ixdzs8.com/read/636929/"
+      ]
+    },
+    {
+      "id": "ix-640205",
+      "title": "虫临异界：母巢霸途",
+      "author": "爱吃南瓜小点心的月颖",
+      "kind": "玄幻奇幻",
+      "status": "连载中",
+      "intro": "主角李林带着虫族母巢穿越到异界的一片原始森林，依仗着母巢最后统一了这个异界大陆，站在世界的顶端，李林回首，我怎么成了反派？……",
+      "cover": "https://img22.ixdzs.com/None",
+      "source_url": "https://ixdzs8.com/read/640205/",
+      "source_host": "ixdzs8.com",
+      "source_name": "爱下电子书",
+      "media": "text",
+      "chapter_count": 176,
+      "last_chapter": "第176章",
+      "word_count_wan": 82.22,
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:52:05+00:00",
+      "read_ids": [
+        "ix-640205"
+      ],
+      "read_sources": [
+        "https://ixdzs8.com/read/640205/"
       ]
     }
   ]
