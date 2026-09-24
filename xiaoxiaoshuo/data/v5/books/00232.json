@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-2c49c47428bda4a736e2",
-      "title": "第5章 她有点猛",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171761z.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 5,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-2c49c47428bda4a736e2",
-        "ext-3465748539964809182"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171761z.html"
-      ]
-    },
-    {
       "id": "ext-d6b51cd1cd578f81348a",
       "title": "第59章",
       "author": "",
@@ -6879,6 +6854,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/laojiumen/416837.html"
+      ]
+    },
+    {
+      "id": "ext-ae89da5fcead0ff1d77e",
+      "title": "第三十四章 矿洞深处戏曲声",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/laojiumen/416841.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:41+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ae89da5fcead0ff1d77e",
+        "ext-4415029830166079891"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/laojiumen/416841.html"
       ]
     }
   ]

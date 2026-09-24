@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-b42651b35e0e0fc0ed43",
-      "title": "第13章 偷偷",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/ttcbuzhu/48143.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:06+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b42651b35e0e0fc0ed43",
-        "ext-1418693616715690296"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/ttcbuzhu/48143.html"
-      ]
-    },
-    {
       "id": "ext-30238d56fff0cf2c93c4",
       "title": "第12章 偷偷",
       "author": "",
@@ -5145,6 +5120,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/dbsbfding/436679.html"
+      ]
+    },
+    {
+      "id": "ext-e3749e3519f0afeab855",
+      "title": "第一章 丑闻",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/dbsbfding/436673.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:01+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e3749e3519f0afeab855",
+        "ext-1024371927056773876"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/dbsbfding/436673.html"
       ]
     }
   ]

@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-05cf369de9f99a7959eb",
-      "title": "梦的虫洞",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481896.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:50+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-05cf369de9f99a7959eb",
-        "ext-1465388061943841294"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qianyaobaimei/481896.html"
-      ]
-    },
-    {
       "id": "ext-403c03b87b7d5aaeccb6",
       "title": "来自公元前的信息",
       "author": "",
@@ -5412,6 +5387,43 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/463057.html"
+      ]
+    },
+    {
+      "id": "ext-c9eaba7b1880fcd439c6",
+      "title": "第二十章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/462866.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462866.html",
+        "https://www.kanunu8.com/book7/dby67/469962.html",
+        "https://www.kanunu8.com/book5/2j15ri/113945.html",
+        "https://www.kanunu8.com/book5/ycxwuzuo/101300.html"
+      ],
+      "read_ids": [
+        "ext-c9eaba7b1880fcd439c6",
+        "ext-1934805852409956747",
+        "ext-4ca6e3babaf1914cbe88",
+        "ext-f3b341a0879cb648a182",
+        "ext-c9b0ff1d7878f32f9e06"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462866.html",
+        "https://www.kanunu8.com/book7/dby67/469962.html",
+        "https://www.kanunu8.com/book5/2j15ri/113945.html",
+        "https://www.kanunu8.com/book5/ycxwuzuo/101300.html"
       ]
     }
   ]
