@@ -1,55 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-8024aefe7f31bca6bb3f",
-      "title": "第42章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171798.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171798.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/37974.html",
-        "https://www.kanunu8.com/book7/lmm04/464091.html",
-        "https://www.kanunu8.com/book7/75chyriji/463314.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481597.html",
-        "https://www.kanunu8.com/book7/hxshn92/485155.html",
-        "https://www.kanunu8.com/book5/yiouchun/80324.html",
-        "https://www.kanunu8.com/book7/jinxiefang/449783.html"
-      ],
-      "read_ids": [
-        "ext-8024aefe7f31bca6bb3f",
-        "ext-5487882567983662106",
-        "ext-acfa2e94c5775c7c551e",
-        "ext-ea3c84044f669fde9639",
-        "ext-95c8c3c5f24e78c21d12",
-        "ext-f8b1be49b73e4b4045c6",
-        "ext-999c62e2b7355d5e134e",
-        "ext-77c0b381576f857ea33d",
-        "ext-ed2556453d89aacb023a"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171798.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/37974.html",
-        "https://www.kanunu8.com/book7/lmm04/464091.html",
-        "https://www.kanunu8.com/book7/75chyriji/463314.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481597.html",
-        "https://www.kanunu8.com/book7/hxshn92/485155.html",
-        "https://www.kanunu8.com/book5/yiouchun/80324.html",
-        "https://www.kanunu8.com/book7/jinxiefang/449783.html"
-      ]
-    },
-    {
       "id": "ext-8cb45032729d1e617078",
       "title": "第41章",
       "author": "",
@@ -6471,6 +6422,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65134.html"
+      ]
+    },
+    {
+      "id": "ext-ac0903e24dfcabcb01e4",
+      "title": "第95章 音讯",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65133.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 95,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ac0903e24dfcabcb01e4",
+        "ext-4345430274863923322"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65133.html"
       ]
     }
   ]
