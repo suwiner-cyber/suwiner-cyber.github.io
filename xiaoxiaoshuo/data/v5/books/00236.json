@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-5a4055d0b5c3eab7144b",
+      "title": "番外十七",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463156.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-5a4055d0b5c3eab7144b",
+        "ext-2292345757528847987"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463156.html"
+      ]
+    },
+    {
       "id": "ext-0eda0aeadfcaa10efa89",
       "title": "番外十一",
       "author": "",
@@ -5438,31 +5463,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/xywwngbgan/472012.html"
-      ]
-    },
-    {
-      "id": "ext-13d9dcb8a7b6cc7a9e49",
-      "title": "18、全世界最好的爸爸",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/xywwngbgan/472011.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:46+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-13d9dcb8a7b6cc7a9e49",
-        "ext-3838151657373997767"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/xywwngbgan/472011.html"
       ]
     }
   ]

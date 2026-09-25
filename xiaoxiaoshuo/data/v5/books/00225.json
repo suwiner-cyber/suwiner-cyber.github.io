@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-32ddaa5cc0091a0c970a",
+      "title": "第十二章 嫌疑",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450101.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-32ddaa5cc0091a0c970a",
+        "ext-1753552247161159496"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450101.html"
+      ]
+    },
+    {
       "id": "ext-547675af570ed3a1c6a1",
       "title": "第十二章 噩梦",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450324.html"
-      ]
-    },
-    {
-      "id": "ext-d6b1428c1726a4fdac33",
-      "title": "第九十六章 死路",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450326.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d6b1428c1726a4fdac33",
-        "ext-3785777560351823117"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450326.html"
       ]
     }
   ]

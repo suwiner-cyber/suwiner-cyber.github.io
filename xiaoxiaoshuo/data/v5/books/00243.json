@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-cf5f55309ddfbf4ede9c",
+      "title": "大明之锦衣为王 虎啸山庄庄主",
+      "author": "风尘落雨",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://media3.tadu.com//2021/09/20/00/22/d7e936cf4ee3446f9d13c1d85eafab11_190_138.jpg",
+      "source_url": "https://www.tadu.com/book/742853",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:56:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-cf5f55309ddfbf4ede9c",
+        "ext-1319820009056267399"
+      ],
+      "read_sources": [
+        "https://www.tadu.com/book/742853"
+      ]
+    },
+    {
       "id": "ext-a4987dd3b449cdf7ce6f",
       "title": "怪物维度 葫跳",
       "author": "隔江",
@@ -4800,30 +4825,6 @@
       ],
       "read_sources": [
         "https://ixdzs8.com/read/557402/"
-      ]
-    },
-    {
-      "id": "ix-635823",
-      "title": "我靠忽悠成就道祖",
-      "author": "墨炎炼红尘",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "穿越修仙界，林言绑定了“炼假成真”系统。开局一张嘴，能力全靠骗。他随口一句“灵符化水可治病”，转头便掌握了术法。他忽悠村民“我乃八十岁修仙者”，次日便就获得了练气期修为。当他需要势力时，便为自己打造了第一个马甲——神算“伍吉”。从此，修仙界迎来千古未有之盛世：丹道奇才“青木”，阵法大师“墨辰”，无双剑仙“凌霄”，神秘情报官“幽客”……一位位横空出世的天才，引领时代风骚。各方大佬彼此忌惮，相互算计，",
-      "cover": "https://img22.ixdzs.com/ab/c0/abc032e1fd9c75458f5325ef755905b4.jpg",
-      "source_url": "https://ixdzs8.com/read/635823/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 338,
-      "last_chapter": "第338章",
-      "word_count_wan": 88.21,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:05+00:00",
-      "read_ids": [
-        "ix-635823"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/635823/"
       ]
     }
   ]

@@ -1,6 +1,37 @@
 {
   "books": [
     {
+      "id": "ext-441918d144a393c2f9e7",
+      "title": "神霄东来",
+      "author": "步蟾宫",
+      "kind": "仙侠小说 字数：105.48万字 天外神霄客，万界逐星流，紫气东来时，世宇别春秋",
+      "status": "",
+      "intro": "天外神霄客，万界逐星流，紫气东来时，世宇别春秋。",
+      "cover": "",
+      "source_url": "https://www.hetushu.com/book/10710/index.html",
+      "source_host": "hetushu.com",
+      "source_name": "和图书",
+      "media": "text",
+      "chapter_count": 341,
+      "last_chapter": "第341章 灵音摄心；飞驰救援",
+      "detail_complete": true,
+      "indexed_at": "2026-08-30T01:03:56+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-441918d144a393c2f9e7",
+        "ext-1e2600e1d81c180efd67"
+      ],
+      "read_sources": [
+        "https://www.hetushu.com/book/10710/index.html"
+      ],
+      "source_names": [
+        "和图书"
+      ],
+      "sources": [
+        "https://www.hetushu.com/book/10710/index.html"
+      ]
+    },
+    {
       "id": "ext-1dfab996337d92be9d4d",
       "title": "市井之徒的仙城",
       "author": "南中僰",
@@ -5899,31 +5930,6 @@
       ],
       "read_sources": [
         "https://www.1qxs.com/xs_1/95418.html"
-      ]
-    },
-    {
-      "id": "ext-366c43a87c895a9f4ee2",
-      "title": "北齐：家父文宣帝",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.1qxs.com/xs_1/89247.html",
-      "source_host": "www.1qxs.com",
-      "source_name": "一七小说",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T15:03:11+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-366c43a87c895a9f4ee2",
-        "ext-8969249196868169228"
-      ],
-      "read_sources": [
-        "https://www.1qxs.com/xs_1/89247.html"
       ]
     }
   ]

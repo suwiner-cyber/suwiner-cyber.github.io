@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-318dc68c5c93f5b6d1fe",
+      "title": "林白: 猫的激情时代",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2012/03-16-7036.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-318dc68c5c93f5b6d1fe",
+        "ext-183839775252192624"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2012/03-16-7036.html"
+      ]
+    },
+    {
       "id": "ext-0e773a5709f351e20e1b",
       "title": "林白: 内心的故乡",
       "author": "",
@@ -5015,31 +5040,6 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/763258"
-      ]
-    },
-    {
-      "id": "ext-cf5f55309ddfbf4ede9c",
-      "title": "大明之锦衣为王 虎啸山庄庄主",
-      "author": "风尘落雨",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2021/09/20/00/22/d7e936cf4ee3446f9d13c1d85eafab11_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/742853",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:38+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-cf5f55309ddfbf4ede9c",
-        "ext-1319820009056267399"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/742853"
       ]
     }
   ]

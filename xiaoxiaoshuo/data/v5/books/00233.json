@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-3687f53094c32c9716e0",
+      "title": "第72章 私密风波",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/hxshn91/485062.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 72,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:54+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-3687f53094c32c9716e0",
+        "ext-3076071746459224285"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/hxshn91/485062.html"
+      ]
+    },
+    {
       "id": "ext-375d7300276fbe9e4ee0",
       "title": "第71章 查案（3）",
       "author": "",
@@ -5357,31 +5382,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qianyaobaimei/481803.html"
-      ]
-    },
-    {
-      "id": "ext-c6e4ac30eba3d6af3213",
-      "title": "西王母的居所",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481875.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:50+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c6e4ac30eba3d6af3213",
-        "ext-3233461631613838327"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qianyaobaimei/481875.html"
       ]
     }
   ]

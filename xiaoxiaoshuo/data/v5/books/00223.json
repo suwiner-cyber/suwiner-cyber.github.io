@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-cdab65ecc9179827469f",
+      "title": "第121章 镜中月(下)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/jianchuqiao/445627.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 121,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:15+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-cdab65ecc9179827469f",
+        "ext-6194888599984414480"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/jianchuqiao/445627.html"
+      ]
+    },
+    {
       "id": "ext-ca9b66b7be5452d2cfa0",
       "title": "第120章 镜中月(中)",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/tianjieyese/452028.html"
-      ]
-    },
-    {
-      "id": "ext-59776c15d176391bea4d",
-      "title": "第72章 逐利",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/tianjieyese/452027.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:11+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-59776c15d176391bea4d",
-        "ext-5264466883787046408"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/tianjieyese/452027.html"
       ]
     }
   ]
