@@ -1,7 +1,7 @@
 {
   "version": 14,
-  "generated_at": "2026-09-25T06:47:32+00:00",
-  "total": 50317,
+  "generated_at": "2026-09-25T06:51:48+00:00",
+  "total": 50314,
   "shard_size": 200,
   "shards": [
     {
@@ -1010,18 +1010,18 @@
     },
     {
       "file": "books/00252.json",
-      "count": 117
+      "count": 114
     }
   ],
   "source_counts": {
+    "塔读文学": 505,
     "爱下电子书": 6128,
     "泡书吧小说网": 5328,
     "乐文小说": 5645,
     "和图书": 3534,
     "一七小说": 6031,
-    "言情小说吧": 4301,
+    "言情小说吧": 4298,
     "努努书坊": 10602,
-    "塔读文学": 505,
     "飘天文学": 1248,
     "滋味小说网": 4987,
     "AAAKS小说": 2008
@@ -1049,12 +1049,12 @@
       "pages_this_run": 80,
       "successful_pages": 80,
       "failed_pages": 0,
-      "books_found": 37,
-      "books_added": 37,
-      "toc_written": 31,
-      "books_seen_total": 6709,
-      "remaining_queue": 27367,
-      "seen_pages": 8400,
+      "books_found": 14,
+      "books_added": 13,
+      "toc_written": 14,
+      "books_seen_total": 6723,
+      "remaining_queue": 27418,
+      "seen_pages": 8480,
       "done": false,
       "blocked": false,
       "needs_adapter": false
@@ -1237,7 +1237,7 @@
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "ixdzs8.com",
+  "last_published_source": "tadu.com",
   "id_scheme": "stable-v4-aliases",
   "metadata_sanitized": true,
   "text_only": true

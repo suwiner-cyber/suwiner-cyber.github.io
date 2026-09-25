@@ -1,38 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-af9261928188cf5b7bea",
-      "title": "太空神曲",
-      "author": "阿·卡赞采夫 发布时间：2011-06-10 三代宇航人的爱情；失去归宿的航程有",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/sf/201106/2956.html",
-      "source_host": "kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 9,
-      "last_chapter": "第三章 伟大的力量",
-      "detail_complete": true,
-      "indexed_at": "2026-09-07T01:09:36+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-af9261928188cf5b7bea",
-        "ext-d65ee90fbbd78e00ed7e",
-        "ext-3680083887450201597"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/sf/201106/2956.html"
-      ],
-      "source_names": [
-        "努努书坊"
-      ],
-      "sources": [
-        "https://www.kanunu8.com/files/sf/201106/2956.html"
-      ]
-    },
-    {
       "id": "ext-061126084b190ae9ca10",
       "title": "堡垒世界",
       "author": "詹姆斯·冈恩 发布时间：2011-06-10 < 地球是人类的摇篮。人类在散布到",
@@ -6233,6 +6201,37 @@
       "read_ids": [
         "ext-48a25485b295f44d5e9d",
         "ext-b5f31f765139cfa71e70"
+      ]
+    },
+    {
+      "id": "ext-6a4a9a21b0b537e51d4f",
+      "title": "过河卒",
+      "author": "莫问江湖",
+      "kind": "仙侠小说 字数：717.47万字 天下为棋，苍生作子，而齐玄素便是那过了河的卒子",
+      "status": "",
+      "intro": "天下为棋，苍生作子，而齐玄素便是那过了河的卒子，有进无退，一往无前。",
+      "cover": "",
+      "source_url": "https://www.hetushu.com/book/10169/index.html",
+      "source_host": "hetushu.com",
+      "source_name": "和图书",
+      "source_names": [
+        "和图书"
+      ],
+      "sources": [
+        "https://www.hetushu.com/book/10169/index.html"
+      ],
+      "read_sources": [
+        "https://www.hetushu.com/book/10169/index.html"
+      ],
+      "media": "text",
+      "chapter_count": 2365,
+      "last_chapter": "后记",
+      "detail_complete": true,
+      "indexed_at": "2026-09-07T00:40:52+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-6a4a9a21b0b537e51d4f",
+        "ext-9cf07e7132c2c413579a"
       ]
     }
   ]

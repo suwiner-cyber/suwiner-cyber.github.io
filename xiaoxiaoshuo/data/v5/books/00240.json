@@ -1,56 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-d16f17bc37585523d1c0",
-      "title": "第104章 春天",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/gnbk26/204368.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 104,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:38+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d16f17bc37585523d1c0",
-        "ext-8653249368937139092"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/gnbk26/204368.html"
-      ]
-    },
-    {
-      "id": "ext-77bc619eb1da1eabf676",
-      "title": "第103章 芳华",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/gnbk26/204367.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 103,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:38+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-77bc619eb1da1eabf676",
-        "ext-388455576714947348"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/gnbk26/204367.html"
-      ]
-    },
-    {
       "id": "ext-32885acee73088aafe3c",
       "title": "第102章 交心",
       "author": "",
@@ -4998,6 +4948,56 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/01-16-1143.html"
+      ]
+    },
+    {
+      "id": "ext-1ff5d8f1710783ecce11",
+      "title": "乐小米(纪伟娜): 双生",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1191.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1ff5d8f1710783ecce11",
+        "ext-3579038593056745306"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-16-1191.html"
+      ]
+    },
+    {
+      "id": "ext-331b3d4ca9f702942b8b",
+      "title": "乐小米(纪伟娜): 卢森堡的白月光",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1159.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-331b3d4ca9f702942b8b",
+        "ext-3044834647339211156"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-16-1159.html"
       ]
     }
   ]
