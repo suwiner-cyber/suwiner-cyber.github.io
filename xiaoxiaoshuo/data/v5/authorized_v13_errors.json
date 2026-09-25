@@ -1,144 +1,6 @@
 {
-  "generated_at": "2026-09-25T06:33:50+00:00",
+  "generated_at": "2026-09-25T06:35:41+00:00",
   "errors": [
-    {
-      "time": "2026-09-19T18:55:42+00:00",
-      "source": "飘天文学",
-      "url": "https://www.piaotia.com/modules/article/reviewshow.php?rid=308098",
-      "error": "HTTP Error 522: <none>"
-    },
-    {
-      "time": "2026-09-19T18:56:02+00:00",
-      "source": "飘天文学",
-      "url": "https://www.piaotia.com/html/4/4631/",
-      "error": "HTTP Error 522: <none>"
-    },
-    {
-      "time": "2026-09-19T18:56:21+00:00",
-      "source": "飘天文学",
-      "url": "https://www.piaotia.com/html/4/4631/index.html",
-      "error": "HTTP Error 522: <none>"
-    },
-    {
-      "time": "2026-09-19T18:59:02+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/千海观音.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-19T18:59:05+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/秦兮.html",
-      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-19T18:59:07+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/八方进宝.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-19T18:59:12+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/一年一更.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-19T18:59:14+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/明姮.html",
-      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-19T18:59:17+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/水嫩的小白.html",
-      "error": "'ascii' codec can't encode characters in position 12-16: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-19T18:59:51+00:00",
-      "source": "乐文小说",
-      "url": "https://www.ilwxs.com/author/苦棘.html",
-      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-19T19:00:22+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/滚开.html",
-      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-19T19:00:44+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/王骑士.html",
-      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-19T19:00:50+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/星河圣光.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-19T19:01:13+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/涵涵果.html",
-      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-19T19:01:20+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/勤快的人.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-19T19:01:31+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/南京香烟.html",
-      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-19T19:01:39+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/墨泠.html",
-      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-19T19:01:42+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/华表.html",
-      "error": "'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-19T19:02:18+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1744388/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-19T19:02:32+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1744054/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-19T19:02:46+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1743702/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-19T19:03:00+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1740901/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-19T19:03:14+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1740211/",
-      "error": "Remote end closed connection without response"
-    },
     {
       "time": "2026-09-19T19:03:28+00:00",
       "source": "AAAKS小说",
@@ -14999,6 +14861,144 @@
       "time": "2026-09-25T00:47:49+00:00",
       "source": "AAAKS小说",
       "url": "https://www.aaaks.com/book/1600120954/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-25T06:35:29+00:00",
+      "source": "一七小说",
+      "url": "https://www.1qxs.com/xs_1/86205/1/2",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-25T06:35:29+00:00",
+      "source": "一七小说",
+      "url": "https://www.1qxs.com/xs_1/93208",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-25T06:35:30+00:00",
+      "source": "一七小说",
+      "url": "https://www.1qxs.com/xs_1/97832",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-25T06:35:34+00:00",
+      "source": "一七小说",
+      "url": "https://www.1qxs.com/xs_1/69061.html",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-25T06:35:34+00:00",
+      "source": "一七小说",
+      "url": "https://www.1qxs.com/xs_1/24076.html",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-25T06:35:34+00:00",
+      "source": "一七小说",
+      "url": "https://www.1qxs.com/xs_1/89062.html",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-25T06:35:35+00:00",
+      "source": "一七小说",
+      "url": "https://m.1qxs.com/xs_1/93865",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-25T06:35:35+00:00",
+      "source": "一七小说",
+      "url": "https://www.1qxs.com/catalog_1/93865.html",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-25T06:35:35+00:00",
+      "source": "一七小说",
+      "url": "https://m.1qxs.com/xs_1/580",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-25T06:35:35+00:00",
+      "source": "一七小说",
+      "url": "https://www.1qxs.com/catalog_1/580.html",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-25T06:35:36+00:00",
+      "source": "一七小说",
+      "url": "https://www.1qxs.com/xs_1/62297.html",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-25T06:35:36+00:00",
+      "source": "一七小说",
+      "url": "https://m.1qxs.com/xs_1/94716",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-25T06:35:36+00:00",
+      "source": "一七小说",
+      "url": "https://www.1qxs.com/catalog_1/94716.html",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-25T06:35:36+00:00",
+      "source": "一七小说",
+      "url": "https://m.1qxs.com/xs_1/72303/1",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-25T06:35:37+00:00",
+      "source": "一七小说",
+      "url": "https://m.1qxs.com/catalog_1/72303",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-25T06:35:37+00:00",
+      "source": "一七小说",
+      "url": "https://m.1qxs.com/xs_1/72303/1374",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-25T06:35:37+00:00",
+      "source": "一七小说",
+      "url": "https://www.1qxs.com/xs_1/33859.html",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-25T06:35:37+00:00",
+      "source": "一七小说",
+      "url": "https://www.1qxs.com/xs_1/52595.html",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-25T06:35:38+00:00",
+      "source": "一七小说",
+      "url": "https://www.1qxs.com/xs_1/76719.html",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-25T06:35:38+00:00",
+      "source": "一七小说",
+      "url": "https://www.1qxs.com/xs_1/97008.html",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-25T06:35:38+00:00",
+      "source": "一七小说",
+      "url": "https://m.1qxs.com/xs_1/98576",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-25T06:35:39+00:00",
+      "source": "一七小说",
+      "url": "https://www.1qxs.com/catalog_1/98576.html",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-25T06:35:39+00:00",
+      "source": "一七小说",
+      "url": "https://m.1qxs.com/xs_1/98026",
       "error": "HTTP Error 403: Forbidden"
     }
   ]
