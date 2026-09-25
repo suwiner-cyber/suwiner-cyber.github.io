@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-09-25T18:36:42+00:00",
+  "generated_at": "2026-09-25T18:38:38+00:00",
   "errors": [
-    {
-      "time": "2026-09-20T00:57:06+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1814317205/",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "time": "2026-09-20T00:57:20+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1814317206/",
-      "error": "Remote end closed connection without response"
-    },
     {
       "time": "2026-09-20T00:57:33+00:00",
       "source": "AAAKS小说",
@@ -15000,6 +14988,18 @@
       "source": "AAAKS小说",
       "url": "https://www.aaaks.com/book/1964681/",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-25T18:37:04+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/浪子醒.html",
+      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-25T18:37:05+00:00",
+      "source": "泡书吧小说网",
+      "url": "https://www.ipaoshubaxs.net/author/梦世代.html",
+      "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
     }
   ]
 }
