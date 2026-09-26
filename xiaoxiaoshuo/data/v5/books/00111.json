@@ -1,68 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-8805fbe1bea41f4a3312",
-      "title": "轩辕",
-      "author": "龙人 发布时间：2012-02-08 龙人作品集 内容简介： 神山。古木参天，避",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book3/6675/index.html",
-      "source_host": "kanunu8.com",
-      "source_name": "努努书坊",
-      "source_names": [
-        "努努书坊"
-      ],
-      "sources": [
-        "https://www.kanunu8.com/book3/6675/index.html"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6675/index.html"
-      ],
-      "media": "text",
-      "chapter_count": 113,
-      "last_chapter": "第十六章 涿鹿—最终的战场",
-      "detail_complete": true,
-      "indexed_at": "2026-09-10T13:09:41+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-8805fbe1bea41f4a3312",
-        "ext-d0dbdc1b7e2b749a5b8f"
-      ]
-    },
-    {
-      "id": "ext-36360543fde33071bed1",
-      "title": "灭秦记",
-      "author": "龙人 发布时间：2012-02-08 龙人作品集 内容简介： 月色是如此的凄美，",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book3/6676/index.html",
-      "source_host": "kanunu8.com",
-      "source_name": "努努书坊",
-      "source_names": [
-        "努努书坊"
-      ],
-      "sources": [
-        "https://www.kanunu8.com/book3/6676/index.html"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book3/6676/index.html"
-      ],
-      "media": "text",
-      "chapter_count": 299,
-      "last_chapter": "后记",
-      "detail_complete": true,
-      "indexed_at": "2026-09-10T13:09:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-36360543fde33071bed1",
-        "ext-a127395ca15e2885bc01"
-      ]
-    },
-    {
       "id": "ext-220857d3cfadc34060d6",
       "title": "封神天子",
       "author": "龙人 发布时间：2012-02-08 龙人作品集 内容简介： 昆仑山，万千群山之",
@@ -6206,6 +6144,66 @@
       "catalog_only": false,
       "read_ids": [
         "ext-5a51a6bbf2238a3b9b27"
+      ]
+    },
+    {
+      "id": "ext-b97521822192fc9ac035",
+      "title": "回到清朝当海盗",
+      "author": "自由与荣耀 类型 : 军事小说 字数 : 216.36万字 本书目录 作品简介",
+      "kind": "军事小说 字数 : 216.36万字 本书目录 作品简介 第一卷 混在魔鬼岛 第",
+      "status": "",
+      "intro": "公元2025年一次不算失败的时空穿梭试验，陆军中尉龙剑铭在部分失忆状态下来到1901年的南海，被迫成为一名海盗。从此，世界发生了翻天覆地的改变，科技发展整整提前了半个世纪。而中国，也成为世界第一科技、经济大国，海盗们指挥着航空母舰得意地遨游在四大洋上。",
+      "cover": "",
+      "source_url": "https://m.hetushu.com/book/9395/index.html",
+      "source_host": "hetushu.com",
+      "source_name": "和图书",
+      "source_names": [
+        "和图书"
+      ],
+      "sources": [
+        "https://m.hetushu.com/book/9395/index.html"
+      ],
+      "read_sources": [
+        "https://m.hetushu.com/book/9395/index.html"
+      ],
+      "media": "text",
+      "chapter_count": 8,
+      "last_chapter": "第八章 无法弥补的裂缝",
+      "detail_complete": true,
+      "indexed_at": "2026-09-10T12:36:37+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b97521822192fc9ac035"
+      ]
+    },
+    {
+      "id": "ext-b020501679a63f1d5032",
+      "title": "抗战之全能悍将",
+      "author": "燃烧飞鹰 类型 : 军事小说 字数 : 830.85万字 本书目录 作品简介 第",
+      "kind": "军事小说 字数 : 830.85万字 本书目录 作品简介 第一章 团长李云龙？",
+      "status": "",
+      "intro": "特种兵何远，执行跨国任务时，与敌人同归于尽，却意外重生到了抗日战争时期，成了李云龙的警卫员。而他还有个同学叫周卫国……",
+      "cover": "",
+      "source_url": "https://m.hetushu.com/book/9416/index.html",
+      "source_host": "hetushu.com",
+      "source_name": "和图书",
+      "source_names": [
+        "和图书"
+      ],
+      "sources": [
+        "https://m.hetushu.com/book/9416/index.html"
+      ],
+      "read_sources": [
+        "https://m.hetushu.com/book/9416/index.html"
+      ],
+      "media": "text",
+      "chapter_count": 9,
+      "last_chapter": "第九章 阻击第一夜",
+      "detail_complete": true,
+      "indexed_at": "2026-09-10T12:36:31+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b020501679a63f1d5032"
       ]
     }
   ]
