@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-19248079096d54ea494d",
+      "title": "第六章 蓝秀容",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450338.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-19248079096d54ea494d",
+        "ext-8219698292797011064"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450338.html"
+      ]
+    },
+    {
       "id": "ext-0f668dad09b54527f4a2",
       "title": "第六章 芳辰",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450088.html"
-      ]
-    },
-    {
-      "id": "ext-8290a6d4719f1c5fa4d9",
-      "title": "第三十六章 生辰",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450125.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-8290a6d4719f1c5fa4d9",
-        "ext-6832787191248304503"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450125.html"
       ]
     }
   ]

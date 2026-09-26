@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-aa1b085fc7b0d911c2eb",
+      "title": "第39章 不理",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204301.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-aa1b085fc7b0d911c2eb",
+        "ext-9185222087888782928"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204301.html"
+      ]
+    },
+    {
       "id": "ext-ff1f02c5b8bd08ef2711",
       "title": "第38章 真的喜欢藏不住",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/07-02-3238.html"
-      ]
-    },
-    {
-      "id": "ext-82be2cbf2da931424c83",
-      "title": "六六: 意外",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/files/little/2011/07-02-3237.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-82be2cbf2da931424c83",
-        "ext-5826853312123506661"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/07-02-3237.html"
       ]
     }
   ]

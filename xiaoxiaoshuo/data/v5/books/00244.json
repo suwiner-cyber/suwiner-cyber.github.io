@@ -1,6 +1,55 @@
 {
   "books": [
     {
+      "id": "ext-e7dd141c4708d78b021a",
+      "title": "第69章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171825.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171825.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/38001.html",
+        "https://www.kanunu8.com/book7/lmm04/464118.html",
+        "https://www.kanunu8.com/book7/75chyriji/463341.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481625.html",
+        "https://www.kanunu8.com/book7/hxshn92/485182.html",
+        "https://www.kanunu8.com/book5/yiouchun/80351.html",
+        "https://www.kanunu8.com/book7/jinxiefang/449812.html"
+      ],
+      "read_ids": [
+        "ext-e7dd141c4708d78b021a",
+        "ext-6918556346563143293",
+        "ext-ea7f5b0e35bef37a5f6c",
+        "ext-ee0a5bb51fc698cea9f0",
+        "ext-b06528b1fb518ad8a75c",
+        "ext-64898c545ed4da549286",
+        "ext-9e76144a187b31691e76",
+        "ext-2b44bda95442b115a8f3",
+        "ext-288e55253dd3cc8d3506"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171825.html",
+        "https://www.kanunu8.com/book5/plk_zheyao/38001.html",
+        "https://www.kanunu8.com/book7/lmm04/464118.html",
+        "https://www.kanunu8.com/book7/75chyriji/463341.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481625.html",
+        "https://www.kanunu8.com/book7/hxshn92/485182.html",
+        "https://www.kanunu8.com/book5/yiouchun/80351.html",
+        "https://www.kanunu8.com/book7/jinxiefang/449812.html"
+      ]
+    },
+    {
       "id": "ext-1efa2caf72721c047461",
       "title": "第68章",
       "author": "",
@@ -7067,31 +7116,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/laojiumen/416867.html"
-      ]
-    },
-    {
-      "id": "ext-54d3a3fcb79800d38291",
-      "title": "第二十七章 酸汤八爷鸡",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/laojiumen/416834.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:41+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-54d3a3fcb79800d38291",
-        "ext-8420123729528881766"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/laojiumen/416834.html"
       ]
     }
   ]

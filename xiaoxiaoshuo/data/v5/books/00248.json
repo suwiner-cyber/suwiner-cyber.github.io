@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-82be2cbf2da931424c83",
+      "title": "六六: 意外",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/little/2011/07-02-3237.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-82be2cbf2da931424c83",
+        "ext-5826853312123506661"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/07-02-3237.html"
+      ]
+    },
+    {
       "id": "ext-cd01dbb54e1943e508ab",
       "title": "兔: 给你一些不给一些",
       "author": "",
@@ -5014,30 +5039,6 @@
       ],
       "read_sources": [
         "https://ixdzs8.com/read/636814/"
-      ]
-    },
-    {
-      "id": "ix-639990",
-      "title": "1级当宗主",
-      "author": "小皮卡128G",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "蓝星星枢游戏公司，偷偷在线更新了另一款游戏。玩家设备(电脑鼠标键盘、虚拟头盔和游戏舱)登陆游戏的时候，首先提示两个游戏，星枢宗门(前)和星枢剑道(新)，由玩家选择。开头：1级明辉，破烂衣服，短发，草鞋(身上系统给的500铜币)，系统接着发来一个任务(不限时间)，招弟子建设宗门：(建设宗门大殿，宿舍、灵田地和围栏养猪等等，奖励新手大礼包：5级武器x1、5级服装x1、5级鞋子、银币x10、铜币x100",
-      "cover": "https://img22.ixdzs.com/None",
-      "source_url": "https://ixdzs8.com/read/639990/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 217,
-      "last_chapter": "第217章",
-      "word_count_wan": 48.53,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:20+00:00",
-      "read_ids": [
-        "ix-639990"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/639990/"
       ]
     }
   ]

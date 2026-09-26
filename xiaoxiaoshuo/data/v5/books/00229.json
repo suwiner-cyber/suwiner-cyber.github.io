@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-131ba8e8ccb0e222a8b7",
+      "title": "第6章 好骗",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/shjshdyshchli/450589.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:13+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-131ba8e8ccb0e222a8b7",
+        "ext-7508823555299231097"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/shjshdyshchli/450589.html"
+      ]
+    },
+    {
       "id": "ext-f8c80e1e13ac09032f82",
       "title": "第5章 奖励",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/tianjieyese/452005.html"
-      ]
-    },
-    {
-      "id": "ext-67f37a051cc7711e067b",
-      "title": "第4章 三遇",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/tianjieyese/451959.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:10+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-67f37a051cc7711e067b",
-        "ext-1704012976659651090"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/tianjieyese/451959.html"
       ]
     }
   ]
