@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-4d77b39198b44e96e237",
+      "title": "Chapter 81:如我所愿。",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/mingfen/450549.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:24+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4d77b39198b44e96e237",
+        "ext-859850813912242365"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/mingfen/450549.html"
+      ]
+    },
+    {
       "id": "ext-157fa1397eaee05bd13d",
       "title": "Chapter 80:律哥，你不讲武德。",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/houmen/452512.html"
-      ]
-    },
-    {
-      "id": "ext-82fb3d1a5c43de8a0a50",
-      "title": "第25章 青禾上去，破了李蔺昭的",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/houmen/452511.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 25,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:21+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-82fb3d1a5c43de8a0a50",
-        "ext-5351532806228505786"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/houmen/452511.html"
       ]
     }
   ]

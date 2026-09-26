@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-929cb978f037534f4592",
+      "title": "第113章 青莲印(二)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/jianchuqiao/445620.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 113,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:15+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-929cb978f037534f4592",
+        "ext-3451860791455028765"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/jianchuqiao/445620.html"
+      ]
+    },
+    {
       "id": "ext-e98f129b48a1019e0604",
       "title": "第112章 青莲印(一)",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/tianjieyese/451964.html"
-      ]
-    },
-    {
-      "id": "ext-eb8444ab0462b0f58380",
-      "title": "第8章 流水",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/tianjieyese/451963.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:10+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-eb8444ab0462b0f58380",
-        "ext-8014317689806076630"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/tianjieyese/451963.html"
       ]
     }
   ]

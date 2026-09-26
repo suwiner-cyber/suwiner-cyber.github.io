@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-44cfd4e4fd0ac6f3fa60",
+      "title": "第3章 偷偷",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/ttcbuzhu/48133.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:06+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-44cfd4e4fd0ac6f3fa60",
+        "ext-777782656955357609"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/ttcbuzhu/48133.html"
+      ]
+    },
+    {
       "id": "ext-e215cef8b1e72bbbe773",
       "title": "第39章 偷偷",
       "author": "",
@@ -5120,31 +5145,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/dbsbfding/436727.html"
-      ]
-    },
-    {
-      "id": "ext-3af714e2677289cd9d6b",
-      "title": "第五十二章 静水流深",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dbsbfding/436724.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:01+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-3af714e2677289cd9d6b",
-        "ext-1381197917806631152"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dbsbfding/436724.html"
       ]
     }
   ]

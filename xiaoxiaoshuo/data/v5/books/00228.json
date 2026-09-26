@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-e03ff99b4ddafd1b7054",
+      "title": "第十三章 箭靶",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450161.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e03ff99b4ddafd1b7054",
+        "ext-3388345932380061186"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450161.html"
+      ]
+    },
+    {
       "id": "ext-e018a9ac3d41c720d181",
       "title": "第十三章 私情",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450092.html"
-      ]
-    },
-    {
-      "id": "ext-377cb6c5bcbdeeeb69d7",
-      "title": "第三章 那是零陵的血",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450151.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-377cb6c5bcbdeeeb69d7",
-        "ext-519822437432502390"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qiandenglu/450151.html"
       ]
     }
   ]

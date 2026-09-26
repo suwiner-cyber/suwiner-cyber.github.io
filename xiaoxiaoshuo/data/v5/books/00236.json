@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-4f8b7eca571b0bbaa59b",
+      "title": "第64章 查案（1）",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/hxshn91/485054.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 64,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:54+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4f8b7eca571b0bbaa59b",
+        "ext-1750925473247092163"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/hxshn91/485054.html"
+      ]
+    },
+    {
       "id": "ext-234c1fccefb3babc9979",
       "title": "第63章 妻妾之争",
       "author": "",
@@ -5357,31 +5382,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qianyaobaimei/481858.html"
-      ]
-    },
-    {
-      "id": "ext-ab72d776330e6fd51108",
-      "title": "米其林指南",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481889.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:50+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ab72d776330e6fd51108",
-        "ext-931890146195852368"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qianyaobaimei/481889.html"
       ]
     }
   ]

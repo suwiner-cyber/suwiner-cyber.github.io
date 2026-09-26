@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-b01a4c62de3ef8915327",
+      "title": "库尔特·冯内古特: 巴恩豪斯效应的报告",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2012/11-12-8386.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b01a4c62de3ef8915327",
+        "ext-7196287769739479044"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2012/11-12-8386.html"
+      ]
+    },
+    {
       "id": "ext-49f5415fe75556411821",
       "title": "宁肯: 自画像.上海之行",
       "author": "",
@@ -5033,30 +5058,6 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/535235"
-      ]
-    },
-    {
-      "id": "ix-639979",
-      "title": "魔道修仙：草根就该死吗",
-      "author": "爱吃鱼的大金毛",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "（魔道杀伐果断智斗+爽文）穿越修仙界，李昊本以为加入了宗门，就能够成为仙人，从而主宰自己命运。可李昊没想到就仅仅是因为自己出身寒微，并非大族子弟，便迎来宗门无尽的打压、欺辱和剥削。宗门压榨、长老责骂、权贵欺压、资源克扣、吹毛求疵，等种种事端宛若幽灵一般无时无刻不围绕着李昊。他们视普通弟子为草芥，李昊数年的多次内门大比第一，想要求取一枚筑基丹，更是被直接拒绝，反被他们列为一举笑谈。",
-      "cover": "https://img22.ixdzs.com/None",
-      "source_url": "https://ixdzs8.com/read/639979/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 437,
-      "last_chapter": "第437章",
-      "word_count_wan": 105.37,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:20+00:00",
-      "read_ids": [
-        "ix-639979"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/639979/"
       ]
     }
   ]
