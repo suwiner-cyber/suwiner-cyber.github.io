@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-cf4c1050be6cb2573ae7",
+      "title": "第38章 犹豫一秒都是对灵石的不尊重",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/phbfshce/473515.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 38,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:45+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-cf4c1050be6cb2573ae7",
+        "ext-2379246239860939673"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/phbfshce/473515.html"
+      ]
+    },
+    {
       "id": "ext-4c7bc2388f8e571fdb40",
       "title": "第37章 献祭",
       "author": "",
@@ -6716,52 +6741,6 @@
         "https://www.kanunu8.com/book7/hxshn92/485138.html",
         "https://www.kanunu8.com/book5/yiouchun/80307.html",
         "https://www.kanunu8.com/book7/jinxiefang/449766.html"
-      ]
-    },
-    {
-      "id": "ext-dc628b6eb6a6d6504180",
-      "title": "第24章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171780.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171780.html",
-        "https://www.kanunu8.com/book7/lmm04/464073.html",
-        "https://www.kanunu8.com/book7/75chyriji/463296.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481579.html",
-        "https://www.kanunu8.com/book7/hxshn92/485137.html",
-        "https://www.kanunu8.com/book5/yiouchun/80306.html",
-        "https://www.kanunu8.com/book7/jinxiefang/449765.html"
-      ],
-      "read_ids": [
-        "ext-dc628b6eb6a6d6504180",
-        "ext-6155641111314858197",
-        "ext-7403bad41e9bb5fca017",
-        "ext-bff550670faf8def5d5e",
-        "ext-6bd59de832f2e4ce7079",
-        "ext-16f87186ec7c9948182b",
-        "ext-05ca195fce89b790b491",
-        "ext-b3a87cbaa53d6f57dbf3"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171780.html",
-        "https://www.kanunu8.com/book7/lmm04/464073.html",
-        "https://www.kanunu8.com/book7/75chyriji/463296.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481579.html",
-        "https://www.kanunu8.com/book7/hxshn92/485137.html",
-        "https://www.kanunu8.com/book5/yiouchun/80306.html",
-        "https://www.kanunu8.com/book7/jinxiefang/449765.html"
       ]
     }
   ]

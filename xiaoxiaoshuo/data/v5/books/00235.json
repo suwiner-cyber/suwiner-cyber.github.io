@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-b32c4dd213dd961f8682",
+      "title": "番外六:三年后（1）",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/hxshn91/485111.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:54+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b32c4dd213dd961f8682",
+        "ext-5719014448991362479"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/hxshn91/485111.html"
+      ]
+    },
+    {
       "id": "ext-ce7e7f0d7392f20a83b2",
       "title": "番外五:救灾（完）",
       "author": "",
@@ -5357,31 +5382,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qianyaobaimei/481794.html"
-      ]
-    },
-    {
-      "id": "ext-dd783f8b894725caf536",
-      "title": "人鱼王子",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481838.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:50+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-dd783f8b894725caf536",
-        "ext-8943926429167097171"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/qianyaobaimei/481838.html"
       ]
     }
   ]

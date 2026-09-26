@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-f554f65d23d78d02c101",
+      "title": "第116章 回首",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204381.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 116,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f554f65d23d78d02c101",
+        "ext-1722378210365219112"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204381.html"
+      ]
+    },
+    {
       "id": "ext-1f3fc9591aca7b0dbcd0",
       "title": "第115章 相撞",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/01-16-1168.html"
-      ]
-    },
-    {
-      "id": "ext-41a5e84e90199483540d",
-      "title": "乐小米(纪伟娜): 我还欠你一个拥抱",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1153.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-41a5e84e90199483540d",
-        "ext-868199295402322158"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-16-1153.html"
       ]
     }
   ]

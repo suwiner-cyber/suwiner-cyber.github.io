@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-099acc37da85824338ba",
+      "title": "番外一百零四",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463243.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-099acc37da85824338ba",
+        "ext-8071417546597532813"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463243.html"
+      ]
+    },
+    {
       "id": "ext-d76823655dc062443614",
       "title": "番外一百零六",
       "author": "",
@@ -5408,31 +5433,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/phbfshce/473516.html"
-      ]
-    },
-    {
-      "id": "ext-cf4c1050be6cb2573ae7",
-      "title": "第38章 犹豫一秒都是对灵石的不尊重",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/phbfshce/473515.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 38,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:45+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-cf4c1050be6cb2573ae7",
-        "ext-2379246239860939673"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/phbfshce/473515.html"
       ]
     }
   ]

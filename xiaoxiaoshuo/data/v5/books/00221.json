@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-4e29a78f8c7721dfd4c4",
+      "title": "Chapter 1:开文大吉",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/mingfen/450469.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:24+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4e29a78f8c7721dfd4c4",
+        "ext-7919545970428782898"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/mingfen/450469.html"
+      ]
+    },
+    {
       "id": "ext-75dfdc3b0d033a5e9f0d",
       "title": "Chapter 19:李因不好，你看看我。",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/jinlin/460486.html"
-      ]
-    },
-    {
-      "id": "ext-a13f864109ee6ff2a7f9",
-      "title": "18、云泥之别",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/jinlin/460485.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:19+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a13f864109ee6ff2a7f9",
-        "ext-8288091806759002314"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/jinlin/460485.html"
       ]
     }
   ]

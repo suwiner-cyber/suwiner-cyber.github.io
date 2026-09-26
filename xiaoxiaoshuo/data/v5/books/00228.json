@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-6d9c23cb2585837d1905",
+      "title": "第七十章 当局者",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450300.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-6d9c23cb2585837d1905",
+        "ext-7219889846220109386"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450300.html"
+      ]
+    },
+    {
       "id": "ext-f1ea71ac35efe04952a0",
       "title": "第七十章 今昔",
       "author": "",
@@ -5012,31 +5037,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book4/10669/356289.html"
-      ]
-    },
-    {
-      "id": "ext-944422f4c327e37c615e",
-      "title": "第72章 又是医学院！",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book4/10669/356288.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 72,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:03+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-944422f4c327e37c615e",
-        "ext-8821771503859832325"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book4/10669/356288.html"
       ]
     }
   ]

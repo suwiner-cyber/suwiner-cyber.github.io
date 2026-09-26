@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-a13f864109ee6ff2a7f9",
+      "title": "18、云泥之别",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/jinlin/460485.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:19+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a13f864109ee6ff2a7f9",
+        "ext-8288091806759002314"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/jinlin/460485.html"
+      ]
+    },
+    {
       "id": "ext-d7c3d2eec95c73145fd1",
       "title": "17、齐想上学了",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/rongcuolv/450812.html"
-      ]
-    },
-    {
-      "id": "ext-0ed679d463b052f1f83e",
-      "title": "第27章 身有隐疾",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/rongcuolv/450811.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 27,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:17+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-0ed679d463b052f1f83e",
-        "ext-7281439314795611586"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/rongcuolv/450811.html"
       ]
     }
   ]
