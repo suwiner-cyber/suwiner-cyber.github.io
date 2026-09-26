@@ -1,8 +1,9 @@
 {
   "version": 13,
-  "generated_at": "2026-09-26T11:30:00+00:00",
-  "total_books": 51253,
+  "generated_at": "2026-09-26T11:32:06+00:00",
+  "total_books": 51333,
   "source_counts": {
+    "乐文小说": 6589,
     "和图书": 3746,
     "飘天文学": 1257,
     "一七小说": 6242,
@@ -12,26 +13,25 @@
     "爱下电子书": 6249,
     "滋味小说网": 4997,
     "泡书吧小说网": 6670,
-    "乐文小说": 6509,
     "AAAKS小说": 2008
   },
   "all_done": false,
   "continue_needed": true,
   "unresolved_sources": [
-    "和图书"
+    "乐文小说"
   ],
   "sources": [
     {
-      "name": "和图书",
-      "host": "hetushu.com",
+      "name": "乐文小说",
+      "host": "ilwxs.com",
       "pages_this_run": 80,
       "successful_pages": 80,
       "failed_pages": 0,
-      "books_found": 29,
-      "books_added": 29,
-      "toc_written": 29,
-      "books_seen_total": 3748,
-      "remaining_queue": 10757,
+      "books_found": 80,
+      "books_added": 80,
+      "toc_written": 80,
+      "books_seen_total": 6589,
+      "remaining_queue": 21490,
       "seen_pages": 8880,
       "done": false,
       "blocked": false,
