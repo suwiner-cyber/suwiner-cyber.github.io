@@ -1,6 +1,37 @@
 {
   "books": [
     {
+      "id": "ext-83134a7467f1aac9e3be",
+      "title": "追鹭(鹭啼北回归线)",
+      "author": "西村寿行 发布时间：2011-01-20 淋漓尽致地揭露了一个荒淫无耻、凶狠残暴",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/world/201101/1249.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/world/201101/1249.html"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/world/201101/1249.html"
+      ],
+      "media": "text",
+      "chapter_count": 6,
+      "last_chapter": "第六章 最后圣战",
+      "detail_complete": true,
+      "indexed_at": "2026-09-22T19:07:52+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-83134a7467f1aac9e3be",
+        "ext-41fe92877d8a696f188e"
+      ]
+    },
+    {
       "id": "ext-cd1c3e25a883f3e26811",
       "title": "喋血香岛",
       "author": "西村寿行 发布时间：2011-01-20 “孤北丸号”渔船，聚集了一批日本浪人。",
@@ -6254,37 +6285,6 @@
       "read_ids": [
         "ext-4c646e2ab23d6d72e590",
         "ext-750c5b9c8ab4970c5685"
-      ]
-    },
-    {
-      "id": "ext-4f384cebd08a71fc4015",
-      "title": "地球上最后一幢楼",
-      "author": "死神钓者",
-      "kind": "科幻小说 字数：336.41万字 王宣进入隆茂广场，被困其中，等他好不容易离开，",
-      "status": "",
-      "intro": "王宣进入隆茂广场，被困其中，等他好不容易离开，原来…… 这已经是地球上的最后一幢大楼。",
-      "cover": "",
-      "source_url": "https://www.hetushu.com/book/8496/index.html",
-      "source_host": "hetushu.com",
-      "source_name": "和图书",
-      "source_names": [
-        "和图书"
-      ],
-      "sources": [
-        "https://www.hetushu.com/book/8496/index.html"
-      ],
-      "read_sources": [
-        "https://www.hetushu.com/book/8496/index.html"
-      ],
-      "media": "text",
-      "chapter_count": 747,
-      "last_chapter": "终章",
-      "detail_complete": true,
-      "indexed_at": "2026-09-22T18:36:04+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-4f384cebd08a71fc4015",
-        "ext-ec6bf7afbc4b14141c91"
       ]
     }
   ]

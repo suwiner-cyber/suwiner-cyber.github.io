@@ -1,6 +1,38 @@
 {
   "books": [
     {
+      "id": "ext-b02de4550d31fb160c52",
+      "title": "我的邻居是妖怪",
+      "author": "天下霸唱 内容简介： 天下霸唱说：这次不是写小说、讲故事，都是自己亲身经历的离奇",
+      "kind": "武侠小说",
+      "status": "",
+      "intro": "天下霸唱说：这次不是写小说、讲故事，都是自己亲身经历的离奇诡异事件，有七分真实、三分传奇。从天津子牙河旧桥墩子里封着的僵尸，到公司的夜半闹鬼事件；从韦陀庙的耗子避乱搬家，到我那“宅仙”托生的妖怪邻居，件件都是耳闻目见、亲身所历，在此如实叙述。其实，正是这些离奇精彩的元素成就了当年《鬼吹灯》的写作素材，此次翻开这本书，传奇即将揭晓……",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book3/6136/index.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 7,
+      "last_chapter": "六、表哥捡到的宝物",
+      "detail_complete": true,
+      "indexed_at": "2026-09-06T06:50:23+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b02de4550d31fb160c52",
+        "ext-0f2a5b31e5f48df41cc9",
+        "ext-2841874287439975826"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book3/6136/index.html"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/book3/6136/index.html"
+      ]
+    },
+    {
       "id": "ext-e92e679cdb33769aa080",
       "title": "龙枪传奇",
       "author": "玛格丽特·魏丝 崔西·西克曼 发布时间：2012-02-08 内容简介： 在龙枪",
@@ -6240,37 +6272,6 @@
       "read_ids": [
         "ext-496da39e97158d27136f",
         "ext-4e9d3b00a95e93efa629"
-      ]
-    },
-    {
-      "id": "ext-42a3e685b66cde60652c",
-      "title": "《 此剑最上乘 》",
-      "author": "细长条的裁缝 最新更新： 第1018章 人力所无法控制的未知 以剑颂歌，唱尽此生",
-      "kind": "武侠修真小说列表 《 此剑最上乘 》 作者：细长条的裁缝 最新更新： 第1018",
-      "status": "已完结",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.ipaoshubaxs.net/sort/2/5/",
-      "source_host": "ipaoshubaxs.net",
-      "source_name": "泡书吧小说网",
-      "source_names": [
-        "泡书吧小说网"
-      ],
-      "sources": [
-        "https://www.ipaoshubaxs.net/sort/2/5/"
-      ],
-      "read_sources": [
-        "https://www.ipaoshubaxs.net/sort/2/5/"
-      ],
-      "media": "text",
-      "chapter_count": 50,
-      "last_chapter": "第451章 怒形于色",
-      "detail_complete": true,
-      "indexed_at": "2026-09-06T06:37:32+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-42a3e685b66cde60652c",
-        "ext-fb540f6c8364be937976"
       ]
     }
   ]

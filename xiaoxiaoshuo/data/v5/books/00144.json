@@ -1,6 +1,38 @@
 {
   "books": [
     {
+      "id": "ext-f777c064b246b955b445",
+      "title": "生化危机08：自由之路",
+      "author": "S·D·佩瑞 发布时间：2011-07-11 英国国民将最近发生的妇女连续被害案",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/sf/201107/3276.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 31,
+      "last_chapter": "第三十章 故事的开始",
+      "detail_complete": true,
+      "indexed_at": "2026-09-07T01:09:27+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f777c064b246b955b445",
+        "ext-af1412b81a8146770ec5",
+        "ext-1030993938615863005"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/sf/201107/3276.html"
+      ],
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/sf/201107/3276.html"
+      ]
+    },
+    {
       "id": "ext-d6ebf7136cefab840e08",
       "title": "彗星来临",
       "author": "H.G.威尔斯 发布时间：2011-10-29 H.G.威尔斯作品集 内容简介：",
@@ -6192,37 +6224,6 @@
       "read_ids": [
         "ext-8dee2c747a3dffa448d1",
         "ext-9af039da8c5d26021ef8"
-      ]
-    },
-    {
-      "id": "ext-4bef0751ef6f3c726a61",
-      "title": "四海为仙05：邪神藏杀机",
-      "author": "管平潮",
-      "kind": "仙侠小说 字数：10.68万字 “四海为仙”系列围绕少年张小言和居盈、灵漪儿、张",
-      "status": "",
-      "intro": "“四海为仙”系列围绕少年张小言和居盈、灵漪儿、张琼容、寇雪宜等人展开，讲述了他们闯荡江湖、救济世人、逆势成长的冒险之旅。 本册讲述了少年张小言在掌门的吩咐下，下山历练去寻找本门丢失的异宝水精之元。小言带领自己的小伙伴兼门下弟子张琼容、寇雪宜下山，优哉游哉地再次开始了他的尘世历练，结果先是在路上看到浈阳县缝百年大旱，当地百姓不断求神祈雨，却是没有任何效果；后又看到一狼一狐比武招亲，使用妖术骗取百姓重金；最后又遇佛家教派净世教要为世间除去污秽，普渡众生……这真是一波未平，一波又起。一场祈雨仪式牵扯出了一段人与神的悱恻爱恋，两个妖人却是将骗取的钱物全部捐献出作了救济，而最为道貌岸然的慈悲面目下却是欺男霸女、杀人放火的龌龊勾当！",
-      "cover": "",
-      "source_url": "https://www.hetushu.com/book/10333/index.html",
-      "source_host": "hetushu.com",
-      "source_name": "和图书",
-      "source_names": [
-        "和图书"
-      ],
-      "sources": [
-        "https://www.hetushu.com/book/10333/index.html"
-      ],
-      "read_sources": [
-        "https://www.hetushu.com/book/10333/index.html"
-      ],
-      "media": "text",
-      "chapter_count": 23,
-      "last_chapter": "第二三章 光射斗牛 都道洪福天降",
-      "detail_complete": true,
-      "indexed_at": "2026-09-07T00:40:43+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-4bef0751ef6f3c726a61",
-        "ext-4a226f6d9206b0175f6c"
       ]
     }
   ]

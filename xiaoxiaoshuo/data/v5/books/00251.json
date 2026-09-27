@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-5aba3a9739ac6d9d0443",
+      "title": "第10章 武安天下",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171766.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 10,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-5aba3a9739ac6d9d0443",
+        "ext-1855133864398164972"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171766.html"
+      ]
+    },
+    {
       "id": "ext-619b5f63cea3b9713544",
       "title": "第109章",
       "author": "",
@@ -5198,31 +5223,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65332.html"
-      ]
-    },
-    {
-      "id": "ext-f024b493ce624e49e750",
-      "title": "第293章 败儿",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65331.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 293,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f024b493ce624e49e750",
-        "ext-3160153996927930856"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65331.html"
       ]
     }
   ]
