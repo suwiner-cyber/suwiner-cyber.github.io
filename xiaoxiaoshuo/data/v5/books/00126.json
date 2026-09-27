@@ -1,6 +1,99 @@
 {
   "books": [
     {
+      "id": "ext-7f763e30c74f92947bb5",
+      "title": "沙丘6：圣殿沙丘",
+      "author": "弗兰克·赫伯特 内容简介： 沙丘在尊母的残暴攻击之下沦为焦土，它的传说却并未落幕",
+      "kind": "武侠小说",
+      "status": "",
+      "intro": "沙丘在尊母的残暴攻击之下沦为焦土，它的传说却并未落幕。旧帝国势力几乎完全被尊母击溃，唯有姐妹会在继续抗争。她们近乎毁灭，只能退守最后的星球——圣殿星，却仍有一线希望：死灵战士邓肯、背叛了尊母的默贝拉、能操纵沙虫的厄崔迪后裔什阿娜，以及沙丘仅存的遗产——全宇宙最后一条沙虫……当圣殿逐渐被转化为第二个沙丘，姐妹会发动了绝地反击……",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/dune6/",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/book5/dune6/"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/dune6/"
+      ],
+      "media": "text",
+      "chapter_count": 49,
+      "last_chapter": "第四十八章",
+      "detail_complete": true,
+      "indexed_at": "2026-09-09T07:05:13+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-7f763e30c74f92947bb5",
+        "ext-d3ac61bde96d22af4b52"
+      ]
+    },
+    {
+      "id": "ext-a942a759c24c57b0801e",
+      "title": "沙丘5：沙丘异端",
+      "author": "弗兰克·赫伯特 内容简介： 一千五百年前，神帝雷托遇刺身亡，引发了剧烈的社会动荡",
+      "kind": "武侠小说",
+      "status": "",
+      "intro": "一千五百年前，神帝雷托遇刺身亡，引发了剧烈的社会动荡，数以万亿计的人离散到整个宇宙。如今，他们纷纷带着力量重返故土。姐妹会、尊母、特莱拉人……一时间，古老的势力与新兴的力量相继登上舞台，新的争端已 然爆发。少女什阿娜，继承了厄崔迪人控制沙虫的能力。她的出现，令这场争端再次升级。荒芜的土地上，新千年的故事正缓缓展开。",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/dune5/",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/book5/dune5/"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/dune5/"
+      ],
+      "media": "text",
+      "chapter_count": 48,
+      "last_chapter": "第四十七章",
+      "detail_complete": true,
+      "indexed_at": "2026-09-09T07:05:12+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a942a759c24c57b0801e",
+        "ext-67f5bc34ca4a21b0778c"
+      ]
+    },
+    {
+      "id": "ext-b0fdcbf8cec845ad51b9",
+      "title": "沙丘4:沙丘神帝",
+      "author": "弗兰克·赫伯特 内容简介： 浩瀚的沙丘行星上，雷托-厄崔迪治下的帝国，已走过了三",
+      "kind": "武侠小说",
+      "status": "",
+      "intro": "浩瀚的沙丘行星上，雷托-厄崔迪治下的帝国，已走过了三千年的漫长历史。他将肉体与沙虫融合，成为了半人半神的神帝，也预见了无人能料的未来。遵循“金色通道”的指引，雷托逐渐成为了残酷无道的暴君。强权之下，反抗四起，不断出现的叛乱，为帝国埋下了深深的隐患。要维持帝国的运转，就必须让自身走向毁灭。终于意识到这一点的雷托却并不知道，一场针对他的刺杀行动早已悄悄展开。",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/dune4/",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/book5/dune4/"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/dune4/"
+      ],
+      "media": "text",
+      "chapter_count": 54,
+      "last_chapter": "后记",
+      "detail_complete": true,
+      "indexed_at": "2026-09-09T07:05:10+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b0fdcbf8cec845ad51b9",
+        "ext-fbb0b1245818d00e6dc5"
+      ]
+    },
+    {
       "id": "ext-541401982f49a93a9cab",
       "title": "沙丘之子(沙丘3)",
       "author": "弗兰克·赫伯特 内容简介： 《沙丘》系列第三部，保罗阿崔迪有两个孩子，李特和格尼",
@@ -6139,98 +6232,6 @@
       "catalog_only": false,
       "read_ids": [
         "ext-9084b794f2c37b45054b"
-      ]
-    },
-    {
-      "id": "ext-bcb74a02f6a4d1c80e49",
-      "title": "武道长生，从大离第一纨绔开始",
-      "author": "其他作品 我有一尊炼妖壶 韩风穿越了，他惊愕的发现，自己不仅是帝国蛀虫，吃软饭睡",
-      "kind": "",
-      "status": "已完结",
-      "intro": "武道长生，从大离第一纨绔开始 轻浮你一笑 玄幻奇幻 东方玄幻 连载 | 256.41万字 我要催更 我要推荐 加入书架 免费阅读 武道长生，从大离第一纨绔开始小说由一七小说提供精彩免费全文阅读：顾尘风穿越了！<br>穿越到大离王朝，爷爷修为逆天，乃是当朝大宗师，更为大离宰相，权倾朝野！<br>父亲是边疆战神，手握重兵！<br>而顾尘风自己……<br>乃是当朝第一纨绔！<br>更离谱的是，穿越第一天，他就被上界修为逆天的女魔头给……赖上了！<br>……<br>简单讲，就是一个王朝纨绔，搅乱帝都风云的玄幻故事！<br>（读者群：782269918欢迎大家催更） 热血 轻松 杀伐果断 玄幻 异界",
-      "cover": "https://m.1qxs.com/img/default.png",
-      "source_url": "https://m.1qxs.com/xs_1/93054",
-      "source_host": "1qxs.com",
-      "source_name": "一七小说",
-      "source_names": [
-        "一七小说"
-      ],
-      "sources": [
-        "https://m.1qxs.com/xs_1/93054"
-      ],
-      "read_sources": [
-        "https://m.1qxs.com/xs_1/93054"
-      ],
-      "media": "text",
-      "chapter_count": 6,
-      "last_chapter": "2026-09-06 18:17 第一千零四十三章 闭关有成",
-      "detail_complete": true,
-      "indexed_at": "2026-09-09T06:33:18+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-bcb74a02f6a4d1c80e49"
-      ]
-    },
-    {
-      "id": "ext-19454aeab24fabffe90a",
-      "title": "我不会武功",
-      "author": "其他作品 我以道种铸永生 [玄幻奇幻] 武道长生，从大离第一纨绔开始 [玄幻奇幻",
-      "kind": "玄幻 标签： 异世大陆 最新章节 新书已发，求支持！！ 2021-03-17 2",
-      "status": "",
-      "intro": "我不会武功小说由一七小说提供精彩免费全文阅读：重生异世，成为风云帝国家世无双，却人人喊打，臭名昭著的纨绔世子爷！受尽世人冷眼与嘲笑！当沉寂的绝世武侠系统苏醒，他在异世的开挂人生，就此拉开序幕，你有逆天魔功，我有吸星大法，你有无上剑道，我有独孤九剑！系统绝学在手，大陆纵横………………且看这身怀武侠系统的纨绔世子爷，如何在异世独领风骚，踏上武学之巅！公众号：轻浮你一笑（更新提示，小说番外，人物动画等）交流一群（565418708）已满！交流二群（1085596430）期待大家加入！ 我不会武功小说为转载作品，章节由网友发布，推荐地址：https://www.1qxs.com/xs_1/20904.html",
-      "cover": "https://img.1qxs.com/cover/20904.jpg",
-      "source_url": "https://www.1qxs.com/xs_1/20904.html",
-      "source_host": "1qxs.com",
-      "source_name": "一七小说",
-      "source_names": [
-        "一七小说"
-      ],
-      "sources": [
-        "https://www.1qxs.com/xs_1/20904.html"
-      ],
-      "read_sources": [
-        "https://www.1qxs.com/xs_1/20904.html"
-      ],
-      "media": "text",
-      "chapter_count": 15,
-      "last_chapter": "第三十四章 七星降临",
-      "detail_complete": true,
-      "indexed_at": "2026-09-09T06:33:15+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-19454aeab24fabffe90a",
-        "ext-07b6ca751e17bcad9645"
-      ]
-    },
-    {
-      "id": "ext-dfa567cc0680a0a878b5",
-      "title": "我以道种铸永生",
-      "author": "其他作品 我有一尊炼妖壶 [玄幻] 武道圣主 [玄幻] 武道长生，从大离第一纨绔",
-      "kind": "玄幻奇幻 标签： 东方玄幻",
-      "status": "",
-      "intro": "我以道种铸永生小说由一七小说提供精彩免费全文阅读：赵恒带着金手指“道种”，穿越异界，成了宗门杂役弟子。<br>所谓道种，竟然是一个骰子！六个点数，代表六项神技！<br>神技在手，赵恒逆风崛起，窃法宝，改功法，夺机缘，斩天骄……<br>“不过，有金手指也不能浪啊！”<br>在这处处危机的异世界，生性稳健的赵恒谨慎的看了看周围，将一个伏击自己的修士挫骨扬灰，再将自己的痕迹彻底抹除。<br>……<br>这就是一个谨慎到近乎阴险的小人物，为了自保，把自己修成绝世狠人，诸天无敌的故事。<br>（书友一群qq：782269918） 我以道种铸永生小说为转载作品，章节由网友发布，推荐地址：https://www.1qxs.com/xs_1/75763.html",
-      "cover": "https://img.1qxs.com/cover/75763.jpg",
-      "source_url": "https://www.1qxs.com/xs_1/75763.html",
-      "source_host": "1qxs.com",
-      "source_name": "一七小说",
-      "source_names": [
-        "一七小说"
-      ],
-      "sources": [
-        "https://www.1qxs.com/xs_1/75763.html"
-      ],
-      "read_sources": [
-        "https://www.1qxs.com/xs_1/75763.html"
-      ],
-      "media": "text",
-      "chapter_count": 15,
-      "last_chapter": "第一千零五十二章 神迹",
-      "detail_complete": true,
-      "indexed_at": "2026-09-09T06:33:14+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-dfa567cc0680a0a878b5",
-        "ext-4581932c0d784fb7c6c0"
       ]
     }
   ]
