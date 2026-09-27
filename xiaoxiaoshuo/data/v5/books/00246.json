@@ -1,6 +1,37 @@
 {
   "books": [
     {
+      "id": "ext-393d9916278251061970",
+      "title": "第一百四十四章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/462990.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462990.html",
+        "https://www.kanunu8.com/book7/dby67/470086.html"
+      ],
+      "read_ids": [
+        "ext-393d9916278251061970",
+        "ext-8925112780020247919",
+        "ext-c7f5f9118dc05ae07928"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462990.html",
+        "https://www.kanunu8.com/book7/dby67/470086.html"
+      ]
+    },
+    {
       "id": "ext-d14ac6b93c66724a49a2",
       "title": "第一百四十六章",
       "author": "",
@@ -5399,31 +5430,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/463262.html"
-      ]
-    },
-    {
-      "id": "ext-cf905fa91b95e73c0141",
-      "title": "番外一百二十七",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/463266.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-cf905fa91b95e73c0141",
-        "ext-3258790032413505975"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/463266.html"
       ]
     }
   ]

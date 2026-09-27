@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-814cb4804da227e58a88",
+      "title": "第93章 思念",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/xinpin/450007.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:18+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-814cb4804da227e58a88",
+        "ext-1000146139173027315"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/xinpin/450007.html"
+      ]
+    },
+    {
       "id": "ext-c3429fec1d50190fa565",
       "title": "第92章 上船",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/rongcuolv/450797.html"
-      ]
-    },
-    {
-      "id": "ext-70878816d772fd465ccc",
-      "title": "第12章 考后聚会",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/rongcuolv/450796.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 12,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:17+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-70878816d772fd465ccc",
-        "ext-1419540543929150060"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/rongcuolv/450796.html"
       ]
     }
   ]

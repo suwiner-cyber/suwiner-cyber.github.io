@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-e426d084e5e8d2591a0a",
+      "title": "第58章 老头的来历",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/10669/356273.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 58,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:03+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e426d084e5e8d2591a0a",
+        "ext-4801163123090279921"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10669/356273.html"
+      ]
+    },
+    {
       "id": "ext-4de2b936decef23f85ec",
       "title": "第57章 阿爹",
       "author": "",
@@ -5114,31 +5139,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/qy_jlwxs/35590.html"
-      ]
-    },
-    {
-      "id": "ext-1572c1aa542f4fb10b63",
-      "title": "第32章 32号登机口",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/qy_jlwxs/35589.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 32,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:59+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1572c1aa542f4fb10b63",
-        "ext-3517266443492307461"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/qy_jlwxs/35589.html"
       ]
     }
   ]
