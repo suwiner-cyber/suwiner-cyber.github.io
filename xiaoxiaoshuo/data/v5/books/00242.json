@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-96fdcaeb2adab243649c",
+      "title": "包养外室",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481852.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:50+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-96fdcaeb2adab243649c",
+        "ext-1955714850714181075"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qianyaobaimei/481852.html"
+      ]
+    },
+    {
       "id": "ext-007575599f94365af9be",
       "title": "六月的小憩",
       "author": "",
@@ -5621,37 +5646,6 @@
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/462883.html",
         "https://www.kanunu8.com/book7/dby67/469979.html"
-      ]
-    },
-    {
-      "id": "ext-f578f46aa782359f7944",
-      "title": "第三十一章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/462877.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462877.html",
-        "https://www.kanunu8.com/book7/dby67/469973.html"
-      ],
-      "read_ids": [
-        "ext-f578f46aa782359f7944",
-        "ext-1447190990408233923",
-        "ext-9f72b495b69467e53187"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462877.html",
-        "https://www.kanunu8.com/book7/dby67/469973.html"
       ]
     }
   ]

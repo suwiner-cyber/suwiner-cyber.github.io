@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-353b3351f1d42e8436e5",
+      "title": "第7章 半夜，谁在敲着我的窗？",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/10669/356222.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 7,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:03+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-353b3351f1d42e8436e5",
+        "ext-4221387840820203510"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10669/356222.html"
+      ]
+    },
+    {
       "id": "ext-b245330dbb2d3b5b0f30",
       "title": "第79章 速度",
       "author": "",
@@ -5114,31 +5139,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/qy_jlwxs/35612.html"
-      ]
-    },
-    {
-      "id": "ext-ac7dca9072edf4f29d39",
-      "title": "第54章 54号登机口",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/qy_jlwxs/35611.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 54,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:59+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ac7dca9072edf4f29d39",
-        "ext-7497824871377817126"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/qy_jlwxs/35611.html"
       ]
     }
   ]

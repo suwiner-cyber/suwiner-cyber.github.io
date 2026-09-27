@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-79af107b96e44806f789",
+      "title": "番外七十五",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463214.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-79af107b96e44806f789",
+        "ext-5590818426088937973"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463214.html"
+      ]
+    },
+    {
       "id": "ext-85d4364b7c69dfe9dff3",
       "title": "番外七十二",
       "author": "",
@@ -5414,31 +5439,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/phbfshce/473523.html"
-      ]
-    },
-    {
-      "id": "ext-b614f5c4e217bf9322dd",
-      "title": "第45章 “我是田桑。”",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/phbfshce/473522.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 45,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:45+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b614f5c4e217bf9322dd",
-        "ext-3850793335814332060"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/phbfshce/473522.html"
       ]
     }
   ]
