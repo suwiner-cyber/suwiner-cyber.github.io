@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-712c94dcca72d7b5280b",
+      "title": "第52章 官人好比天上月",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/10669/356267.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 52,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:03+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-712c94dcca72d7b5280b",
+        "ext-1951335728555315336"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10669/356267.html"
+      ]
+    },
+    {
+      "id": "ext-9213a4d38ca5831826b7",
+      "title": "第51章 短信",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/10669/356266.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:03+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9213a4d38ca5831826b7",
+        "ext-9209413095033209604"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10669/356266.html"
+      ]
+    },
+    {
       "id": "ext-24408b3540601ff09ae2",
       "title": "第50章 赤脚",
       "author": "",
@@ -5089,56 +5139,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/qy_jlwxs/35585.html"
-      ]
-    },
-    {
-      "id": "ext-7926e6aedf4be1c1f26e",
-      "title": "第27章 27号登机口",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/qy_jlwxs/35584.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 27,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:59+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7926e6aedf4be1c1f26e",
-        "ext-1837650717243650180"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/qy_jlwxs/35584.html"
-      ]
-    },
-    {
-      "id": "ext-cd175a6ef9fe048be4f1",
-      "title": "第26章 26号登机口",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/qy_jlwxs/35583.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 26,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:59+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-cd175a6ef9fe048be4f1",
-        "ext-7996834632394035101"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/qy_jlwxs/35583.html"
       ]
     }
   ]

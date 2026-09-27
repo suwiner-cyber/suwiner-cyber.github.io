@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-c12d8078ee01f6c01477",
+      "title": "第88章 送行",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/xinpin/450002.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:18+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c12d8078ee01f6c01477",
+        "ext-8131631958566912483"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/xinpin/450002.html"
+      ]
+    },
+    {
+      "id": "ext-486124b117f83b674946",
+      "title": "第87章 生疮",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/xinpin/450001.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:18+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-486124b117f83b674946",
+        "ext-561522886550900203"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/xinpin/450001.html"
+      ]
+    },
+    {
       "id": "ext-bc8034cc6eac06fa17f7",
       "title": "第86章 殿试",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/mangjia/450781.html"
-      ]
-    },
-    {
-      "id": "ext-a01cb259c06687917e83",
-      "title": "第88章 弥补遗憾",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/mangjia/450780.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 88,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:16+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a01cb259c06687917e83",
-        "ext-6668526215585832763"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/mangjia/450780.html"
-      ]
-    },
-    {
-      "id": "ext-ca7ac9cc112b80f47c7c",
-      "title": "第87章 京城喜事",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/mangjia/450779.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 87,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:16+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ca7ac9cc112b80f47c7c",
-        "ext-1364176467196286897"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/mangjia/450779.html"
       ]
     }
   ]
