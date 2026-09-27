@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-977183d40badb1654cf1",
+      "title": "第97章 终于有人问李蔺仪是谁了",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/houmen/452583.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 97,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:21+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-977183d40badb1654cf1",
+        "ext-7856043295735294088"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/houmen/452583.html"
+      ]
+    },
+    {
+      "id": "ext-e9b661de45825a49dca1",
+      "title": "第96章 回家",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/houmen/452582.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:21+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e9b661de45825a49dca1",
+        "ext-6008405810438364135"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/houmen/452582.html"
+      ]
+    },
+    {
       "id": "ext-0a7ad1917414797ee223",
       "title": "第95章 置之死地而后生",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/xinpin/449974.html"
-      ]
-    },
-    {
-      "id": "ext-d4bad0b1c3a8a659ec2a",
-      "title": "第5章 对弈",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/xinpin/449919.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:18+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-d4bad0b1c3a8a659ec2a",
-        "ext-9102930019376627333"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/xinpin/449919.html"
-      ]
-    },
-    {
-      "id": "ext-7530c3e9ceae2820ed91",
-      "title": "第59章 月色",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/xinpin/449973.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:18+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7530c3e9ceae2820ed91",
-        "ext-6062982520501415648"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/xinpin/449973.html"
       ]
     }
   ]
