@@ -1,9 +1,10 @@
 {
   "version": 14,
   "adapter_version": "14.2",
-  "generated_at": "2026-09-27T05:26:56+00:00",
-  "total_books": 52238,
+  "generated_at": "2026-09-27T05:29:05+00:00",
+  "total_books": 52289,
   "source_counts": {
+    "泡书吧小说网": 6990,
     "乐文小说": 6828,
     "和图书": 3844,
     "飘天文学": 1268,
@@ -11,7 +12,6 @@
     "言情小说吧": 4570,
     "塔读文学": 562,
     "爱下电子书": 6370,
-    "泡书吧小说网": 6910,
     "努努书坊": 10652,
     "滋味小说网": 4997,
     "AAAKS小说": 2008
@@ -37,7 +37,7 @@
     "九九藏书网",
     "69书吧"
   ],
-  "last_published_source": "ilwxs.com",
+  "last_published_source": "ipaoshubaxs.net",
   "sources": [
     {
       "name": "爱下电子书",
@@ -176,9 +176,9 @@
       "books_found": 80,
       "books_added": 80,
       "toc_written": 80,
-      "books_seen_total": 6915,
-      "remaining_queue": 25009,
-      "seen_pages": 9040,
+      "books_seen_total": 6995,
+      "remaining_queue": 25006,
+      "seen_pages": 9120,
       "done": false,
       "blocked": false,
       "needs_adapter": false
