@@ -1,55 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-a8d0462e641154a45544",
-      "title": "第37章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171793.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171793.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/37969.html",
-        "https://www.kanunu8.com/book7/lmm04/464086.html",
-        "https://www.kanunu8.com/book7/75chyriji/463309.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481592.html",
-        "https://www.kanunu8.com/book7/hxshn92/485150.html",
-        "https://www.kanunu8.com/book5/yiouchun/80319.html",
-        "https://www.kanunu8.com/book7/jinxiefang/449778.html"
-      ],
-      "read_ids": [
-        "ext-a8d0462e641154a45544",
-        "ext-7593844872106675403",
-        "ext-09843ad4f710cbb6d17b",
-        "ext-2eb6675855f268d021a9",
-        "ext-d6d416dfb8197936d27b",
-        "ext-8d10f00333684205f09b",
-        "ext-87077f78b558938e82de",
-        "ext-e340efb2d09dbd24a8ac",
-        "ext-22e2961968d6d498c848"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171793.html",
-        "https://www.kanunu8.com/book5/plk_zheyao/37969.html",
-        "https://www.kanunu8.com/book7/lmm04/464086.html",
-        "https://www.kanunu8.com/book7/75chyriji/463309.html",
-        "https://www.kanunu8.com/book7/datangpizhuji/481592.html",
-        "https://www.kanunu8.com/book7/hxshn92/485150.html",
-        "https://www.kanunu8.com/book5/yiouchun/80319.html",
-        "https://www.kanunu8.com/book7/jinxiefang/449778.html"
-      ]
-    },
-    {
       "id": "ext-c309bbd66eae76fe8185",
       "title": "第36章",
       "author": "",
@@ -6351,6 +6302,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65128.html"
+      ]
+    },
+    {
+      "id": "ext-e580a1985b9bf01b1557",
+      "title": "第8章 再见",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65046.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 8,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e580a1985b9bf01b1557",
+        "ext-5380071390729617477"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65046.html"
       ]
     }
   ]
