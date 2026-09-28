@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-09-28T14:13:00+00:00",
+  "generated_at": "2026-09-28T14:15:01+00:00",
   "errors": [
-    {
-      "time": "2026-09-22T06:40:51+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/小学生天涯.html",
-      "error": "'ascii' codec can't encode characters in position 12-16: ordinal not in range(128)"
-    },
-    {
-      "time": "2026-09-22T06:40:54+00:00",
-      "source": "泡书吧小说网",
-      "url": "https://www.ipaoshubaxs.net/author/爱曲线的小蜗牛.html",
-      "error": "'ascii' codec can't encode characters in position 12-18: ordinal not in range(128)"
-    },
     {
       "time": "2026-09-22T06:40:55+00:00",
       "source": "泡书吧小说网",
@@ -15000,6 +14988,18 @@
       "source": "AAAKS小说",
       "url": "https://www.aaaks.com/book/1789954/",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "time": "2026-09-28T14:13:56+00:00",
+      "source": "努努书坊",
+      "url": "https://www.kanunu8.com/files/yuanchuang/201102/5606.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-09-28T14:13:56+00:00",
+      "source": "努努书坊",
+      "url": "https://www.kanunu8.com/files/yuanchuang/201102/5607.html",
+      "error": "HTTP Error 404: Not Found"
     }
   ]
 }
