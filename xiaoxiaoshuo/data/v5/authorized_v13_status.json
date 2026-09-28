@@ -1,8 +1,9 @@
 {
   "version": 13,
-  "generated_at": "2026-09-28T05:24:11+00:00",
-  "total_books": 53432,
+  "generated_at": "2026-09-28T05:25:54+00:00",
+  "total_books": 53434,
   "source_counts": {
+    "飘天文学": 1275,
     "一七小说": 6573,
     "言情小说吧": 4877,
     "塔读文学": 590,
@@ -10,7 +11,6 @@
     "泡书吧小说网": 7171,
     "乐文小说": 7035,
     "和图书": 3992,
-    "飘天文学": 1273,
     "努努书坊": 10654,
     "滋味小说网": 4997,
     "AAAKS小说": 2008
@@ -18,20 +18,20 @@
   "all_done": false,
   "continue_needed": true,
   "unresolved_sources": [
-    "一七小说"
+    "飘天文学"
   ],
   "sources": [
     {
-      "name": "一七小说",
-      "host": "1qxs.com",
+      "name": "飘天文学",
+      "host": "piaotia.com",
       "pages_this_run": 80,
       "successful_pages": 80,
       "failed_pages": 0,
-      "books_found": 51,
-      "books_added": 50,
-      "toc_written": 51,
-      "books_seen_total": 6508,
-      "remaining_queue": 26284,
+      "books_found": 4,
+      "books_added": 4,
+      "toc_written": 4,
+      "books_seen_total": 1721,
+      "remaining_queue": 32320,
       "seen_pages": 9440,
       "done": false,
       "blocked": false,

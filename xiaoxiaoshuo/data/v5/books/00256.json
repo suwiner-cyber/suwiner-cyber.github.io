@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-31a619a85e4fbb323986",
+      "title": "艾未未: 所有人问所有人",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-03-994.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-31a619a85e4fbb323986",
+        "ext-4736521163380178190"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-03-994.html"
+      ]
+    },
+    {
+      "id": "ext-895d5acaaf227b7f873b",
+      "title": "老王子: 合唱",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-03-997.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-895d5acaaf227b7f873b",
+        "ext-1433184216139730002"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-03-997.html"
+      ]
+    },
+    {
       "id": "ext-d550889633906ecdaf5b",
       "title": "罗永浩: 秋菊男的故事",
       "author": "",
@@ -4990,56 +5040,6 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/960207"
-      ]
-    },
-    {
-      "id": "ext-ed277d73ddec7556a3d2",
-      "title": "陌上花开言如玉 三喜",
-      "author": "北枝寒",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2020/08/06/10/18/578394dd37024158b252ecf5b1cb002d_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/785594",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:14+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ed277d73ddec7556a3d2",
-        "ext-6187249184601785662"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/785594"
-      ]
-    },
-    {
-      "id": "ext-3dd33b1d959f9a0e9a16",
-      "title": "福宝小锦鲤：带着全家旺翻了 姜姜的姜",
-      "author": "北枝寒",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2020/08/06/10/18/578394dd37024158b252ecf5b1cb002d_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/982327",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:14+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-3dd33b1d959f9a0e9a16",
-        "ext-468608669035812128"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/982327"
       ]
     }
   ]
