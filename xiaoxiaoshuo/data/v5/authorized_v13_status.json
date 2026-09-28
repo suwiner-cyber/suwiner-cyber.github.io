@@ -1,9 +1,9 @@
 {
   "version": 13,
-  "generated_at": "2026-09-28T05:40:38+00:00",
-  "total_books": 53652,
+  "generated_at": "2026-09-28T05:42:28+00:00",
+  "total_books": 53650,
   "source_counts": {
-    "塔读文学": 592,
+    "塔读文学": 590,
     "爱下电子书": 6544,
     "泡书吧小说网": 7224,
     "乐文小说": 7114,
@@ -18,20 +18,20 @@
   "all_done": false,
   "continue_needed": true,
   "unresolved_sources": [
-    "塔读文学"
+    "努努书坊"
   ],
   "sources": [
     {
-      "name": "塔读文学",
-      "host": "tadu.com",
+      "name": "努努书坊",
+      "host": "kanunu8.com",
       "pages_this_run": 80,
       "successful_pages": 80,
       "failed_pages": 0,
-      "books_found": 70,
-      "books_added": 70,
-      "toc_written": 63,
-      "books_seen_total": 7383,
-      "remaining_queue": 31063,
+      "books_found": 0,
+      "books_added": 0,
+      "toc_written": 0,
+      "books_seen_total": 6580,
+      "remaining_queue": 17359,
       "seen_pages": 9360,
       "done": false,
       "blocked": false,
