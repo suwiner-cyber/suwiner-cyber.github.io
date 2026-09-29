@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-09-29T22:21:38+00:00",
+  "generated_at": "2026-09-29T22:23:38+00:00",
   "errors": [
-    {
-      "time": "2026-09-22T18:51:18+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1066887675/",
-      "error": "Remote end closed connection without response"
-    },
     {
       "time": "2026-09-22T18:51:32+00:00",
       "source": "AAAKS小说",
@@ -15000,6 +14994,12 @@
       "source": "飘天文学",
       "url": "https://www.piaotia.com/newmessage.php?tosys=1&title=炼神领域更新不及时！",
       "error": "'ascii' codec can't encode characters in position 34-43: ordinal not in range(128)"
+    },
+    {
+      "time": "2026-09-29T22:23:37+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/黑角白龙.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
     }
   ]
 }
