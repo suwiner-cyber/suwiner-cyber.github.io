@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-52cc006f8e278395968c",
+      "title": "第53章 奔走",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65091.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 53,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:39+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-52cc006f8e278395968c",
+        "ext-7936568222519560668"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zz_hkjinxiu/65091.html"
+      ]
+    },
+    {
       "id": "ext-92f3702950be9c1f6592",
       "title": "第52章 阻止",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65191.html"
-      ]
-    },
-    {
-      "id": "ext-88e052ea3e764befc2c6",
-      "title": "第152章 送行",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65190.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 152,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-88e052ea3e764befc2c6",
-        "ext-3322385514849413819"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65190.html"
       ]
     }
   ]

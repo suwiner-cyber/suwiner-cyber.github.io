@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-7638fed270fbd44df6fb",
+      "title": "第5章 小轩窗，半面妆",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/xingguanghaian/457276.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 5,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:12+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-7638fed270fbd44df6fb",
+        "ext-5402997982925548426"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/xingguanghaian/457276.html"
+      ]
+    },
+    {
       "id": "ext-3102eec43b94567901a1",
       "title": "第59章 落花至，流水香",
       "author": "",
@@ -4982,31 +5007,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/heqinghaiyan/451296.html"
-      ]
-    },
-    {
-      "id": "ext-89e5aa917856fffedff0",
-      "title": "二十三、青云得步",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/heqinghaiyan/451297.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:09+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-89e5aa917856fffedff0",
-        "ext-5199536114571500406"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/heqinghaiyan/451297.html"
       ]
     }
   ]

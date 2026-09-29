@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-1977af0d930b33a27ecd",
+      "title": "番外一百一十九",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463258.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1977af0d930b33a27ecd",
+        "ext-5703871080604757424"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463258.html"
+      ]
+    },
+    {
       "id": "ext-126fcc9ff94d592b91a7",
       "title": "番外一百一十三",
       "author": "",
@@ -5408,31 +5433,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/phbfshce/473492.html"
-      ]
-    },
-    {
-      "id": "ext-6c89bf185f7631a731f8",
-      "title": "第14章 你们俩昨晚是偷偷亲嘴了吗",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/phbfshce/473491.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 14,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:45+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-6c89bf185f7631a731f8",
-        "ext-3638683782511058436"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/phbfshce/473491.html"
       ]
     }
   ]

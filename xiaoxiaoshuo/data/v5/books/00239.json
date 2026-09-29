@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-9ac7195b273d425974cc",
+      "title": "8. 找死不得",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/feiyingyouxi/456969.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:22+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9ac7195b273d425974cc",
+        "ext-7548773752599042488"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/feiyingyouxi/456969.html"
+      ]
+    },
+    {
       "id": "ext-95600b8cb2783e9cbd80",
       "title": "7. 你用权力",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/xinpin/449999.html"
-      ]
-    },
-    {
-      "id": "ext-827df68a1579ed64e277",
-      "title": "第84章 阴阳",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/xinpin/449998.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:18+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-827df68a1579ed64e277",
-        "ext-476282228752992556"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/xinpin/449998.html"
       ]
     }
   ]

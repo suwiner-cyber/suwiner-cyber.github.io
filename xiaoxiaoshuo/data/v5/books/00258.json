@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-05fb96ea52aaa3c655b2",
+      "title": "第14章 他看见了",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171770.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 14,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-05fb96ea52aaa3c655b2",
+        "ext-4220926506079649846"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171770.html"
+      ]
+    },
+    {
       "id": "ext-8fc3d9a72687461d692e",
       "title": "第149章",
       "author": "",
@@ -5798,31 +5823,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65092.html"
-      ]
-    },
-    {
-      "id": "ext-52cc006f8e278395968c",
-      "title": "第53章 奔走",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65091.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 53,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-52cc006f8e278395968c",
-        "ext-7936568222519560668"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65091.html"
       ]
     }
   ]

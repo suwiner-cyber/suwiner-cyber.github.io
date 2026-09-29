@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-2ea794a20502df5d3e75",
+      "title": "第20章 浮生憾(上)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/jianchuqiao/445738.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 20,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:15+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2ea794a20502df5d3e75",
+        "ext-1662741071072490461"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/jianchuqiao/445738.html"
+      ]
+    },
+    {
       "id": "ext-fca47115ed4136b19676",
       "title": "第209章 请战伴月(二)",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/xingguanghaian/457331.html"
-      ]
-    },
-    {
-      "id": "ext-7638fed270fbd44df6fb",
-      "title": "第5章 小轩窗，半面妆",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/xingguanghaian/457276.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 5,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:12+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7638fed270fbd44df6fb",
-        "ext-5402997982925548426"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/xingguanghaian/457276.html"
       ]
     }
   ]

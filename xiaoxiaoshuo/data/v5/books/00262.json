@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-1fcf4c156dba347b332a",
+      "title": "乐小米(纪伟娜): 一生难安",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1171.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1fcf4c156dba347b332a",
+        "ext-703920848391501552"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/01-16-1171.html"
+      ]
+    },
+    {
       "id": "ext-9d5bce93d5b02f97c5b2",
       "title": "乐小米(纪伟娜): 1999，2003，幸福走过街",
       "author": "",
@@ -4931,30 +4956,6 @@
       ],
       "read_sources": [
         "https://ixdzs8.com/read/631518/"
-      ]
-    },
-    {
-      "id": "ix-569146",
-      "title": "别怕本座是好人",
-      "author": "燃烧石头",
-      "kind": "玄幻奇幻",
-      "status": "连载中",
-      "intro": "一朝魂穿魔门弟子，身怀气运祭坛。献祭气运，便能获得诸天武学、神通、宝物……这个世界武者纵横，王者争霸，仙人问道……庙堂巍峨，江湖辽阔……盛不下一个小小魔头。这是最残酷的人间，也是最美好的梦境！曹鲲含笑抚摸着圣女的青丝，说出那句让八方豪杰深恶痛绝的谎话：“别怕！本座是好人！”",
-      "cover": "https://img22.ixdzs.com/c8/9a/c89addd90ac009edfefbe85622de70a2.jpg",
-      "source_url": "https://ixdzs8.com/read/569146/",
-      "source_host": "ixdzs8.com",
-      "source_name": "爱下电子书",
-      "media": "text",
-      "chapter_count": 916,
-      "last_chapter": "第916章",
-      "word_count_wan": 246.43,
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:52:12+00:00",
-      "read_ids": [
-        "ix-569146"
-      ],
-      "read_sources": [
-        "https://ixdzs8.com/read/569146/"
       ]
     }
   ]
