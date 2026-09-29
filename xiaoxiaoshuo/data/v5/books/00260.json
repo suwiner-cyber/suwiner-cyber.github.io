@@ -1,37 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-c795d60fcdb7bf391169",
-      "title": "第一百二十六章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/462972.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462972.html",
-        "https://www.kanunu8.com/book7/dby67/470068.html"
-      ],
-      "read_ids": [
-        "ext-c795d60fcdb7bf391169",
-        "ext-3124764582955277344",
-        "ext-e558061ed0d923fa0a62"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462972.html",
-        "https://www.kanunu8.com/book7/dby67/470068.html"
-      ]
-    },
-    {
       "id": "ext-cb07affb2bec894173d1",
       "title": "第一百二十八章",
       "author": "",
@@ -5316,6 +5285,52 @@
         "https://www.kanunu8.com/book7/hxshn92/485121.html",
         "https://www.kanunu8.com/book5/yiouchun/80290.html",
         "https://www.kanunu8.com/book7/loulingji/449828.html"
+      ]
+    },
+    {
+      "id": "ext-c1252d2811f7af05616c",
+      "title": "第7章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/lmm04/464056.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:47+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/lmm04/464056.html",
+        "https://www.kanunu8.com/book7/75chyriji/463279.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481561.html",
+        "https://www.kanunu8.com/book7/hxshn92/485120.html",
+        "https://www.kanunu8.com/book5/yiouchun/80289.html",
+        "https://www.kanunu8.com/book7/loulingji/449827.html",
+        "https://www.kanunu8.com/book7/jinxiefang/449748.html"
+      ],
+      "read_ids": [
+        "ext-c1252d2811f7af05616c",
+        "ext-978050286098172946",
+        "ext-21a64a4f79175cb343a3",
+        "ext-84731b254f3a61791374",
+        "ext-9c48c1d2e7617c09e3f8",
+        "ext-c33f7fa78bda924655d7",
+        "ext-a80cc26ba7718bcd7861",
+        "ext-c92d5639ee7b372ba9e7"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/lmm04/464056.html",
+        "https://www.kanunu8.com/book7/75chyriji/463279.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481561.html",
+        "https://www.kanunu8.com/book7/hxshn92/485120.html",
+        "https://www.kanunu8.com/book5/yiouchun/80289.html",
+        "https://www.kanunu8.com/book7/loulingji/449827.html",
+        "https://www.kanunu8.com/book7/jinxiefang/449748.html"
       ]
     }
   ]
