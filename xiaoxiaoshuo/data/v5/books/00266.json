@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-35e9da588e7ad15ec679",
-      "title": "明晓溪: 小鱼的向日葵",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2009/09-02-835.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-35e9da588e7ad15ec679",
-        "ext-7946578207132225000"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2009/09-02-835.html"
-      ]
-    },
-    {
       "id": "ext-0d4460c694443f22c93d",
       "title": "明晓溪: 小兔的女神手记",
       "author": "",
@@ -5040,6 +5015,37 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/812713"
+      ]
+    },
+    {
+      "id": "ext-2ec70d6d91c1252e8ae4",
+      "title": "9 我的女友太强了 雨化甜",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "http://www.tadu.com/book/797035",
+      "source_host": "www.tadu.com",
+      "source_name": "塔读文学",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:55:54+00:00",
+      "catalog_only": false,
+      "sources": [
+        "http://www.tadu.com/book/797035",
+        "https://www.tadu.com/book/797035"
+      ],
+      "read_ids": [
+        "ext-2ec70d6d91c1252e8ae4",
+        "ext-1930262613143052725",
+        "ext-d135ffcedc9c487a2ec9"
+      ],
+      "read_sources": [
+        "http://www.tadu.com/book/797035",
+        "https://www.tadu.com/book/797035"
       ]
     }
   ]
