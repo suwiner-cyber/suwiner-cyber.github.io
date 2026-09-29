@@ -1,37 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-cbe418e4a5a6dcff3698",
-      "title": "第226章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/datangpizhuji/481783.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 220,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:52+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/datangpizhuji/481783.html",
-        "https://www.kanunu8.com/book7/hxshn92/485341.html"
-      ],
-      "read_ids": [
-        "ext-cbe418e4a5a6dcff3698",
-        "ext-2958801544744906556",
-        "ext-0163cb24245049820903"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/datangpizhuji/481783.html",
-        "https://www.kanunu8.com/book7/hxshn92/485341.html"
-      ]
-    },
-    {
       "id": "ext-6c2262d6e6503eac1790",
       "title": "第225章",
       "author": "",
@@ -5328,6 +5297,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/463110.html"
+      ]
+    },
+    {
+      "id": "ext-2d46f10cc8c67a9cfc9f",
+      "title": "结局二(32)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463109.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2d46f10cc8c67a9cfc9f",
+        "ext-6478721425794876015"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463109.html"
       ]
     }
   ]

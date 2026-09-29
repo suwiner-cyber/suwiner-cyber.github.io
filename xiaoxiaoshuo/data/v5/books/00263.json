@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-f48f4207e9b7472090a6",
-      "title": "佚名: 宫女卷",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/old/2011/2490.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:29+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f48f4207e9b7472090a6",
-        "ext-9029144478720911329"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/old/2011/2490.html"
-      ]
-    },
-    {
       "id": "ext-3eb50d5085883ef86afb",
       "title": "余象斗: 北游记",
       "author": "",
@@ -4933,6 +4908,30 @@
       ],
       "read_sources": [
         "https://ixdzs8.com/read/640179/"
+      ]
+    },
+    {
+      "id": "ix-623459",
+      "title": "修仙界，贱仙",
+      "author": "斩天一刀",
+      "kind": "玄幻奇幻",
+      "status": "连载中",
+      "intro": "林凡本是一名小混混，因偷电线被电击而身亡，灵魂穿越到一个同样刚死去的、资质平平、地位低下的同名宗门杂役弟子身上，故事拉开了序幕。",
+      "cover": "https://img22.ixdzs.com/e5/01/e501d6bf077b1b8fe3d631da010661ff.jpg",
+      "source_url": "https://ixdzs8.com/read/623459/",
+      "source_host": "ixdzs8.com",
+      "source_name": "爱下电子书",
+      "media": "text",
+      "chapter_count": 439,
+      "last_chapter": "第439章",
+      "word_count_wan": 124.02,
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:52:11+00:00",
+      "read_ids": [
+        "ix-623459"
+      ],
+      "read_sources": [
+        "https://ixdzs8.com/read/623459/"
       ]
     }
   ]

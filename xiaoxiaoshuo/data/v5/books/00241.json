@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-2954b39dc80987d6a2aa",
-      "title": "第63章 夭折",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/xinpin/449977.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:18+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-2954b39dc80987d6a2aa",
-        "ext-6773129832975366488"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/xinpin/449977.html"
-      ]
-    },
-    {
       "id": "ext-6431cad40ca6358675c8",
       "title": "第62章 捞鱼",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/mangjia/450756.html"
+      ]
+    },
+    {
+      "id": "ext-f3b99d78ff26bf3d60cb",
+      "title": "第63章 白壁无瑕",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/mangjia/450755.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 63,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:16+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f3b99d78ff26bf3d60cb",
+        "ext-2201029631818698033"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/mangjia/450755.html"
       ]
     }
   ]

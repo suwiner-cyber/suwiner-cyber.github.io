@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-1c32f0aa58aee2e8cc25",
-      "title": "韩寒: 杯中窥人",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-03-983.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1c32f0aa58aee2e8cc25",
-        "ext-3587985181333530002"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-03-983.html"
-      ]
-    },
-    {
       "id": "ext-a38a1eb76ce736be0d43",
       "title": "韩寒: 我想和这个世界谈谈",
       "author": "",
@@ -4998,6 +4973,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/old/2011/1592.html"
+      ]
+    },
+    {
+      "id": "ext-f48f4207e9b7472090a6",
+      "title": "佚名: 宫女卷",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/old/2011/2490.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:29+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f48f4207e9b7472090a6",
+        "ext-9029144478720911329"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/old/2011/2490.html"
       ]
     }
   ]

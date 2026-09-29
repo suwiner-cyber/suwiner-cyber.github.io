@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-9b44dcd88bf2f96afb43",
-      "title": "第131章 悠闲庶皇子",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dby79/458312.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 131,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:56+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-9b44dcd88bf2f96afb43",
-        "ext-5902168703252591981"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dby79/458312.html"
-      ]
-    },
-    {
       "id": "ext-d6cbca8eb78f17ef1cd9",
       "title": "第130章 悠闲庶皇子",
       "author": "",
@@ -5052,6 +5027,37 @@
       "read_sources": [
         "https://www.kanunu8.com/book7/datangpizhuji/481784.html",
         "https://www.kanunu8.com/book7/hxshn92/485342.html"
+      ]
+    },
+    {
+      "id": "ext-cbe418e4a5a6dcff3698",
+      "title": "第226章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/datangpizhuji/481783.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 220,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:52+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/datangpizhuji/481783.html",
+        "https://www.kanunu8.com/book7/hxshn92/485341.html"
+      ],
+      "read_ids": [
+        "ext-cbe418e4a5a6dcff3698",
+        "ext-2958801544744906556",
+        "ext-0163cb24245049820903"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/datangpizhuji/481783.html",
+        "https://www.kanunu8.com/book7/hxshn92/485341.html"
       ]
     }
   ]
