@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-9ac6963781c666c893b3",
+      "title": "15、流言无端",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/jinlin/460482.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:19+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9ac6963781c666c893b3",
+        "ext-5429683691315363703"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/jinlin/460482.html"
+      ]
+    },
+    {
       "id": "ext-0c35c56c34aac3e43c64",
       "title": "14、自我的法律",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/rongcuolv/450809.html"
-      ]
-    },
-    {
-      "id": "ext-f7951d7b0b9f3dc6ea52",
-      "title": "第24章 改变身份",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/rongcuolv/450808.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 24,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:17+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f7951d7b0b9f3dc6ea52",
-        "ext-6167749572324691109"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/rongcuolv/450808.html"
       ]
     }
   ]

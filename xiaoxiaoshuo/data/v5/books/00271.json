@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-f4f4647379551bb8e2e5",
+      "title": "第113章 你好",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/gnbk26/204378.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 113,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:38+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-f4f4647379551bb8e2e5",
+        "ext-2685421503964355103"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/gnbk26/204378.html"
+      ]
+    },
+    {
       "id": "ext-7479b6b64193f9b8fa3c",
       "title": "第112章 破茧",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/01-16-1184.html"
-      ]
-    },
-    {
-      "id": "ext-b92d3cd812cdf3e772b8",
-      "title": "乐小米(纪伟娜): 我们再也不会遇见爱情",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://www.kanunu8.com/images/ar.gif",
-      "source_url": "https://www.kanunu8.com/files/little/2011/01-16-1163.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b92d3cd812cdf3e772b8",
-        "ext-6410768341391353750"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/files/little/2011/01-16-1163.html"
       ]
     }
   ]

@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-7322a93a7d3f08d838df",
+      "title": "番外一百零五",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/463244.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-7322a93a7d3f08d838df",
+        "ext-6024828479394941350"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/463244.html"
+      ]
+    },
+    {
       "id": "ext-10de4089f7726687d3cc",
       "title": "番外一百零二",
       "author": "",
@@ -5408,31 +5433,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/phbfshce/473513.html"
-      ]
-    },
-    {
-      "id": "ext-010eb620c42c4f762514",
-      "title": "第35章 拯救小猪大作战",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/phbfshce/473512.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 35,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:45+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-010eb620c42c4f762514",
-        "ext-8915159693452688649"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/phbfshce/473512.html"
       ]
     }
   ]

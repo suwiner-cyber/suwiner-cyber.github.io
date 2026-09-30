@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-010eb620c42c4f762514",
+      "title": "第35章 拯救小猪大作战",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/phbfshce/473512.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 35,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:45+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-010eb620c42c4f762514",
+        "ext-8915159693452688649"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/phbfshce/473512.html"
+      ]
+    },
+    {
       "id": "ext-80c743557938d5ec5267",
       "title": "第34章 不是也得给她是！",
       "author": "",
@@ -6758,31 +6783,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zhuyu/171778.html"
-      ]
-    },
-    {
-      "id": "ext-0393b35e526ef0ac7945",
-      "title": "第21章 他在躲她",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zhuyu/171777.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 21,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:42+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-0393b35e526ef0ac7945",
-        "ext-1002062123713011500"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zhuyu/171777.html"
       ]
     }
   ]

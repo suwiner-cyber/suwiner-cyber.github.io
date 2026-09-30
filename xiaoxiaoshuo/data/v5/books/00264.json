@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-edc6d3ef6abc1d066e5b",
+      "title": "世界末日的预告",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481865.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:50+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-edc6d3ef6abc1d066e5b",
+        "ext-5442638094144448895"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qianyaobaimei/481865.html"
+      ]
+    },
+    {
       "id": "ext-b83823274f1a2657a3f4",
       "title": "不能说的理由",
       "author": "",
@@ -5693,37 +5718,6 @@
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/462923.html",
         "https://www.kanunu8.com/book7/dby67/470018.html"
-      ]
-    },
-    {
-      "id": "ext-a693802c71c0669d9d85",
-      "title": "第七十一章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/462917.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462917.html",
-        "https://www.kanunu8.com/book7/dby67/470012.html"
-      ],
-      "read_ids": [
-        "ext-a693802c71c0669d9d85",
-        "ext-6666918830175431005",
-        "ext-7acb5349e4095f926f8a"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462917.html",
-        "https://www.kanunu8.com/book7/dby67/470012.html"
       ]
     }
   ]

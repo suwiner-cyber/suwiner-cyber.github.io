@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-c1fd56b870e707ec0079",
+      "title": "第230章 通天一途(中)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/jianchuqiao/445750.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 230,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:15+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c1fd56b870e707ec0079",
+        "ext-2578087509293871523"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/jianchuqiao/445750.html"
+      ]
+    },
+    {
       "id": "ext-0bee6648b16aabf11928",
       "title": "第22章 浮生憾(下)",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/xingguanghaian/457352.html"
-      ]
-    },
-    {
-      "id": "ext-97c4a2f9da35b07816d3",
-      "title": "第80章 三尺冻，事事休",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/xingguanghaian/457351.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 80,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:12+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-97c4a2f9da35b07816d3",
-        "ext-6308427243561253026"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/xingguanghaian/457351.html"
       ]
     }
   ]
