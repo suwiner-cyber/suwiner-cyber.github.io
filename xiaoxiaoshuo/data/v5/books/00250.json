@@ -1,31 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-aabf44b569c7decbdfca",
-      "title": "第77章 忘却",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/tianjieyese/452042.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:11+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-aabf44b569c7decbdfca",
-        "ext-9205795412310254988"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/tianjieyese/452042.html"
-      ]
-    },
-    {
       "id": "ext-f76d314a3be888f53706",
       "title": "第76章 忘却",
       "author": "",
@@ -5007,6 +4982,31 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/qiandenglu/450104.html"
+      ]
+    },
+    {
+      "id": "ext-c59ae4954d0fa3a8f8c6",
+      "title": "第十五章 寒潭",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qiandenglu/450067.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:08+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-c59ae4954d0fa3a8f8c6",
+        "ext-970029208423178089"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qiandenglu/450067.html"
       ]
     }
   ]
