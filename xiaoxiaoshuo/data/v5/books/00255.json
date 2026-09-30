@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-9fbea8591662111e9719",
+      "title": "第74章 我们在天上的父",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/10669/356290.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 74,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:03+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9fbea8591662111e9719",
+        "ext-1631756311110950216"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10669/356290.html"
+      ]
+    },
+    {
       "id": "ext-ae892a77d512ea8a4424",
       "title": "第73章 神秘的礼物",
       "author": "",
@@ -5114,31 +5139,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/qy_jlwxs/35561.html"
-      ]
-    },
-    {
-      "id": "ext-1a6eed610b5ad049279c",
-      "title": "第49章 49号登机口",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/qy_jlwxs/35606.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 49,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:59+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1a6eed610b5ad049279c",
-        "ext-3497571088378344"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/qy_jlwxs/35606.html"
       ]
     }
   ]

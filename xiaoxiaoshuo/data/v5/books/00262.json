@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-94724e422c4896b7e880",
+      "title": "代号“炎帝”",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481901.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:50+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-94724e422c4896b7e880",
+        "ext-5167486758983910089"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qianyaobaimei/481901.html"
+      ]
+    },
+    {
       "id": "ext-640a08a6d9366710cbbb",
       "title": "从裤衩开始",
       "author": "",
@@ -5663,37 +5688,6 @@
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/462924.html",
         "https://www.kanunu8.com/book7/dby67/470019.html"
-      ]
-    },
-    {
-      "id": "ext-da6669ac397cdcc09083",
-      "title": "第七十五章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/462921.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462921.html",
-        "https://www.kanunu8.com/book7/dby67/470016.html"
-      ],
-      "read_ids": [
-        "ext-da6669ac397cdcc09083",
-        "ext-6433553910135017306",
-        "ext-6215d1bc426f9cedeafc"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462921.html",
-        "https://www.kanunu8.com/book7/dby67/470016.html"
       ]
     }
   ]

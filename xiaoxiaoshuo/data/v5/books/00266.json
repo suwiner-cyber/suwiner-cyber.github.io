@@ -1,6 +1,52 @@
 {
   "books": [
     {
+      "id": "ext-a10f9bc5fd4617274c4f",
+      "title": "第26章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171782.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171782.html",
+        "https://www.kanunu8.com/book7/lmm04/464075.html",
+        "https://www.kanunu8.com/book7/75chyriji/463298.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481581.html",
+        "https://www.kanunu8.com/book7/hxshn92/485139.html",
+        "https://www.kanunu8.com/book5/yiouchun/80308.html",
+        "https://www.kanunu8.com/book7/jinxiefang/449767.html"
+      ],
+      "read_ids": [
+        "ext-a10f9bc5fd4617274c4f",
+        "ext-3381322516313980870",
+        "ext-93c40d66d72269a42b99",
+        "ext-686da83a6462bf112dd5",
+        "ext-2bf052e895e3c8770a54",
+        "ext-fa97cae7dc3318a5d887",
+        "ext-780fc1020cb0a4daea28",
+        "ext-fde28609230bdda906c1"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171782.html",
+        "https://www.kanunu8.com/book7/lmm04/464075.html",
+        "https://www.kanunu8.com/book7/75chyriji/463298.html",
+        "https://www.kanunu8.com/book7/datangpizhuji/481581.html",
+        "https://www.kanunu8.com/book7/hxshn92/485139.html",
+        "https://www.kanunu8.com/book5/yiouchun/80308.html",
+        "https://www.kanunu8.com/book7/jinxiefang/449767.html"
+      ]
+    },
+    {
       "id": "ext-108d35b9685f8cb42bbb",
       "title": "第25章",
       "author": "",
@@ -6065,31 +6111,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book5/zz_hkjinxiu/65045.html"
-      ]
-    },
-    {
-      "id": "ext-f88f83cd4f5893473660",
-      "title": "第79章 过年",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/zz_hkjinxiu/65117.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 79,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f88f83cd4f5893473660",
-        "ext-109666578327876391"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/zz_hkjinxiu/65117.html"
       ]
     }
   ]
