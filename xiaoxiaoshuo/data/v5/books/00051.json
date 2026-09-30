@@ -1,6 +1,40 @@
 {
   "books": [
     {
+      "id": "ext-e54bd20bbe72b7a9c640",
+      "title": "毛泽东传",
+      "author": "罗斯·特里尔 发布时间：2011-09-01 罗斯·特里尔 内容简介： 美国著名",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book/3449/index.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/book/3449/index.html",
+        "https://www.kanunu8.com/book/3449/"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book/3449/index.html",
+        "https://www.kanunu8.com/book/3449/"
+      ],
+      "media": "text",
+      "chapter_count": 68,
+      "last_chapter": "后记 身后境遇",
+      "detail_complete": true,
+      "indexed_at": "2026-09-22T07:10:02+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-e54bd20bbe72b7a9c640",
+        "ext-df6d012ffeaa3f169dd3",
+        "ext-45225e7c1e38ce277ea3"
+      ]
+    },
+    {
       "id": "ext-a6eeac98d7df5a698379",
       "title": "灿烂千阳",
       "author": "卡勒德·胡赛尼 发布时间：2011-10-01 卡勒德·胡赛尼作品集 内容简介：",
@@ -6296,40 +6330,6 @@
       "read_ids": [
         "ext-a41c57a2dc502d1a4534",
         "ext-775ab4c36927dcd2d80c"
-      ]
-    },
-    {
-      "id": "ext-0522001dee87d0110bd6",
-      "title": "顾道长生最新章节",
-      "author": "睡觉会变白 收藏[顾道长生]以便下次阅读 正文卷 第一章 凤凰山 第二章 古怪",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.piaotia.com/html/8/8399/",
-      "source_host": "piaotia.com",
-      "source_name": "飘天文学",
-      "source_names": [
-        "飘天文学"
-      ],
-      "sources": [
-        "https://www.piaotia.com/html/8/8399/",
-        "https://www.piaotia.com/html/8/8399/index.html"
-      ],
-      "read_sources": [
-        "https://www.piaotia.com/html/8/8399/",
-        "https://www.piaotia.com/html/8/8399/index.html"
-      ],
-      "media": "text",
-      "chapter_count": 842,
-      "last_chapter": "第八百四十一章 大结局",
-      "detail_complete": true,
-      "indexed_at": "2026-09-22T06:36:18+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-0522001dee87d0110bd6",
-        "ext-03788f16887c2b88f657",
-        "ext-7bf860a06ffdc6de4db5"
       ]
     }
   ]
