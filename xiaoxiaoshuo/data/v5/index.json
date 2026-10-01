@@ -1,7 +1,7 @@
 {
   "version": 14,
-  "generated_at": "2026-10-01T22:45:42+00:00",
-  "total": 57238,
+  "generated_at": "2026-10-01T22:47:08+00:00",
+  "total": 57237,
   "shard_size": 200,
   "shards": [
     {
@@ -1150,11 +1150,11 @@
     },
     {
       "file": "books/00287.json",
-      "count": 38
+      "count": 37
     }
   ],
   "source_counts": {
-    "一七小说": 7007,
+    "一七小说": 7006,
     "滋味小说网": 5737,
     "言情小说吧": 5098,
     "努努书坊": 10669,
@@ -1353,8 +1353,8 @@
       "books_added": 0,
       "toc_written": 0,
       "books_seen_total": 1808,
-      "remaining_queue": 34024,
-      "seen_pages": 10240,
+      "remaining_queue": 33944,
+      "seen_pages": 10320,
       "done": false,
       "blocked": false,
       "needs_adapter": false
@@ -1377,7 +1377,7 @@
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "1qxs.com",
+  "last_published_source": "piaotia.com",
   "id_scheme": "stable-v4-aliases",
   "metadata_sanitized": true,
   "text_only": true
