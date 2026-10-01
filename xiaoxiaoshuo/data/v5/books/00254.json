@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-ef2aa66b77abb69adb36",
+      "title": "第127章 此生绝(二)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/jianchuqiao/445632.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 127,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:15+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ef2aa66b77abb69adb36",
+        "ext-5472279343328518264"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/jianchuqiao/445632.html"
+      ]
+    },
+    {
       "id": "ext-7fed1bd71dd34668a981",
       "title": "第126章 此生绝(一)",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/tianjieyese/452033.html"
-      ]
-    },
-    {
-      "id": "ext-74319e06034d7fef2ac6",
-      "title": "第78章 忘却",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/tianjieyese/452032.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 1,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:11+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-74319e06034d7fef2ac6",
-        "ext-8902216934443847250"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/tianjieyese/452032.html"
       ]
     }
   ]

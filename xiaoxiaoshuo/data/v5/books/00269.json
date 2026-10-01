@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-42640981e640e544bbb6",
+      "title": "第9章 被迫同房",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/zhuyu/171765.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 9,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:42+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-42640981e640e544bbb6",
+        "ext-2210691094268437469"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/zhuyu/171765.html"
+      ]
+    },
+    {
       "id": "ext-7a20166a89e22815f8fd",
       "title": "第99章",
       "author": "",
@@ -7706,31 +7731,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/laojiumen/416822.html"
-      ]
-    },
-    {
-      "id": "ext-e9ac51fe890e166714ff",
-      "title": "第十二章 黄葵水蝗",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/laojiumen/416856.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:41+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e9ac51fe890e166714ff",
-        "ext-4811860981891758047"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/laojiumen/416856.html"
       ]
     }
   ]

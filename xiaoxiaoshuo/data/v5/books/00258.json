@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-ab80ef5de5f3fa61388e",
+      "title": "第53章 藏不住",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/ttcbuzhu/48183.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 53,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:06+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-ab80ef5de5f3fa61388e",
+        "ext-6276287256619902464"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/ttcbuzhu/48183.html"
+      ]
+    },
+    {
       "id": "ext-bf5c67948563037dd437",
       "title": "第52章 藏不住",
       "author": "",
@@ -5120,31 +5145,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/dbsbfding/436690.html"
-      ]
-    },
-    {
-      "id": "ext-52263b7e0b2afb4f840f",
-      "title": "第十五章 “通共”",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dbsbfding/436687.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:01+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-52263b7e0b2afb4f840f",
-        "ext-3756727636320922486"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dbsbfding/436687.html"
       ]
     }
   ]

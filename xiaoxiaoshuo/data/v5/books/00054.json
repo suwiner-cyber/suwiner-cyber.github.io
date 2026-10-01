@@ -1,6 +1,37 @@
 {
   "books": [
     {
+      "id": "ext-73b458be23c73aee138c",
+      "title": "侏罗纪公园",
+      "author": "迈克尔·克莱顿 发布时间：2008-05-29 约翰.哈蒙德博士在进行恐龙研究过",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/world/200805/529.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/world/200805/529.html"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/world/200805/529.html"
+      ],
+      "media": "text",
+      "chapter_count": 9,
+      "last_chapter": "尾声",
+      "detail_complete": true,
+      "indexed_at": "2026-09-22T19:08:32+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-73b458be23c73aee138c",
+        "ext-c88aa9bacd6c1c459447"
+      ]
+    },
+    {
       "id": "ext-278425579d1928bd99aa",
       "title": "重返中世纪(时间线)",
       "author": "迈克尔·克莱顿 发布时间：2008-05-29 这是一部以量子学理论指导下出现的",
@@ -6235,37 +6266,6 @@
       "catalog_only": false,
       "read_ids": [
         "ext-3d7df39e2f4c33cfa979"
-      ]
-    },
-    {
-      "id": "ext-6edcaf6db25f2e56e340",
-      "title": "极寒末世，和闺蜜囤物资开补给站 列表",
-      "author": "甯小初 科幻小说 连载中 71 万字 最新章节： 第一百零二章 丑话在前 最后更",
-      "kind": "作者 全本 排行 首页 点击榜 推荐榜 收藏榜 临时书架 电脑版 全部小说 最近",
-      "status": "连载中",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://m.ilwxs.com/shu/443640/",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://m.ilwxs.com/shu/443640/"
-      ],
-      "read_sources": [
-        "https://m.ilwxs.com/shu/443640/"
-      ],
-      "media": "text",
-      "chapter_count": 51,
-      "last_chapter": "第五十章 行动迅速",
-      "detail_complete": true,
-      "indexed_at": "2026-09-22T18:37:42+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-6edcaf6db25f2e56e340",
-        "ext-a02af9276c70272383ab"
       ]
     }
   ]

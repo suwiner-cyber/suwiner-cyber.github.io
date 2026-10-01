@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-a56a19d7aae37f2a4639",
+      "title": "第93章 生死印(上)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/jianchuqiao/445740.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 93,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:15+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a56a19d7aae37f2a4639",
+        "ext-3596018129591993298"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/jianchuqiao/445740.html"
+      ]
+    },
+    {
       "id": "ext-d91513b620494f6863e3",
       "title": "第92章 慕家殇(下)",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/jianchuqiao/445633.html"
-      ]
-    },
-    {
-      "id": "ext-ef2aa66b77abb69adb36",
-      "title": "第127章 此生绝(二)",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/jianchuqiao/445632.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 127,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:15+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ef2aa66b77abb69adb36",
-        "ext-5472279343328518264"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/jianchuqiao/445632.html"
       ]
     }
   ]

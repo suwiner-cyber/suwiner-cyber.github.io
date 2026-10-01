@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-11f821c51149e9edd0f2",
+      "title": "车祸",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/qianyaobaimei/481839.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:50+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-11f821c51149e9edd0f2",
+        "ext-6551646094143175329"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/qianyaobaimei/481839.html"
+      ]
+    },
+    {
       "id": "ext-57c838614a672e3f4e1a",
       "title": "赶尸人阿注",
       "author": "",
@@ -5297,37 +5322,6 @@
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/462929.html",
         "https://www.kanunu8.com/book7/dby67/470024.html"
-      ]
-    },
-    {
-      "id": "ext-8c981892c0a8830a877e",
-      "title": "第八十七章",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/462933.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462933.html",
-        "https://www.kanunu8.com/book7/dby67/470028.html"
-      ],
-      "read_ids": [
-        "ext-8c981892c0a8830a877e",
-        "ext-1744744258548561469",
-        "ext-60253c3c72cc0c469e3b"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/462933.html",
-        "https://www.kanunu8.com/book7/dby67/470028.html"
       ]
     }
   ]

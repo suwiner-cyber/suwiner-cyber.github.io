@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-7210e509a93f5f8c287c",
+      "title": "第39章 夫妻合璧（上）",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/houmen/452525.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 39,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:21+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-7210e509a93f5f8c287c",
+        "ext-6514175421637956000"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/houmen/452525.html"
+      ]
+    },
+    {
       "id": "ext-a0534be51b5eecd8644b",
       "title": "第38章 二更",
       "author": "",
@@ -4973,31 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/xinpin/450035.html"
-      ]
-    },
-    {
-      "id": "ext-854dcdb3711d260b66b7",
-      "title": "第120章 螃蟹",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/xinpin/450034.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 120,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:18+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-854dcdb3711d260b66b7",
-        "ext-6647886379753312259"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/xinpin/450034.html"
       ]
     }
   ]
