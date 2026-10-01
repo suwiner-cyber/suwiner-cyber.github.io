@@ -1,6 +1,6 @@
 {
   "version": 14,
-  "generated_at": "2026-10-01T13:13:06+00:00",
+  "generated_at": "2026-10-01T13:14:32+00:00",
   "total": 56923,
   "shard_size": 200,
   "shards": [
@@ -1345,8 +1345,8 @@
       "books_added": 0,
       "toc_written": 0,
       "books_seen_total": 1808,
-      "remaining_queue": 34104,
-      "seen_pages": 10160,
+      "remaining_queue": 34024,
+      "seen_pages": 10240,
       "done": false,
       "blocked": false,
       "needs_adapter": false
@@ -1369,7 +1369,7 @@
     }
   ],
   "status_file": "authorized_v14_status.json",
-  "last_published_source": "1qxs.com",
+  "last_published_source": "piaotia.com",
   "id_scheme": "stable-v4-aliases",
   "metadata_sanitized": true,
   "text_only": true
