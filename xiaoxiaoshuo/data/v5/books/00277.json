@@ -1,56 +1,6 @@
 {
   "books": [
     {
-      "id": "ext-ec1189fc09c736e9f9e9",
-      "title": "第45章 病一场",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/gnbk26/204307.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 45,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:38+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ec1189fc09c736e9f9e9",
-        "ext-8540316068277276544"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/gnbk26/204307.html"
-      ]
-    },
-    {
-      "id": "ext-3348e5c4f9a2a24df1b2",
-      "title": "第44章 就结束吧",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book5/gnbk26/204306.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 44,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:38+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-3348e5c4f9a2a24df1b2",
-        "ext-8688970139875373864"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book5/gnbk26/204306.html"
-      ]
-    },
-    {
       "id": "ext-3c00f54c67ce3475f770",
       "title": "第43章 下雪的时候请讲真话",
       "author": "",
@@ -4998,6 +4948,56 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/files/little/2011/01-03-985.html"
+      ]
+    },
+    {
+      "id": "ext-efa6f8050450cef7dfef",
+      "title": "卡佛: 大象",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/little/2009/10-13-944.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-efa6f8050450cef7dfef",
+        "ext-6352994136094128444"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2009/10-13-944.html"
+      ]
+    },
+    {
+      "id": "ext-a3220cdb8184ba706f5c",
+      "title": "匪我思存: 幸福像花儿一样(匪我思存)",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/09-16-3635.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-a3220cdb8184ba706f5c",
+        "ext-5366876229978550665"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/09-16-3635.html"
       ]
     }
   ]
