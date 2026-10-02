@@ -1,6 +1,819 @@
 {
   "books": [
     {
+      "id": "ext-9ec68b57f6f0df5bd2bf",
+      "title": "万历十五年",
+      "author": "黄仁宇 发布时间：2011-05-04 《万历十五年》是一部改变中国人阅读方式的",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/chinese/201105/2691.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/chinese/201105/2691.html"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/chinese/201105/2691.html"
+      ],
+      "media": "text",
+      "chapter_count": 8,
+      "last_chapter": "第七章 李蛰——自相冲突的哲学家",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:54:26+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9ec68b57f6f0df5bd2bf",
+        "ext-0737e1e26707e6b45662"
+      ]
+    },
+    {
+      "id": "ext-7cddd225483ea09244b1",
+      "title": "清朝的皇帝",
+      "author": "高阳 发布时间：2011-03-07 本书是高阳笔下脍炙人口的名著，勾辑了爱新觉",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/chinese/201103/1885.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/chinese/201103/1885.html"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/chinese/201103/1885.html"
+      ],
+      "media": "text",
+      "chapter_count": 9,
+      "last_chapter": "第四章 世祖(三)",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:54:24+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-7cddd225483ea09244b1",
+        "ext-245628c4260ca8e4f5ba"
+      ]
+    },
+    {
+      "id": "ext-4fa119b31c6063838ae5",
+      "title": "明朝那些事儿7: 大结局",
+      "author": "当年明月 发布时间：2011-02-28 《明朝那些事儿 7: 大结局》是对这样",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/chinese/201102/1781.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/chinese/201102/1781.html"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/chinese/201102/1781.html"
+      ],
+      "media": "text",
+      "chapter_count": 23,
+      "last_chapter": "后记",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:54:23+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4fa119b31c6063838ae5",
+        "ext-5ca3f0b4c9bcd7b3a9b5"
+      ]
+    },
+    {
+      "id": "ext-bb220e6b38131f2468c1",
+      "title": "明朝那些事儿6",
+      "author": "当年明月 发布时间：2011-02-28 主要讲述了晚明由“三大案”引发的党争，",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/chinese/201102/1767.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/chinese/201102/1767.html"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/chinese/201102/1767.html"
+      ],
+      "media": "text",
+      "chapter_count": 21,
+      "last_chapter": "第二十章 胜利 结局",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:54:22+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-bb220e6b38131f2468c1",
+        "ext-cb3d2e5df440c690200b"
+      ]
+    },
+    {
+      "id": "ext-945b538bff924c0461a4",
+      "title": "明朝那些事儿1",
+      "author": "当年明月 发布时间：2011-02-28 朱元璋生于乱世之中，背负着父母双亡的痛",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/files/chinese/201102/1777.html",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/files/chinese/201102/1777.html"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/chinese/201102/1777.html"
+      ],
+      "media": "text",
+      "chapter_count": 32,
+      "last_chapter": "第三十一章 殉国、疑团、残暴、软弱",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:54:16+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-945b538bff924c0461a4",
+        "ext-3abd0643c347f6a4853a"
+      ]
+    },
+    {
+      "id": "ext-9236b5aa5fe61130ad7d",
+      "title": "卑鄙的圣人：曹操",
+      "author": "王晓磊 发布时间：2011-11-15 王晓磊作品集 内容简介： 一件件讲透，曹",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book/4360/",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/book/4360/"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book/4360/"
+      ],
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "王晓磊作品集",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:54:15+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-9236b5aa5fe61130ad7d",
+        "ext-d0b45343abf515f61482"
+      ]
+    },
+    {
+      "id": "ext-039625b8ff2b277d5523",
+      "title": "战长沙",
+      "author": "却却 内容简介： 1938年10月，日军攻陷武汉，长沙危在旦夕。城中茶园巷的胡家",
+      "kind": "武侠小说",
+      "status": "",
+      "intro": "1938年10月，日军攻陷武汉，长沙危在旦夕。城中茶园巷的胡家人千方百计为胡家最宠爱的一对龙凤胎湘湘和小满安排退路。姐夫薛君山先将湘湘介绍给留洋归来保卫长沙的顾清明，可惜生性泼辣的湘湘和心高气傲的顾清明一见面便势同水火，薛君山只好另选人家。在薛的努力下湘湘终于订婚了，订婚当日，□□密令火烧长沙，由于指挥失当，长沙大火酿成巨大灾难，繁华的古城毁于一旦……就在这样一片焦土上，各地英雄儿女齐聚长沙，和湖南人民一起艰难地阻挡敌人的铁蹄。",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/101/zhanchangsha/",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/101/zhanchangsha/"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/101/zhanchangsha/"
+      ],
+      "media": "text",
+      "chapter_count": 38,
+      "last_chapter": "尾声",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:54:14+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-039625b8ff2b277d5523",
+        "ext-de0da588730f1dbd4a6f"
+      ]
+    },
+    {
+      "id": "ext-0c7cb3955939d39b0cc0",
+      "title": "破绽",
+      "author": "刘天壮 内容简介： 抗战初期，国军军官谭世宁制造杀妻潜逃的假相，投靠了南京的日本",
+      "kind": "武侠小说",
+      "status": "",
+      "intro": "抗战初期，国军军官谭世宁制造杀妻潜逃的假相，投靠了南京的日本特务机关。几年后，由于地下组织的一次鲁莽行动，日特务机关长寺尾开始怀疑谭的身份，委派手下偷入重庆寻觅当年的破绽。军统华东情报科科长顾知非受命应对，险象环生中他智勇兼施，眼见就要化险为夷。可是这时他却被调离陪都，随之一个惊天阴谋浮出水面，军统苦心经营多年的地下特务组织也危如累卵……",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/101/pozhan/",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/101/pozhan/"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/101/pozhan/"
+      ],
+      "media": "text",
+      "chapter_count": 28,
+      "last_chapter": "尾声",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:54:13+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-0c7cb3955939d39b0cc0",
+        "ext-242cbf63e73158a9cf88"
+      ]
+    },
+    {
+      "id": "ext-d8c2872f42f768a397f0",
+      "title": "华东战场最高机密",
+      "author": "夏继诚 内容简介： 这是一部史实性纪实文学作品，揭秘解放战争初期，国共决战华东的",
+      "kind": "武侠小说",
+      "status": "",
+      "intro": "这是一部史实性纪实文学作品，揭秘解放战争初期，国共决战华东的历史真相。首次披露中共潜伏在国民党内的“最大共谍”、中将参谋次长刘斐、中将厅长郭汝瑰、中将军长韩练成等人在解放战争中发挥的重大作用。1946年，华东战场，蒋介石指示，参谋总长陈诚制定了一个绝密作战计划，号称要“活捉陈毅，6个月内歼灭华东共匪”。谁知起草这一绝密计划的竟是潜伏在国民党内“最大共谍”。中将参谋次长刘斐和中将厅长郭汝瑰，“绝密”作战计划在起草时就已泄密。我华东野战军在陈毅、粟裕同志领导下，出奇招，用妙计，在公开战场和秘密战线与敌人斗智斗勇，取得了苏中、宿北、鲁南、莱芜、孟良崮等战役的重大胜利。",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/101/hdzhchzgjimi/",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/101/hdzhchzgjimi/"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/101/hdzhchzgjimi/"
+      ],
+      "media": "text",
+      "chapter_count": 6,
+      "last_chapter": "第六章",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:54:12+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d8c2872f42f768a397f0",
+        "ext-cda8b3a9361e9901d6df"
+      ]
+    },
+    {
+      "id": "ext-deb7b55c0aef5cd09825",
+      "title": "战鹰",
+      "author": "碧云峰 内容简介： 2007年8月14日清晨，杨振宇在镜子前，看着镜子中的自己，",
+      "kind": "武侠小说",
+      "status": "",
+      "intro": "2007年8月14日清晨，杨振宇在镜子前，看着镜子中的自己，脑海中只闪现两个字“自信”。一头茂密的短发，浓眉大眼，180CM的个子，在加一身崭新的飞行制服，简直就是高富帅的代名词。杨振宇自信的微微一笑，其实也可以说是自恋的微微一笑，也是！不自恋哪里来的自信呢？杨振宇挺直腰板，拿出四根杠的黄色肩章小心翼翼的戴上，嘴角一翘，对着自己说：“美好的一天，加油！”便拖着飞行皮箱出了门。",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/101/zhanying/",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/101/zhanying/"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/101/zhanying/"
+      ],
+      "media": "text",
+      "chapter_count": 164,
+      "last_chapter": "第二十四节：是开始也是结束",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:54:11+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-deb7b55c0aef5cd09825",
+        "ext-ea9e2fabb4d0aa0ba543"
+      ]
+    },
+    {
+      "id": "ext-b4ae30010da9741b9c59",
+      "title": "金瓯缺",
+      "author": "徐兴业 内容简介： 宋徽宗年间，在中国大地上，宋、辽、金各据一方。金国国力昌盛，",
+      "kind": "武侠小说",
+      "status": "",
+      "intro": "宋徽宗年间，在中国大地上，宋、辽、金各据一方。金国国力昌盛，辽国积弊重重，而北宋政府自澶渊之盟以来，以为天下太平，高枕无忧，终日歌舞升平，已是一派日暮景象。本书以武将马扩为主要人物，以其一家人的不幸遭遇为主要线索，层层展开，讲述了从宋、金海上之盟协议共击辽国，到金国撕毁 盟约挥兵南下，北宋灭亡，宋高宗偏安江南一隅这段历史。其间政权更迭，人事沉浮，刀光剑影，狼奔豕突，爱国志士断头沥血勇赴国难，无耻官僚认贼作父觍颜事仇……组成了一幅波澜壮阔的历史画卷。",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/101/jinouque/",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/101/jinouque/"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/101/jinouque/"
+      ],
+      "media": "text",
+      "chapter_count": 39,
+      "last_chapter": "第三十九章",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:54:10+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-b4ae30010da9741b9c59",
+        "ext-391a0d1b20c5cceed86c"
+      ]
+    },
+    {
+      "id": "ext-69f408c3c6eb64b66c31",
+      "title": "孤鹰",
+      "author": "邵雪城 内容简介： 从各个方面成绩来看都不是很出色的普通军校生秦川和战友宁志、郑",
+      "kind": "武侠小说",
+      "status": "",
+      "intro": "从各个方面成绩来看都不是很出色的普通军校生秦川和战友宁志、郑勇被选入神秘的”特案组”，他们在一起进行残酷集训，建立了非一般的友谊和默契。在他们激情满满地执行任务时，却遭遇惨败，郑勇牺牲，宁志重伤，秦川险被”退回”。就在这时，秦川接到了上级命令，前往”金三角”，配合在那里埋伏的程建邦接近大毒枭周亚迪，从此开启了一场残酷的特殊任务。",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/101/guying/",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/101/guying/"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/101/guying/"
+      ],
+      "media": "text",
+      "chapter_count": 2,
+      "last_chapter": "尾声",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:54:09+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-69f408c3c6eb64b66c31",
+        "ext-777e2704eed9f4ad4428"
+      ]
+    },
+    {
+      "id": "ext-d6fbefdcec2c0df09774",
+      "title": "活着再见",
+      "author": "邵雪城 内容简介： 任务，听起来那么的简单。“把一个人带回来，把你的同事安全地带",
+      "kind": "武侠小说",
+      "status": "",
+      "intro": "任务，听起来那么的简单。“把一个人带回来，把你的同事安全地带回来”，但做起来多么多么的难。你不能光顾自己要痛痛快快地阵前杀敌，就忘了你是来干吗的。前前后后左左右右你要想很多，忍很多，舍很多，这是责任，这是重担，这是残酷的生死考验。很多时候，我们只是特殊的工具，为了维系国家安宁，不惜折磨自己肉体、忘记自己感受的工具。你可以用任何方式理解或解构我们，哪怕是辱骂和唾弃。相比而言，我们更在乎的是，没有人能在这片国土上随便剥夺你的生命，如果有，我们将为你出征。军校还没有毕业，“我”便在一次特殊筛选时被选中，加入了一个神秘得“我”到现在都不清楚的特殊部门。在经历了“枪毙死刑犯”“缉查私造枪械团伙”之后，“我”的战友一个个牺牲，“我”也在这些残酷训练中慢慢成长。最后，“我”接受了上级命令，前往金三角的监狱卧底，开始了一场无间道式的特殊任务。",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/101/huozhezaijian/",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/101/huozhezaijian/"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/101/huozhezaijian/"
+      ],
+      "media": "text",
+      "chapter_count": 10,
+      "last_chapter": "第十章 我是战士，我叫秦川",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:54:07+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d6fbefdcec2c0df09774",
+        "ext-d24e7e90fd0001a9d2c0"
+      ]
+    },
+    {
+      "id": "ext-7b2a0ef6fdc6d763e870",
+      "title": "琉球之谜",
+      "author": "纪连海 发布时间：2013-09-14 纪连海作品集 内容简介： 现在已经很少有",
+      "kind": "",
+      "status": "",
+      "intro": "现在已经很少有人了解琉球曾经是个独立的王国，曾有着“万国津梁”的辉煌的历史。琉球到底指的是哪里？与钓鱼岛和台湾有什么关系？刻着汉字的“万国津梁钟”为何在日本冲绳博物馆？中美日三国在这片古老的琉球土地上又演绎过怎样的爱恨情仇？从历史的角度，正本溯源话琉球，以客观的视角和真实的细节为您揭开琉球古国那段传奇的历史，讲述琉球古国这块神奇土地上的前世今生。",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10618/",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/book4/10618/",
+        "https://www.kanunu8.com/book4/10618/index.html"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10618/",
+        "https://www.kanunu8.com/book4/10618/index.html"
+      ],
+      "media": "text",
+      "chapter_count": 7,
+      "last_chapter": "第六章 琉球国的中国元素",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:54:06+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-7b2a0ef6fdc6d763e870",
+        "ext-8b8622b0ab4c96cd5209",
+        "ext-ef3e121383f7995619e4"
+      ]
+    },
+    {
+      "id": "ext-4af0d69de930b1886540",
+      "title": "犬军",
+      "author": "许开祯 发布时间：2013-04-06 许开祯作品集 内容简介： 日本人为在米浪",
+      "kind": "",
+      "status": "",
+      "intro": "日本人为在米浪地区找到翻译官和“汉奸”，不惜动用一切手段。一次对米粮县城的大扫荡中，日本人抓获了米粮县副县长，诱逼之下，成为米粮山区有史以来第一个“汉奸”。然而，日本鬼子的屡次行动都被瓦解，于是，一场惩治“伪汉奸”的暴虐行动在数百名米粮山民的眼前展开。三股不同的力量，却同属于中华民族，在外来侵略者面前，三股血流到了一起，三条机枪并成一条枪，共同射出了第一颗面向敌人的子弹！",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book4/10181/",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/book4/10181/",
+        "https://www.kanunu8.com/book4/10181/index.html"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10181/",
+        "https://www.kanunu8.com/book4/10181/index.html"
+      ],
+      "media": "text",
+      "chapter_count": 7,
+      "last_chapter": "第六章 风云变幻",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:54:05+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4af0d69de930b1886540",
+        "ext-cfe8691504f806b64528",
+        "ext-b7980b016d7c26905a56"
+      ]
+    },
+    {
+      "id": "ext-d3a14b035b95d2ee71fe",
+      "title": "独立团",
+      "author": "许开祯 发布时间：2013-04-06 许开祯作品集 内容简介： 日军猖狂的铁蹄",
+      "kind": "",
+      "status": "",
+      "intro": "日军猖狂的铁蹄即将踏至，而军事重镇米粮城一夜之间发生巨变——手握十万大军、足智多谋的屠老爷子突然被暗杀，帅印异位。八路军、日军、国民军三股力量相互牵制、怀疑，从而演绎出一场矛盾尖锐、层出不穷的精彩抗战故事。独立团当家人沈猛子和野性十足的女匪刘米儿默契同盟，共同抗敌，把目标牢牢锁定神秘地点“十八洞”，这让屠少帅心惊不已。一群顶天立地的男儿，一群被虏的美丽女子，一场撕心裂肺的血腥屠杀。战争、谍战、爱情、友情……",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10180/",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/book4/10180/",
+        "https://www.kanunu8.com/book4/10180/index.html"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10180/",
+        "https://www.kanunu8.com/book4/10180/index.html"
+      ],
+      "media": "text",
+      "chapter_count": 5,
+      "last_chapter": "第三章 任听风雨（2）",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:54:04+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d3a14b035b95d2ee71fe",
+        "ext-8d2c6cb7815c70b9b660",
+        "ext-3a42f4ba73c684171258"
+      ]
+    },
+    {
+      "id": "ext-2651b472bad9b2bd1ab1",
+      "title": "大兵团",
+      "author": "许开祯 发布时间：2013-04-06 许开祯作品集 内容简介： 1951年夏天",
+      "kind": "",
+      "status": "",
+      "intro": "1951年夏天，新疆解放战役结束，进疆官兵面临着新的选择。原十四团团长罗正雄脱下军装，准备出疆到他曾经战斗过的旺水县担任县长。临出发时，罗正雄突然接到师部命令，要他火速赶到师部，接受任命。罗正雄到了师部才被告知，他的转业命令被取消了。",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/book4/10185/",
+      "source_host": "kanunu8.com",
+      "source_name": "努努书坊",
+      "source_names": [
+        "努努书坊"
+      ],
+      "sources": [
+        "https://www.kanunu8.com/book4/10185/",
+        "https://www.kanunu8.com/book4/10185/index.html"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book4/10185/",
+        "https://www.kanunu8.com/book4/10185/index.html"
+      ],
+      "media": "text",
+      "chapter_count": 11,
+      "last_chapter": "尾声",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:54:03+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2651b472bad9b2bd1ab1",
+        "ext-efaaed3f533fcb650d17",
+        "ext-c0c5b2195107d6153197"
+      ]
+    },
+    {
+      "id": "ext-2ab7e7801cc85e6a68f3",
+      "title": "传统武侠",
+      "author": "一出手就不同凡响，显示出大家风度。在香港《大公报》上连载之时，引起了极大的轰动。",
+      "kind": "武侠",
+      "status": "已完结",
+      "intro": "茅山又名卢芽山。陈了-苍松翠柏之外，最著名的还是那一大片江海般芦纬，每当春夏芦草鲜英或秋季芦花盛开时，季风徐来，阵阵青滔白浪掀起，波波连天连地，置身其中宛若骑马、乘船悠游自然美景之中，不自觉地早已沉醉其中，休浴着大自然神妙世界而心旷神怡、赏心悦目、留连忘返之情那是常常有之。当然，茅山之间名天下，不只是卢花，茅山派亦小有名气。人们刘其法术自是赞不绝口。 最新: 第三十章 大结局 2011-11-27 00:00 北山惊龙 东方玉 47.84万字 已完结 内容简介： 一张红底黑字的请柬！一对名不见经传的堡主！一场武林罕见的双龙堡落成大典！使久已平静的江湖骤起波澜，“双龙堡”这三个字，在短短时间内已传遍了大江南北，三山五岳，可说是扬名立万了！青年剑客毕玉麟也正值此时初入江湖，找寻生父。不料竟被双龙堡主囚禁于地牢之中。也许是仙缘旷世，使他因祸得福，结识了一位在武林中有“两大仙迹”之称的天门十三代传人 最新: 第四十四章 尽入彀中 2012-02-06 00:00 龙吟曲 萧逸 28.53万字 已完结 内容简介： 这是苏州近来所发生的一件大事，莫怪乎全城的居民都惊动了，风风雨雨，为这座水秀花明的名城，带来了一片萧杀恐惧。可是，当夜色来临的时候，茶楼酒肆照常满座，苏子河衅，也不乏游客，酒足饭饱之后，如果兴犹未尽，还可到杂技园子里走走，那里有道地的苏州弹词，还有一种本地的小调，都蛮有意思。在东城，穿过一道环城大街，就来到了一个更绮丽的地方，这是本城的销魂窟，尤其是华灯初上的时候，这地方一定是熙 最新: 第十四章 岭上花明 2012-01-26 00:00 霜月刀 柳残阳 47.21万字 已完结 内容简介： 乌油篷布的一辆双辔后挡车，车便停在沙侵草衰，荒寒的一片野地上，有些被风吹积成的砂丘，缠着枯膝老葛，高高低低的坟起在周遭。这地方，泛着那样一种凄凉晦迷的意味……篷车停在这里，拖车的两匹马正在不安的刨着前蹄。当然马儿会不安，因为一具尸首俯吊在车前座的掣杆旁边，尸首的脑袋在轻轻晃动，每在晃动的中间，一条粘稠的血丝便极缓极缓的往下坠滴，宛若吐自这死人心里胸里的 最新: 第六十章 八字巧合 2011-11-30 00:00 1 2 3 4 » 末页 排行榜 全部分类 全本小说 2026 © ixdzs8.com",
+      "cover": "",
+      "source_url": "https://ixdzs8.com/sort/10/index-0-0-1-1.html",
+      "source_host": "ixdzs8.com",
+      "source_name": "爱下电子书",
+      "source_names": [
+        "爱下电子书"
+      ],
+      "sources": [
+        "https://ixdzs8.com/sort/10/index-0-0-1-1.html"
+      ],
+      "read_sources": [
+        "https://ixdzs8.com/sort/10/index-0-0-1-1.html"
+      ],
+      "media": "text",
+      "chapter_count": 20,
+      "last_chapter": "第六十章 八字巧合",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:48:31+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-2ab7e7801cc85e6a68f3"
+      ]
+    },
+    {
+      "id": "ext-26a039c00b6ed245a9ea",
+      "title": "传统武侠",
+      "author": "仙山有路最新章节列：小说《仙山有路》善丽/",
+      "kind": "武侠",
+      "status": "已完结",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://ixdzs8.com/sort/10/index-3-0-0-1.html",
+      "source_host": "ixdzs8.com",
+      "source_name": "爱下电子书",
+      "source_names": [
+        "爱下电子书"
+      ],
+      "sources": [
+        "https://ixdzs8.com/sort/10/index-3-0-0-1.html"
+      ],
+      "read_sources": [
+        "https://ixdzs8.com/sort/10/index-3-0-0-1.html"
+      ],
+      "media": "text",
+      "chapter_count": 20,
+      "last_chapter": "第八章 禅心犹存，天理何在",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:48:28+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-26a039c00b6ed245a9ea"
+      ]
+    },
+    {
+      "id": "ext-d58258cbaf526624c533",
+      "title": "传统武侠",
+      "author": "的名字翻译过来就是 最新: 第二十章 洗冤 2014-04-21 14:46 帝",
+      "kind": "武侠",
+      "status": "已完结",
+      "intro": "武林浪侠“张天齐”，英风飒枫，天资神秀、身怀绝世神功，为挽救武林血劫，义聚正义侠魂!于是，妖姬、淫女、魔道、名刀、杀手、剑客如众星拱月，江湖侠女，青楼美女，似绿叶扶花主，几回回刀剑悲歌，几回回红颜泣血!神出鬼没地在淫窟、古刹、青楼展开了一场场有声有色的武林斗争。 最新: 第十五章 英雄侠女花月圆 2012-02-15 00:00 龙翱凤翔 丹云 31.37万字 已完结 内容简介： 蜿蜒如龙，层层山峦、高耸入“太行山脉”在深入山脉数层山峦，绿荫蔽日、阴寒凛人的起伏森林中，此时正有一群约有八、九十名的男女老幼，在荒草丛丛、似有似无的一条狭道中，相互扶持牵引，鱼贯而行。一行人中，年迈体衰的年长之人，已是步履踉跄，举步艰难；年壮之人虽体力甚佳，但也面色沉重的协助老弱妇孺缓行。唯有一些妇女手中搂抱或牵行的幼儿、稚子所传出的泣嚷声，才使一群人中 最新: 第十八章 玄阴除名 巾帼振兴 2012-02-15 00:00 苦海孤雏 丹云 32.47万字 已完结 内容简介： 唐德宗年间，在江南临海的“雁荡山”山区，一个自幼便遭人困禁深山荒谷地穴中的少年，历经数年的迫害及凌辱仍然坚强的存活于黝暗的地穴中。在上苍的悲怜下，一场滂沱同情之泪而使孤雏得天之助逃离地穴，在兴奋及茫然无助中踏入茫无所知的尘世。人世间的一切皆是现实的，为了生存，使他变成一个不劳而获的巨盗，但因本性善良及身受之苦，因此豪助贫苦而深得百姓以及地方侠义之称道。然而 最新: 第十二章 孤雏怨消 身世已明 2012-02-15 00:00 乾坤黑龙剑 丹云 31.42万字 已完结 内容简介： 白雪皑皑笼罩着一片山峦顶尖，在旭日初升霞光映照之下更显得耀眼生辉。浓厚的白云则环绕在各峰峰腰，云层滚滚恍如海潮波涌变幻莫测。随着一轮红日之高升，旭日渐增，层层云波逐渐散尽，隐没于万顷山峦翠绿中。南北纵向的“巫鹫山”山脉，位处“大理”之西北，因地偏山险人烟稀少，正处夷、苗之界，故而夷、苗杂处之村落散布山区，但因相距遥远往来不便，少有外 最新: 第十二章 功成名就 引咎归隐 2012-02-15 00:00 1 2 3 4 » 末页 排行榜 全部分类 全本小说 2026 © ixdzs8.com",
+      "cover": "",
+      "source_url": "https://ixdzs8.com/sort/10/index-2-0-0-1.html",
+      "source_host": "ixdzs8.com",
+      "source_name": "爱下电子书",
+      "source_names": [
+        "爱下电子书"
+      ],
+      "sources": [
+        "https://ixdzs8.com/sort/10/index-2-0-0-1.html"
+      ],
+      "read_sources": [
+        "https://ixdzs8.com/sort/10/index-2-0-0-1.html"
+      ],
+      "media": "text",
+      "chapter_count": 20,
+      "last_chapter": "第十二章 功成名就 引咎归隐",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:48:26+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-d58258cbaf526624c533"
+      ]
+    },
+    {
+      "id": "ext-50fcc7c022fc8eb0168f",
+      "title": "传统武侠",
+      "author": "改编成电影作品。《师父》已获《人民文学》杂志短篇金奖。十年武侠短篇创作的轨迹和变",
+      "kind": "武侠",
+      "status": "已完结",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://ixdzs8.com/sort/10/index-1-0-0-1.html",
+      "source_host": "ixdzs8.com",
+      "source_name": "爱下电子书",
+      "source_names": [
+        "爱下电子书"
+      ],
+      "sources": [
+        "https://ixdzs8.com/sort/10/index-1-0-0-1.html"
+      ],
+      "read_sources": [
+        "https://ixdzs8.com/sort/10/index-1-0-0-1.html"
+      ],
+      "media": "text",
+      "chapter_count": 20,
+      "last_chapter": "第九章 仇 恨",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:48:25+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-50fcc7c022fc8eb0168f"
+      ]
+    },
+    {
+      "id": "ext-1d16907df5317dcd39c1",
+      "title": "传统武侠",
+      "author": "大圣道最新章节列：小说《大圣道》妖天/",
+      "kind": "武侠",
+      "status": "已完结",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://ixdzs8.com/sort/10/index-0-2-0-1.html",
+      "source_host": "ixdzs8.com",
+      "source_name": "爱下电子书",
+      "source_names": [
+        "爱下电子书"
+      ],
+      "sources": [
+        "https://ixdzs8.com/sort/10/index-0-2-0-1.html"
+      ],
+      "read_sources": [
+        "https://ixdzs8.com/sort/10/index-0-2-0-1.html"
+      ],
+      "media": "text",
+      "chapter_count": 20,
+      "last_chapter": "推新文《快穿之圆梦》！",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:48:23+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-1d16907df5317dcd39c1"
+      ]
+    },
+    {
+      "id": "ix-152888",
+      "title": "黎天记",
+      "author": "一笑百媚生",
+      "kind": "武侠",
+      "status": "连载中",
+      "intro": "一幕拉开正邪是非君王扼腕的千古奇冤；一曲唱出前世今生生死纠缠的红尘奢恋；一首自仇恨中崛起荡气回肠的英雄史诗；九黎时代早已湮没在历史的尘埃中，九黎遗族的印记也正凋零殆尽……直至这一天，邪子归来，断剑重铸，再战黎天！ 作者QQ：2401914350，欢迎讨论",
+      "cover": "https://img22.ixdzs.com/f3/4c/f34c11f0817db06729d87e739d82de47.jpg",
+      "source_url": "https://ixdzs8.com/read/152888/",
+      "source_host": "ixdzs8.com",
+      "source_name": "爱下电子书",
+      "source_names": [
+        "爱下电子书"
+      ],
+      "sources": [
+        "https://ixdzs8.com/read/152888/"
+      ],
+      "read_sources": [
+        "https://ixdzs8.com/read/152888/"
+      ],
+      "media": "text",
+      "chapter_count": 9,
+      "last_chapter": "第壹佰零九章 岸谷",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:48:18+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ix-152888",
+        "ext-c6ab1fd2c4b3f5be2d17"
+      ]
+    },
+    {
+      "id": "ix-153861",
+      "title": "至强掌门",
+      "author": "虎钺",
+      "kind": "武侠",
+      "status": "已完结",
+      "intro": "武典在手，天下我有。 左九阴，右九阳，飞刀腰间挂，太极在胸口，至强掌门，武林盟主！ 江湖侠女没有我不敢撩的，名门弟子没有我不敢打的，武林宗门没有我不敢踩的，不平之事没有我不敢管的！ 别怪我太嚣张，我派个弟子都灭你宗门！ 欢迎加入至强掌门书友群，群号码：197062067",
+      "cover": "https://img22.ixdzs.com/9b/78/9b7880b21345ee0469b9e5b156c71112.jpg",
+      "source_url": "https://ixdzs8.com/read/153861/",
+      "source_host": "ixdzs8.com",
+      "source_name": "爱下电子书",
+      "source_names": [
+        "爱下电子书"
+      ],
+      "sources": [
+        "https://ixdzs8.com/read/153861/"
+      ],
+      "read_sources": [
+        "https://ixdzs8.com/read/153861/"
+      ],
+      "media": "text",
+      "chapter_count": 9,
+      "last_chapter": "第969章 血域降临",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:48:17+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ix-153861",
+        "ext-4697524a79374395b8fa"
+      ]
+    },
+    {
+      "id": "ix-165106",
+      "title": "芫莨诀",
+      "author": "刘梦翎",
+      "kind": "武侠",
+      "status": "连载中",
+      "intro": "现代女子，魂穿来到一个神奇的武侠世界。 她最初的使命只是找到五株仙葩草，扭转时空，拯救与她同行在飞机上遇难的人。 不料，在寻找仙葩草的过程中，她跟她的同伴，一步一步，解开了困惑武林千年的最大谜团。 （求收藏，求推荐票，谢谢大家的支持。 ）",
+      "cover": "https://img22.ixdzs.com/nopic2.jpg",
+      "source_url": "https://ixdzs8.com/read/165106/",
+      "source_host": "ixdzs8.com",
+      "source_name": "爱下电子书",
+      "source_names": [
+        "爱下电子书"
+      ],
+      "sources": [
+        "https://ixdzs8.com/read/165106/"
+      ],
+      "read_sources": [
+        "https://ixdzs8.com/read/165106/"
+      ],
+      "media": "text",
+      "chapter_count": 9,
+      "last_chapter": "第286章 跨湖相见",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:48:15+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ix-165106",
+        "ext-606d83210fce6825c817"
+      ]
+    },
+    {
+      "id": "ix-163832",
+      "title": "龙飞大地",
+      "author": "爱伤心",
+      "kind": "武侠",
+      "status": "连载中",
+      "intro": "再精彩的想象也没有我们这个现实世界精彩, 所以， 《龙飞大地》的世界, 就是我们这个现实的世界, 现实的人生！ 乡村少年赵云飞，8岁丧父，母亲外出打工失联，妹妹仅两岁。 性格刚强的他毅然挑起生活的重担，靠种地、打零工养活自己和妹妹。 李兰芳是他前院的邻居，青梅竹马的伙伴，常常施以援手，在兄妹俩挨饿时，从家里偷饼给他们吃。 逐渐长大，两人情感渐深。 赵云飞长大，因事与村里的村匪恶霸结仇。 赵云飞凭借祖传功法，练武自强，与村匪恶霸展开争斗。 又惹上一个势力强大的黑社会组织......",
+      "cover": "https://img22.ixdzs.com/bc/6a/bc6abd7bc19a817335f0aeb1a968e8b0.jpg",
+      "source_url": "https://ixdzs8.com/read/163832/",
+      "source_host": "ixdzs8.com",
+      "source_name": "爱下电子书",
+      "source_names": [
+        "爱下电子书"
+      ],
+      "sources": [
+        "https://ixdzs8.com/read/163832/"
+      ],
+      "read_sources": [
+        "https://ixdzs8.com/read/163832/"
+      ],
+      "media": "text",
+      "chapter_count": 9,
+      "last_chapter": "第339章 荒山偶遇",
+      "detail_complete": true,
+      "indexed_at": "2026-09-02T12:48:14+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ix-163832",
+        "ext-34d67bc3524ffded4656"
+      ]
+    },
+    {
       "id": "ix-154054",
       "title": "血天涯",
       "author": "天雨寒",
@@ -5425,816 +6238,6 @@
       "read_ids": [
         "ext-d66cc95b2a74186d3fa7",
         "ext-6c5d38377dd511e305c0"
-      ]
-    },
-    {
-      "id": "ext-e48caa81657fbdd31ad8",
-      "title": "朱门贤妻 作者: 闲听落花",
-      "author": "闲听落花 关于朱门贤妻： 李思浅对自己的未来早有规划，首先要嫁个长相好脾气好能欺",
-      "kind": "首页 > 历史军事 > 朱门贤妻 朱门贤妻 作者: 闲听落花 关于朱门贤妻： 李",
-      "status": "连载中",
-      "intro": "关于朱门贤妻： 李思浅对自己的未来早有规划，首先要嫁个长相好脾气好能欺能压臭味相投一拍既合的夫君，然后……没有然后，她被人算计了！眼前这位，用以上六条核对，只有长相好这一条符合！某人说过，有些女人嫁给谁都能幸福。李思浅翻着自己的六条标准，好象，除了长相都能改造么！那么，好吧，认真备战，咱们要好好唱一曲征服！……………………某人一脸幽怨：我明明每一条都符合的么……发新书啦！bk/>",
-      "cover": "",
-      "source_url": "https://www.ipaoshubaxs.net/book/84978.html",
-      "source_host": "ipaoshubaxs.net",
-      "source_name": "泡书吧小说网",
-      "source_names": [
-        "泡书吧小说网"
-      ],
-      "sources": [
-        "https://www.ipaoshubaxs.net/book/84978.html"
-      ],
-      "read_sources": [
-        "https://www.ipaoshubaxs.net/book/84978.html"
-      ],
-      "media": "text",
-      "chapter_count": 10,
-      "last_chapter": "第四五五章 抛个绣球吧",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:38:09+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e48caa81657fbdd31ad8",
-        "ext-315ba2c5956bd75ec9e4"
-      ]
-    },
-    {
-      "id": "ext-003adf53a3b194cac1aa",
-      "title": "大唐闲人",
-      "author": "疙瘩创作，作品大唐闲人章章动人，泡书吧小说网为你第一时间提供疙瘩精心编写原创大唐",
-      "kind": "首页 > 历史军事 > 大唐闲人 > 大唐闲人章节列表 妹纸们都在看： 武炼巅峰",
-      "status": "连载中",
-      "intro": "《大唐闲人》为作者疙瘩创作，作品大唐闲人章章动人，泡书吧小说网为你第一时间提供疙瘩精心编写原创大唐闲人及无弹窗大唐闲人全文免费阅读、TXT下载。 简介:关于大唐闲人：这是一部现代普通人徐淼魂归唐朝的发家史！封侯可以，拜相的不要！小爷就是要舒舒服服当个闲人！抱紧李二大腿，笑看贞观风云、游戏人间、尽看大唐纵横天下！",
-      "cover": "https://img.ipaoshubaxs.net/66356/115404.jpg",
-      "source_url": "https://www.ipaoshubaxs.net/66356/",
-      "source_host": "ipaoshubaxs.net",
-      "source_name": "泡书吧小说网",
-      "source_names": [
-        "泡书吧小说网"
-      ],
-      "sources": [
-        "https://www.ipaoshubaxs.net/66356/"
-      ],
-      "read_sources": [
-        "https://www.ipaoshubaxs.net/66356/"
-      ],
-      "media": "text",
-      "chapter_count": 1580,
-      "last_chapter": "第1439章 又放倒一个",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:38:08+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-003adf53a3b194cac1aa",
-        "ext-a26885eb0855f4cd555f"
-      ]
-    },
-    {
-      "id": "ext-dedfca56ff2f01521030",
-      "title": "大唐闲人 作者: 疙瘩",
-      "author": "疙瘩 关于大唐闲人： 这是一部现代普通人徐淼魂归唐朝的发家史！封侯可以，拜相的不",
-      "kind": "首页 > 历史军事 > 大唐闲人 大唐闲人 作者: 疙瘩 关于大唐闲人： 这是一",
-      "status": "连载中",
-      "intro": "关于大唐闲人： 这是一部现代普通人徐淼魂归唐朝的发家史！封侯可以，拜相的不要！小爷就是要舒舒服服当个闲人！抱紧李二大腿，笑看贞观风云、游戏人间、尽看大唐纵横天下！",
-      "cover": "",
-      "source_url": "https://www.ipaoshubaxs.net/book/66356.html",
-      "source_host": "ipaoshubaxs.net",
-      "source_name": "泡书吧小说网",
-      "source_names": [
-        "泡书吧小说网"
-      ],
-      "sources": [
-        "https://www.ipaoshubaxs.net/book/66356.html"
-      ],
-      "read_sources": [
-        "https://www.ipaoshubaxs.net/book/66356.html"
-      ],
-      "media": "text",
-      "chapter_count": 10,
-      "last_chapter": "第1442章 徐淼的厚礼",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:38:06+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-dedfca56ff2f01521030",
-        "ext-42baaf51ef1216a002f2"
-      ]
-    },
-    {
-      "id": "ext-be3abc666c427382fb03",
-      "title": "重生之铁血战将",
-      "author": "574981创作，作品重生之铁血战将章章动人，泡书吧小说网为你第一时间提供574",
-      "kind": "首页 > 历史军事 > 重生之铁血战将 > 重生之铁血战将章节列表 妹纸们都在看",
-      "status": "连载中",
-      "intro": "《重生之铁血战将》为作者574981创作，作品重生之铁血战将章章动人，泡书吧小说网为你第一时间提供574981精心编写原创重生之铁血战将及无弹窗重生之铁血战将全文免费阅读、TXT下载。 简介:关于重生之铁血战将：国防科技大学的一名研究生，因一次意外，回到了战火纷飞的年代，从一名红军班长，在湘江战役中一战成名，由于历史的原因，没有随队长征，留在了湘江东岸，率领着自己救出的残部，重建根据地。为更好的掩护主力长征，与贺龙，肖克的二六军团会师。共同组建红军第二方面军，成功到达陕北，结束了自己的长征。他率领的红军一路经历无数仗......",
-      "cover": "https://img.ipaoshubaxs.net/82387/130466.jpg",
-      "source_url": "https://www.ipaoshubaxs.net/82387/",
-      "source_host": "ipaoshubaxs.net",
-      "source_name": "泡书吧小说网",
-      "source_names": [
-        "泡书吧小说网"
-      ],
-      "sources": [
-        "https://www.ipaoshubaxs.net/82387/"
-      ],
-      "read_sources": [
-        "https://www.ipaoshubaxs.net/82387/"
-      ],
-      "media": "text",
-      "chapter_count": 1063,
-      "last_chapter": "第1105章 中苏炮战",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:38:05+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-be3abc666c427382fb03",
-        "ext-86ea9e2dbda4e7fadfc5"
-      ]
-    },
-    {
-      "id": "ext-f084efb1c13d5e80c105",
-      "title": "奋斗在明末的边军小兵",
-      "author": "老牛俊创作，作品奋斗在明末的边军小兵章章动人，泡书吧小说网为你第一时间提供老牛俊",
-      "kind": "首页 > 历史军事 > 奋斗在明末的边军小兵 > 奋斗在明末的边军小兵章节列表",
-      "status": "连载中",
-      "intro": "《奋斗在明末的边军小兵》为作者老牛俊创作，作品奋斗在明末的边军小兵章章动人，泡书吧小说网为你第一时间提供老牛俊精心编写原创奋斗在明末的边军小兵及无弹窗奋斗在明末的边军小兵全文免费阅读、TXT下载。 简介:关于奋斗在明末的边军小兵：“什么，刘博源又斩获了鞑子首级！”威武堡千户李耀满脸惊讶。延绥巡抚陈奇瑜：“刘千户，此次围剿流贼，还望能鼎力相助！”清兵入关，“快去请镇国将军进京勤王！”崇祯坐在龙椅上大声惊呼。",
-      "cover": "https://img.ipaoshubaxs.net/121504/172381.jpg",
-      "source_url": "https://www.ipaoshubaxs.net/121504/",
-      "source_host": "ipaoshubaxs.net",
-      "source_name": "泡书吧小说网",
-      "source_names": [
-        "泡书吧小说网"
-      ],
-      "sources": [
-        "https://www.ipaoshubaxs.net/121504/"
-      ],
-      "read_sources": [
-        "https://www.ipaoshubaxs.net/121504/"
-      ],
-      "media": "text",
-      "chapter_count": 2561,
-      "last_chapter": "第2549章 再次来到，真实目的",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:38:04+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f084efb1c13d5e80c105",
-        "ext-44ea75ad63cf57b5bafe"
-      ]
-    },
-    {
-      "id": "ext-30e83d0b9016e91f4dff",
-      "title": "退下，让朕来",
-      "author": "油爆香菇创作，作品退下，让朕来章章动人，泡书吧小说网为你第一时间提供油爆香菇精心",
-      "kind": "首页 > 历史军事 > 退下，让朕来 > 退下，让朕来章节列表 妹纸们都在看：",
-      "status": "连载中",
-      "intro": "《退下，让朕来》为作者油爆香菇创作，作品退下，让朕来章章动人，泡书吧小说网为你第一时间提供油爆香菇精心编写原创退下，让朕来及无弹窗退下，让朕来全文免费阅读、TXT下载。 简介:关于退下，让朕来：沈棠在发配路上醒来，发现这个世界很不科学。天降神石，百国相争。文凝文心，出口成真。武聚武胆，劈山断海。她以为的小白脸，一句“横枪跃马”，下一秒甲胄附身，长枪在手，一人成军，千军万马能杀个七进七出！她眼里的痨病鬼，口念“星罗棋布”，苍天如圆盖，陆地似棋局，排兵布阵，信手拈来！这>分明是科学的棺材板被神学钉死了！而她——“主公，北郡大旱，您要不哭一哭？”沈棠：“……”“主公，南州洪涝，您要不多笑笑？”沈棠：“……”————————看着被她干掉的十大碗米饭，比脸干净的口袋，以及一群嗷嗷待哺、不怀好意、整天惹是生非的村民，疑似饭桶转世、真·灵魂画手的村长沈棠，不得不放弃心爱的画笔，被迫走上应聘诸侯之路。完结种田争霸文《女帝直播攻略》，休闲慢穿大佬文《大佬退休之后》。",
-      "cover": "https://img.ipaoshubaxs.net/66232/115282.jpg",
-      "source_url": "https://www.ipaoshubaxs.net/66232/",
-      "source_host": "ipaoshubaxs.net",
-      "source_name": "泡书吧小说网",
-      "source_names": [
-        "泡书吧小说网"
-      ],
-      "sources": [
-        "https://www.ipaoshubaxs.net/66232/"
-      ],
-      "read_sources": [
-        "https://www.ipaoshubaxs.net/66232/"
-      ],
-      "media": "text",
-      "chapter_count": 1651,
-      "last_chapter": "IF线：夺人所好的真谛（观影二）",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:38:02+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-30e83d0b9016e91f4dff",
-        "ext-48bfa4c0c367ccd3fe5a"
-      ]
-    },
-    {
-      "id": "ext-498b99e47be4646fddfa",
-      "title": "宝妈在末世修复了亿万物资",
-      "author": "包包紫创作，作品宝妈在末世修复了亿万物资章章动人，乐文小说为你第一时间提供包包紫",
-      "kind": "首页 > 科幻小说 > 宝妈在末世修复了亿万物资 > 宝妈在末世修复了亿万物资章",
-      "status": "连载中",
-      "intro": "《宝妈在末世修复了亿万物资》为作者包包紫创作，作品宝妈在末世修复了亿万物资章章动人，乐文小说为你第一时间提供包包紫精心编写原创宝妈在末世修复了亿万物资及无弹窗宝妈在末世修复了亿万物资全文免费阅读、TXT下载。 简介:关于宝妈在末世修复了亿万物资：随珠上辈子在一片废土上，兢兢业业勤勤恳恳的替妹妹将两个孩子拉拨长大。却是死在了这两个孩子手里。重生归来，她要找到自己的亲生女儿，要那些奴役了她一辈子的人全都生不如死。妹妹哭唧唧：”姐姐，如果没有野菜，宝宝和贝贝就要被饿坏了。“渣男：”随珠，再苦不能苦孩子，我们啃树皮也要让宝宝贝贝吃上蛋糕。“随珠一脸不忍的点头，转身吃香的喝辣的，顺便看渣男贱婊挖野菜啃树皮，末世里日子过的不要太惬意。只是，不远处那个基地指挥官，你总是红着一张脸盯着我看干嘛？基地指挥官羞答答：这里有个男人和孩子，需要你认领一下！",
-      "cover": "https://img.ilwxs.com/271577/228006.jpg",
-      "source_url": "https://www.ilwxs.com/shu/271577/",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/shu/271577/"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/shu/271577/"
-      ],
-      "media": "text",
-      "chapter_count": 110,
-      "last_chapter": "第189章",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:37:51+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-498b99e47be4646fddfa",
-        "ext-693e5ff55656f1595631"
-      ]
-    },
-    {
-      "id": "ext-3bf12d8d7f3e8f7998fa",
-      "title": "宝妈在末世修复了亿万物资 作者: 包包紫",
-      "author": "包包紫 关于宝妈在末世修复了亿万物资： 随珠上辈子在一片废土上，兢兢业业勤勤恳恳",
-      "kind": "首页 > 科幻小说 > 宝妈在末世修复了亿万物资 宝妈在末世修复了亿万物资 作者",
-      "status": "连载中",
-      "intro": "关于宝妈在末世修复了亿万物资： 随珠上辈子在一片废土上，兢兢业业勤勤恳恳的替妹妹将两个孩子拉拨长大。却是死在了这两个孩子手里。重生归来，她要找到自己的亲生女儿，要那些奴役了她一辈子的人全都生不如死。妹妹哭唧唧：”姐姐，如果没有野菜，宝宝和贝贝就要被饿坏了。“渣男：”随珠，再苦不能苦孩子，我们啃树皮也要让宝宝贝贝吃上蛋糕。“随珠一脸不忍的点头，转身吃香的喝辣的，顺便看渣男贱婊挖野菜啃树皮，末世里日子过的不要太惬意。只是，不远处那个基地指挥官，你总是红着一张脸盯着我看干嘛？基地指挥官羞答答：这里有个男人和孩子，需要你认领一下！",
-      "cover": "",
-      "source_url": "https://www.ilwxs.com/info-271577.html",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/info-271577.html"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/info-271577.html"
-      ],
-      "media": "text",
-      "chapter_count": 10,
-      "last_chapter": "第101章 其实很伤这孩子的心",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:37:50+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-3bf12d8d7f3e8f7998fa",
-        "ext-a8ac3a78b4b0be882a1f"
-      ]
-    },
-    {
-      "id": "ext-754d813f078f2e3b3cbb",
-      "title": "豪门后妈在娃综靠反向贴贴爆火了",
-      "author": "火吧小幸运创作，作品豪门后妈在娃综靠反向贴贴爆火了章章动人，乐文小说为你第一时间",
-      "kind": "首页 > 科幻小说 > 豪门后妈在娃综靠反向贴贴爆火了 > 豪门后妈在娃综靠反向",
-      "status": "连载中",
-      "intro": "《豪门后妈在娃综靠反向贴贴爆火了》为作者火吧小幸运创作，作品豪门后妈在娃综靠反向贴贴爆火了章章动人，乐文小说为你第一时间提供火吧小幸运精心编写原创豪门后妈在娃综靠反向贴贴爆火了及无弹窗豪门后妈在娃综靠反向贴贴爆火了全文免费阅读、TXT下载。 简介:关于豪门后妈在娃综靠反向贴贴爆火了：黎星晚穿书了，穿成了一个十八线满身黑料且已婚的小明星。老公不祥。传言，是个又穷又老的偏瘫。不但如此，还得给人当后妈。黎星晚她活活的就是一个寡妇。对此传言，黎星晚本人保持着沉默。网上叫嚣更浓重。“那一会儿出镜的，不会是一个照顾偏瘫老公的妇女吧...",
-      "cover": "https://img.ilwxs.com/77166/168514.jpg",
-      "source_url": "https://www.ilwxs.com/shu/77166/",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/shu/77166/"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/shu/77166/"
-      ],
-      "media": "text",
-      "chapter_count": 1096,
-      "last_chapter": "第一百零八十六章 家毁人亡了",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:37:49+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-754d813f078f2e3b3cbb",
-        "ext-6dadc55c333afbb2438a"
-      ]
-    },
-    {
-      "id": "ext-e124de01770830ce20e9",
-      "title": "豪门后妈在娃综靠反向贴贴爆火了 作者: 火吧小幸运",
-      "author": "火吧小幸运 关于豪门后妈在娃综靠反向贴贴爆火了： 黎星晚穿书了，穿成了一个十八线",
-      "kind": "首页 > 科幻小说 > 豪门后妈在娃综靠反向贴贴爆火了 豪门后妈在娃综靠反向贴贴",
-      "status": "连载中",
-      "intro": "关于豪门后妈在娃综靠反向贴贴爆火了： 黎星晚穿书了，穿成了一个十八线满身黑料且已婚的小明星。老公不祥。传言，是个又穷又老的偏瘫。不但如此，还得给人当后妈。黎星晚她活活的就是一个寡妇。对此传言，黎星晚本人保持着沉默。网上叫嚣更浓重。“那一会儿出镜的，不会是一个照顾偏瘫老公的妇女吧...",
-      "cover": "",
-      "source_url": "https://www.ilwxs.com/info-77166.html",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/info-77166.html"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/info-77166.html"
-      ],
-      "media": "text",
-      "chapter_count": 10,
-      "last_chapter": "第一千零八十九章 几十年了才带回来那么一个女人",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:37:47+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-e124de01770830ce20e9",
-        "ext-fea3832ae974023c845c"
-      ]
-    },
-    {
-      "id": "ext-c5077434f90f1ad2ccb0",
-      "title": "末世天灾：我囤积了万亿物资",
-      "author": "王一刀创作，作品末世天灾：我囤积了万亿物资章章动人，乐文小说为你第一时间提供王一",
-      "kind": "首页 > 科幻小说 > 末世天灾：我囤积了万亿物资 > 末世天灾：我囤积了万亿物",
-      "status": "连载中",
-      "intro": "《末世天灾：我囤积了万亿物资》为作者王一刀创作，作品末世天灾：我囤积了万亿物资章章动人，乐文小说为你第一时间提供王一刀精心编写原创末世天灾：我囤积了万亿物资及无弹窗末世天灾：我囤积了万亿物资全文免费阅读、TXT下载。 简介:关于末世天灾：我囤积了万亿物资：（末世+重生+疯狂囤货+黑化复仇+基建狂魔+热血）天灾降临，适者生存。全球沦陷，人类死亡率高达98%……末日之下满目疮痍，文明消失道德沦丧。上一世，周辰惨遭毒手，暴尸荒野。重生归来，他觉醒了空间疯狂囤货，手握天灾密码活个精彩。“疯了吧？邻居都饿死了你还在吃肉？”且看一个小人物，霸气侧漏成为一方统帅的热血故事……",
-      "cover": "https://img.ilwxs.com/89439/180774.jpg",
-      "source_url": "https://www.ilwxs.com/shu/89439/",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/shu/89439/"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/shu/89439/"
-      ],
-      "media": "text",
-      "chapter_count": 1250,
-      "last_chapter": "番外 17 军事禁区",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:37:46+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c5077434f90f1ad2ccb0",
-        "ext-c0e1f7275f19769d7091"
-      ]
-    },
-    {
-      "id": "ext-1c65952503a8bb908ba3",
-      "title": "末世天灾：我囤积了万亿物资 作者: 王一刀",
-      "author": "王一刀 关于末世天灾：我囤积了万亿物资： （末世+重生+疯狂囤货+黑化复仇+基建",
-      "kind": "首页 > 科幻小说 > 末世天灾：我囤积了万亿物资 末世天灾：我囤积了万亿物资",
-      "status": "连载中",
-      "intro": "关于末世天灾：我囤积了万亿物资： （末世+重生+疯狂囤货+黑化复仇+基建狂魔+热血）天灾降临，适者生存。全球沦陷，人类死亡率高达98%……末日之下满目疮痍，文明消失道德沦丧。上一世，周辰惨遭毒手，暴尸荒野。重生归来，他觉醒了空间疯狂囤货，手握天灾密码活个精彩。“疯了吧？邻居都饿死了你还在吃肉？”且看一个小人物，霸气侧漏成为一方统帅的热血故事……",
-      "cover": "",
-      "source_url": "https://www.ilwxs.com/info-89439.html",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/info-89439.html"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/info-89439.html"
-      ],
-      "media": "text",
-      "chapter_count": 10,
-      "last_chapter": "番外20 疯子帮疯子出气，很合理吧？",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:37:45+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1c65952503a8bb908ba3",
-        "ext-26988d075b53bd613af6"
-      ]
-    },
-    {
-      "id": "ext-4de99e18d88c08dce828",
-      "title": "劫天运",
-      "author": "浮梦流年创作，作品劫天运章章动人，乐文小说为你第一时间提供浮梦流年精心编写原创劫",
-      "kind": "首页 > 科幻小说 > 劫天运 > 劫天运章节列表 妹纸们都在看： 让你修机甲，",
-      "status": "连载中",
-      "intro": "《劫天运》为作者浮梦流年创作，作品劫天运章章动人，乐文小说为你第一时间提供浮梦流年精心编写原创劫天运及无弹窗劫天运全文免费阅读、TXT下载。 简介:关于劫天运：本书原名《养鬼为祸》我从出生前就给人算计了，五阴俱全，天生招厉鬼，懂行的先生说我活不过七岁，死后是要给人养成血衣小鬼害人的。外婆为了救我，给我娶了童养媳，让我过起了安生日子，虽然后来我发现媳妇姐姐不是人……从小苟延馋喘的我能活到现在，本已习惯逆来顺受，可唯独外婆被人害死了这件事。为此，我不顾因果报应，继承了外婆养鬼的职业，发誓要把害死她的人全都送下地狱。",
-      "cover": "https://img.ilwxs.com/52553/28180.jpg",
-      "source_url": "https://www.ilwxs.com/shu/52553/",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/shu/52553/"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/shu/52553/"
-      ],
-      "media": "text",
-      "chapter_count": 9191,
-      "last_chapter": "第九千二百六十七章 捧花",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:37:44+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-4de99e18d88c08dce828",
-        "ext-aa9ca1b79fc55ada4171"
-      ]
-    },
-    {
-      "id": "ext-178d9bf28c38a80a0bc1",
-      "title": "劫天运 作者: 浮梦流年",
-      "author": "浮梦流年 关于劫天运： 本书原名《养鬼为祸》我从出生前就给人算计了，五阴俱全，天",
-      "kind": "首页 > 科幻小说 > 劫天运 劫天运 作者: 浮梦流年 关于劫天运： 本书原名",
-      "status": "已完结",
-      "intro": "关于劫天运： 本书原名《养鬼为祸》我从出生前就给人算计了，五阴俱全，天生招厉鬼，懂行的先生说我活不过七岁，死后是要给人养成血衣小鬼害人的。外婆为了救我，给我娶了童养媳，让我过起了安生日子，虽然后来我发现媳妇姐姐不是人……从小苟延馋喘的我能活到现在，本已习惯逆来顺受，可唯独外婆被人害死了这件事。为此，我不顾因果报应，继承了外婆养鬼的职业，发誓要把害死她的人全都送下地狱。",
-      "cover": "",
-      "source_url": "https://www.ilwxs.com/info-52553.html",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/info-52553.html"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/info-52553.html"
-      ],
-      "media": "text",
-      "chapter_count": 10,
-      "last_chapter": "第九千二百七十章 宙位",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:37:42+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-178d9bf28c38a80a0bc1",
-        "ext-571c4523256dd538a99f"
-      ]
-    },
-    {
-      "id": "ext-a665394d2c16a94fc674",
-      "title": "快穿：濒危幼崽拯救计划",
-      "author": "升麻创作，作品快穿：濒危幼崽拯救计划章章动人，乐文小说为你第一时间提供升麻精心编",
-      "kind": "首页 > 科幻小说 > 快穿：濒危幼崽拯救计划 > 快穿：濒危幼崽拯救计划章节列",
-      "status": "连载中",
-      "intro": "《快穿：濒危幼崽拯救计划》为作者升麻创作，作品快穿：濒危幼崽拯救计划章章动人，乐文小说为你第一时间提供升麻精心编写原创快穿：濒危幼崽拯救计划及无弹窗快穿：濒危幼崽拯救计划全文免费阅读、TXT下载。 简介:关于快穿：濒危幼崽拯救计划：宋夏被系统选中时整个人都是懵的，她十分想不通，她又没生过孩子，而且早已冰封尘心，为什么选她去当妈？不过原生命值已尽，她又想活着，好像去其它各异的世界体验生活也不错。第一个世界，被算计婚姻和财产的妈妈，没有宋夏，女儿将被刻意养废，原身将被凤凰男算计去精神病院，最后小三和私生子风光一生……第二个世界，仙侠世界异类人妖的妖族妈妈，儿子生父乃是仙界剑尊，视亲子为耻辱，一直打压，传道同龄首徒……第三个世界，恶俗真假千金案的妈妈，没有谁必须黑化，好好引导，都是好孩子……还有第N个世界……",
-      "cover": "https://img.ilwxs.com/120700/211651.jpg",
-      "source_url": "https://www.ilwxs.com/shu/120700/",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/shu/120700/"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/shu/120700/"
-      ],
-      "media": "text",
-      "chapter_count": 792,
-      "last_chapter": "第780章 后记，小灵的世界（十八）",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:37:40+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a665394d2c16a94fc674",
-        "ext-8b3a1371dde63484a6ea"
-      ]
-    },
-    {
-      "id": "ext-2e4bab6b75c58849c25a",
-      "title": "快穿：濒危幼崽拯救计划 作者: 升麻",
-      "author": "升麻 关于快穿：濒危幼崽拯救计划： 宋夏被系统选中时整个人都是懵的，她十分想不通",
-      "kind": "首页 > 科幻小说 > 快穿：濒危幼崽拯救计划 快穿：濒危幼崽拯救计划 作者:",
-      "status": "连载中",
-      "intro": "关于快穿：濒危幼崽拯救计划： 宋夏被系统选中时整个人都是懵的，她十分想不通，她又没生过孩子，而且早已冰封尘心，为什么选她去当妈？不过原生命值已尽，她又想活着，好像去其它各异的世界体验生活也不错。第一个世界，被算计婚姻和财产的妈妈，没有宋夏，女儿将被刻意养废，原身将被凤凰男算计去精神病院，最后小三和私生子风光一生……第二个世界，仙侠世界异类人妖的妖族妈妈，儿子生父乃是仙界剑尊，视亲子为耻辱，一直打压，传道同龄首徒……第三个世界，恶俗真假千金案的妈妈，没有谁必须黑化，好好引导，都是好孩子……还有第N个世界……",
-      "cover": "",
-      "source_url": "https://www.ilwxs.com/info-120700.html",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/info-120700.html"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/info-120700.html"
-      ],
-      "media": "text",
-      "chapter_count": 10,
-      "last_chapter": "第783章 后记，小灵的世界（二十一）",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:37:39+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-2e4bab6b75c58849c25a",
-        "ext-abffc7d63f0d85358798"
-      ]
-    },
-    {
-      "id": "ext-a7de919f11d323eca680",
-      "title": "末世：洗劫海外万亿物资我无敌了",
-      "author": "六月十九夜创作，作品末世：洗劫海外万亿物资我无敌了章章动人，乐文小说为你第一时间",
-      "kind": "首页 > 科幻小说 > 末世：洗劫海外万亿物资我无敌了 > 末世：洗劫海外万亿物",
-      "status": "连载中",
-      "intro": "《末世：洗劫海外万亿物资我无敌了》为作者六月十九夜创作，作品末世：洗劫海外万亿物资我无敌了章章动人，乐文小说为你第一时间提供六月十九夜精心编写原创末世：洗劫海外万亿物资我无敌了及无弹窗末世：洗劫海外万亿物资我无敌了全文免费阅读、TXT下载。 简介:关于末世：洗劫海外万亿物资我无敌了：末世+重生+无限空间+狂囤物资+复仇+不圣母+美女+妻妾成群+苟2050年，太阳黑子爆发，全球发生极端高温，动植物大量灭绝，人类死亡百分之五十。2051年，小行星撞击漂亮国，引起地壳运动，火山大量喷发，火山灰进入平流层，遮蔽阳光，全球进入冰河时代。2052年，火山灰逐渐落下，冰川融化，全球暴水。林枫在末世苟活三年，结果却被人活活分食。重生回末世到来前一个月，林枫带回空间异能，狂囤物资。缺水？我收了贝加尔湖，你随意。缺油？我直接掏空一座油田！缺粮食物资？我偷了漂亮国几十个仓储中心！住的不安全？我花30亿打造一个钛合金钢铁堡垒！没有武器？我偷了俄国三个军事基地！绿茶表：林枫！你是爱我的！只要你让我住进你家！你让我做什么都可以！富二代：林枫！我出一百亿！你让我给你当狗可以吗！狗吃啥我吃啥！禽兽邻居：林枫！远亲不如近邻！你不应该那么自私！把物资分我们点吧！林枫：你们死不死跟我有什么关系！",
-      "cover": "https://img.ilwxs.com/122061/213032.jpg",
-      "source_url": "https://www.ilwxs.com/shu/122061/",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/shu/122061/"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/shu/122061/"
-      ],
-      "media": "text",
-      "chapter_count": 937,
-      "last_chapter": "第925章 肥宅快乐星",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:37:38+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a7de919f11d323eca680",
-        "ext-1ff6d948b6af4825d128"
-      ]
-    },
-    {
-      "id": "ext-a0285a4b809431899c56",
-      "title": "末世：洗劫海外万亿物资我无敌了 作者: 六月十九夜",
-      "author": "六月十九夜 关于末世：洗劫海外万亿物资我无敌了： 末世+重生+无限空间+狂囤物资",
-      "kind": "首页 > 科幻小说 > 末世：洗劫海外万亿物资我无敌了 末世：洗劫海外万亿物资我",
-      "status": "连载中",
-      "intro": "关于末世：洗劫海外万亿物资我无敌了： 末世+重生+无限空间+狂囤物资+复仇+不圣母+美女+妻妾成群+苟2050年，太阳黑子爆发，全球发生极端高温，动植物大量灭绝，人类死亡百分之五十。2051年，小行星撞击漂亮国，引起地壳运动，火山大量喷发，火山灰进入平流层，遮蔽阳光，全球进入冰河时代。2052年，火山灰逐渐落下，冰川融化，全球暴水。林枫在末世苟活三年，结果却被人活活分食。重生回末世到来前一个月，林枫带回空间异能，狂囤物资。缺水？我收了贝加尔湖，你随意。缺油？我直接掏空一座油田！缺粮食物资？我偷了漂亮国几十个仓储中心！住的不安全？我花30亿打造一个钛合金钢铁堡垒！没有武器？我偷了俄国三个军事基地！绿茶表：林枫！你是爱我的！只要你让我住进你家！你让我做什么都可以！富二代：林枫！我出一百亿！你让我给你当狗可以吗！狗吃啥我吃啥！禽兽邻居：林枫！远亲不如近邻！你不应该那么自私！把物资分我们点吧！林枫：你们死不死跟我有什么关系！",
-      "cover": "",
-      "source_url": "https://www.ilwxs.com/info-122061.html",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/info-122061.html"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/info-122061.html"
-      ],
-      "media": "text",
-      "chapter_count": 10,
-      "last_chapter": "第928章 AI世界的规则",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:37:37+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a0285a4b809431899c56",
-        "ext-2ec3dffe316b4444d932"
-      ]
-    },
-    {
-      "id": "ext-f83c668af1a037c74dbb",
-      "title": "我在原始部落当酋长",
-      "author": "西原公子创作，作品我在原始部落当酋长章章动人，乐文小说为你第一时间提供西原公子精",
-      "kind": "首页 > 科幻小说 > 我在原始部落当酋长 > 我在原始部落当酋长章节列表 妹纸",
-      "status": "连载中",
-      "intro": "《我在原始部落当酋长》为作者西原公子创作，作品我在原始部落当酋长章章动人，乐文小说为你第一时间提供西原公子精心编写原创我在原始部落当酋长及无弹窗我在原始部落当酋长全文免费阅读、TXT下载。 简介:关于我在原始部落当酋长：木风，一个历史学者，成了原始部落的大酋长！§历史知识，酋长系统集于一身。§钻木取火、凿冰捕鱼、驯养六畜、张弓捕猎，带你体验原始部落的田园风光！§更有防御工事、领地之战，一样的原始部落，有了我，不一样的崛起之路！",
-      "cover": "https://img.ilwxs.com/16398/107436.jpg",
-      "source_url": "https://www.ilwxs.com/shu/16398/",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/shu/16398/"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/shu/16398/"
-      ],
-      "media": "text",
-      "chapter_count": 1451,
-      "last_chapter": "第1439章 你管这叫误会",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:37:36+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f83c668af1a037c74dbb",
-        "ext-59183cc863ace6d735c5"
-      ]
-    },
-    {
-      "id": "ext-fbb9b0fb34bd99ac3e8f",
-      "title": "穿书废土：修仙我是认真的 作者: 两块板砖",
-      "author": "两块板砖 关于穿书废土：修仙我是认真的： ，女主不圣母，开局结婚，但不恋爱脑。叶",
-      "kind": "首页 > 科幻小说 > 穿书废土：修仙我是认真的 穿书废土：修仙我是认真的 作者",
-      "status": "连载中",
-      "intro": "关于穿书废土：修仙我是认真的： ，女主不圣母，开局结婚，但不恋爱脑。叶敏杀夫证道，激活穿越倒计时！疯狂购物24小时后穿书，成为废土文的炮灰。原主会遇渣男、被家暴？叶敏表示，这事她熟！女儿是女主的对照组、恶毒女配？女主爸还是龙傲天？笑死，姐靠修仙走上人生巅峰，根本不带他们玩！“餐前”提醒：这本书有打怪升级，但前期偏日常向，节奏较慢，女主对男主有养成计划，前期男主很瘦，长大后美绝！绝世美男级别！不拯救世界，但是有家国情怀，女主会把修仙功法上交（很小的一部分）国家，但不会暴露自己。马甲大杀四方，自己过平凡有钱的小日子。PS：作者玻璃心，看不得差评，会删掉哦。看书的亲仔细看看简介呢，有CP，有CP，有CP。女主穿越前是普通人类呢，会心软、会暴躁、会犯错，非完美人设。男主也不日天日地，做不了总统、霸总，除了乖巧贴心外，其他一般人水平哈。厌男厌爱慎入，觉得不好看点叉就行了，不用特意通知我。祝福我们最好从此江湖不见",
-      "cover": "",
-      "source_url": "https://www.ilwxs.com/info-373500.html",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/info-373500.html"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/info-373500.html"
-      ],
-      "media": "text",
-      "chapter_count": 10,
-      "last_chapter": "第457章 夜话",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:37:31+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-fbb9b0fb34bd99ac3e8f",
-        "ext-33fcd8fc7f01fe698e6d"
-      ]
-    },
-    {
-      "id": "ext-8476cbd9079fd9e4a853",
-      "title": "末日，收留女邻居后我无敌了 作者: 森下统领",
-      "author": "森下统领 关于末日，收留女邻居后我无敌了： 末日+囤货+爽文+不圣母+曹贼系统+",
-      "kind": "首页 > 科幻小说 > 末日，收留女邻居后我无敌了 末日，收留女邻居后我无敌了",
-      "status": "连载中",
-      "intro": "关于末日，收留女邻居后我无敌了： 末日+囤货+爽文+不圣母+曹贼系统+搞笑+轻松解压。末日突然到来，从收留女邻居开始，罗仁打造一流安全屋，囤积物资，对敌人杀伐果断，收留女神组建势力，在末日活的十分滋润，毫不利人，专门利己……当别人还为了一颗土豆拼命的时候，罗仁吃着烤肉，喝着红酒，在温暖舒适的房子里，与美女共度良宵！",
-      "cover": "",
-      "source_url": "https://www.ilwxs.com/info-286692.html",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/info-286692.html"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/info-286692.html"
-      ],
-      "media": "text",
-      "chapter_count": 10,
-      "last_chapter": "第233章 拍卖场",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:37:30+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-8476cbd9079fd9e4a853",
-        "ext-a2d61886c7479bcea7f3"
-      ]
-    },
-    {
-      "id": "ext-c328cccdcbc662394256",
-      "title": "小区穿越：我靠无限天赋登顶成神 作者: 凉拌宁",
-      "author": "凉拌宁 关于小区穿越：我靠无限天赋登顶成神： 【无cp】【无限流】【末日求生】【",
-      "kind": "首页 > 科幻小说 > 小区穿越：我靠无限天赋登顶成神 小区穿越：我靠无限天赋登",
-      "status": "连载中",
-      "intro": "关于小区穿越：我靠无限天赋登顶成神： 【无cp】【无限流】【末日求生】【游戏入侵】【种田】【囤货】【基建】苏宁一觉醒来，全球穿越，小区成了新手村。人们获得游戏面板，成为玩家，其他人开局觉醒天赋赛博求生。有人觉醒【强壮】，一拳能打断木桩。有人觉醒【夜视】，从此晚上上厕所不怕遇到怪物。有人觉醒【种植】，立志在花盆里种出救命的土豆。苏宁开局觉醒唯一sss神级【无限天赋】开启开挂之旅。【无限天赋】：每天零点，随机生成两个新天赋，一强一弱，只存当日。【厨艺】+【地图】。别人还在啃发霉面包，她已经用找来的材料做出特殊料理，靠着【地图】方圆几公里内，怪物巢穴、隐藏宝箱……全在脑子里显示，别人还在迷路，她已经开始扫货了。【剑神】+【危险预知】。遇到怪物，别人抱头逃窜，她自动领悟剑术技能，一剑一个怪物，危险预知更是让她提前预知危险。从此，她每天刷新两个新天赋。今天【钢筋铁骨】+【种植大师】，明天【雷系亲和】+【怪物驯化】后天【空气压缩】+【百发百中】……别人拼命肝才获得一个技能，苏宁靠无限天赋体验全职业技能。别人求生苟活，苏宁种田囤货全职业封神。",
-      "cover": "",
-      "source_url": "https://www.ilwxs.com/info-443090.html",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/info-443090.html"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/info-443090.html"
-      ],
-      "media": "text",
-      "chapter_count": 10,
-      "last_chapter": "第240章 开宝箱",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:37:29+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-c328cccdcbc662394256",
-        "ext-2645c023cb8d9fbadeab"
-      ]
-    },
-    {
-      "id": "ext-f9576c4097fec2b57b8e",
-      "title": "星际破烂女王 作者: 柳升升",
-      "author": "柳升升 关于星际破烂女王： 穿越到星际时代的一颗垃圾星上面，季柚穷得都快要刨土吃",
-      "kind": "首页 > 科幻小说 > 星际破烂女王 星际破烂女王 作者: 柳升升 关于星际破烂",
-      "status": "已完结",
-      "intro": "关于星际破烂女王： 穿越到星际时代的一颗垃圾星上面，季柚穷得都快要刨土吃了，可……这里土有毒不能吃……没办法，她只能放低身段去捡捡垃圾，卖卖破烂啥的……比如这么漂亮的草籽果然竟没人要，捡起来车个珠子，能挂网上卖。可一挂上网，就有人打差评：“草籽果都拿来卖，想钱想疯了吧？”数日后，这人就后悔的直捶墙：“跪求卖我一个颗草籽果，就一颗！一颗就好了。”季柚高冷道：“不卖！”再比如，这满大街的破石头，亮晶晶的，竟然没人要，捡起来，打磨成镯子，挂网上卖。众人口出恶言：“破岩石都拿来卖，是没见过钱吧？”数日后，众人痛哭流涕道：“是我有眼无珠，是我眼拙，这么漂亮好看的石头，跪求卖我一个吧。”季柚摊手：“没了。”",
-      "cover": "",
-      "source_url": "https://www.ilwxs.com/info-12163.html",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说",
-        "泡书吧小说网"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/info-12163.html",
-        "https://www.ipaoshubaxs.net/book/18887.html"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/info-12163.html",
-        "https://www.ipaoshubaxs.net/book/18887.html"
-      ],
-      "media": "text",
-      "chapter_count": 10,
-      "last_chapter": "第2992章 串起来",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:37:28+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-f9576c4097fec2b57b8e",
-        "ext-b33770fc1988e1ae07e9",
-        "ext-04d4b67a89450c53b161"
-      ]
-    },
-    {
-      "id": "ext-bac05eb3b95cdce206df",
-      "title": "极寒天灾，我洗劫了最大港口 作者: 那谁家的小谁",
-      "author": "那谁家的小谁 关于极寒天灾，我洗劫了最大港口： 极寒天灾+空间+无系统+无变异+",
-      "kind": "首页 > 科幻小说 > 极寒天灾，我洗劫了最大港口 极寒天灾，我洗劫了最大港口",
-      "status": "连载中",
-      "intro": "关于极寒天灾，我洗劫了最大港口： 极寒天灾+空间+无系统+无变异+无异能+无丧尸地球气候剧变，气温骤降。从冰雪末世穿越回来主角，回到末世来临前半年。上一世意外获得空间技能的他，由于不能熟练运用能力，错过了囤积物资的最佳时期。随着资源耗尽，仅存的幸存者聚集区纷纷凋敝，最终只剩下主角一人，死于孤独与饥饿。这一世的他，提前得知末日即将到来，大量囤积生存物资、打造坚实避难所，做好充分准备。再次重开的他，能否在末世高质量的过完一生？如果吃惯了大餐，想来点小菜调剂一下，可以试试这本。也许会有意外的惊喜。作者第一次尝试写作，水平十分有限，不懂得套路。看的开心，是我的荣幸！看的不开心，也请轻喷，你们说的都对！",
-      "cover": "",
-      "source_url": "https://www.ilwxs.com/info-206198.html",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/info-206198.html"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/info-206198.html"
-      ],
-      "media": "text",
-      "chapter_count": 10,
-      "last_chapter": "第711章 星联地产",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:37:26+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-bac05eb3b95cdce206df",
-        "ext-769a3c25a309e68f8cb5"
-      ]
-    },
-    {
-      "id": "ext-9120232234083883ee25",
-      "title": "末世：开局奴役百万女神 作者: 娱天",
-      "author": "娱天 关于末世：开局奴役百万女神： （末世+重生+系统+召唤流+超多女神+杀伐果",
-      "kind": "首页 > 科幻小说 > 末世：开局奴役百万女神 末世：开局奴役百万女神 作者:",
-      "status": "连载中",
-      "intro": "关于末世：开局奴役百万女神： （末世+重生+系统+召唤流+超多女神+杀伐果断+不圣母+超爽无郁闷）（每个女神和美女都有图片，有图有真相，欢迎加书架追更！）江阳重生末世降临的前一天。身体瘦弱的他，通过觉醒神级召唤系统，绑定诸天万界各大女神，成为她们的主人！精灵女皇：主人战力获得增幅、疯狂回血、伤害减免！魔族公主：召唤亿万魔龙军团、吞噬各种丧尸病毒！审判天使：与主人合体攻击、净化邪恶！仙门圣女：帮助主人吸收能量、协助修炼无敌功法！血族魅魔：提高主人的天赋和魅力、促进血统不断进化！于是，末世史上最伟大的召唤师诞生了，他统帅千娇百媚的女神们攻城掠地、横推一切、打爆末世！前世高高在上的女明星只能跪舔江阳寻求他的庇护；趾高气昂的大嫂乖乖给江阳端茶送水；前女友苏茜苦苦哀求道：“江阳，我继续做你的女朋友好不好？我可以给你做饭、洗脚，还可以……”“你不配！”江阳邪魅一笑，指着房间里的狗笼。“你只配做我的宠物狗！”（简介无力，请看正文，不好看来打作者）",
-      "cover": "",
-      "source_url": "https://www.ilwxs.com/info-272177.html",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/info-272177.html"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/info-272177.html"
-      ],
-      "media": "text",
-      "chapter_count": 10,
-      "last_chapter": "第271章 莫瑶的变化",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:37:23+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-9120232234083883ee25",
-        "ext-06ddf2422306b7222cd5"
-      ]
-    },
-    {
-      "id": "ext-a05276f28a22bd75f51b",
-      "title": "机械飞升，从地球走向宇宙 作者: 道爷慈悲",
-      "author": "道爷慈悲 关于机械飞升，从地球走向宇宙： 天空大裂缝，迷雾充斥天地，各种奇异强大",
-      "kind": "首页 > 科幻小说 > 机械飞升，从地球走向宇宙 机械飞升，从地球走向宇宙 作者",
-      "status": "连载中",
-      "intro": "关于机械飞升，从地球走向宇宙： 天空大裂缝，迷雾充斥天地，各种奇异强大的疫生兽随之出现，肆虐大地。与机器人叛军同归于尽的周澈，被人从地下挖出来后，却发现自己居然变成了机器人。重生为破旧、古董型号的机器人，面对充满敌意、疫生兽以及超凡者的世界，为了生存下去，周澈唯一的选择，就是点亮科技树，成为一个真正的机器人！",
-      "cover": "",
-      "source_url": "https://www.ilwxs.com/info-123370.html",
-      "source_host": "ilwxs.com",
-      "source_name": "乐文小说",
-      "source_names": [
-        "乐文小说"
-      ],
-      "sources": [
-        "https://www.ilwxs.com/info-123370.html"
-      ],
-      "read_sources": [
-        "https://www.ilwxs.com/info-123370.html"
-      ],
-      "media": "text",
-      "chapter_count": 10,
-      "last_chapter": "第545章 会谈",
-      "detail_complete": true,
-      "indexed_at": "2026-09-02T12:37:22+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-a05276f28a22bd75f51b",
-        "ext-8e3129c4e1e47a7ee618"
       ]
     }
   ]
