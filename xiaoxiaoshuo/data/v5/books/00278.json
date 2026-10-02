@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-4da261846fe3ee075663",
+      "title": "王大进: 纪念物",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/11-02-4221.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-4da261846fe3ee075663",
+        "ext-609547972090310671"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/11-02-4221.html"
+      ]
+    },
+    {
+      "id": "ext-094b60192b9d366d2845",
+      "title": "王大进: 同居者",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "https://www.kanunu8.com/images/ar.gif",
+      "source_url": "https://www.kanunu8.com/files/little/2011/11-02-4222.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:30+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-094b60192b9d366d2845",
+        "ext-7501623551976543549"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/files/little/2011/11-02-4222.html"
+      ]
+    },
+    {
       "id": "ext-d91b6336556dad0b6533",
       "title": "流潋紫: 鸭架粥",
       "author": "",
@@ -4990,56 +5040,6 @@
       ],
       "read_sources": [
         "https://www.tadu.com/book/964884"
-      ]
-    },
-    {
-      "id": "ext-ab03df39655fb935fbee",
-      "title": "我怎么就变成了系统 墨玉橙香",
-      "author": "忘川雾",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2022/07/17/08/15/c5e90ffa1dd14d93826f6011a7f1c275.jpg",
-      "source_url": "https://www.tadu.com/book/850229",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:55+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-ab03df39655fb935fbee",
-        "ext-4461919819561669563"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/850229"
-      ]
-    },
-    {
-      "id": "ext-b54600495d5eebabc5dd",
-      "title": "哈利波特之我是死神 一样是明月",
-      "author": "南妖叔",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "https://media3.tadu.com//2021/06/11/13/49/f94ada3ff9f040e79bb984a114cd4040_190_138.jpg",
-      "source_url": "https://www.tadu.com/book/827109",
-      "source_host": "www.tadu.com",
-      "source_name": "塔读文学",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:56:55+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-b54600495d5eebabc5dd",
-        "ext-3335547402372912545"
-      ],
-      "read_sources": [
-        "https://www.tadu.com/book/827109"
       ]
     }
   ]

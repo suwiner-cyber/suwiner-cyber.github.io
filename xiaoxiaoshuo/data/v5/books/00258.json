@@ -1,6 +1,56 @@
 {
   "books": [
     {
+      "id": "ext-44c124f815224c8e0797",
+      "title": "第10章 践行血誓",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/mangjia/450702.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 10,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:16+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-44c124f815224c8e0797",
+        "ext-4824150394681618859"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/mangjia/450702.html"
+      ]
+    },
+    {
+      "id": "ext-bbc44c83e3802e7fce11",
+      "title": "番外一 不惊记忆",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/mangjia/450783.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:16+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-bbc44c83e3802e7fce11",
+        "ext-7726430171394679651"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/mangjia/450783.html"
+      ]
+    },
+    {
       "id": "ext-e6749f11ce56c5eea5ce",
       "title": "大结局 端水大师",
       "author": "",
@@ -4948,56 +4998,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/jianchuqiao/445642.html"
-      ]
-    },
-    {
-      "id": "ext-7deb12715389cd4ccfae",
-      "title": "第136章 因果崖(下)",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/jianchuqiao/445641.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 136,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:15+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-7deb12715389cd4ccfae",
-        "ext-4635712552310301265"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/jianchuqiao/445641.html"
-      ]
-    },
-    {
-      "id": "ext-1424675c6d85caacb7d0",
-      "title": "第135章 因果崖(中)",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/jianchuqiao/445640.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 135,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:15+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1424675c6d85caacb7d0",
-        "ext-8296201356720787926"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/jianchuqiao/445640.html"
       ]
     }
   ]
