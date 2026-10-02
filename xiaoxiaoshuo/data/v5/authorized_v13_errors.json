@@ -1,36 +1,6 @@
 {
-  "generated_at": "2026-10-02T12:50:56+00:00",
+  "generated_at": "2026-10-02T12:52:48+00:00",
   "errors": [
-    {
-      "time": "2026-09-25T12:42:10+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/2207596/",
-      "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "time": "2026-09-25T12:42:10+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/2195518/",
-      "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "time": "2026-09-25T12:42:11+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/2192065/",
-      "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "time": "2026-09-25T12:42:11+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/2179159/",
-      "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "time": "2026-09-25T12:42:12+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/2175943/",
-      "error": "HTTP Error 403: Forbidden"
-    },
     {
       "time": "2026-09-25T12:42:12+00:00",
       "source": "AAAKS小说",
@@ -15000,6 +14970,36 @@
       "source": "塔读文学",
       "url": "https://www.tadu.com/space/author/359048",
       "error": "HTTP Error 404: "
+    },
+    {
+      "time": "2026-10-02T12:52:33+00:00",
+      "source": "努努书坊",
+      "url": "https://www.kanunu8.com/files/little/2024/index.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-10-02T12:52:33+00:00",
+      "source": "努努书坊",
+      "url": "https://www.kanunu8.com/files/little/2012/index.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-10-02T12:52:33+00:00",
+      "source": "努努书坊",
+      "url": "https://www.kanunu8.com/files/little/2012/{?$next_page?}",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-10-02T12:52:33+00:00",
+      "source": "努努书坊",
+      "url": "https://www.kanunu8.com/files/little/2012/{?$preview_page?}",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-10-02T12:52:33+00:00",
+      "source": "努努书坊",
+      "url": "https://www.kanunu8.com/files/little/2012/",
+      "error": "HTTP Error 403: Forbidden"
     }
   ]
 }
