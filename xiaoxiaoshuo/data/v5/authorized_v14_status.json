@@ -1,9 +1,10 @@
 {
   "version": 14,
   "adapter_version": "14.2",
-  "generated_at": "2026-10-03T21:38:09+00:00",
-  "total_books": 60390,
+  "generated_at": "2026-10-03T21:40:16+00:00",
+  "total_books": 60468,
   "source_counts": {
+    "滋味小说网": 6369,
     "言情小说吧": 5670,
     "努努书坊": 10691,
     "塔读文学": 822,
@@ -13,7 +14,6 @@
     "泡书吧小说网": 8585,
     "乐文小说": 8103,
     "飘天文学": 1576,
-    "滋味小说网": 6291,
     "AAAKS小说": 2008
   },
   "all_done": false,
@@ -37,7 +37,7 @@
     "九九藏书网",
     "69书吧"
   ],
-  "last_published_source": "xs8.cn",
+  "last_published_source": "zwxiaoshuo.com",
   "sources": [
     {
       "name": "爱下电子书",
@@ -141,12 +141,12 @@
       "pages_this_run": 80,
       "successful_pages": 80,
       "failed_pages": 0,
-      "books_found": 78,
+      "books_found": 80,
       "books_added": 78,
-      "toc_written": 71,
-      "books_seen_total": 6290,
-      "remaining_queue": 70254,
-      "seen_pages": 10719,
+      "toc_written": 72,
+      "books_seen_total": 6370,
+      "remaining_queue": 70410,
+      "seen_pages": 10799,
       "done": false,
       "blocked": false,
       "needs_adapter": false
