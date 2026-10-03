@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-10-03T21:18:43+00:00",
+  "generated_at": "2026-10-03T21:20:28+00:00",
   "errors": [
-    {
-      "time": "2026-09-26T21:21:30+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/1227178570/",
-      "error": "HTTP Error 403: Forbidden"
-    },
     {
       "time": "2026-09-26T21:21:30+00:00",
       "source": "AAAKS小说",
@@ -14999,6 +14993,12 @@
       "time": "2026-10-03T16:46:18+00:00",
       "source": "努努书坊",
       "url": "https://www.kanunu8.com/book3/7716/index.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-10-03T21:19:18+00:00",
+      "source": "飘天文学",
+      "url": "https://www.piaotia.com/userinfo.php?id=443351",
       "error": "HTTP Error 404: Not Found"
     }
   ]
