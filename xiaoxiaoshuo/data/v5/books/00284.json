@@ -1,6 +1,37 @@
 {
   "books": [
     {
+      "id": "ext-a810df8954c5bea147bb",
+      "title": "第五十三章",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book7/75chyriji/462899.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 0,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:57:49+00:00",
+      "catalog_only": false,
+      "sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462899.html",
+        "https://www.kanunu8.com/book7/dby67/469995.html"
+      ],
+      "read_ids": [
+        "ext-a810df8954c5bea147bb",
+        "ext-3718945289976941907",
+        "ext-0833f1f09ef8ec2c0d3c"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book7/75chyriji/462899.html",
+        "https://www.kanunu8.com/book7/dby67/469995.html"
+      ]
+    },
+    {
       "id": "ext-9f16ec8f941af14652a2",
       "title": "第五十七章",
       "author": "",
@@ -5789,31 +5820,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/75chyriji/463203.html"
-      ]
-    },
-    {
-      "id": "ext-1ff01fe36b6f7f58c03f",
-      "title": "番外六十六",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/75chyriji/463205.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:57:49+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-1ff01fe36b6f7f58c03f",
-        "ext-1830076598516824837"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/75chyriji/463205.html"
       ]
     }
   ]

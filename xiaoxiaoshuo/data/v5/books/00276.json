@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": "ext-8f34b9d9b7333fea5cdd",
+      "title": "第44章 偷偷",
+      "author": "",
+      "kind": "",
+      "status": "",
+      "intro": "",
+      "cover": "",
+      "source_url": "https://www.kanunu8.com/book5/ttcbuzhu/48174.html",
+      "source_host": "www.kanunu8.com",
+      "source_name": "努努书坊",
+      "media": "text",
+      "chapter_count": 1,
+      "last_chapter": "",
+      "detail_complete": false,
+      "indexed_at": "2026-08-29T14:58:06+00:00",
+      "catalog_only": false,
+      "read_ids": [
+        "ext-8f34b9d9b7333fea5cdd",
+        "ext-33505433112574736"
+      ],
+      "read_sources": [
+        "https://www.kanunu8.com/book5/ttcbuzhu/48174.html"
+      ]
+    },
+    {
       "id": "ext-fc9fdbfeacd88efd83cc",
       "title": "第43章 偷偷",
       "author": "",
@@ -5120,31 +5145,6 @@
       ],
       "read_sources": [
         "https://www.kanunu8.com/book7/dbsbfding/436677.html"
-      ]
-    },
-    {
-      "id": "ext-24584377bc36c79a64a8",
-      "title": "第五十章 断尾",
-      "author": "",
-      "kind": "",
-      "status": "",
-      "intro": "",
-      "cover": "",
-      "source_url": "https://www.kanunu8.com/book7/dbsbfding/436722.html",
-      "source_host": "www.kanunu8.com",
-      "source_name": "努努书坊",
-      "media": "text",
-      "chapter_count": 0,
-      "last_chapter": "",
-      "detail_complete": false,
-      "indexed_at": "2026-08-29T14:58:01+00:00",
-      "catalog_only": false,
-      "read_ids": [
-        "ext-24584377bc36c79a64a8",
-        "ext-4292196145957973938"
-      ],
-      "read_sources": [
-        "https://www.kanunu8.com/book7/dbsbfding/436722.html"
       ]
     }
   ]
