@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-10-03T05:23:43+00:00",
+  "generated_at": "2026-10-03T05:25:44+00:00",
   "errors": [
-    {
-      "time": "2026-09-25T18:39:33+00:00",
-      "source": "AAAKS小说",
-      "url": "https://www.aaaks.com/book/137751/",
-      "error": "HTTP Error 403: Forbidden"
-    },
     {
       "time": "2026-09-25T18:39:33+00:00",
       "source": "AAAKS小说",
@@ -15000,6 +14994,12 @@
       "source": "飘天文学",
       "url": "https://www.piaotia.com/userinfo.php?id=426231",
       "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "time": "2026-10-03T05:25:38+00:00",
+      "source": "乐文小说",
+      "url": "https://www.ilwxs.com/author/壹更大师.html",
+      "error": "'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)"
     }
   ]
 }
